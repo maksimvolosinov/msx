@@ -1,0 +1,35 @@
+{
+ "type": "list",
+ "headline": "Liechtenstein (3)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Disney Channel (Germany) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+   "playerLabel": "Disney Channel (Germany) (576p)",
+   "action": "video:https://s6.hopslan.com/disneyX/index.m3u8"
+  },
+  {
+   "title": "NDR Fernsehen International (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
+   "playerLabel": "NDR Fernsehen International (720p)",
+   "action": "video:https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8"
+  },
+  {
+   "title": "Nickelodeon (Germany)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/E84jnP8.png",
+   "playerLabel": "Nickelodeon (Germany)",
+   "action": "video:https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php"
+  }
+ ]
+}

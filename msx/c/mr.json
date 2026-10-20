@@ -1,0 +1,28 @@
+{
+ "type": "list",
+ "headline": "Mauritania (2)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Sahara 24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/pnzWYwT.png",
+   "playerLabel": "Sahara 24 (1080p)",
+   "action": "video:https://live.saharamedias.net:3317/live/shara24live.m3u8"
+  },
+  {
+   "title": "StoryChannel TV (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/ZBV6xph.png",
+   "playerLabel": "StoryChannel TV (720p)",
+   "action": "video:https://136044159.r.cdnsun.net/storychannel.m3u8"
+  }
+ ]
+}

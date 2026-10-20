@@ -1,0 +1,161 @@
+{
+ "type": "list",
+ "headline": "Albania (21)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "AlbKanale Music TV HD (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/JdKxscs.png",
+   "playerLabel": "AlbKanale Music TV HD (1080p)",
+   "action": "video:https://albportal.net/albkanalemusic.m3u8"
+  },
+  {
+   "title": "Alpo TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Pr4ixiA.png",
+   "playerLabel": "Alpo TV",
+   "action": "video:https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8"
+  },
+  {
+   "title": "CNA (Albania) (1080p)",
+   "titleFooter": "News",
+   "image": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
+   "playerLabel": "CNA (Albania) (1080p)",
+   "action": "video:https://live1.mediadesk.al/cnatvlive.m3u8"
+  },
+  {
+   "title": "Cufo",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/GbBHtwD.png",
+   "playerLabel": "Cufo",
+   "action": "video:https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498"
+  },
+  {
+   "title": "Fieri Tv (720p)",
+   "titleFooter": "General",
+   "image": "https://raw.githubusercontent.com/biptv/fieri-tv-logo/main/120.png",
+   "playerLabel": "Fieri Tv (720p)",
+   "action": "video:http://valashop.online:8090/fieritv.m3u8"
+  },
+  {
+   "title": "News 24 (Albania) (392p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/eG33jue.png",
+   "playerLabel": "News 24 (Albania) (392p)",
+   "action": "video:http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8"
+  },
+  {
+   "title": "ntv (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/gtZLzxq.png",
+   "playerLabel": "ntv (720p)",
+   "action": "video:https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8"
+  },
+  {
+   "title": "Ora News (720p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png",
+   "playerLabel": "Ora News (720p)",
+   "action": "video:https://live1.mediadesk.al/oranews.m3u8"
+  },
+  {
+   "title": "Panorama TV",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/960px-Panorama_logo.svg.png",
+   "playerLabel": "Panorama TV",
+   "action": "video:https://159.69.221.56/panorama/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Report TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/C9lM1KP.png",
+   "playerLabel": "Report TV (720p)",
+   "action": "video:https://deb10stream.duckdns.org/hls/stream.m3u8"
+  },
+  {
+   "title": "RTSH 1 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Y8wotC4.png",
+   "playerLabel": "RTSH 1 (1080p)",
+   "action": "video:http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8"
+  },
+  {
+   "title": "RTSH 2 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AZ43XZn.png",
+   "playerLabel": "RTSH 2 (1080p)",
+   "action": "video:http://178.33.11.6:8696/live/rtsh2/playlist.m3u8"
+  },
+  {
+   "title": "RTSH 24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/H6tCoGW.png",
+   "playerLabel": "RTSH 24 (1080p)",
+   "action": "video:http://178.33.11.6:8696/live/rtsh24/playlist.m3u8"
+  },
+  {
+   "title": "RTSH Shqip (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/88kRsW3.png",
+   "playerLabel": "RTSH Shqip (1080p)",
+   "action": "video:http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8"
+  },
+  {
+   "title": "RTSH Sport (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/J6NKXyJ.png",
+   "playerLabel": "RTSH Sport (1080p)",
+   "action": "video:http://178.33.11.6:8696/live/rtshsport/playlist.m3u8"
+  },
+  {
+   "title": "Syri (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/EEHyKdL.jpeg",
+   "playerLabel": "Syri (720p)",
+   "action": "video:https://stream.syritv.al/live/syritv/playlist.m3u8"
+  },
+  {
+   "title": "Tropoja Televizion",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/D3hNOVS.png",
+   "playerLabel": "Tropoja Televizion",
+   "action": "video:https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8"
+  },
+  {
+   "title": "TV 7 Albania",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/tL1n9mh.png",
+   "playerLabel": "TV 7 Albania",
+   "action": "video:https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8"
+  },
+  {
+   "title": "TV Johaniter (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Zo9lJgP.png",
+   "playerLabel": "TV Johaniter (720p)",
+   "action": "video:https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8"
+  },
+  {
+   "title": "Vizion Plus (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/960px-Vizion_Plus.svg.png",
+   "playerLabel": "Vizion Plus (1080p)",
+   "action": "video:https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8"
+  },
+  {
+   "title": "Zjarr TV (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hNuWZWe.png",
+   "playerLabel": "Zjarr TV (360p)",
+   "action": "video:https://zjarr.future.al/hls/playlist.m3u8"
+  }
+ ]
+}

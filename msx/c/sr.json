@@ -1,0 +1,28 @@
+{
+ "type": "list",
+ "headline": "Suriname (2)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Shalom TV (360p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/lJ4MLHn.png",
+   "playerLabel": "Shalom TV (360p)",
+   "action": "video:https://media.streambrothers.com:1936/8400/8400/playlist.m3u8"
+  },
+  {
+   "title": "Trishul Broadcasting Network (720p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/Fhl1dtY.jpg",
+   "playerLabel": "Trishul Broadcasting Network (720p) [Not 24/7]",
+   "action": "video:https://live.suricloud.com/hls/tbntv/index.m3u8"
+  }
+ ]
+}

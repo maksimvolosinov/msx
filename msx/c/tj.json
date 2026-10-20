@@ -1,0 +1,112 @@
+{
+ "type": "list",
+ "headline": "Tajikistan (14)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Badakhshon (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iK6AmkZ.png",
+   "playerLabel": "Badakhshon (576p)",
+   "action": "video:https://live.teleradiocom.tj/11/3m.m3u8"
+  },
+  {
+   "title": "Dushanbe HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WWPIziG.png",
+   "playerLabel": "Dushanbe HD (1080p)",
+   "action": "video:https://live.teleradiocom.tj/7/3m.m3u8"
+  },
+  {
+   "title": "Futbol (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/RngmCDn.png",
+   "playerLabel": "Futbol (1080p)",
+   "action": "video:https://live.teleradiocom.tj/8/3m.m3u8"
+  },
+  {
+   "title": "Ilm va Tabiat (1080p)",
+   "titleFooter": "Science",
+   "image": "https://i.imgur.com/MDULX7X.png",
+   "playerLabel": "Ilm va Tabiat (1080p)",
+   "action": "video:https://live.teleradiocom.tj/15/3m.m3u8"
+  },
+  {
+   "title": "Jahonnamo (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ffqdD8W.png",
+   "playerLabel": "Jahonnamo (1080p)",
+   "action": "video:https://live.teleradiocom.tj/4/3m.m3u8"
+  },
+  {
+   "title": "Khatlon (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/X4xVpBj.png",
+   "playerLabel": "Khatlon (576p)",
+   "action": "video:https://live.teleradiocom.tj/10/3m.m3u8"
+  },
+  {
+   "title": "TMT (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Dg0UkNR.png",
+   "playerLabel": "TMT (1080p)",
+   "action": "video:https://live.teleradiocom.tj/9/3m.m3u8"
+  },
+  {
+   "title": "Tojikiston (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sEXCFNk.png",
+   "playerLabel": "Tojikiston (1080p)",
+   "action": "video:https://live.teleradiocom.tj/1/3m.m3u8"
+  },
+  {
+   "title": "TV Bahoriston (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/Dacai5z.png",
+   "playerLabel": "TV Bahoriston (1080p)",
+   "action": "video:https://live.teleradiocom.tj/3/3m.m3u8"
+  },
+  {
+   "title": "TV Kulob (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AFgEYFp.png",
+   "playerLabel": "TV Kulob (576p)",
+   "action": "video:https://live.teleradiocom.tj/12/3m.m3u8"
+  },
+  {
+   "title": "TV Safina (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Ho2vKZJ.png",
+   "playerLabel": "TV Safina (1080p)",
+   "action": "video:https://live.teleradiocom.tj/2/3m.m3u8"
+  },
+  {
+   "title": "TV Sayohi (1080p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/lAkMrtr.png",
+   "playerLabel": "TV Sayohi (1080p)",
+   "action": "video:https://live.teleradiocom.tj/16/3m.m3u8"
+  },
+  {
+   "title": "TV Sinamo (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/W2qz5a4.png",
+   "playerLabel": "TV Sinamo (1080p)",
+   "action": "video:https://live.teleradiocom.tj/6/3m.m3u8"
+  },
+  {
+   "title": "TV Sugd (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YzkwTHb.png",
+   "playerLabel": "TV Sugd (1080p)",
+   "action": "video:https://live.teleradiocom.tj/14/3m.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "type": "list",
+ "headline": "Burkina Faso (6)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Canal 3 (Burkina Faso)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WIrVAa2.png",
+   "playerLabel": "Canal 3 (Burkina Faso)",
+   "action": "video:https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8"
+  },
+  {
+   "title": "Filinfo TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/KG93Tvn.png",
+   "playerLabel": "Filinfo TV (1080p)",
+   "action": "video:https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8"
+  },
+  {
+   "title": "Impact TV (Burkina Faso)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/nynh5LY.png",
+   "playerLabel": "Impact TV (Burkina Faso)",
+   "action": "video:https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8"
+  },
+  {
+   "title": "RTB (360p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/BFfLV0y.png",
+   "playerLabel": "RTB (360p) [Not 24/7]",
+   "action": "video:https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8"
+  },
+  {
+   "title": "RTB 3",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/OFZm8ic.png",
+   "playerLabel": "RTB 3",
+   "action": "video:https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
+  },
+  {
+   "title": "Savane TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mv3S1Zc.png",
+   "playerLabel": "Savane TV",
+   "action": "video:https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "type": "list",
+ "headline": "Singapore (10)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Channel 5 (Singapore) (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png",
+   "playerLabel": "Channel 5 (Singapore) (720p)",
+   "action": "video:https://cdn.qd.je/163189/ch5"
+  },
+  {
+   "title": "Channel 8 (Singapore) (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/960px-Mediacorp_Channel_8_2023.svg.png",
+   "playerLabel": "Channel 8 (Singapore) (720p)",
+   "action": "video:https://cdn.qd.je/163189/ch8"
+  },
+  {
+   "title": "Channel U (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/960px-Mediacorp_Channel_U_2023.svg.png",
+   "playerLabel": "Channel U (720p)",
+   "action": "video:https://cdn.qd.je/163189/chu"
+  },
+  {
+   "title": "CNA (Singapore) (1080p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/awIDugE.png",
+   "playerLabel": "CNA (Singapore) (1080p) [Geo-blocked]",
+   "action": "video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
+  },
+  {
+   "title": "CNA Originals (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png",
+   "playerLabel": "CNA Originals (1080p)",
+   "action": "video:https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "meWATCH LIVE 1 (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/ppxUDxB.png",
+   "playerLabel": "meWATCH LIVE 1 (1080p)",
+   "action": "video:https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd"
+  },
+  {
+   "title": "NTV7",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jDWR3xI.png",
+   "playerLabel": "NTV7",
+   "action": "video:https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+  },
+  {
+   "title": "RTM ASEAN",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/skAiUxg.png",
+   "playerLabel": "RTM ASEAN",
+   "action": "video:https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+  },
+  {
+   "title": "Suria [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9xWAwzy.png",
+   "playerLabel": "Suria [Geo-blocked]",
+   "action": "video:https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8"
+  },
+  {
+   "title": "TechStorm (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/fAprFBJ.png",
+   "playerLabel": "TechStorm (720p) [Geo-blocked]",
+   "action": "video:https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8"
+  }
+ ]
+}

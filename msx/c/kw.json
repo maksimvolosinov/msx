@@ -1,0 +1,91 @@
+{
+ "type": "list",
+ "headline": "Kuwait (11)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Ch4Teen Documentary (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/pHpFGeg.png",
+   "playerLabel": "Ch4Teen Documentary (1080p)",
+   "action": "video:https://ch14.tv/live/ch4teendoc/playlist.m3u8"
+  },
+  {
+   "title": "KTV 1 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kG0d8Ay.png",
+   "playerLabel": "KTV 1 (1080p)",
+   "action": "video:https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "KTV 2 (1080p)",
+   "titleFooter": "Culture;News",
+   "image": "https://i.imgur.com/hB57mNh.png",
+   "playerLabel": "KTV 2 (1080p)",
+   "action": "video:https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "KTV Al Qurain (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/naVEZtj.png",
+   "playerLabel": "KTV Al Qurain (1080p)",
+   "action": "video:https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "KTV Arabe (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/jg3VAxO.png",
+   "playerLabel": "KTV Arabe (1080p)",
+   "action": "video:https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "KTV Ethraa (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/hqEbc49.png",
+   "playerLabel": "KTV Ethraa (1080p)",
+   "action": "video:https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "KTV News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/erZ0Ol1.png",
+   "playerLabel": "KTV News (1080p)",
+   "action": "video:https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "KTV Sport (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/R1hGX1d.png",
+   "playerLabel": "KTV Sport (1080p)",
+   "action": "video:https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "KTV Sport Plus (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/l4oX0gf.png",
+   "playerLabel": "KTV Sport Plus (1080p)",
+   "action": "video:https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "Marina TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/F2PzEaw.png",
+   "playerLabel": "Marina TV (1080p)",
+   "action": "video:https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8"
+  },
+  {
+   "title": "Ritmu TV",
+   "titleFooter": "Entertainment",
+   "image": "https://play-lh.googleusercontent.com/aO-2614npPjbJny21ljgGDRqfixPUG39uLfXwG-xX6fd2y5sxjp_SR6ty92d9l08yt10",
+   "playerLabel": "Ritmu TV",
+   "action": "video:https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8"
+  }
+ ]
+}

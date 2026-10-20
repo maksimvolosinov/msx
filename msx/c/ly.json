@@ -1,0 +1,42 @@
+{
+ "type": "list",
+ "headline": "Libya (4)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Al Masar TV (576p)",
+   "titleFooter": "News",
+   "image": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+   "playerLabel": "Al Masar TV (576p)",
+   "action": "video:https://starmenajo.com/hls/almasar/index.m3u8"
+  },
+  {
+   "title": "Libya Al Wataniya (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KSUny9D.jpeg",
+   "playerLabel": "Libya Al Wataniya (360p)",
+   "action": "video:https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8"
+  },
+  {
+   "title": "StoryChannel TV (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/ZBV6xph.png",
+   "playerLabel": "StoryChannel TV (720p)",
+   "action": "video:https://136044159.r.cdnsun.net/storychannel.m3u8"
+  },
+  {
+   "title": "Tanasuh TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iBAhM2v.png",
+   "playerLabel": "Tanasuh TV (1080p)",
+   "action": "video:https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8"
+  }
+ ]
+}

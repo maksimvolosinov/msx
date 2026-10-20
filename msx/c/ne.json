@@ -1,0 +1,56 @@
+{
+ "type": "list",
+ "headline": "Niger (6)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Africa TV3 (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/iibE9WL.png",
+   "playerLabel": "Africa TV3 (720p) [Not 24/7]",
+   "action": "video:http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8"
+  },
+  {
+   "title": "Dounia TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ENBCDaQ.png",
+   "playerLabel": "Dounia TV",
+   "action": "video:https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8"
+  },
+  {
+   "title": "Saraounia TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/O8XIcpH.png",
+   "playerLabel": "Saraounia TV",
+   "action": "video:https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8"
+  },
+  {
+   "title": "StoryChannel TV (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/ZBV6xph.png",
+   "playerLabel": "StoryChannel TV (720p)",
+   "action": "video:https://136044159.r.cdnsun.net/storychannel.m3u8"
+  },
+  {
+   "title": "Tal TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/KWMP0t1.png",
+   "playerLabel": "Tal TV (1080p)",
+   "action": "video:https://mediaserver1.castpin.com/hls/taltv/index.m3u8"
+  },
+  {
+   "title": "Tele Sahel (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/vboq428.png",
+   "playerLabel": "Tele Sahel (1080p)",
+   "action": "video:https://mediaserver1.castpin.com/hls/telesahel/index.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "type": "list",
+ "headline": "Azerbaijan (18)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Alvin Channel TV (360p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/m6CM7VU.png",
+   "playerLabel": "Alvin Channel TV (360p) [Not 24/7]",
+   "action": "video:https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8"
+  },
+  {
+   "title": "AnewZ TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Lwgdbuu.png",
+   "playerLabel": "AnewZ TV",
+   "action": "video:https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8"
+  },
+  {
+   "title": "APA Tv (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/2CSW4V4.png",
+   "playerLabel": "APA Tv (1080p)",
+   "action": "video:http://stream.apa.tv/apastream/index.m3u8"
+  },
+  {
+   "title": "Ayaz TV (720p)",
+   "titleFooter": "General",
+   "image": "https://www.ayaztv.com/storage/assets/site_logo.png",
+   "playerLabel": "Ayaz TV (720p)",
+   "action": "video:https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"
+  },
+  {
+   "title": "Az TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/snBMMeH.png",
+   "playerLabel": "Az TV (1080p)",
+   "action": "video:https://str.yodacdn.net/azertv/index.m3u8"
+  },
+  {
+   "title": "Baku.TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/r4FzxSg.png",
+   "playerLabel": "Baku.TV",
+   "action": "video:https://rtmp.baku.tv/hls/bakutv.m3u8"
+  },
+  {
+   "title": "CBC Sport [Geo-blocked]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/3mEdjuq.png",
+   "playerLabel": "CBC Sport [Geo-blocked]",
+   "action": "video:https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8"
+  },
+  {
+   "title": "EL TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/tTlokZ2.png",
+   "playerLabel": "EL TV",
+   "action": "video:https://live.eltv.az/live/eltv/playlist.m3u8"
+  },
+  {
+   "title": "GunAz TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2ZnQazl.png",
+   "playerLabel": "GunAz TV",
+   "action": "video:https://tv.gunaz.tv/hls/live.m3u8"
+  },
+  {
+   "title": "Ictimai TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HzY4VMo.png",
+   "playerLabel": "Ictimai TV",
+   "action": "video:https://live.itv.az/itv.m3u8"
+  },
+  {
+   "title": "Kanal 35 (720p)",
+   "titleFooter": "General",
+   "image": "https://live.ntv.az/kanal35.png",
+   "playerLabel": "Kanal 35 (720p)",
+   "action": "video:https://str2.yodacdn.net/kanal35/index.m3u8"
+  },
+  {
+   "title": "Kanal S",
+   "titleFooter": "General",
+   "image": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png",
+   "playerLabel": "Kanal S",
+   "action": "video:https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8"
+  },
+  {
+   "title": "Kapaz TV",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
+   "playerLabel": "Kapaz TV",
+   "action": "video:http://85.132.78.122:8050/hls/stream/index.m3u8"
+  },
+  {
+   "title": "KN Music TV",
+   "titleFooter": "Music",
+   "image": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
+   "playerLabel": "KN Music TV",
+   "action": "video:https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Medeniyyet TV (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/PlvaDIa.png",
+   "playerLabel": "Medeniyyet TV (1080p)",
+   "action": "video:https://str.yodacdn.net/medeniyyettele/index.m3u8"
+  },
+  {
+   "title": "Naxcivan TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8yLFkdE.png",
+   "playerLabel": "Naxcivan TV (720p)",
+   "action": "video:https://str2.yodacdn.net/ntv/video.m3u8"
+  },
+  {
+   "title": "Vilayet TV",
+   "titleFooter": "General",
+   "image": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
+   "playerLabel": "Vilayet TV",
+   "action": "video:https://nl.livekadeh.com/hls2/vilayet.m3u8"
+  },
+  {
+   "title": "Xezer TV (720p)",
+   "titleFooter": "General",
+   "playerLabel": "Xezer TV (720p)",
+   "action": "video:https://www.xezerxeber.az/stream/index.m3u8"
+  }
+ ]
+}

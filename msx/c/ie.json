@@ -1,0 +1,427 @@
+{
+ "type": "list",
+ "headline": "Ireland (59)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Auction Hunters (Germany) GB",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/4SPOVN7.png",
+   "playerLabel": "Auction Hunters (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8"
+  },
+  {
+   "title": "Avatar (Germany)",
+   "titleFooter": "Animation;Kids;Series",
+   "image": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
+   "playerLabel": "Avatar (Germany)",
+   "action": "video:https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8"
+  },
+  {
+   "title": "BBC Four/CBeebies (720p)",
+   "titleFooter": "Animation;General;Kids",
+   "image": "https://i.imgur.com/aH0PCPy.png",
+   "playerLabel": "BBC Four/CBeebies (720p)",
+   "action": "video:http://193.46.58.239:8080/CbeebiesHD/index.m3u8"
+  },
+  {
+   "title": "BBC Three/CBBC (720p)",
+   "titleFooter": "Animation;Family;Kids",
+   "image": "https://i.imgur.com/CGXC5fp.png",
+   "playerLabel": "BBC Three/CBBC (720p)",
+   "action": "video:http://193.46.58.239:8080/CBBCHD/index.m3u8"
+  },
+  {
+   "title": "Cagney & Lacey",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/6960c5a906d76f50db2816dc/colorLogoPNG_1767949823270.png",
+   "playerLabel": "Cagney & Lacey",
+   "action": "video:https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8"
+  },
+  {
+   "title": "Channel S (United Kingdom) (576p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/hJxFLvF.png",
+   "playerLabel": "Channel S (United Kingdom) (576p)",
+   "action": "video:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
+  },
+  {
+   "title": "CSI: Crime Scene Investigation",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png",
+   "playerLabel": "CSI: Crime Scene Investigation",
+   "action": "video:https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8"
+  },
+  {
+   "title": "Geordie Shore (Germany) GB",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png",
+   "playerLabel": "Geordie Shore (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8"
+  },
+  {
+   "title": "Horse & Country TV (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/1x6zYZr.png",
+   "playerLabel": "Horse & Country TV (1080p)",
+   "action": "video:https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8"
+  },
+  {
+   "title": "Judge Judy (Germany)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png",
+   "playerLabel": "Judge Judy (Germany)",
+   "action": "video:https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8"
+  },
+  {
+   "title": "More TV Crime",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/639b558c73423d00071ce624/colorLogoPNG.png",
+   "playerLabel": "More TV Crime",
+   "action": "video:https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8"
+  },
+  {
+   "title": "More TV Sci-fi",
+   "titleFooter": "Movies;Series",
+   "image": "https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png",
+   "playerLabel": "More TV Sci-fi",
+   "action": "video:https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8"
+  },
+  {
+   "title": "Nickelodeon (United Kingdom) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/E84jnP8.png",
+   "playerLabel": "Nickelodeon (United Kingdom) (576p)",
+   "action": "video:http://tvsen7.aynascope.net/nicklodean/index.m3u8"
+  },
+  {
+   "title": "Oireachtas TV (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/aC4fsCI.png",
+   "playerLabel": "Oireachtas TV (720p)",
+   "action": "video:https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8"
+  },
+  {
+   "title": "Oireachtas TV Committee Room 1 (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/JLYqKC0.jpg",
+   "playerLabel": "Oireachtas TV Committee Room 1 (720p)",
+   "action": "video:https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8"
+  },
+  {
+   "title": "Oireachtas TV Committee Room 2 (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/2Wxx2jK.jpg",
+   "playerLabel": "Oireachtas TV Committee Room 2 (720p)",
+   "action": "video:https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8"
+  },
+  {
+   "title": "Oireachtas TV Committee Room 3 (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/EoAQeg5.jpg",
+   "playerLabel": "Oireachtas TV Committee Room 3 (720p)",
+   "action": "video:https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8"
+  },
+  {
+   "title": "Oireachtas TV Committee Room 4 (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/U9U4rgs.jpg",
+   "playerLabel": "Oireachtas TV Committee Room 4 (720p)",
+   "action": "video:https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8"
+  },
+  {
+   "title": "Oireachtas TV Dail Eireann (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/mexKiS0.jpg",
+   "playerLabel": "Oireachtas TV Dail Eireann (720p)",
+   "action": "video:https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8"
+  },
+  {
+   "title": "Oireachtas TV Seanad Eireann (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/c5TI2DT.jpg",
+   "playerLabel": "Oireachtas TV Seanad Eireann (720p)",
+   "action": "video:https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8"
+  },
+  {
+   "title": "Pluto TV Alien Invasion (Germany)",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Alien Invasion (Germany)",
+   "action": "video:https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8"
+  },
+  {
+   "title": "Pluto TV American True Crime",
+   "titleFooter": "Documentary;Series",
+   "image": "https://images.pluto.tv/channels/692ebafce72f03e07e7df985/colorLogoPNG_1768902223754.png",
+   "playerLabel": "Pluto TV American True Crime",
+   "action": "video:https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8"
+  },
+  {
+   "title": "Pluto TV Animals GB",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Animals GB",
+   "action": "video:https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8"
+  },
+  {
+   "title": "Pluto TV Animation",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Animation",
+   "action": "video:https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8"
+  },
+  {
+   "title": "Pluto TV Britain at War",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/625e8cb585ef320007806caf/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Britain at War",
+   "action": "video:https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8"
+  },
+  {
+   "title": "Pluto TV Classic TV",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Classic TV",
+   "action": "video:https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8"
+  },
+  {
+   "title": "Pluto TV Conspiracy",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/5d4ae94ef1a1bbb350ca41bb/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Conspiracy",
+   "action": "video:https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8"
+  },
+  {
+   "title": "Pluto TV Crime GB",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Crime GB",
+   "action": "video:https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8"
+  },
+  {
+   "title": "Pluto TV Cult Films (Germany)",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Cult Films (Germany)",
+   "action": "video:https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8"
+  },
+  {
+   "title": "Pluto TV Family Movie Club",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Family Movie Club",
+   "action": "video:https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8"
+  },
+  {
+   "title": "Pluto TV Fantasy & Horror",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/685041d936c9361b1921c26c/colorLogoPNG_1753696741486.png",
+   "playerLabel": "Pluto TV Fantasy & Horror",
+   "action": "video:https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8"
+  },
+  {
+   "title": "Pluto TV Food GB",
+   "titleFooter": "Cooking;Documentary",
+   "image": "https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png",
+   "playerLabel": "Pluto TV Food GB",
+   "action": "video:https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8"
+  },
+  {
+   "title": "Pluto TV Investigation",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/63808dc806aa4700075f319a/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Investigation",
+   "action": "video:https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8"
+  },
+  {
+   "title": "Pluto TV Movies GB",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Movies GB",
+   "action": "video:https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8"
+  },
+  {
+   "title": "Pluto TV Paranormal (Germany) GB",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Paranormal (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8"
+  },
+  {
+   "title": "Pluto TV PetrolHeads",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/65a7b0814a10d800085ff2df/colorLogoPNG.png",
+   "playerLabel": "Pluto TV PetrolHeads",
+   "action": "video:https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8"
+  },
+  {
+   "title": "Pluto TV Reality (Germany) GB",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Reality (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8"
+  },
+  {
+   "title": "Pluto TV Retro Toons GB",
+   "titleFooter": "Animation;Kids",
+   "image": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Retro Toons GB",
+   "action": "video:https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8"
+  },
+  {
+   "title": "Pluto TV Sci-Fi (Germany) GB",
+   "titleFooter": "Movies;Series",
+   "image": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Sci-Fi (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8"
+  },
+  {
+   "title": "Pluto TV Sci-fi Series",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Sci-fi Series",
+   "action": "video:https://jmp2.uk/plu-619247c34a270700077c8415.m3u8"
+  },
+  {
+   "title": "Pluto TV Science (Germany) GB",
+   "titleFooter": "Documentary;Science",
+   "image": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Science (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8"
+  },
+  {
+   "title": "Pluto TV Sherlock",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Sherlock",
+   "action": "video:https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8"
+  },
+  {
+   "title": "Pluto TV Sitcoms GB",
+   "titleFooter": "Comedy;Series",
+   "image": "https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Sitcoms GB",
+   "action": "video:https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8"
+  },
+  {
+   "title": "Pluto TV Snooker 900 (Germany) GB (720p)",
+   "titleFooter": "Sports",
+   "image": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+   "playerLabel": "Pluto TV Snooker 900 (Germany) GB (720p)",
+   "action": "video:https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8"
+  },
+  {
+   "title": "Pluto TV Space (Germany) GB",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Space (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8"
+  },
+  {
+   "title": "Pluto TV Thrillers (Germany) GB",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Thrillers (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8"
+  },
+  {
+   "title": "Pluto TV Tough Jobs",
+   "titleFooter": "Documentary;Series",
+   "image": "https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Tough Jobs",
+   "action": "video:https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8"
+  },
+  {
+   "title": "Pluto TV Westerns (Germany)",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Westerns (Germany)",
+   "action": "video:https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8"
+  },
+  {
+   "title": "Sabrina The Teenage Witch",
+   "titleFooter": "Comedy",
+   "image": "https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png",
+   "playerLabel": "Sabrina The Teenage Witch",
+   "action": "video:https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8"
+  },
+  {
+   "title": "Scorpion (Germany)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png",
+   "playerLabel": "Scorpion (Germany)",
+   "action": "video:https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8"
+  },
+  {
+   "title": "South Park (Germany) GB",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
+   "playerLabel": "South Park (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8"
+  },
+  {
+   "title": "Teen Mom (Germany) GB",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
+   "playerLabel": "Teen Mom (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-62d550d81054990007db7798.m3u8"
+  },
+  {
+   "title": "TG4 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/XiAKb4E.png",
+   "playerLabel": "TG4 (1080p)",
+   "action": "video:https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8"
+  },
+  {
+   "title": "The New Detectives (Germany)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png",
+   "playerLabel": "The New Detectives (Germany)",
+   "action": "video:https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8"
+  },
+  {
+   "title": "The Yellow Couch with Jeremy Lynch",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/68e8ffee9d1d49e672fe790f/colorLogoPNG_1761768607111.png",
+   "playerLabel": "The Yellow Couch with Jeremy Lynch",
+   "action": "video:https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8"
+  },
+  {
+   "title": "Totally Turtles (Germany) GB",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
+   "playerLabel": "Totally Turtles (Germany) GB",
+   "action": "video:https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8"
+  },
+  {
+   "title": "Trailers UK (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/RwZ1hCN.png",
+   "playerLabel": "Trailers UK (1080p)",
+   "action": "video:https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8"
+  },
+  {
+   "title": "True Crime (1080p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/LK2NFst.png",
+   "playerLabel": "True Crime (1080p)",
+   "action": "video:https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8"
+  },
+  {
+   "title": "U&Alibi (576p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/uazjv8g.png",
+   "playerLabel": "U&Alibi (576p)",
+   "action": "video:http://92.114.85.72:8000/play/a0bi"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "type": "list",
+ "headline": "Lithuania (12)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Delfi TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/IFoHP5M.png",
+   "playerLabel": "Delfi TV",
+   "action": "video:https://s1.dcdn.lt/live/televizija/playlist.m3u8"
+  },
+  {
+   "title": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
+   "titleFooter": "Movies",
+   "image": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+   "playerLabel": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
+   "action": "video:https://s70378.cdn.ngenix.net/filmbox/index.m3u8"
+  },
+  {
+   "title": "Lietuvos Rytas TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/5wpxVI0.png",
+   "playerLabel": "Lietuvos Rytas TV (1080p)",
+   "action": "video:https://live.lietuvosryto.tv/live/hls/eteris.m3u8"
+  },
+  {
+   "title": "LRT Klasika (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Fa8Vhu0.png",
+   "playerLabel": "LRT Klasika (1080p)",
+   "action": "video:https://stream-live.lrt.lt/klasika/master.m3u8"
+  },
+  {
+   "title": "LRT Lituanica (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/960px-LRT_Lituanica_Logo_2022.svg.png",
+   "playerLabel": "LRT Lituanica (1080p) [Geo-blocked]",
+   "action": "video:https://stream-live.lrt.lt/lituanica/master.m3u8"
+  },
+  {
+   "title": "LRT Opus (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/oLuZTMH.png",
+   "playerLabel": "LRT Opus (1080p)",
+   "action": "video:https://stream-live.lrt.lt/opus/master.m3u8"
+  },
+  {
+   "title": "LRT Plius (1080p)",
+   "titleFooter": "Culture;Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png",
+   "playerLabel": "LRT Plius (1080p)",
+   "action": "video:http://stream.mcquack.net/353/index.m3u8"
+  },
+  {
+   "title": "LRT Radijas (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/gYoaqju.png",
+   "playerLabel": "LRT Radijas (1080p)",
+   "action": "video:https://stream-live.lrt.lt/radijas/master.m3u8"
+  },
+  {
+   "title": "M-1 (480p)",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/gb4NmNHT/M1-2025.png",
+   "playerLabel": "M-1 (480p)",
+   "action": "video:https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8"
+  },
+  {
+   "title": "OTV (Estonia)",
+   "titleFooter": "Entertainment",
+   "image": "https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg",
+   "playerLabel": "OTV (Estonia)",
+   "action": "video:http://88.212.15.17/live/otv/playlist.m3u8"
+  },
+  {
+   "title": "Power Hit Radio (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/GOlQbfC.png",
+   "playerLabel": "Power Hit Radio (576p)",
+   "action": "video:https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8"
+  },
+  {
+   "title": "Viasat Kino Action (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/HwsNIDK.png",
+   "playerLabel": "Viasat Kino Action (576p)",
+   "action": "video:http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8"
+  }
+ ]
+}

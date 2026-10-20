@@ -1,0 +1,461 @@
+{
+ "type": "list",
+ "headline": "Czech Republic (64)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Animal Planet (Czech Republic)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/5/5c/Animal_Planet_2018_%28Vertical%29.svg/revision/latest?cb=20190715124953",
+   "playerLabel": "Animal Planet (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8"
+  },
+  {
+   "title": "Barrandov Krimi (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png",
+   "playerLabel": "Barrandov Krimi (1080p)",
+   "action": "video:https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8"
+  },
+  {
+   "title": "BBC Earth Czechia",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/nGSsUd4.png",
+   "playerLabel": "BBC Earth Czechia",
+   "action": "video:http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8"
+  },
+  {
+   "title": "Canal+ Action Europe Czechia",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
+   "playerLabel": "Canal+ Action Europe Czechia",
+   "action": "video:http://46.149.191.219:9106/play/a01g"
+  },
+  {
+   "title": "Cartoon Network CEE Czech Republic",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+   "playerLabel": "Cartoon Network CEE Czech Republic",
+   "action": "video:http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8"
+  },
+  {
+   "title": "Cartoonito CEE Czechia",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/9MrzLb1.png",
+   "playerLabel": "Cartoonito CEE Czechia",
+   "action": "video:http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8"
+  },
+  {
+   "title": "CNN Prima News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/elZyUjX.png",
+   "playerLabel": "CNN Prima News (1080p)",
+   "action": "video:http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8"
+  },
+  {
+   "title": "CT Decko (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
+   "playerLabel": "CT Decko (1080p)",
+   "action": "video:http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8"
+  },
+  {
+   "title": "CT Sport (720p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png",
+   "playerLabel": "CT Sport (720p)",
+   "action": "video:http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8"
+  },
+  {
+   "title": "CT1",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png",
+   "playerLabel": "CT1",
+   "action": "video:http://88.212.15.17/live/test_ct1_25p/playlist.m3u8"
+  },
+  {
+   "title": "CT2",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
+   "playerLabel": "CT2",
+   "action": "video:http://88.212.15.17/live/test_ct2_25p/playlist.m3u8"
+  },
+  {
+   "title": "CT24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png",
+   "playerLabel": "CT24 (1080p)",
+   "action": "video:http://88.212.15.17/live/test_ct24_hevc/playlist.m3u8"
+  },
+  {
+   "title": "Discovery Channel (Czech Republic)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/2/27/Discovery_Channel_2019_symbol.svg/revision/latest?cb=20210804150956",
+   "playerLabel": "Discovery Channel (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8"
+  },
+  {
+   "title": "Disney Channel (Czech Republic)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+   "playerLabel": "Disney Channel (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_disney/playlist.m3u8"
+  },
+  {
+   "title": "Elektrika TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OLd5od5.png",
+   "playerLabel": "Elektrika TV (1080p)",
+   "action": "video:https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Food Network (Czech Republic)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest?cb=20171221110545",
+   "playerLabel": "Food Network (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_food_network_atk_tv/playlist.m3u8"
+  },
+  {
+   "title": "Golf Channel",
+   "titleFooter": "Sports",
+   "image": "https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png",
+   "playerLabel": "Golf Channel",
+   "action": "video:https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8"
+  },
+  {
+   "title": "HAHA TV",
+   "titleFooter": "Comedy",
+   "playerLabel": "HAHA TV",
+   "action": "video:https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8"
+  },
+  {
+   "title": "HBO (Czech Republic)",
+   "titleFooter": "Movies",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924",
+   "playerLabel": "HBO (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8"
+  },
+  {
+   "title": "HBO 2 (Czech Republic)",
+   "titleFooter": "Movies",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226",
+   "playerLabel": "HBO 2 (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8"
+  },
+  {
+   "title": "HBO 3 (Czech Republic)",
+   "titleFooter": "Movies",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202",
+   "playerLabel": "HBO 3 (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8"
+  },
+  {
+   "title": "HGTV (Czech Republic)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/8/8e/HGTV_2015_Purple.svg/revision/latest?cb=20170704124303",
+   "playerLabel": "HGTV (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8"
+  },
+  {
+   "title": "Investigation Discovery (Czech Republic)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/0/01/ID_%28Print%29.svg/revision/latest?cb=20210101125600",
+   "playerLabel": "Investigation Discovery (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8"
+  },
+  {
+   "title": "JC1 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AM8YtcV.png",
+   "playerLabel": "JC1 (1080p)",
+   "action": "video:https://stream.jc1.cz/hls/jc1.m3u8"
+  },
+  {
+   "title": "Jihoceska televize (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Hi8hZzl.png",
+   "playerLabel": "Jihoceska televize (1080p)",
+   "action": "video:https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8"
+  },
+  {
+   "title": "Minimax CEE (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/WWOlm1x.png",
+   "playerLabel": "Minimax CEE (576p)",
+   "action": "video:http://88.212.15.17/live/test_minimax/playlist.m3u8"
+  },
+  {
+   "title": "Mnau TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/deVHJKS.png",
+   "playerLabel": "Mnau TV (1080p)",
+   "action": "video:https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Music Box 80s (1080p)",
+   "titleFooter": "Music",
+   "image": "https://musicboxtv.net/logo_music_box_80s.png",
+   "playerLabel": "Music Box 80s (1080p)",
+   "action": "video:http://57.128.231.171:8080/229/index.m3u8"
+  },
+  {
+   "title": "Music Box Classic",
+   "titleFooter": "Music",
+   "image": "https://musicboxclassic.com/music_box_classic_logo.png",
+   "playerLabel": "Music Box Classic",
+   "action": "video:http://88.212.15.17/live/mb_classic/index.m3u8"
+  },
+  {
+   "title": "Music Box Dance",
+   "titleFooter": "Music",
+   "image": "https://musicboxdance.com/music_box_dance_logo.png",
+   "playerLabel": "Music Box Dance",
+   "action": "video:http://88.212.15.17/live/mb_dance/index.m3u8"
+  },
+  {
+   "title": "Music Box Hits",
+   "titleFooter": "Music",
+   "image": "https://musicboxhits.com/music_box_hits_logo.png",
+   "playerLabel": "Music Box Hits",
+   "action": "video:http://88.212.15.17/live/mb_hits/index.m3u8"
+  },
+  {
+   "title": "Music Box Sexy",
+   "titleFooter": "Music",
+   "image": "https://musicboxsexy.com/music_box_sexy_logo.png",
+   "playerLabel": "Music Box Sexy",
+   "action": "video:http://88.212.15.17/live/mb_sexy/index.m3u8"
+  },
+  {
+   "title": "Nicktoons (Czech Republic)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+   "playerLabel": "Nicktoons (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_nicktoons/playlist.m3u8"
+  },
+  {
+   "title": "Ocko (540p)",
+   "titleFooter": "Music",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
+   "playerLabel": "Ocko (540p)",
+   "action": "video:https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
+  },
+  {
+   "title": "Ocko Black",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/5rw9tWy.png",
+   "playerLabel": "Ocko Black",
+   "action": "video:https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8"
+  },
+  {
+   "title": "Ocko Expres (540p)",
+   "titleFooter": "Music",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png",
+   "playerLabel": "Ocko Expres (540p)",
+   "action": "video:https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8"
+  },
+  {
+   "title": "Ocko Gold (540p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/nrWNyLc.jpg",
+   "playerLabel": "Ocko Gold (540p)",
+   "action": "video:https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8"
+  },
+  {
+   "title": "Ocko Star",
+   "titleFooter": "Music",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png",
+   "playerLabel": "Ocko Star",
+   "action": "video:https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8"
+  },
+  {
+   "title": "Plzen TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TxLKSqL.png",
+   "playerLabel": "Plzen TV (1080p)",
+   "action": "video:https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
+  },
+  {
+   "title": "Polar TV (Czech Republic) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pTJHIX1.png",
+   "playerLabel": "Polar TV (Czech Republic) (1080p)",
+   "action": "video:https://stream.polar.cz/polar/polarlive-1/playlist.m3u8"
+  },
+  {
+   "title": "Prima (Czech Republic) (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png",
+   "playerLabel": "Prima (Czech Republic) (1080p)",
+   "action": "video:http://88.212.15.17/live/prima_avc_25p/playlist.m3u8"
+  },
+  {
+   "title": "Prima Cool",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png",
+   "playerLabel": "Prima Cool",
+   "action": "video:http://88.212.15.17/live/prima_cool_cz_avc/index.m3u8"
+  },
+  {
+   "title": "Prima Love",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png",
+   "playerLabel": "Prima Love",
+   "action": "video:http://88.212.15.17/live/prima_love_cz_avc/index.m3u8"
+  },
+  {
+   "title": "Prima Show (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/XbwAwkp.png",
+   "playerLabel": "Prima Show (1080p)",
+   "action": "video:http://88.212.15.17/live/test_prima_show_hevc_25p/playlist.m3u8"
+  },
+  {
+   "title": "Prima Star (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ppqgNDA.png",
+   "playerLabel": "Prima Star (1080p)",
+   "action": "video:http://88.212.15.17/live/test_prima_star_hevc_25p/playlist.m3u8"
+  },
+  {
+   "title": "Prima Zoom (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/uNJqZ6p.png",
+   "playerLabel": "Prima Zoom (1080p)",
+   "action": "video:http://88.212.15.17/live/prima_zoom_avc_25p/playlist.m3u8"
+  },
+  {
+   "title": "Retro Music TV (360p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/pyOjdZs.png",
+   "playerLabel": "Retro Music TV (360p)",
+   "action": "video:https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+  },
+  {
+   "title": "RTM+ (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/RNdcP2J.png",
+   "playerLabel": "RTM+ (720p) [Not 24/7]",
+   "action": "video:https://www.rtmplus.cz/live/1-playlist.m3u8"
+  },
+  {
+   "title": "Slager Muzika",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/hKdXwrW.png",
+   "playerLabel": "Slager Muzika",
+   "action": "video:https://stream-23.mazana.tv/slagrmuzika.m3u8s"
+  },
+  {
+   "title": "Slager Original",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/0YjeWcq.png",
+   "playerLabel": "Slager Original",
+   "action": "video:https://stream-13.mazana.tv/slagroriginal.m3u8s"
+  },
+  {
+   "title": "Spektrum (Czech Republic)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/F5Uosum.png",
+   "playerLabel": "Spektrum (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_spektrum/playlist.m3u8"
+  },
+  {
+   "title": "Spektrum Home (Czech Republic)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/VaVi65F.png",
+   "playerLabel": "Spektrum Home (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_home_hevc/playlist.m3u8"
+  },
+  {
+   "title": "Sporty TV",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/Wz5bQKx.jpeg",
+   "playerLabel": "Sporty TV",
+   "action": "video:https://dash2.antik.sk/live/sporty_tv/index.m3u8"
+  },
+  {
+   "title": "Televize Seznam (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/TpQ8PRb.png",
+   "playerLabel": "Televize Seznam (1080p)",
+   "action": "video:http://88.212.15.17/live/test_seznam_hevc_25p/playlist.m3u8"
+  },
+  {
+   "title": "TLC (Czech Republic)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest?cb=20220703193228",
+   "playerLabel": "TLC (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8"
+  },
+  {
+   "title": "Travel Channel (Czech Republic)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/dreamlogos/images/e/e4/Travel_Channel_International_%282017%29.svg/revision/latest?cb=20250820081027",
+   "playerLabel": "Travel Channel (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_travel_channel_hd_hevc/playlist.m3u8"
+  },
+  {
+   "title": "TV Brno 1 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8Xm3WSn.png",
+   "playerLabel": "TV Brno 1 (1080p)",
+   "action": "video:https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8"
+  },
+  {
+   "title": "TV Noe (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/500px-Noe-logo-2016.png",
+   "playerLabel": "TV Noe (720p) [Geo-blocked]",
+   "action": "video:https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8"
+  },
+  {
+   "title": "TV Noe+ (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/p4FtFUl.png",
+   "playerLabel": "TV Noe+ (720p) [Geo-blocked]",
+   "action": "video:https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8"
+  },
+  {
+   "title": "Up Network",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/cwlHDjh.png",
+   "playerLabel": "Up Network",
+   "action": "video:https://dash.antik.sk/live/test_upnetwork/playlist.m3u8"
+  },
+  {
+   "title": "UTV (Czech Republic) (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ulfeIwM.png",
+   "playerLabel": "UTV (Czech Republic) (1080p)",
+   "action": "video:https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8"
+  },
+  {
+   "title": "Vychodoceska TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/4Wwptd3.png",
+   "playerLabel": "Vychodoceska TV (1080p)",
+   "action": "video:https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8"
+  },
+  {
+   "title": "Warner TV",
+   "titleFooter": "Movies",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400",
+   "playerLabel": "Warner TV",
+   "action": "video:http://88.212.15.17/live/warner_tv/index.m3u8"
+  },
+  {
+   "title": "Yachting TV (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/YxO60B1.png",
+   "playerLabel": "Yachting TV (1080p)",
+   "action": "video:https://streams2.sofast.tv/vglive-sk-461164/index.m3u8"
+  }
+ ]
+}

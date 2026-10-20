@@ -1,0 +1,665 @@
+{
+ "type": "list",
+ "headline": "Venezuela (93)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Aguacate TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+   "playerLabel": "Aguacate TV (1080p)",
+   "action": "video:https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+  },
+  {
+   "title": "Alcance TV (Venezuela) (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/veeuqS1.png",
+   "playerLabel": "Alcance TV (Venezuela) (720p)",
+   "action": "video:https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8"
+  },
+  {
+   "title": "ANTV (Venezuela) (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/Qm88HT0.png",
+   "playerLabel": "ANTV (Venezuela) (720p)",
+   "action": "video:http://181.78.8.199:8000/play/a0fo/index.m3u8"
+  },
+  {
+   "title": "Anzoategui TV (360p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SLqrEOz.png",
+   "playerLabel": "Anzoategui TV (360p) [Not 24/7]",
+   "action": "video:https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+  },
+  {
+   "title": "AS3 Sport TV (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
+   "playerLabel": "AS3 Sport TV (1080p)",
+   "action": "video:https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+  },
+  {
+   "title": "Audaz TV (432p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/QtCgtZq.jpg",
+   "playerLabel": "Audaz TV (432p) [Not 24/7]",
+   "action": "video:https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
+  },
+  {
+   "title": "Barinas TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png",
+   "playerLabel": "Barinas TV (720p) [Not 24/7]",
+   "action": "video:https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8"
+  },
+  {
+   "title": "BTA TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/vygOosC.png",
+   "playerLabel": "BTA TV (720p)",
+   "action": "video:https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+  },
+  {
+   "title": "Canal 21 Tachira (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7Tb7CF4.jpg",
+   "playerLabel": "Canal 21 Tachira (360p)",
+   "action": "video:https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
+  },
+  {
+   "title": "Canal Diplomatico",
+   "titleFooter": "Culture",
+   "image": "https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png",
+   "playerLabel": "Canal Diplomatico",
+   "action": "video:https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
+  },
+  {
+   "title": "Canal I (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/vKfOavW.png",
+   "playerLabel": "Canal I (1080p)",
+   "action": "video:https://streaming.canal-i.com/canal-i/live/master.m3u8"
+  },
+  {
+   "title": "Cartoon Network Latin America North Atlantic (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+   "playerLabel": "Cartoon Network Latin America North Atlantic (1080p)",
+   "action": "video:http://38.252.238.18:8000/play/a053/index.m3u8"
+  },
+  {
+   "title": "Catatumbo TV (406p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/LBI2la0.png",
+   "playerLabel": "Catatumbo TV (406p)",
+   "action": "video:https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+  },
+  {
+   "title": "Cinecanal (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+   "playerLabel": "Cinecanal (1080p)",
+   "action": "video:http://15.204.246.24:8080/CinecanalHD/index.m3u8"
+  },
+  {
+   "title": "Comedy Central Latin America (1080p)",
+   "titleFooter": "Comedy",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+   "playerLabel": "Comedy Central Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
+  },
+  {
+   "title": "Diaspora TV",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/lppmyxD.png",
+   "playerLabel": "Diaspora TV",
+   "action": "video:https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/DisneyHD/index.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America Center (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America Center (1080p)",
+   "action": "video:http://181.78.8.199:8000/play/a0dn/index.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America Panregional HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America Panregional HD (1080p)",
+   "action": "video:http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America (1080p)",
+   "action": "video:http://190.14.10.19:16000/play/a02d/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America North HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America North HD (1080p)",
+   "action": "video:http://181.78.14.26:4000/play/a073/index.m3u8"
+  },
+  {
+   "title": "ESPN 3 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+   "playerLabel": "ESPN 3 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8"
+  },
+  {
+   "title": "ESPN 4 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+   "playerLabel": "ESPN 4 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
+  },
+  {
+   "title": "ESPN 5 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 5 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
+  },
+  {
+   "title": "ESPN 6 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 6 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
+  },
+  {
+   "title": "ESPN 7 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 7 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8"
+  },
+  {
+   "title": "ESPN Latin America Colombia (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN Latin America Colombia (1080p)",
+   "action": "video:http://190.61.47.54:8000/play/a004/index.m3u8"
+  },
+  {
+   "title": "EXC TV (720p) [Not 24/7]",
+   "titleFooter": "Science",
+   "image": "https://i.imgur.com/Znd1Ml9.png",
+   "playerLabel": "EXC TV (720p) [Not 24/7]",
+   "action": "video:https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
+  },
+  {
+   "title": "FX Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+   "playerLabel": "FX Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/FXHD/index.m3u8"
+  },
+  {
+   "title": "GlobalTV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://imgur.com/hzM9D9L.jpg",
+   "playerLabel": "GlobalTV (480p) [Not 24/7]",
+   "action": "video:https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
+  },
+  {
+   "title": "Globovision (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/v6nRdxQ.png",
+   "playerLabel": "Globovision (576p)",
+   "action": "video:http://181.78.8.199:8000/play/a09k/index.m3u8"
+  },
+  {
+   "title": "Grande TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jxCirrP.png",
+   "playerLabel": "Grande TV",
+   "action": "video:https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
+  },
+  {
+   "title": "Guaro TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
+   "playerLabel": "Guaro TV (720p)",
+   "action": "video:https://stream.guarotv.net:3592/hybrid/play.m3u8"
+  },
+  {
+   "title": "Inter TV (Venezuela) (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
+   "playerLabel": "Inter TV (Venezuela) (1080p)",
+   "action": "video:https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
+  },
+  {
+   "title": "Isla TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/l11Ixhi.jpeg",
+   "playerLabel": "Isla TV (480p)",
+   "action": "video:https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
+  },
+  {
+   "title": "Italianissimo (360p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/JCpbUZB.png",
+   "playerLabel": "Italianissimo (360p) [Not 24/7]",
+   "action": "video:https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8"
+  },
+  {
+   "title": "KandelaTV (480p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/cCFxyIp.jpg",
+   "playerLabel": "KandelaTV (480p)",
+   "action": "video:https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
+  },
+  {
+   "title": "La Tele Tuya (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png",
+   "playerLabel": "La Tele Tuya (576p)",
+   "action": "video:http://181.78.8.199:8000/play/a0fs/index.m3u8"
+  },
+  {
+   "title": "LaPuraCrema Television",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/EJf1eRt.png",
+   "playerLabel": "LaPuraCrema Television",
+   "action": "video:https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8"
+  },
+  {
+   "title": "Lara en Redes",
+   "titleFooter": "Entertainment",
+   "image": "https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg",
+   "playerLabel": "Lara en Redes",
+   "action": "video:https://streamtv.laraenredes.com:3020/hybrid/play.m3u8"
+  },
+  {
+   "title": "Latina TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1",
+   "playerLabel": "Latina TV (1080p)",
+   "action": "video:https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8"
+  },
+  {
+   "title": "LGD Television (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/a9E0DTY.jpeg",
+   "playerLabel": "LGD Television (720p)",
+   "action": "video:https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8"
+  },
+  {
+   "title": "Mas Talk (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/unE2LGz.jpg",
+   "playerLabel": "Mas Talk (1080p)",
+   "action": "video:https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8"
+  },
+  {
+   "title": "Maxima TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/HMZRVL5.jpeg",
+   "playerLabel": "Maxima TV",
+   "action": "video:https://maximatv.net/hls/stream.m3u8"
+  },
+  {
+   "title": "Meridiano TV (576p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/I6gsUqD.png",
+   "playerLabel": "Meridiano TV (576p)",
+   "action": "video:http://181.78.8.199:8000/play/a0fr/index.m3u8"
+  },
+  {
+   "title": "Monagas Vision (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yfgTa2d.png",
+   "playerLabel": "Monagas Vision (720p) [Not 24/7]",
+   "action": "video:https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8"
+  },
+  {
+   "title": "MTV Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+   "playerLabel": "MTV Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/MTVHD/index.m3u8"
+  },
+  {
+   "title": "Nickelodeon Latin America (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/E84jnP8.png",
+   "playerLabel": "Nickelodeon Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/NickHD/index.m3u8"
+  },
+  {
+   "title": "Nortena Tv (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
+   "playerLabel": "Nortena Tv (576p)",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
+  },
+  {
+   "title": "Oasis Television (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TEr1U90.png",
+   "playerLabel": "Oasis Television (720p) [Not 24/7]",
+   "action": "video:http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8"
+  },
+  {
+   "title": "Onza TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/usrP6T2.png",
+   "playerLabel": "Onza TV (720p)",
+   "action": "video:https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8"
+  },
+  {
+   "title": "Oxigeno TV (360p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/n3PweBQ.png",
+   "playerLabel": "Oxigeno TV (360p) [Not 24/7]",
+   "action": "video:https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8"
+  },
+  {
+   "title": "Portuguesa Television (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jHUSfGz.png",
+   "playerLabel": "Portuguesa Television (480p) [Not 24/7]",
+   "action": "video:https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
+  },
+  {
+   "title": "Proclamacion TV [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/8dt7awY.jpeg",
+   "playerLabel": "Proclamacion TV [Not 24/7]",
+   "action": "video:https://video2.getstreamhosting.com:19360/8000/8000.m3u8"
+  },
+  {
+   "title": "PromarTV (576p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png",
+   "playerLabel": "PromarTV (576p)",
+   "action": "video:https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
+  },
+  {
+   "title": "Reforma TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/iZMDddR.png",
+   "playerLabel": "Reforma TV (1080p)",
+   "action": "video:https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
+  },
+  {
+   "title": "ShowVen TV (720p)",
+   "titleFooter": "Culture;Music",
+   "image": "https://i.imgur.com/AJIN8Dc.png",
+   "playerLabel": "ShowVen TV (720p)",
+   "action": "video:https://cdnbarinas.tvzamora.com/showven/index.m3u8"
+  },
+  {
+   "title": "Siembra TV (Venezuela) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zRX91Xr.png",
+   "playerLabel": "Siembra TV (Venezuela) [Not 24/7]",
+   "action": "video:https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
+  },
+  {
+   "title": "Somos TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jOroeJZ.png",
+   "playerLabel": "Somos TV (720p) [Not 24/7]",
+   "action": "video:https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
+  },
+  {
+   "title": "Star Channel Latin America (1080p)",
+   "titleFooter": "Movies;Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+   "playerLabel": "Star Channel Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/STARCHANNELHD/index.m3u8"
+  },
+  {
+   "title": "Studio Universal Latin America (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
+   "playerLabel": "Studio Universal Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/StudioUniversalHD/index.m3u8"
+  },
+  {
+   "title": "Sun Channel (720p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/B26qL3e.png",
+   "playerLabel": "Sun Channel (720p)",
+   "action": "video:http://168.196.127.137:6001/play/a06p/index.m3u8"
+  },
+  {
+   "title": "TAM TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
+   "playerLabel": "TAM TV",
+   "action": "video:https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
+  },
+  {
+   "title": "TeleAragua (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jPzcb2S.png",
+   "playerLabel": "TeleAragua (480p)",
+   "action": "video:http://45.173.198.59:8080/hls/nginx3.m3u8?tla="
+  },
+  {
+   "title": "Telebocono (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YDE4Jsi.jpg",
+   "playerLabel": "Telebocono (720p) [Not 24/7]",
+   "action": "video:https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
+  },
+  {
+   "title": "Telecentro (Venezuela) (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QtRNfaj.png",
+   "playerLabel": "Telecentro (Venezuela) (480p) [Not 24/7]",
+   "action": "video:https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8"
+  },
+  {
+   "title": "Telesur (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/P50VjRX.png",
+   "playerLabel": "Telesur (1080p)",
+   "action": "video:http://181.78.211.244:8005/play/a0cc/index.m3u8"
+  },
+  {
+   "title": "Telesur English (480p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/P50VjRX.png",
+   "playerLabel": "Telesur English (480p)",
+   "action": "video:https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
+  },
+  {
+   "title": "Telesur English HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/P50VjRX.png",
+   "playerLabel": "Telesur English HD (1080p)",
+   "action": "video:https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8"
+  },
+  {
+   "title": "Telesur HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/P50VjRX.png",
+   "playerLabel": "Telesur HD (1080p)",
+   "action": "video:https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+  },
+  {
+   "title": "Televen (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/cxvkUvK.png",
+   "playerLabel": "Televen (1080p)",
+   "action": "video:http://38.134.250.110:8000/play/a02i/index.m3u8"
+  },
+  {
+   "title": "Televisora de Oriente (406p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wFC6Xxq.png",
+   "playerLabel": "Televisora de Oriente (406p)",
+   "action": "video:https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
+  },
+  {
+   "title": "TLC Latin America (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+   "playerLabel": "TLC Latin America (1080p)",
+   "action": "video:http://38.134.250.110:8000/play/a00n/index.m3u8"
+  },
+  {
+   "title": "TNO Radio (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png",
+   "playerLabel": "TNO Radio (720p)",
+   "action": "video:https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8"
+  },
+  {
+   "title": "TNT Latin America (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+   "playerLabel": "TNT Latin America (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a03i/index.m3u8"
+  },
+  {
+   "title": "TNT Series Latin America (1080p)",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+   "playerLabel": "TNT Series Latin America (1080p)",
+   "action": "video:http://168.196.127.137:6001/play/a095/index.m3u8"
+  },
+  {
+   "title": "Torococo TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
+   "playerLabel": "Torococo TV (720p) [Not 24/7]",
+   "action": "video:https://us.streaminghd.cl/torococotelevision/video.m3u8"
+  },
+  {
+   "title": "TRT (Venezuela) (410p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
+   "playerLabel": "TRT (Venezuela) (410p) [Not 24/7]",
+   "action": "video:https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+  },
+  {
+   "title": "Tu TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OBEmXQF.png",
+   "playerLabel": "Tu TV (720p)",
+   "action": "video:https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8"
+  },
+  {
+   "title": "TV Andes (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/c1YHQ8K/tvandes.png",
+   "playerLabel": "TV Andes (720p) [Not 24/7]",
+   "action": "video:https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8"
+  },
+  {
+   "title": "TV Familia (720p)",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/A3bU5e7.png",
+   "playerLabel": "TV Familia (720p)",
+   "action": "video:https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8"
+  },
+  {
+   "title": "TV Oasis Monay (1080i)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hwd7osJ.jpeg",
+   "playerLabel": "TV Oasis Monay (1080i)",
+   "action": "video:https://live.teve.pro/live/tvoasis/index.m3u8"
+  },
+  {
+   "title": "TVes (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QX5DVUB.png",
+   "playerLabel": "TVes (1080p)",
+   "action": "video:https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8"
+  },
+  {
+   "title": "TVM para ti (1080p)",
+   "titleFooter": "General",
+   "image": "https://intervenhosting.net/imagenes/tvmparati.jpg",
+   "playerLabel": "TVM para ti (1080p)",
+   "action": "video:https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
+  },
+  {
+   "title": "TVS (Venezuela) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/J8ztiAN.png",
+   "playerLabel": "TVS (Venezuela) (720p)",
+   "action": "video:https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
+  },
+  {
+   "title": "UniTV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KLGeznX.png",
+   "playerLabel": "UniTV (720p)",
+   "action": "video:https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8"
+  },
+  {
+   "title": "Universal TV Latin America (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
+   "playerLabel": "Universal TV Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/UniversalHD/index.m3u8"
+  },
+  {
+   "title": "Vale TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NMI2Wed.png",
+   "playerLabel": "Vale TV (480p) [Not 24/7]",
+   "action": "video:https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8"
+  },
+  {
+   "title": "Ve Plus (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/uc3zqcP.png",
+   "playerLabel": "Ve Plus (720p)",
+   "action": "video:http://186.148.196.100:8000/play/a01d"
+  },
+  {
+   "title": "Venevision (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gm1m8hW.png",
+   "playerLabel": "Venevision (576p)",
+   "action": "video:http://181.78.8.199:8000/play/a0if/index.m3u8"
+  },
+  {
+   "title": "Venevision Internacional (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/vtGED07.jpg",
+   "playerLabel": "Venevision Internacional (720p)",
+   "action": "video:https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
+  },
+  {
+   "title": "Vepaco TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0bqJksL.png",
+   "playerLabel": "Vepaco TV (480p)",
+   "action": "video:https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
+  },
+  {
+   "title": "Wata Vision",
+   "titleFooter": "General",
+   "image": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6957c378f20b5c77b1942a25/240b9ab5a_IMG_1222.jpeg",
+   "playerLabel": "Wata Vision",
+   "action": "video:https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "type": "list",
+ "headline": "Belarus (24)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "+TV (576p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",
+   "playerLabel": "+TV (576p) [Geo-blocked]",
+   "action": "video:https://stream.plustv.by/plustv-web/plustv/playlist.m3u8"
+  },
+  {
+   "title": "Belarus-1 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sUD9t5j.png",
+   "playerLabel": "Belarus-1 (1080p)",
+   "action": "video:https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8"
+  },
+  {
+   "title": "Belarus-1 HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sUD9t5j.png",
+   "playerLabel": "Belarus-1 HD (1080p)",
+   "action": "video:https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8"
+  },
+  {
+   "title": "Belarus-2 HD (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/BpEHpPS.png",
+   "playerLabel": "Belarus-2 HD (1080p)",
+   "action": "video:https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8"
+  },
+  {
+   "title": "Belarus-24 (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/BP7tY6F.png",
+   "playerLabel": "Belarus-24 (576p)",
+   "action": "video:http://ott-7.sevstar.net/belarus24/index.m3u8"
+  },
+  {
+   "title": "Belarus-24 HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/BP7tY6F.png",
+   "playerLabel": "Belarus-24 HD (1080p)",
+   "action": "video:https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8"
+  },
+  {
+   "title": "Belarus-3 HD (1080p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/JkcDycn.png",
+   "playerLabel": "Belarus-3 HD (1080p) [Not 24/7]",
+   "action": "video:https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+  },
+  {
+   "title": "Belarus-4 Gomel",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XNkQrMr.png",
+   "playerLabel": "Belarus-4 Gomel",
+   "action": "video:https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8"
+  },
+  {
+   "title": "Belarus-4 Vitebsk (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XNkQrMr.png",
+   "playerLabel": "Belarus-4 Vitebsk (1080p)",
+   "action": "video:https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8"
+  },
+  {
+   "title": "Belarus-5 (1080p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/NJsRFud.png",
+   "playerLabel": "Belarus-5 (1080p) [Not 24/7]",
+   "action": "video:https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+  },
+  {
+   "title": "Belarus-5 HD (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/NJsRFud.png",
+   "playerLabel": "Belarus-5 HD (1080p)",
+   "action": "video:http://178.124.179.122:8080/BT5/index.m3u8"
+  },
+  {
+   "title": "Belarus-5 Internet (1080p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/NJsRFud.png",
+   "playerLabel": "Belarus-5 Internet (1080p) [Not 24/7]",
+   "action": "video:https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+  },
+  {
+   "title": "Bug-TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KqB7YdO.png",
+   "playerLabel": "Bug-TV (1080p)",
+   "action": "video:http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8"
+  },
+  {
+   "title": "First Music Channel (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/YdyFJrl.png",
+   "playerLabel": "First Music Channel (1080p)",
+   "action": "video:http://rtmp.one.by:1300"
+  },
+  {
+   "title": "First Music Channel Russia (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/rEo7nR1.png",
+   "playerLabel": "First Music Channel Russia (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/1muz_HD/video.m3u8"
+  },
+  {
+   "title": "Perviy Informationniy HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/eIiXRAI.png",
+   "playerLabel": "Perviy Informationniy HD (1080p)",
+   "action": "video:https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8"
+  },
+  {
+   "title": "Radio Mir (720p)",
+   "titleFooter": "General",
+   "image": "https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg",
+   "playerLabel": "Radio Mir (720p)",
+   "action": "video:https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8"
+  },
+  {
+   "title": "Soyuzny (576p)",
+   "titleFooter": "General",
+   "image": "https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png",
+   "playerLabel": "Soyuzny (576p)",
+   "action": "video:https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8"
+  },
+  {
+   "title": "Sport TV (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png",
+   "playerLabel": "Sport TV (1080p)",
+   "action": "video:http://178.124.179.122:8080/SportTV/mpegts"
+  },
+  {
+   "title": "STV (Belarus) HD (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png",
+   "playerLabel": "STV (Belarus) HD (720p)",
+   "action": "video:https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8"
+  },
+  {
+   "title": "Svetloe TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/75cfvJt.png",
+   "playerLabel": "Svetloe TV (576p)",
+   "action": "video:http://46.53.200.153:7777/play/svetloetv/index.m3u8"
+  },
+  {
+   "title": "TNT4 International (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/SjdOaya.png",
+   "playerLabel": "TNT4 International (576p)",
+   "action": "video:https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Vitebsk (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/qr26qQn.png",
+   "playerLabel": "Vitebsk (576p)",
+   "action": "video:http://46.53.200.153:7777/play/a00h/index.m3u8"
+  },
+  {
+   "title": "VoyenTV (1080p)",
+   "titleFooter": "General",
+   "image": "https://beltelecom.by/sites/default/files/2026-02/img-news-btk-new-channel-voentv_0.png",
+   "playerLabel": "VoyenTV (1080p)",
+   "action": "video:http://media1.skifnet.by/voentv/index.m3u8"
+  }
+ ]
+}

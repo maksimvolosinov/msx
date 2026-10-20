@@ -1,0 +1,133 @@
+{
+ "type": "list",
+ "headline": "Bosnia and Herzegovina (17)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "BHRT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/01bZ5rw.png",
+   "playerLabel": "BHRT (720p) [Geo-blocked]",
+   "action": "video:https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8"
+  },
+  {
+   "title": "Federalna televizija (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/astdRrE.png",
+   "playerLabel": "Federalna televizija (720p)",
+   "action": "video:http://185.81.240.65:15000/udp/233.233.233.39:12000"
+  },
+  {
+   "title": "Kanal 6 (288p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GGhvR0l.png",
+   "playerLabel": "Kanal 6 (288p)",
+   "action": "video:https://restreamer1.tnt.ba/hls/kanal6.m3u8"
+  },
+  {
+   "title": "Maria+Vision Medjugorje (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/xUOspBx.png",
+   "playerLabel": "Maria+Vision Medjugorje (720p)",
+   "action": "video:https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8"
+  },
+  {
+   "title": "Mezzo Live (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/H9ytKPN.png",
+   "playerLabel": "Mezzo Live (1080p)",
+   "action": "video:http://stream.mcquack.net/276/index.m3u8"
+  },
+  {
+   "title": "Newsmax Balkans (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/BXFPz8c.png",
+   "playerLabel": "Newsmax Balkans (1080p)",
+   "action": "video:https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8"
+  },
+  {
+   "title": "RTRS plus (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/k06WvYl.png",
+   "playerLabel": "RTRS plus (576p) [Not 24/7]",
+   "action": "video:https://pluslive.rtrs.tv/plus/plus/playlist.m3u8"
+  },
+  {
+   "title": "RTRS TV (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/2Sgs5gM.png",
+   "playerLabel": "RTRS TV (576p) [Not 24/7]",
+   "action": "video:https://uzivo.rtrs.tv/tv/live/index.m3u8"
+  },
+  {
+   "title": "RTV Glas Drine (404p) [Not 24/7]",
+   "titleFooter": "General;Music",
+   "image": "https://i.imgur.com/9NgxOdb.png",
+   "playerLabel": "RTV Glas Drine (404p) [Not 24/7]",
+   "action": "video:http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8"
+  },
+  {
+   "title": "RTV HB (576p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6FNL8Iv.png",
+   "playerLabel": "RTV HB (576p) [Not 24/7]",
+   "action": "video:https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8"
+  },
+  {
+   "title": "RTV Zenica (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/TKUaflB.png",
+   "playerLabel": "RTV Zenica (720p)",
+   "action": "video:https://stream.rtvze.ba/live/123/123.m3u8"
+  },
+  {
+   "title": "Super TV (Bosnia and Herzegovina) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XYWgd3E.png",
+   "playerLabel": "Super TV (Bosnia and Herzegovina) (720p)",
+   "action": "video:https://mirtv.club/live/mirtv/index.m3u8"
+  },
+  {
+   "title": "Televizija 5 (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/znpvJys.png",
+   "playerLabel": "Televizija 5 (576p)",
+   "action": "video:https://balkanmedia.dynu.net/hls/tv5web.m3u8"
+  },
+  {
+   "title": "Televizija M (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jT95ZEI.png",
+   "playerLabel": "Televizija M (1080p)",
+   "action": "video:https://live.tv-m.net/hls/stream.m3u8"
+  },
+  {
+   "title": "TNT Kids TV (288p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/irTDbpn.png",
+   "playerLabel": "TNT Kids TV (288p)",
+   "action": "video:https://restreamer1.tnt.ba/hls/tntkids.m3u8"
+  },
+  {
+   "title": "TV SLO 1 HD",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/E3YmlxF.png",
+   "playerLabel": "TV SLO 1 HD",
+   "action": "video:https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8"
+  },
+  {
+   "title": "TV Slon Extra (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/AohYgH1.png",
+   "playerLabel": "TV Slon Extra (1080p) [Not 24/7]",
+   "action": "video:http://31.47.0.130:8082"
+  }
+ ]
+}

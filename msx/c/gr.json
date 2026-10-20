@@ -1,0 +1,504 @@
+{
+ "type": "list",
+ "headline": "Greece (70)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "4E (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Na0UCV7.png",
+   "playerLabel": "4E (1080p)",
+   "action": "video:http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
+  },
+  {
+   "title": "Acheloos TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5SVMxcu.png",
+   "playerLabel": "Acheloos TV (576p)",
+   "action": "video:https://acheloostv.streamings.gr/live/stream/index.m3u8"
+  },
+  {
+   "title": "Action 24 (1080p) [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+   "playerLabel": "Action 24 (1080p) [Not 24/7]",
+   "action": "video:http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
+  },
+  {
+   "title": "Aeolos TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4G9VvUg.png",
+   "playerLabel": "Aeolos TV (1080p)",
+   "action": "video:https://cdn.istoikona.com/aeolostv/live/playlist.m3u8"
+  },
+  {
+   "title": "Aigaio TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7LfuDJi.png",
+   "playerLabel": "Aigaio TV (720p)",
+   "action": "video:https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8"
+  },
+  {
+   "title": "Alert TV (576p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/xqa87lG.png",
+   "playerLabel": "Alert TV (576p) [Not 24/7]",
+   "action": "video:https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
+  },
+  {
+   "title": "Alpha TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6twzd38.png",
+   "playerLabel": "Alpha TV (1080p)",
+   "action": "video:https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8"
+  },
+  {
+   "title": "ART (Greece) (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/mNeLu04.png",
+   "playerLabel": "ART (Greece) (1080p)",
+   "action": "video:https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8"
+  },
+  {
+   "title": "ART TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8uS0sib.png",
+   "playerLabel": "ART TV",
+   "action": "video:https://rtmp.win:3696/live/arttvgrlive.m3u8"
+  },
+  {
+   "title": "Astra TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/oYRPfZm.png",
+   "playerLabel": "Astra TV (1080p)",
+   "action": "video:https://server.gointernet.gr/live/livestream.m3u8"
+  },
+  {
+   "title": "Baraza TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/TZ1unwF.png",
+   "playerLabel": "Baraza TV (1080p)",
+   "action": "video:https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Baraza TV Deep House (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/TZ1unwF.png",
+   "playerLabel": "Baraza TV Deep House (720p)",
+   "action": "video:https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
+  },
+  {
+   "title": "Baraza TV Relaxing (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/TZ1unwF.png",
+   "playerLabel": "Baraza TV Relaxing (720p)",
+   "action": "video:https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
+  },
+  {
+   "title": "Best TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/AeeeDUc.png",
+   "playerLabel": "Best TV (720p) [Not 24/7]",
+   "action": "video:http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
+  },
+  {
+   "title": "Blue Sky TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/C9CormG.png",
+   "playerLabel": "Blue Sky TV (720p)",
+   "action": "video:https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
+  },
+  {
+   "title": "Center TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/52JW71Q.png",
+   "playerLabel": "Center TV (1080p)",
+   "action": "video:https://eu1.streams.gr:8081/centertv/index.m3u8"
+  },
+  {
+   "title": "Channel 8 (Greece) (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://www.channel8.gr/img/channel8.png",
+   "playerLabel": "Channel 8 (Greece) (1080p)",
+   "action": "video:https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8"
+  },
+  {
+   "title": "Corfu Channel (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/EFL1Tjg.png",
+   "playerLabel": "Corfu Channel (720p)",
+   "action": "video:https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8"
+  },
+  {
+   "title": "DELTA TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
+   "playerLabel": "DELTA TV (720p)",
+   "action": "video:http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Dion TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/13MverN.png",
+   "playerLabel": "Dion TV (1080p)",
+   "action": "video:https://rtmp.win:3650/live/diontvlive.m3u8"
+  },
+  {
+   "title": "Ecclesia TV (Greece) (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/QQSSMZx.png",
+   "playerLabel": "Ecclesia TV (Greece) (1080p)",
+   "action": "video:https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8"
+  },
+  {
+   "title": "Egnatia TV (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/zuyYIca.png",
+   "playerLabel": "Egnatia TV (576p)",
+   "action": "video:https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8"
+  },
+  {
+   "title": "Ellinikos FM (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
+   "playerLabel": "Ellinikos FM (720p)",
+   "action": "video:https://rtmp.win:3603/live/ellinikosfmlive.m3u8"
+  },
+  {
+   "title": "ENA Channel (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3g3yjAq.png",
+   "playerLabel": "ENA Channel (1080p)",
+   "action": "video:https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8"
+  },
+  {
+   "title": "Epiloges TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3S4P7ob.png",
+   "playerLabel": "Epiloges TV",
+   "action": "video:https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8"
+  },
+  {
+   "title": "Epirus TV1 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nYVqhu8.png",
+   "playerLabel": "Epirus TV1 (720p)",
+   "action": "video:https://rtmp.win:3929/live/epiruslive.m3u8"
+  },
+  {
+   "title": "ERT Cosmos (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png",
+   "playerLabel": "ERT Cosmos (1080p)",
+   "action": "video:https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8"
+  },
+  {
+   "title": "ERT News HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/HXbsPfB.png",
+   "playerLabel": "ERT News HD (1080p)",
+   "action": "video:https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8"
+  },
+  {
+   "title": "ERT Sports 1 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/EsczO2H.png",
+   "playerLabel": "ERT Sports 1 (1080p)",
+   "action": "video:http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts"
+  },
+  {
+   "title": "ERT Sports 2 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/b2SNQPi.png",
+   "playerLabel": "ERT Sports 2 (1080p)",
+   "action": "video:http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts"
+  },
+  {
+   "title": "ERT3 (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/f2l9bDR.png",
+   "playerLabel": "ERT3 (1080p)",
+   "action": "video:https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8"
+  },
+  {
+   "title": "Euro TV (Greece) (432p)",
+   "titleFooter": "News",
+   "image": "https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png",
+   "playerLabel": "Euro TV (Greece) (432p)",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8"
+  },
+  {
+   "title": "Extra ProNews (576p)",
+   "titleFooter": "Entertainment;News;Shop",
+   "image": "https://i.imgur.com/VKW9xw6.png",
+   "playerLabel": "Extra ProNews (576p)",
+   "action": "video:http://62.1.176.18:8888/extra/index.m3u8"
+  },
+  {
+   "title": "Faros TV2 (480p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7xtz1Jo.png",
+   "playerLabel": "Faros TV2 (480p) [Geo-blocked]",
+   "action": "video:https://s1.cystream.net/live/faros2/playlist.m3u8"
+  },
+  {
+   "title": "Gnomi TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/ZNCXr79/gnomi-logo.png",
+   "playerLabel": "Gnomi TV (1080p)",
+   "action": "video:https://live.streams.ovh:8081/gnomitv/index.m3u8"
+  },
+  {
+   "title": "Groovy TV (360p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/ZYNQuf1.png",
+   "playerLabel": "Groovy TV (360p)",
+   "action": "video:http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8"
+  },
+  {
+   "title": "Hellenic Parliament TV (1080p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/o2cvqv3.png",
+   "playerLabel": "Hellenic Parliament TV (1080p)",
+   "action": "video:https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
+  },
+  {
+   "title": "Hellenic TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NE7ddhC.png",
+   "playerLabel": "Hellenic TV (720p) [Not 24/7]",
+   "action": "video:https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8"
+  },
+  {
+   "title": "High TV (720p) [Not 24/7]",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/8gHuwt7.png",
+   "playerLabel": "High TV (720p) [Not 24/7]",
+   "action": "video:http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8"
+  },
+  {
+   "title": "Ionian TV (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JILN3kS.png",
+   "playerLabel": "Ionian TV (1080p) [Not 24/7]",
+   "action": "video:http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8"
+  },
+  {
+   "title": "Kontra Channel (1080p)",
+   "titleFooter": "General",
+   "image": "https://kontrachannel.gr/images/kontrachannel24.png",
+   "playerLabel": "Kontra Channel (1080p)",
+   "action": "video:https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
+  },
+  {
+   "title": "Kos TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/bdJnQ1W.png",
+   "playerLabel": "Kos TV (720p)",
+   "action": "video:https://eu1.streams.gr:8081/kostv/index.m3u8"
+  },
+  {
+   "title": "Kriti TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/X7jKwYl.png",
+   "playerLabel": "Kriti TV (1080p)",
+   "action": "video:https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8"
+  },
+  {
+   "title": "Lepanto TV",
+   "titleFooter": "General",
+   "image": "https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg",
+   "playerLabel": "Lepanto TV",
+   "action": "video:https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8"
+  },
+  {
+   "title": "Mesogeios TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KX5olay.png",
+   "playerLabel": "Mesogeios TV (720p)",
+   "action": "video:https://rtmp.win:3793/live/mesogeiostvlive.m3u8"
+  },
+  {
+   "title": "Messatida TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/WEYrIrC.png",
+   "playerLabel": "Messatida TV (720p)",
+   "action": "video:https://rtmp.streams.ovh:8081/mtv/index.m3u8"
+  },
+  {
+   "title": "Naftemporiki TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/9OFdMud.png",
+   "playerLabel": "Naftemporiki TV (1080p)",
+   "action": "video:https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8"
+  },
+  {
+   "title": "Nea TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nvNW8G7.png",
+   "playerLabel": "Nea TV (720p)",
+   "action": "video:https://live.neatv.gr:8888/hls/neatv.m3u8"
+  },
+  {
+   "title": "Netmax TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/dLvRD4k.png",
+   "playerLabel": "Netmax TV (720p)",
+   "action": "video:https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8"
+  },
+  {
+   "title": "Notioi TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Nq00n8h.png",
+   "playerLabel": "Notioi TV (1080p)",
+   "action": "video:https://srv.streamserver.gr:3451/stream/play.m3u8"
+  },
+  {
+   "title": "NRG 91 (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/1Zl1OJ5.png",
+   "playerLabel": "NRG 91 (720p) [Not 24/7]",
+   "action": "video:http://tv.nrg91.gr:1935/onweb/live/master.m3u8"
+  },
+  {
+   "title": "One Channel (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",
+   "playerLabel": "One Channel (1080p) [Geo-blocked]",
+   "action": "video:https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
+  },
+  {
+   "title": "Panik TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/13C3CPr.png",
+   "playerLabel": "Panik TV (1080p)",
+   "action": "video:https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
+  },
+  {
+   "title": "Pella TV (576p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JnDXKZo.png",
+   "playerLabel": "Pella TV (576p) [Not 24/7]",
+   "action": "video:https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8"
+  },
+  {
+   "title": "Play TV (Greece) (480p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/JWFOYuD.png",
+   "playerLabel": "Play TV (Greece) (480p) [Not 24/7]",
+   "action": "video:http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8"
+  },
+  {
+   "title": "Reload Play (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/TZUsA2W.jpg",
+   "playerLabel": "Reload Play (720p)",
+   "action": "video:http://web.onair-radio.eu:1935/video/video/playlist.m3u8"
+  },
+  {
+   "title": "Samiaki TV (540p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9Pf1we6.png",
+   "playerLabel": "Samiaki TV (540p) [Not 24/7]",
+   "action": "video:http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8"
+  },
+  {
+   "title": "Skai TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mrKRFnf.png",
+   "playerLabel": "Skai TV (720p)",
+   "action": "video:http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8"
+  },
+  {
+   "title": "Star Channel (Greece) (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/6NUpxhr.png",
+   "playerLabel": "Star Channel (Greece) (1080p)",
+   "action": "video:http://livestar.siliconweb.com/starvod/star4/star4.m3u8"
+  },
+  {
+   "title": "Star Kentrikis Elladas (1080p)",
+   "titleFooter": "General;News",
+   "image": "https://i.imgur.com/ZBt6beo.png",
+   "playerLabel": "Star Kentrikis Elladas (1080p)",
+   "action": "video:https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8"
+  },
+  {
+   "title": "Start TV (480p)",
+   "titleFooter": "News",
+   "image": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
+   "playerLabel": "Start TV (480p)",
+   "action": "video:https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
+  },
+  {
+   "title": "Syros TV1 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/arQe5qS.png",
+   "playerLabel": "Syros TV1 (720p)",
+   "action": "video:https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8"
+  },
+  {
+   "title": "Telekriti (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",
+   "playerLabel": "Telekriti (720p) [Not 24/7]",
+   "action": "video:https://neon.streams.gr:8081/telekriti/index.m3u8"
+  },
+  {
+   "title": "Thraki Net TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3ITSnqT.png",
+   "playerLabel": "Thraki Net TV (1080p)",
+   "action": "video:https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
+  },
+  {
+   "title": "Top Channel (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SfV2gJg.png",
+   "playerLabel": "Top Channel (720p)",
+   "action": "video:https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8"
+  },
+  {
+   "title": "TRT (Greece) (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/g0jPOcC.png",
+   "playerLabel": "TRT (Greece) (720p)",
+   "action": "video:https://av.hellasnet.tv/rst/trt/main_stream.m3u8"
+  },
+  {
+   "title": "TV 100 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OBH2DfE.png",
+   "playerLabel": "TV 100 (720p)",
+   "action": "video:https://gwebstream.net/hls/master.m3u8"
+  },
+  {
+   "title": "TV Creta (540p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/CpIeJyt.png",
+   "playerLabel": "TV Creta (540p) [Not 24/7]",
+   "action": "video:http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8"
+  },
+  {
+   "title": "Vergina TV (1080p)",
+   "titleFooter": "Entertainment;News",
+   "image": "https://i.imgur.com/abQmFoH.png",
+   "playerLabel": "Vergina TV (1080p)",
+   "action": "video:https://verginanews.gr:8443/hls_live/stream1.m3u8"
+  },
+  {
+   "title": "Xplore (714p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/8oy62fX.png",
+   "playerLabel": "Xplore (714p) [Geo-blocked]",
+   "action": "video:http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,728 @@
+{
+ "type": "list",
+ "headline": "Pakistan (102)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "24 News HD",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",
+   "playerLabel": "24 News HD",
+   "action": "video:https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8"
+  },
+  {
+   "title": "365 News",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/8I6PWof.png",
+   "playerLabel": "365 News",
+   "action": "video:https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8"
+  },
+  {
+   "title": "7 News (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/PTl92P5.png",
+   "playerLabel": "7 News (720p)",
+   "action": "video:https://sscsott.com/7news/live/index.m3u8"
+  },
+  {
+   "title": "8XM",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
+   "playerLabel": "8XM",
+   "action": "video:https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8"
+  },
+  {
+   "title": "92 News HD (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/eqKrL9S.png",
+   "playerLabel": "92 News HD (720p)",
+   "action": "video:http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
+  },
+  {
+   "title": "A-Plus TV (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/uu0UJme.png",
+   "playerLabel": "A-Plus TV (576p)",
+   "action": "video:http://115.42.65.142:9981/stream/channelid/113328724"
+  },
+  {
+   "title": "Aaj Entertainment (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/WK5Cqap.png",
+   "playerLabel": "Aaj Entertainment (1080p)",
+   "action": "video:https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
+  },
+  {
+   "title": "Aaj News (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/VNGnHYz.png",
+   "playerLabel": "Aaj News (576p)",
+   "action": "video:http://115.42.65.142:9981/stream/channelid/750987367"
+  },
+  {
+   "title": "Abb Takk (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/D6IHRrP.png",
+   "playerLabel": "Abb Takk (576p)",
+   "action": "video:http://115.42.65.142:9981/stream/channelid/852828604"
+  },
+  {
+   "title": "ABN News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/R7BThkR.jpeg",
+   "playerLabel": "ABN News (1080p)",
+   "action": "video:http://115.42.65.142:9981/stream/channelid/966869781"
+  },
+  {
+   "title": "ABN Urdu (540p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Y9ScPIl.png",
+   "playerLabel": "ABN Urdu (540p)",
+   "action": "video:https://mediaserver.abnvideos.com/streams/abnurdu.m3u8"
+  },
+  {
+   "title": "Aik News SD",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/svPXoAP.png",
+   "playerLabel": "Aik News SD",
+   "action": "video:https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2"
+  },
+  {
+   "title": "Apna Channel (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ICSA4W6.png",
+   "playerLabel": "Apna Channel (576p)",
+   "action": "video:http://115.42.65.142:9981/stream/channelid/1273966657"
+  },
+  {
+   "title": "ARY News",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/R4KtTbJ.jpg",
+   "playerLabel": "ARY News",
+   "action": "video:https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8"
+  },
+  {
+   "title": "ATV (Pakistan) (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",
+   "playerLabel": "ATV (Pakistan) (1080p)",
+   "action": "video:http://115.42.65.142:9981/stream/channelid/299762256"
+  },
+  {
+   "title": "aurLife HD (614p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GfWLn3O.jpg",
+   "playerLabel": "aurLife HD (614p)",
+   "action": "video:http://124.109.47.101/hls/stream1.m3u8"
+  },
+  {
+   "title": "AVT Khyber (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/FqkABWT.png",
+   "playerLabel": "AVT Khyber (1080p)",
+   "action": "video:http://115.42.65.142:9981/stream/channelid/1380586642"
+  },
+  {
+   "title": "Bol Entertainment HD",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/eajSRFo.png",
+   "playerLabel": "Bol Entertainment HD",
+   "action": "video:https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8"
+  },
+  {
+   "title": "BS Film (576p)",
+   "titleFooter": "General",
+   "image": "https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg",
+   "playerLabel": "BS Film (576p)",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8"
+  },
+  {
+   "title": "BSTV (Pakistan) (576p)",
+   "titleFooter": "General",
+   "image": "https://www.vivalivetv.com/public/files/shows/0/1/3952-640x360-FFFFFF.jpg",
+   "playerLabel": "BSTV (Pakistan) (576p)",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8"
+  },
+  {
+   "title": "Capital TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/UxAE5O4.png",
+   "playerLabel": "Capital TV",
+   "action": "video:https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8"
+  },
+  {
+   "title": "City 41 (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/U5BdY2g.png",
+   "playerLabel": "City 41 (576p)",
+   "action": "video:http://163.61.227.29:8000/play/a02r/index.m3u8"
+  },
+  {
+   "title": "Discover Pakistan (1080p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/IJH47fJ.png",
+   "playerLabel": "Discover Pakistan (1080p)",
+   "action": "video:https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
+  },
+  {
+   "title": "Dunya News (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/1PbtW0y.png",
+   "playerLabel": "Dunya News (720p) [Not 24/7]",
+   "action": "video:https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+  },
+  {
+   "title": "Express Entertainment (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/rgHbb8W.png",
+   "playerLabel": "Express Entertainment (1080p)",
+   "action": "video:https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8"
+  },
+  {
+   "title": "Falak TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/2TqlNsI.png",
+   "playerLabel": "Falak TV",
+   "action": "video:https://falak.rst.ae/index.m3u8"
+  },
+  {
+   "title": "Fazal TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/c0fvKia.png",
+   "playerLabel": "Fazal TV (1080p)",
+   "action": "video:http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8"
+  },
+  {
+   "title": "Filmax (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/eLmdZ6k.png",
+   "playerLabel": "Filmax (576p)",
+   "action": "video:https://s3.ideationtec.live/Filmax/Filmax.m3u8"
+  },
+  {
+   "title": "Filmazia (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/hpTCANa.png",
+   "playerLabel": "Filmazia (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a02k/index.m3u8"
+  },
+  {
+   "title": "God Stands Kids Club TV",
+   "titleFooter": "Kids;Religious",
+   "image": "https://i.imgur.com/FxDBbpz.jpeg",
+   "playerLabel": "God Stands Kids Club TV",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
+  },
+  {
+   "title": "God Stands Kids Club TV Arabic",
+   "titleFooter": "Kids;Religious",
+   "image": "https://i.imgur.com/FxDBbpz.jpeg",
+   "playerLabel": "God Stands Kids Club TV Arabic",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8"
+  },
+  {
+   "title": "God Stands Kids Club TV Chinese",
+   "titleFooter": "Kids;Religious",
+   "image": "https://i.imgur.com/FxDBbpz.jpeg",
+   "playerLabel": "God Stands Kids Club TV Chinese",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
+  },
+  {
+   "title": "God Stands Kids Club TV Urdu",
+   "titleFooter": "Kids;Religious",
+   "image": "https://i.imgur.com/FxDBbpz.jpeg",
+   "playerLabel": "God Stands Kids Club TV Urdu",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
+  },
+  {
+   "title": "God Stands TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EO6cYUI.png",
+   "playerLabel": "God Stands TV",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
+  },
+  {
+   "title": "God Stands TV Arabic",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EO6cYUI.png",
+   "playerLabel": "God Stands TV Arabic",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8"
+  },
+  {
+   "title": "God Stands TV Chinese",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EO6cYUI.png",
+   "playerLabel": "God Stands TV Chinese",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8"
+  },
+  {
+   "title": "God Stands TV English",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EO6cYUI.png",
+   "playerLabel": "God Stands TV English",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8"
+  },
+  {
+   "title": "God Stands TV Hindi",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EO6cYUI.png",
+   "playerLabel": "God Stands TV Hindi",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
+  },
+  {
+   "title": "God Stands TV Punjabi",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EO6cYUI.png",
+   "playerLabel": "God Stands TV Punjabi",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
+  },
+  {
+   "title": "God Stands TV Tagalog",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EO6cYUI.png",
+   "playerLabel": "God Stands TV Tagalog",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8"
+  },
+  {
+   "title": "God Stands TV Urdu",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EO6cYUI.png",
+   "playerLabel": "God Stands TV Urdu",
+   "action": "video:https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
+  },
+  {
+   "title": "Grace Network (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/QSaZPJ4.png",
+   "playerLabel": "Grace Network (720p)",
+   "action": "video:https://livecdn.live247stream.com/grace/tv/playlist.m3u8"
+  },
+  {
+   "title": "HarPal Geo (360p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/NX3vvAX.png",
+   "playerLabel": "HarPal Geo (360p)",
+   "action": "video:https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Hum News",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/9OroocT.png",
+   "playerLabel": "Hum News",
+   "action": "video:http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C"
+  },
+  {
+   "title": "Hum TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png",
+   "playerLabel": "Hum TV (720p)",
+   "action": "video:https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Isaac TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/RHDbsiO.png",
+   "playerLabel": "Isaac TV (720p)",
+   "action": "video:https://livecdn.live247stream.com/isaac/tv/playlist.m3u8"
+  },
+  {
+   "title": "Jalwa TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/HWb5Iat.png",
+   "playerLabel": "Jalwa TV",
+   "action": "video:http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8"
+  },
+  {
+   "title": "Jeremiah TV",
+   "titleFooter": "General",
+   "image": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg",
+   "playerLabel": "Jeremiah TV",
+   "action": "video:https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8"
+  },
+  {
+   "title": "JooMusic (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/KHuKQQL.png",
+   "playerLabel": "JooMusic (720p)",
+   "action": "video:https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+  },
+  {
+   "title": "Joshua TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/x9xPR2h.png",
+   "playerLabel": "Joshua TV (720p)",
+   "action": "video:https://livecdn.live247stream.com/joshua/tv/playlist.m3u8"
+  },
+  {
+   "title": "Kay2 HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CRKk0iP.png",
+   "playerLabel": "Kay2 HD (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a027/index.m3u8"
+  },
+  {
+   "title": "Kids Zone (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/mJWBVH1.png",
+   "playerLabel": "Kids Zone (720p)",
+   "action": "video:http://103.250.28.74:8000/play/a04m/index.m3u8"
+  },
+  {
+   "title": "King TV (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/dujrwRE.png",
+   "playerLabel": "King TV (720p) [Not 24/7]",
+   "action": "video:https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8"
+  },
+  {
+   "title": "Kohenoor News (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/cD3Ogdh.png",
+   "playerLabel": "Kohenoor News (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a00r/index.m3u8"
+  },
+  {
+   "title": "KTN News (360p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/RtEzpPQ.png",
+   "playerLabel": "KTN News (360p)",
+   "action": "video:https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8"
+  },
+  {
+   "title": "Lahore News (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/bQfQeEA.jpeg",
+   "playerLabel": "Lahore News (720p) [Not 24/7]",
+   "action": "video:https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8"
+  },
+  {
+   "title": "Lahore Rang (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/hglxHTa.png",
+   "playerLabel": "Lahore Rang (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a01q/index.m3u8"
+  },
+  {
+   "title": "LTN Family SD (576p)",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/n4CenYn.png",
+   "playerLabel": "LTN Family SD (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a02j/index.m3u8"
+  },
+  {
+   "title": "M News (1080p)",
+   "titleFooter": "News",
+   "image": "https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png",
+   "playerLabel": "M News (1080p)",
+   "action": "video:https://cdn.rabta.stream/M-News/index.m3u8"
+  },
+  {
+   "title": "M Sports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png",
+   "playerLabel": "M Sports (1080p)",
+   "action": "video:https://cdn.rabta.stream/M-Sports/index.m3u8"
+  },
+  {
+   "title": "Madani Channel English (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Abi9j0A.png",
+   "playerLabel": "Madani Channel English (720p)",
+   "action": "video:http://tvsen7.aynascope.net/MadaniTV/index.m3u8"
+  },
+  {
+   "title": "Madani Channel Urdu (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/MitLeCJ.png",
+   "playerLabel": "Madani Channel Urdu (720p)",
+   "action": "video:https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
+  },
+  {
+   "title": "Masala TV (576p)",
+   "titleFooter": "Cooking",
+   "image": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
+   "playerLabel": "Masala TV (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a02x/index.m3u8"
+  },
+  {
+   "title": "Mashriq TV (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/8pMiqcp.png",
+   "playerLabel": "Mashriq TV (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a02s/index.m3u8"
+  },
+  {
+   "title": "Mehran TV (576p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/ma2bFXk.png",
+   "playerLabel": "Mehran TV (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a00m/index.m3u8"
+  },
+  {
+   "title": "Metro1 News (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/qD9cj27.jpg",
+   "playerLabel": "Metro1 News (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a04u/index.m3u8"
+  },
+  {
+   "title": "Minimax (Pakistan) (360p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/TJvf8vd.png",
+   "playerLabel": "Minimax (Pakistan) (360p)",
+   "action": "video:https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8"
+  },
+  {
+   "title": "Neo News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/9mrbPRs.png",
+   "playerLabel": "Neo News (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a01p/index.m3u8"
+  },
+  {
+   "title": "News One (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ivrRYMk.png",
+   "playerLabel": "News One (720p)",
+   "action": "video:https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
+  },
+  {
+   "title": "ON News HD (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/h3IUrMI.png",
+   "playerLabel": "ON News HD (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a046/index.m3u8"
+  },
+  {
+   "title": "One Golf (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/7JhaEW5.png",
+   "playerLabel": "One Golf (720p)",
+   "action": "video:http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8"
+  },
+  {
+   "title": "Paighan TV (1080p)",
+   "titleFooter": "Education;Religious",
+   "image": "https://i.imgur.com/zokC3gO.png",
+   "playerLabel": "Paighan TV (1080p)",
+   "action": "video:http://116.90.120.151:8000/play/a00h/index.m3u8"
+  },
+  {
+   "title": "Pashto 1 (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/tUsLDRe.png",
+   "playerLabel": "Pashto 1 (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a00t/index.m3u8"
+  },
+  {
+   "title": "Peace TV Urdu (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
+   "playerLabel": "Peace TV Urdu (1080p)",
+   "action": "video:https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+  },
+  {
+   "title": "PK Sports (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/qtbSnrY.png",
+   "playerLabel": "PK Sports (720p)",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
+  },
+  {
+   "title": "Play Entertainment (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/BnNNDrE.png",
+   "playerLabel": "Play Entertainment (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a050/index.m3u8"
+  },
+  {
+   "title": "PMI TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/SfyCwXj.png",
+   "playerLabel": "PMI TV (720p) [Not 24/7]",
+   "action": "video:https://cdn.live247stream.com/pmi/tv/playlist.m3u8"
+  },
+  {
+   "title": "Praise TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/T9fIdLs.png",
+   "playerLabel": "Praise TV (720p)",
+   "action": "video:https://livecdn.live247stream.com/praise/tv/playlist.m3u8"
+  },
+  {
+   "title": "PTV News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Fpn8VU7.png",
+   "playerLabel": "PTV News (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a017/index.m3u8"
+  },
+  {
+   "title": "PTV Sports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/CPm6GHA.png",
+   "playerLabel": "PTV Sports (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a019/index.m3u8"
+  },
+  {
+   "title": "Public News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/q3ij8wO.png",
+   "playerLabel": "Public News (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a04g/index.m3u8"
+  },
+  {
+   "title": "Quran TV (Pakistan) (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/nc7X3Ux.png",
+   "playerLabel": "Quran TV (Pakistan) (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a03e/index.m3u8"
+  },
+  {
+   "title": "Raavi TV (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Sdvg5h2.png",
+   "playerLabel": "Raavi TV (576p) [Not 24/7]",
+   "action": "video:http://116.90.120.149:8000/play/a01f/index.m3u8"
+  },
+  {
+   "title": "Rohi (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/zC8hXi4.png",
+   "playerLabel": "Rohi (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a00d/index.m3u8"
+  },
+  {
+   "title": "Roze News (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/TedWqfL.png",
+   "playerLabel": "Roze News (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a01k/index.m3u8"
+  },
+  {
+   "title": "SAB TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/hC7Sidr.png",
+   "playerLabel": "SAB TV (1080p)",
+   "action": "video:https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+   "title": "Samaa TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/r3U4A1P.png",
+   "playerLabel": "Samaa TV (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a022/index.m3u8"
+  },
+  {
+   "title": "Shine Star TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/I3lTIeN.png",
+   "playerLabel": "Shine Star TV (720p) [Not 24/7]",
+   "action": "video:https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8"
+  },
+  {
+   "title": "Silver Screen (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/s4Rv6pK.png",
+   "playerLabel": "Silver Screen (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a044/index.m3u8"
+  },
+  {
+   "title": "Sindh TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/izpeOsx.png",
+   "playerLabel": "Sindh TV (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a00u/index.m3u8"
+  },
+  {
+   "title": "Sindh TV News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Ap9K1lj.png",
+   "playerLabel": "Sindh TV News (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a00v/index.m3u8"
+  },
+  {
+   "title": "Sky News Urdu (720p)",
+   "titleFooter": "News",
+   "image": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
+   "playerLabel": "Sky News Urdu (720p)",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8"
+  },
+  {
+   "title": "Star Asia (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9coLhX8.png",
+   "playerLabel": "Star Asia (720p)",
+   "action": "video:http://103.250.28.74:8000/play/a010/index.m3u8"
+  },
+  {
+   "title": "Such TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/yYMh3JJ.png",
+   "playerLabel": "Such TV",
+   "action": "video:https://video.primexsports.com/suchnews/live/playlist.m3u8"
+  },
+  {
+   "title": "Suno News HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/FeSntVO.jpg",
+   "playerLabel": "Suno News HD (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a02a/index.m3u8"
+  },
+  {
+   "title": "Ten Sports Pakistan",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/7qS6TcE.png",
+   "playerLabel": "Ten Sports Pakistan",
+   "action": "video:http://121.91.61.106:8000/play/a04h/index.m3u8"
+  },
+  {
+   "title": "TV One Global (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Xn3XxMY.png",
+   "playerLabel": "TV One Global (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a04i/index.m3u8"
+  },
+  {
+   "title": "TV Today (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/MYoosNo.png",
+   "playerLabel": "TV Today (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a06e/index.m3u8"
+  },
+  {
+   "title": "Venus HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/0C9KunR.png",
+   "playerLabel": "Venus HD (1080p)",
+   "action": "video:http://103.250.28.74:8000/play/a04x/index.m3u8"
+  },
+  {
+   "title": "VSH News (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/pmPZoYC.png",
+   "playerLabel": "VSH News (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a00w/index.m3u8"
+  },
+  {
+   "title": "Waseb TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/RsF5yVA.png",
+   "playerLabel": "Waseb TV (576p)",
+   "action": "video:http://103.250.28.74:8000/play/a04k/index.m3u8"
+  },
+  {
+   "title": "Zindagi TV (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/XBHvR5J.png",
+   "playerLabel": "Zindagi TV (576p) [Not 24/7]",
+   "action": "video:https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
+  }
+ ]
+}

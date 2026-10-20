@@ -1,0 +1,553 @@
+{
+ "type": "list",
+ "headline": "Paraguay (77)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "4Dmas Noticias TV (1080p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.ibb.co/1fb5BtN/unnamed.png",
+   "playerLabel": "4Dmas Noticias TV (1080p) [Not 24/7]",
+   "action": "video:https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+  },
+  {
+   "title": "ABC-TV Paraguay (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/OqfBMGy.png",
+   "playerLabel": "ABC-TV Paraguay (1080p)",
+   "action": "video:https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a"
+  },
+  {
+   "title": "Adult Swim Latin America",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+   "playerLabel": "Adult Swim Latin America",
+   "action": "video:http://170.244.209.30:8000/play/a02v/index.m3u8"
+  },
+  {
+   "title": "AGR FM TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/tg6EjTU.png",
+   "playerLabel": "AGR FM TV",
+   "action": "video:https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8"
+  },
+  {
+   "title": "Alcance FM PLAY TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/ymcWecA.png",
+   "playerLabel": "Alcance FM PLAY TV",
+   "action": "video:https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8"
+  },
+  {
+   "title": "Alt Media TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/YkOgWMc.png",
+   "playerLabel": "Alt Media TV",
+   "action": "video:https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8"
+  },
+  {
+   "title": "AMC Latin America (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+   "playerLabel": "AMC Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/AMCHD/index.m3u8"
+  },
+  {
+   "title": "AMC Series Latin America (1080p)",
+   "titleFooter": "Series",
+   "image": "https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",
+   "playerLabel": "AMC Series Latin America (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a005/index.m3u8"
+  },
+  {
+   "title": "America Paraguay (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rCEu3fM.png",
+   "playerLabel": "America Paraguay (720p)",
+   "action": "video:http://45.170.130.224:8000/play/a02o/index.m3u8?hls"
+  },
+  {
+   "title": "Bruno Masi TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
+   "playerLabel": "Bruno Masi TV (720p)",
+   "action": "video:https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
+  },
+  {
+   "title": "C9N (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/iXkwP31.png",
+   "playerLabel": "C9N (720p)",
+   "action": "video:https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8"
+  },
+  {
+   "title": "CAD TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/lafmmRa.jpeg",
+   "playerLabel": "CAD TV",
+   "action": "video:https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8"
+  },
+  {
+   "title": "Canal 5 TV Max (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6oihaDM.png",
+   "playerLabel": "Canal 5 TV Max (1080p)",
+   "action": "video:https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8"
+  },
+  {
+   "title": "Canal 8 C&C Producciones",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SVj5fjg.jpg",
+   "playerLabel": "Canal 8 C&C Producciones",
+   "action": "video:https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8"
+  },
+  {
+   "title": "Caritas TV (1080p)",
+   "titleFooter": "General;Religious",
+   "image": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+   "playerLabel": "Caritas TV (1080p)",
+   "action": "video:https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
+  },
+  {
+   "title": "Cartoon Network Latin America South Atlantic (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+   "playerLabel": "Cartoon Network Latin America South Atlantic (1080p)",
+   "action": "video:http://158.172.217.18:8000/play/a03a/index.m3u8"
+  },
+  {
+   "title": "Comedy Central Latin America (1080p)",
+   "titleFooter": "Comedy",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+   "playerLabel": "Comedy Central Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
+  },
+  {
+   "title": "Cosmos TV (720p)",
+   "titleFooter": "Science",
+   "image": "https://i.imgur.com/dAMyExY.jpg",
+   "playerLabel": "Cosmos TV (720p)",
+   "action": "video:https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
+  },
+  {
+   "title": "Dismar Radio TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/KOuxdMD.png",
+   "playerLabel": "Dismar Radio TV (720p)",
+   "action": "video:https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/DisneyHD/index.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America Panregional HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America Panregional HD (1080p)",
+   "action": "video:http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America South (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America South (1080p)",
+   "action": "video:http://45.185.163.75:8000/play/a016/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America South HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America South HD (1080p)",
+   "action": "video:http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8"
+  },
+  {
+   "title": "E! Latin America (1080p)",
+   "titleFooter": "Entertainment;News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+   "playerLabel": "E! Latin America (1080p)",
+   "action": "video:http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8"
+  },
+  {
+   "title": "Educanal (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/857OkFf.png",
+   "playerLabel": "Educanal (1080p)",
+   "action": "video:http://190.128.214.97:64333/play/a011/index.m3u8"
+  },
+  {
+   "title": "El Gourmet South (1080p)",
+   "titleFooter": "Cooking",
+   "image": "https://i.imgur.com/ByMyRI9.png",
+   "playerLabel": "El Gourmet South (1080p)",
+   "action": "video:https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
+  },
+  {
+   "title": "ESPN 2 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
+   "playerLabel": "ESPN 2 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8"
+  },
+  {
+   "title": "ESPN 3 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+   "playerLabel": "ESPN 3 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8"
+  },
+  {
+   "title": "ESPN 4 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+   "playerLabel": "ESPN 4 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
+  },
+  {
+   "title": "ESPN 5 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 5 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
+  },
+  {
+   "title": "ESPN 6 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 6 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
+  },
+  {
+   "title": "ESPN 7 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 7 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8"
+  },
+  {
+   "title": "ESPN Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8"
+  },
+  {
+   "title": "Farra Play (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/bXWzstH.png",
+   "playerLabel": "Farra Play (576p)",
+   "action": "video:https://stream.farra.com.py/live/farra_low.m3u8"
+  },
+  {
+   "title": "GO TV (720p)",
+   "titleFooter": "Entertainment;Music",
+   "image": "https://i.ibb.co/jkvYVyz/Captura.png",
+   "playerLabel": "GO TV (720p)",
+   "action": "video:https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
+  },
+  {
+   "title": "Invasiva TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/R9E6jEC.png",
+   "playerLabel": "Invasiva TV (720p)",
+   "action": "video:https://tv-omega-nine.vercel.app/hls/live.m3u8"
+  },
+  {
+   "title": "Investigation Discovery Latin America South (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+   "playerLabel": "Investigation Discovery Latin America South (1080p)",
+   "action": "video:http://38.65.175.84:8000/play/a0ch/index.m3u8"
+  },
+  {
+   "title": "Los Angeles TV Radio",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/CaNdkpJ.jpeg",
+   "playerLabel": "Los Angeles TV Radio",
+   "action": "video:https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8"
+  },
+  {
+   "title": "Mega TV (Paraguay) (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/CaA7l86.png",
+   "playerLabel": "Mega TV (Paraguay) (1080p)",
+   "action": "video:https://www.desde-paraguay.com/mega.m3u8"
+  },
+  {
+   "title": "MiTV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/sgrEt9z.png",
+   "playerLabel": "MiTV (1080p)",
+   "action": "video:http://190.128.214.97:64333/play/a02w/index.m3u8"
+  },
+  {
+   "title": "MTV Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+   "playerLabel": "MTV Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/MTVHD/index.m3u8"
+  },
+  {
+   "title": "Nande Portetepe TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/3taT6JK.jpeg",
+   "playerLabel": "Nande Portetepe TV",
+   "action": "video:https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
+  },
+  {
+   "title": "Nandejara Ne'e TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/VFxuBdL.jpg",
+   "playerLabel": "Nandejara Ne'e TV",
+   "action": "video:https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion"
+  },
+  {
+   "title": "Next HD (480p)",
+   "titleFooter": "Movies;Music",
+   "image": "https://i.imgur.com/c2rF3SS.png",
+   "playerLabel": "Next HD (480p)",
+   "action": "video:https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+  },
+  {
+   "title": "Oasis TV (Paraguay) (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/u9umNKp.jpeg",
+   "playerLabel": "Oasis TV (Paraguay) (720p)",
+   "action": "video:https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
+  },
+  {
+   "title": "Occidental TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8IRBA9h.png",
+   "playerLabel": "Occidental TV",
+   "action": "video:https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
+  },
+  {
+   "title": "Oviedo TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6OlfgSQ.png",
+   "playerLabel": "Oviedo TV",
+   "action": "video:https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
+  },
+  {
+   "title": "Pakapaka (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/GJbRWwH.png",
+   "playerLabel": "Pakapaka (1080p)",
+   "action": "video:http://138.59.227.20:8000/play/a05t/index.m3u8"
+  },
+  {
+   "title": "Paraguay TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TWnTZ3c.png",
+   "playerLabel": "Paraguay TV (1080p)",
+   "action": "video:https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
+  },
+  {
+   "title": "Paravision",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yd9Dw2G.png",
+   "playerLabel": "Paravision",
+   "action": "video:http://45.170.130.224:8000/play/a032/index.m3u8?hls"
+  },
+  {
+   "title": "Popu TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/UqCogyZ.png",
+   "playerLabel": "Popu TV (1080p)",
+   "action": "video:http://190.108.83.69:8000/play/a070/index.m3u8"
+  },
+  {
+   "title": "Productiva TV (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/KXHK7UP.png",
+   "playerLabel": "Productiva TV (1080p)",
+   "action": "video:http://190.128.214.97:64333/play/a04i/index.m3u8"
+  },
+  {
+   "title": "Radio Colmenar 92.5 FM",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/LniNLO1.jpeg",
+   "playerLabel": "Radio Colmenar 92.5 FM",
+   "action": "video:https://tvdatta.com:3041/live/colmenarlive.m3u8"
+  },
+  {
+   "title": "Radio Guaira TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kLanG1t.jpeg",
+   "playerLabel": "Radio Guaira TV",
+   "action": "video:https://tvdatta.com:3991/live/guairatvlive.m3u8"
+  },
+  {
+   "title": "Radio San Cristobal 88.7 FM",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/zaJhBdj.png",
+   "playerLabel": "Radio San Cristobal 88.7 FM",
+   "action": "video:https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8"
+  },
+  {
+   "title": "Radio TV El Arca del Pacto (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Oq0i3Rb.png",
+   "playerLabel": "Radio TV El Arca del Pacto (1080p)",
+   "action": "video:https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
+  },
+  {
+   "title": "RB TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EMFAFX0.png",
+   "playerLabel": "RB TV (1080p)",
+   "action": "video:https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8"
+  },
+  {
+   "title": "RCC TV (1080p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/qdjBnRl.png",
+   "playerLabel": "RCC TV (1080p) [Not 24/7]",
+   "action": "video:https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
+  },
+  {
+   "title": "Red Digital (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3jj0MQP.jpg",
+   "playerLabel": "Red Digital (1080p) [Not 24/7]",
+   "action": "video:https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
+  },
+  {
+   "title": "Red Interior TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/z89GLCw.png",
+   "playerLabel": "Red Interior TV",
+   "action": "video:https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8"
+  },
+  {
+   "title": "Regional TV Yaguaron (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iL5JnSy.jpeg",
+   "playerLabel": "Regional TV Yaguaron (1080p)",
+   "action": "video:https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8"
+  },
+  {
+   "title": "Republica TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/qYRw4JP/Captura.png",
+   "playerLabel": "Republica TV (720p)",
+   "action": "video:https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
+  },
+  {
+   "title": "SNT (480p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",
+   "playerLabel": "SNT (480p)",
+   "action": "video:https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8"
+  },
+  {
+   "title": "Suceso TV (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/BwRNes1.png",
+   "playerLabel": "Suceso TV (720p) [Not 24/7]",
+   "action": "video:https://live.enhdtv.com:8081/8060/index.m3u8"
+  },
+  {
+   "title": "SUR TV Itapua",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ltJQvZd.png",
+   "playerLabel": "SUR TV Itapua",
+   "action": "video:http://45.170.130.224:8000/play/a036/index.m3u8?hls"
+  },
+  {
+   "title": "TCM Latin America South (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/QpDkrmT.png",
+   "playerLabel": "TCM Latin America South (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a014/index.m3u8"
+  },
+  {
+   "title": "Telemundo Internacional (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/j2O4ndp.png",
+   "playerLabel": "Telemundo Internacional (1080p)",
+   "action": "video:http://138.121.15.230:9002/TELEMUNDO/index.m3u8"
+  },
+  {
+   "title": "Tigo Sports (Paraguay)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+   "playerLabel": "Tigo Sports (Paraguay)",
+   "action": "video:http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Trece (Paraguay)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/cgIv5QK.png",
+   "playerLabel": "Trece (Paraguay)",
+   "action": "video:http://45.170.130.224:8000/play/a050/index.m3u8?hls"
+  },
+  {
+   "title": "TV Aire (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7gHFKPZ.png",
+   "playerLabel": "TV Aire (1080p)",
+   "action": "video:http://190.128.214.97:64333/play/a05y/index.m3u8"
+  },
+  {
+   "title": "TV Camara (Paraguay) (1080p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/Mfypr0t.png",
+   "playerLabel": "TV Camara (Paraguay) (1080p)",
+   "action": "video:http://45.170.130.224:8000/play/a03x/index.m3u8?hls"
+  },
+  {
+   "title": "TV Canindeyu (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/cateqjx.jpeg",
+   "playerLabel": "TV Canindeyu (1080p)",
+   "action": "video:https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8"
+  },
+  {
+   "title": "Unicanal",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/cgTD2TW.png",
+   "playerLabel": "Unicanal",
+   "action": "video:http://45.170.130.224:8000/play/a04y/index.m3u8?hls"
+  },
+  {
+   "title": "Union TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/No9YzNC.png",
+   "playerLabel": "Union TV",
+   "action": "video:https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
+  },
+  {
+   "title": "UniRadio TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Co3YrU0.png",
+   "playerLabel": "UniRadio TV (1080p)",
+   "action": "video:https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8"
+  },
+  {
+   "title": "Venus Media (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/XwmUbfp.png",
+   "playerLabel": "Venus Media (1080p)",
+   "action": "video:https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
+  },
+  {
+   "title": "Villa Elisa Radio TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ryzCsvy.jpg",
+   "playerLabel": "Villa Elisa Radio TV (1080p)",
+   "action": "video:https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion"
+  }
+ ]
+}

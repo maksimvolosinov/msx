@@ -1,0 +1,28 @@
+{
+ "type": "list",
+ "headline": "French Polynesia (2)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "France 24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/u8N6uoj.png",
+   "playerLabel": "France 24 (1080p)",
+   "action": "video:https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8"
+  },
+  {
+   "title": "TNTV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/e5eVHam.png",
+   "playerLabel": "TNTV (1080p)",
+   "action": "video:https://tntv-samsung-fr.amagi.tv/playlist.m3u8"
+  }
+ ]
+}

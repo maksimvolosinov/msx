@@ -1,0 +1,28 @@
+{
+ "type": "list",
+ "headline": "British Virgin Islands (2)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "CBN Gospel (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/SHBAblV.png",
+   "playerLabel": "CBN Gospel (720p)",
+   "action": "video:https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8"
+  },
+  {
+   "title": "CBN TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SHBAblV.png",
+   "playerLabel": "CBN TV (720p)",
+   "action": "video:https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8"
+  }
+ ]
+}

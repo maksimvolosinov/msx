@@ -1,0 +1,21 @@
+{
+ "type": "list",
+ "headline": "Guam (1)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Star 101 FM [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://star101.gu/images/fb_icon.jpg",
+   "playerLabel": "Star 101 FM [Not 24/7]",
+   "action": "video:https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8"
+  }
+ ]
+}

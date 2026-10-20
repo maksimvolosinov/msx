@@ -1,0 +1,77 @@
+{
+ "type": "list",
+ "headline": "Benin (9)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "ADO TV (720p)",
+   "titleFooter": "Kids;Sports",
+   "image": "https://i.imgur.com/pxFamLr.png",
+   "playerLabel": "ADO TV (720p)",
+   "action": "video:https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
+  },
+  {
+   "title": "Benin Web TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/CYy4n0N.png",
+   "playerLabel": "Benin Web TV (720p)",
+   "action": "video:https://stream.beninwebtv.bj/2/live/stream.m3u8"
+  },
+  {
+   "title": "Eden TV (540p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4ClnG0x.png",
+   "playerLabel": "Eden TV (540p) [Not 24/7]",
+   "action": "video:https://rtmp.edentv.bj/hls/stream.m3u8"
+  },
+  {
+   "title": "HC2 TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/CV38429.jpeg",
+   "playerLabel": "HC2 TV",
+   "action": "video:https://stream.hc2tv.bj/2/live/stream.m3u8"
+  },
+  {
+   "title": "ICONE TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Aws11wj.jpeg",
+   "playerLabel": "ICONE TV",
+   "action": "video:https://lecteur.iconetv.bj/hls/stream.m3u8"
+  },
+  {
+   "title": "KassouaTV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EfX3HNG.png",
+   "playerLabel": "KassouaTV (720p)",
+   "action": "video:https://playtv4k.live/live/kassouatv/index.m3u8"
+  },
+  {
+   "title": "Le Nouveau Manager TV",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/pEoOtEf.jpeg",
+   "playerLabel": "Le Nouveau Manager TV",
+   "action": "video:https://lnmlive.com/live/lnmtv.m3u8"
+  },
+  {
+   "title": "Speedline TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/1lXShsh.png",
+   "playerLabel": "Speedline TV",
+   "action": "video:https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8"
+  },
+  {
+   "title": "TVC Benin (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/oUnEYl5.png",
+   "playerLabel": "TVC Benin (720p)",
+   "action": "video:https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8"
+  }
+ ]
+}

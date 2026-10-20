@@ -1,0 +1,336 @@
+{
+ "type": "list",
+ "headline": "Saudi Arabia (46)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Abdulmajeed Abdullah (1080p)",
+   "titleFooter": "Music",
+   "image": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
+   "playerLabel": "Abdulmajeed Abdullah (1080p)",
+   "action": "video:https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8"
+  },
+  {
+   "title": "Aflam (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/cTLj7Yt.png",
+   "playerLabel": "Aflam (1080p)",
+   "action": "video:https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8"
+  },
+  {
+   "title": "Al Alam Al Yawm",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/aAGjAoW.png",
+   "playerLabel": "Al Alam Al Yawm",
+   "action": "video:https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8"
+  },
+  {
+   "title": "Al Arabiya English (1080p)",
+   "titleFooter": "News",
+   "image": "https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png",
+   "playerLabel": "Al Arabiya English (1080p)",
+   "action": "video:https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Al Ekhbariya (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/WcRlHQm.png",
+   "playerLabel": "Al Ekhbariya (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8"
+  },
+  {
+   "title": "Al Hadath (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/De4SEWE.png",
+   "playerLabel": "Al Hadath (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8"
+  },
+  {
+   "title": "Al Quran Al Kareem TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
+   "playerLabel": "Al Quran Al Kareem TV (720p)",
+   "action": "video:http://m.live.net.sa:1935/live/quran/gmswf.m3u8"
+  },
+  {
+   "title": "Al Riyadh Radio (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://aloula.faulio.com/storage/mediagallery/37/1a/fullhd_399eddcc4305f34f41c7fab24c3518fab5d55d97.png",
+   "playerLabel": "Al Riyadh Radio (1080p)",
+   "action": "video:https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8"
+  },
+  {
+   "title": "Al Saudiya (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GRQTndk.png",
+   "playerLabel": "Al Saudiya (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8"
+  },
+  {
+   "title": "Al Saudiya Alaan (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/sEOjApe.png",
+   "playerLabel": "Al Saudiya Alaan (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8"
+  },
+  {
+   "title": "Al Sunnah Al Nabawiyah TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",
+   "playerLabel": "Al Sunnah Al Nabawiyah TV (720p)",
+   "action": "video:http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8"
+  },
+  {
+   "title": "Alkhuzama Radio (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://shahid.mbc.net/mediaObject/61010cbc-91c5-4ce1-94a4-ed40adadb97b",
+   "playerLabel": "Alkhuzama Radio (1080p)",
+   "action": "video:https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8"
+  },
+  {
+   "title": "Alwesam TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/rtqVAxf.png",
+   "playerLabel": "Alwesam TV (1080p)",
+   "action": "video:https://stream.addresses-sat.com/Alwesam/index.m3u8"
+  },
+  {
+   "title": "Asharq Discovery (1080p)",
+   "titleFooter": "Documentary;Education",
+   "image": "https://i.imgur.com/Czxi7yk.png",
+   "playerLabel": "Asharq Discovery (1080p)",
+   "action": "video:https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Asharq Documentary (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/v6VsFEt.png",
+   "playerLabel": "Asharq Documentary (1080p)",
+   "action": "video:https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Asharq News (1080p)",
+   "titleFooter": "Business;News",
+   "image": "https://i.imgur.com/bqRC3sl.png",
+   "playerLabel": "Asharq News (1080p)",
+   "action": "video:https://live-news.asharq.com/asharq.m3u8"
+  },
+  {
+   "title": "Asharq Radio (1080p)",
+   "titleFooter": "Business;News",
+   "image": "https://i.imgur.com/M6K8cD3.jpeg",
+   "playerLabel": "Asharq Radio (1080p)",
+   "action": "video:https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
+  },
+  {
+   "title": "Atfal & Mawaheb TV (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/Y2BqP9m.png",
+   "playerLabel": "Atfal & Mawaheb TV (1080p)",
+   "action": "video:https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+  },
+  {
+   "title": "Bab Al Hara (1080p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/QtlnZbq.png",
+   "playerLabel": "Bab Al Hara (1080p)",
+   "action": "video:https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8"
+  },
+  {
+   "title": "Big Time Plus (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b",
+   "playerLabel": "Big Time Plus (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8"
+  },
+  {
+   "title": "Dr Pal TV (720p)",
+   "titleFooter": "General",
+   "image": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Dr%20Pal%20TV.jpeg",
+   "playerLabel": "Dr Pal TV (720p)",
+   "action": "video:https://stream.cisk.tech/drpal/index.m3u8"
+  },
+  {
+   "title": "Fairuz (1080p)",
+   "titleFooter": "Music",
+   "image": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
+   "playerLabel": "Fairuz (1080p)",
+   "action": "video:https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8"
+  },
+  {
+   "title": "Holy Quran Radio (1080p)",
+   "titleFooter": "General;Religious",
+   "image": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
+   "playerLabel": "Holy Quran Radio (1080p)",
+   "action": "video:https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8"
+  },
+  {
+   "title": "Iqraa Africa & Europe (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/nUlZvSe.png",
+   "playerLabel": "Iqraa Africa & Europe (1080p)",
+   "action": "video:https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8"
+  },
+  {
+   "title": "Iqraa Arabic (1080p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/HPVsIa4.png",
+   "playerLabel": "Iqraa Arabic (1080p) [Not 24/7]",
+   "action": "video:https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8"
+  },
+  {
+   "title": "Iqraa Quran (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/HPVsIa4.png",
+   "playerLabel": "Iqraa Quran (1080p)",
+   "action": "video:https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8"
+  },
+  {
+   "title": "Jeddah Radio (1080p)",
+   "titleFooter": "Music",
+   "image": "https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",
+   "playerLabel": "Jeddah Radio (1080p)",
+   "action": "video:https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8"
+  },
+  {
+   "title": "LBC (576p)",
+   "titleFooter": "General",
+   "image": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
+   "playerLabel": "LBC (576p)",
+   "action": "video:http://185.9.2.18/chid_327/index.m3u8"
+  },
+  {
+   "title": "Majid Al Mohandis (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
+   "playerLabel": "Majid Al Mohandis (1080p)",
+   "action": "video:https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8"
+  },
+  {
+   "title": "Makkah TV (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/r2k71w5N/download.png",
+   "playerLabel": "Makkah TV (576p)",
+   "action": "video:https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
+  },
+  {
+   "title": "Maraya (1080p)",
+   "titleFooter": "Series",
+   "image": "https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png",
+   "playerLabel": "Maraya (1080p)",
+   "action": "video:https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8"
+  },
+  {
+   "title": "MBC Loud",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/mptwwLs.png",
+   "playerLabel": "MBC Loud",
+   "action": "video:https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8"
+  },
+  {
+   "title": "MBC Mood (1080p)",
+   "titleFooter": "Music",
+   "image": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png",
+   "playerLabel": "MBC Mood (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8"
+  },
+  {
+   "title": "Mohammed Abdo (1080p)",
+   "titleFooter": "Music",
+   "image": "https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png",
+   "playerLabel": "Mohammed Abdo (1080p)",
+   "action": "video:https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8"
+  },
+  {
+   "title": "Movies Action (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/NIVhISa.png",
+   "playerLabel": "Movies Action (1080p)",
+   "action": "video:https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8"
+  },
+  {
+   "title": "Movies Thriller (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/JWihdcl.png",
+   "playerLabel": "Movies Thriller (1080p)",
+   "action": "video:https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8"
+  },
+  {
+   "title": "Nidae AlIslam Radio (1080p)",
+   "titleFooter": "Music",
+   "image": "https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",
+   "playerLabel": "Nidae AlIslam Radio (1080p)",
+   "action": "video:https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8"
+  },
+  {
+   "title": "Panorama FM (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/JkDD3bK.png",
+   "playerLabel": "Panorama FM (1080p)",
+   "action": "video:https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8"
+  },
+  {
+   "title": "Rabeh Saqer (1080p)",
+   "titleFooter": "Music",
+   "image": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
+   "playerLabel": "Rabeh Saqer (1080p)",
+   "action": "video:https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8"
+  },
+  {
+   "title": "Rashid AlMajed (1080p)",
+   "titleFooter": "Music",
+   "image": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp",
+   "playerLabel": "Rashid AlMajed (1080p)",
+   "action": "video:https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8"
+  },
+  {
+   "title": "Rotana FM KSA (720p)",
+   "titleFooter": "Music",
+   "image": "https://rotanaradios.com/wp-content/uploads/2024/10/Asset-4.png",
+   "playerLabel": "Rotana FM KSA (720p)",
+   "action": "video:rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284"
+  },
+  {
+   "title": "Saudi Thaqafiya TV (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
+   "playerLabel": "Saudi Thaqafiya TV (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8"
+  },
+  {
+   "title": "Saudia Radio (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://aloula.faulio.com/storage/mediagallery/32/f9/fullhd_4c7e170fe0169d36ed17d45a645d4e69fb961793.png",
+   "playerLabel": "Saudia Radio (1080p)",
+   "action": "video:https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8"
+  },
+  {
+   "title": "SBC (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9JSQglj.png",
+   "playerLabel": "SBC (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8"
+  },
+  {
+   "title": "Tarab (1080p)",
+   "titleFooter": "Music",
+   "image": "https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png",
+   "playerLabel": "Tarab (1080p)",
+   "action": "video:https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8"
+  },
+  {
+   "title": "Thikrayat TV (1080p) [Geo-blocked]",
+   "titleFooter": "Classic",
+   "image": "https://i.imgur.com/AKa1X9d.png",
+   "playerLabel": "Thikrayat TV (1080p) [Geo-blocked]",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8"
+  }
+ ]
+}

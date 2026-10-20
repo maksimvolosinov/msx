@@ -1,0 +1,21 @@
+{
+ "type": "list",
+ "headline": "Zimbabwe (1)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Yadah TV (576p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/4BNVhoC.png",
+   "playerLabel": "Yadah TV (576p) [Not 24/7]",
+   "action": "video:https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8"
+  }
+ ]
+}

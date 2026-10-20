@@ -1,0 +1,21 @@
+{
+ "type": "list",
+ "headline": "Madagascar (1)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Nickelodeon Junior (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+   "playerLabel": "Nickelodeon Junior (1080p)",
+   "action": "video:http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
+  }
+ ]
+}

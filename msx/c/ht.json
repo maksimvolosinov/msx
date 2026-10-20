@@ -1,0 +1,196 @@
+{
+ "type": "list",
+ "headline": "Haiti (26)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "BPX TV Radio",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/86VXni8.jpeg",
+   "playerLabel": "BPX TV Radio",
+   "action": "video:https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8"
+  },
+  {
+   "title": "Dega TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/ZTYvHyR/DEGA-TV-TELEPACK.jpg",
+   "playerLabel": "Dega TV (720p) [Not 24/7]",
+   "action": "video:https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8"
+  },
+  {
+   "title": "Haiti News Channel (1080p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
+   "playerLabel": "Haiti News Channel (1080p) [Not 24/7]",
+   "action": "video:https://cdn.haititivi.com/website/haitinews/index.m3u8"
+  },
+  {
+   "title": "HMI PROMZ NEWS (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/gwPaw3v.png",
+   "playerLabel": "HMI PROMZ NEWS (720p)",
+   "action": "video:https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"
+  },
+  {
+   "title": "Kajou TV (720p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/2XzghdT.png",
+   "playerLabel": "Kajou TV (720p) [Not 24/7]",
+   "action": "video:https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8"
+  },
+  {
+   "title": "Netalkole TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SdVrpzY.png",
+   "playerLabel": "Netalkole TV (720p) [Not 24/7]",
+   "action": "video:https://watch.haitilive.net/naktvhd/index.m3u8"
+  },
+  {
+   "title": "Nickelodeon Junior (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+   "playerLabel": "Nickelodeon Junior (1080p)",
+   "action": "video:http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
+  },
+  {
+   "title": "Radio Tele 4VEH (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/AnOjqaS.png",
+   "playerLabel": "Radio Tele 4VEH (720p)",
+   "action": "video:https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Amen FM (360p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/MTaFdHE.png",
+   "playerLabel": "Radio Tele Amen FM (360p) [Not 24/7]",
+   "action": "video:http://184.173.179.163:1935/daniel/daniel/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Full Gospel",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/WbwIp9y.jpeg",
+   "playerLabel": "Radio Tele Full Gospel",
+   "action": "video:https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Ginen",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ESlt16G.png",
+   "playerLabel": "Radio Tele Ginen",
+   "action": "video:http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Hit (480p)",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
+   "playerLabel": "Radio Tele Hit (480p)",
+   "action": "video:https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Kajou (480p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/1MhvJ3B/logork.png",
+   "playerLabel": "Radio Tele Kajou (480p) [Not 24/7]",
+   "action": "video:https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Planet Compas (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ddb4lsa.png",
+   "playerLabel": "Radio Tele Planet Compas (720p) [Not 24/7]",
+   "action": "video:https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Puissance",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/ZLPwJug.png",
+   "playerLabel": "Radio Tele Puissance",
+   "action": "video:https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Sentinel",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/hy3BJxj.png",
+   "playerLabel": "Radio Tele Sentinel",
+   "action": "video:https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Wisdom (360p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/DQksC23/unnamed-1.jpg",
+   "playerLabel": "Radio Tele Wisdom (360p) [Not 24/7]",
+   "action": "video:https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8"
+  },
+  {
+   "title": "Radio Television Shilo (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://cdn.onlineradiobox.com/img/l/0/98960.v3.png",
+   "playerLabel": "Radio Television Shilo (720p) [Not 24/7]",
+   "action": "video:https://watch.haitilive.net/freehb/rtvs/index.m3u8"
+  },
+  {
+   "title": "RTH-TV1 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4z0FiEA.png",
+   "playerLabel": "RTH-TV1 (1080p)",
+   "action": "video:https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8"
+  },
+  {
+   "title": "RTH-TV2 Gospel (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/4z0FiEA.png",
+   "playerLabel": "RTH-TV2 Gospel (720p)",
+   "action": "video:https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8"
+  },
+  {
+   "title": "Tele Haiti (1088p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Hso9j58.png",
+   "playerLabel": "Tele Haiti (1088p) [Not 24/7]",
+   "action": "video:http://66.175.238.147:1935/live/myStream/playlist.m3u8"
+  },
+  {
+   "title": "Tele Louange (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/DjnMUuL.png",
+   "playerLabel": "Tele Louange (1080p)",
+   "action": "video:https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8"
+  },
+  {
+   "title": "Tele Pam (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/xMYMyHh/telepammmm.png",
+   "playerLabel": "Tele Pam (1080p)",
+   "action": "video:https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8"
+  },
+  {
+   "title": "TeleMIX (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/HpX99Ks/unnamed.jpg",
+   "playerLabel": "TeleMIX (720p)",
+   "action": "video:https://haititivi.com/haiti/telemix1/index.m3u8"
+  },
+  {
+   "title": "TNH (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8nvCXzt.png",
+   "playerLabel": "TNH (720p)",
+   "action": "video:https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8"
+  },
+  {
+   "title": "TV Panou (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zee6sWn.png",
+   "playerLabel": "TV Panou (720p) [Not 24/7]",
+   "action": "video:http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8"
+  }
+ ]
+}

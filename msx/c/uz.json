@@ -1,0 +1,252 @@
+{
+ "type": "list",
+ "headline": "Uzbekistan (34)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Aqlvoy",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/ekF5cAi.png",
+   "playerLabel": "Aqlvoy",
+   "action": "video:https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "BIZ Cinema (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
+   "playerLabel": "BIZ Cinema (1080p)",
+   "action": "video:https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8"
+  },
+  {
+   "title": "BIZ Music (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
+   "playerLabel": "BIZ Music (1080p)",
+   "action": "video:https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8"
+  },
+  {
+   "title": "BIZ TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://biztv.uz/static/media/logo.5f993187.png",
+   "playerLabel": "BIZ TV (1080p)",
+   "action": "video:https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8"
+  },
+  {
+   "title": "Bolajon (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/s7o0ifu.png",
+   "playerLabel": "Bolajon (576p)",
+   "action": "video:https://stream8.cinerama.uz/1007/playlist.m3u8"
+  },
+  {
+   "title": "Cheksiz TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/f7hHmmR.jpeg",
+   "playerLabel": "Cheksiz TV",
+   "action": "video:https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Dasturxon TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/APM2ej5.jpeg",
+   "playerLabel": "Dasturxon TV (576p)",
+   "action": "video:https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Dunyo bo'ylab (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KArB5U6.png",
+   "playerLabel": "Dunyo bo'ylab (1080p)",
+   "action": "video:https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Farg'ona MTRK",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/RYjQOfo.jpeg",
+   "playerLabel": "Farg'ona MTRK",
+   "action": "video:https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "FTV (Uzbekistan) (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/7lpISyN.jpg",
+   "playerLabel": "FTV (Uzbekistan) (576p)",
+   "action": "video:https://stream8.cinerama.uz/1018/playlist.m3u8"
+  },
+  {
+   "title": "Futbol TV (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.ibb.co/h1gQSkbB/Futbol-TV.png",
+   "playerLabel": "Futbol TV (1080p)",
+   "action": "video:http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Kinoteatr (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/emH1BgC.png",
+   "playerLabel": "Kinoteatr (1080p)",
+   "action": "video:https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Madaniyat va ma'rifat (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/eeNLXCP.png",
+   "playerLabel": "Madaniyat va ma'rifat (576p)",
+   "action": "video:https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Mahalla (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/GtABiJI.png",
+   "playerLabel": "Mahalla (576p)",
+   "action": "video:https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Makon TV (576i)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/vCc0ED1.png",
+   "playerLabel": "Makon TV (576i)",
+   "action": "video:https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Milliy (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/v4FBm26.png",
+   "playerLabel": "Milliy (1080p)",
+   "action": "video:https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "MiMi TV (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/NmQglPa.png",
+   "playerLabel": "MiMi TV (720p)",
+   "action": "video:https://fl.biztv.media/MiMiTV_720/playlist.m3u8"
+  },
+  {
+   "title": "Muz TV Uzbekistan",
+   "titleFooter": "Music",
+   "image": "https://s8.vcdn.biz/static/f/6010782281/image.jpg",
+   "playerLabel": "Muz TV Uzbekistan",
+   "action": "video:https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "MY5 (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/bjlzu5k.png",
+   "playerLabel": "MY5 (576p)",
+   "action": "video:https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Navo (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7dZ64y9.png",
+   "playerLabel": "Navo (576p)",
+   "action": "video:https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Navoiy MTRK (576i)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/qa4VlYh.png",
+   "playerLabel": "Navoiy MTRK (576i)",
+   "action": "video:https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Nurafshon TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/MMdNyBU.jpeg",
+   "playerLabel": "Nurafshon TV",
+   "action": "video:https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "O'zbekiston (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QUIIhTD.png",
+   "playerLabel": "O'zbekiston (576p)",
+   "action": "video:https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "O'zbekiston 24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/VRFhKbw.png",
+   "playerLabel": "O'zbekiston 24 (1080p)",
+   "action": "video:https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "O'zbekiston Tarixi (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/iTTd3Ir.png",
+   "playerLabel": "O'zbekiston Tarixi (1080p)",
+   "action": "video:https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Qaraqalpaqstan (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/G3qrUJh.png",
+   "playerLabel": "Qaraqalpaqstan (720p)",
+   "action": "video:https://stream8.cinerama.uz/1467/playlist.m3u8"
+  },
+  {
+   "title": "Renessans TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/cVlcqCX.png",
+   "playerLabel": "Renessans TV (576p)",
+   "action": "video:https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Sevimli TV (1080p)",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/iMwzRlr.png",
+   "playerLabel": "Sevimli TV (1080p)",
+   "action": "video:https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Sport (Uzbekistan)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/2WJE9CM.png",
+   "playerLabel": "Sport (Uzbekistan)",
+   "action": "video:https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Taraqqiyot TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/V3rtPEl.jpg",
+   "playerLabel": "Taraqqiyot TV",
+   "action": "video:https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Toshkent (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Z9R4nZg.png",
+   "playerLabel": "Toshkent (576p)",
+   "action": "video:https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "UzReport TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Bch2RHc.jpg",
+   "playerLabel": "UzReport TV (1080p)",
+   "action": "video:https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Yoshlar (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/s4xfUSx.png",
+   "playerLabel": "Yoshlar (1080p)",
+   "action": "video:https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8"
+  },
+  {
+   "title": "Zo'r TV (576p)",
+   "titleFooter": "Entertainment;Music",
+   "image": "https://i.imgur.com/NuzyhVM.png",
+   "playerLabel": "Zo'r TV (576p)",
+   "action": "video:https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8"
+  }
+ ]
+}

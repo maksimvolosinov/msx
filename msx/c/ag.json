@@ -1,0 +1,21 @@
+{
+ "type": "list",
+ "headline": "Antigua and Barbuda (1)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Pointe TV",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/7tyD2kr/IMG-20240421-154850.jpg",
+   "playerLabel": "Pointe TV",
+   "action": "video:https://tv.pointville.ag/hls/mystream.m3u8"
+  }
+ ]
+}

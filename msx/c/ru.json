@@ -1,0 +1,3458 @@
+{
+ "type": "list",
+ "headline": "Russia (492)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": ".black (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/Q4A6ci4.png",
+   "playerLabel": ".black (576p)",
+   "action": "video:http://stream.mcquack.net/263/index.m3u8"
+  },
+  {
+   "title": ".red (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/GET9Qut.png",
+   "playerLabel": ".red (576p)",
+   "action": "video:http://5.188.159.128:8070/RED/index.m3u8"
+  },
+  {
+   "title": ".red HD (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/GET9Qut.png",
+   "playerLabel": ".red HD (1080p)",
+   "action": "video:http://178.134.1.158:8081/red/index.m3u8"
+  },
+  {
+   "title": ".sci-fi (576p)",
+   "titleFooter": "Science",
+   "image": "https://i.imgur.com/nSSUHcg.png",
+   "playerLabel": ".sci-fi (576p)",
+   "action": "video:http://stream.mcquack.net/180/index.m3u8"
+  },
+  {
+   "title": "15+ Music (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/kj21hwd.png",
+   "playerLabel": "15+ Music (1080p)",
+   "action": "video:https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8"
+  },
+  {
+   "title": "1HD Music Television (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/4Ww7CsR.png",
+   "playerLabel": "1HD Music Television (1080p)",
+   "action": "video:http://176.118.197.101/1HD/index.m3u8"
+  },
+  {
+   "title": "2x2 (576i)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/fhQFLEl.png",
+   "playerLabel": "2x2 (576i)",
+   "action": "video:https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https"
+  },
+  {
+   "title": "360° (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/VTJqdoX.png",
+   "playerLabel": "360° (1080p)",
+   "action": "video:https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
+  },
+  {
+   "title": "360° News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/YXDeX8q.png",
+   "playerLabel": "360° News (1080p)",
+   "action": "video:https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
+  },
+  {
+   "title": "365 days TV (576p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/NfnAiTR.png",
+   "playerLabel": "365 days TV (576p)",
+   "action": "video:http://stream.mcquack.net/70/index.m3u8"
+  },
+  {
+   "title": "3ABN Russia (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/4fhBbam.png",
+   "playerLabel": "3ABN Russia (720p)",
+   "action": "video:https://hls.tv.3angels.ru/stream.m3u8"
+  },
+  {
+   "title": "5 minut tishiny (1080p)",
+   "titleFooter": "Series",
+   "image": "https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg",
+   "playerLabel": "5 minut tishiny (1080p)",
+   "action": "video:https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8"
+  },
+  {
+   "title": "555 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JQZkxeA.png",
+   "playerLabel": "555 (720p)",
+   "action": "video:http://trk555.tv:8888/live"
+  },
+  {
+   "title": "6 TV Gorlovka (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png",
+   "playerLabel": "6 TV Gorlovka (720p) [Geo-blocked]",
+   "action": "video:http://91.214.48.158:4022/udp/224.2.2.4:10000"
+  },
+  {
+   "title": "86 (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0dRS4Cb.png",
+   "playerLabel": "86 (1080p) [Not 24/7]",
+   "action": "video:https://sitv.ru/hls/s86.m3u8"
+  },
+  {
+   "title": "A1 (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/2pAHdAi.png",
+   "playerLabel": "A1 (576p)",
+   "action": "video:http://31.148.48.15/A1/index.m3u8"
+  },
+  {
+   "title": "A2 (576p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/NqHla2V.png",
+   "playerLabel": "A2 (576p)",
+   "action": "video:http://31.148.48.15/A2/index.m3u8"
+  },
+  {
+   "title": "Afontovo",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/StFfPaI.png",
+   "playerLabel": "Afontovo",
+   "action": "video:https://stream.afontovo.ru/hd.m3u8"
+  },
+  {
+   "title": "AIST TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/bcw0s4V.png",
+   "playerLabel": "AIST TV (1080p)",
+   "action": "video:http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "alpha Cinema (1080p)",
+   "titleFooter": "Comedy;Family;Movies",
+   "image": "https://i.imgur.com/146OgfU.png",
+   "playerLabel": "alpha Cinema (1080p)",
+   "action": "video:https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8"
+  },
+  {
+   "title": "Amedia Hit (1080p)",
+   "titleFooter": "Movies;Series",
+   "image": "https://i.imgur.com/a8ZBGBw.png",
+   "playerLabel": "Amedia Hit (1080p)",
+   "action": "video:http://stream.mcquack.net/162/index.m3u8"
+  },
+  {
+   "title": "Amedia Premium (720p)",
+   "titleFooter": "Movies;Series",
+   "image": "https://i.imgur.com/UUjehw9.png",
+   "playerLabel": "Amedia Premium (720p)",
+   "action": "video:http://31.148.48.15/Amedia_Premium_HD/index.m3u8"
+  },
+  {
+   "title": "Angel TV Russian (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/qKLEGU7.png",
+   "playerLabel": "Angel TV Russian (720p)",
+   "action": "video:https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
+  },
+  {
+   "title": "Ani (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/i2AP0hp.png",
+   "playerLabel": "Ani (576p)",
+   "action": "video:http://46.32.176.50/anitv/index.m3u8"
+  },
+  {
+   "title": "Animal Planet (Russia) (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+   "playerLabel": "Animal Planet (Russia) (1080p)",
+   "action": "video:http://stream.mcquack.net/114/index.m3u8"
+  },
+  {
+   "title": "Aris 24 (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CTFVEAb.png",
+   "playerLabel": "Aris 24 (720p) [Not 24/7]",
+   "action": "video:http://serv25.vintera.tv:8081/test/aris/playlist.m3u8"
+  },
+  {
+   "title": "Arkhyz 24 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/blAtdkJ.png",
+   "playerLabel": "Arkhyz 24 (1080p)",
+   "action": "video:https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
+  },
+  {
+   "title": "Arktika 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kmbdyr6.png",
+   "playerLabel": "Arktika 24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8"
+  },
+  {
+   "title": "Arsenal (576p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/DBpVeb0.png",
+   "playerLabel": "Arsenal (576p)",
+   "action": "video:https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "ART (Russia) (576p)",
+   "titleFooter": "Culture",
+   "image": "https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp",
+   "playerLabel": "ART (Russia) (576p)",
+   "action": "video:http://89.104.114.24:8080/art/index.m3u8"
+  },
+  {
+   "title": "Astrahan 24 (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/9WcnjQN.png",
+   "playerLabel": "Astrahan 24 (720p)",
+   "action": "video:https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8"
+  },
+  {
+   "title": "Astrahan.Ru Sport (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/BKaEtqL.png",
+   "playerLabel": "Astrahan.Ru Sport (720p)",
+   "action": "video:https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+  },
+  {
+   "title": "Astrahan.Ru TV (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/w4ys6zm.png",
+   "playerLabel": "Astrahan.Ru TV (480p)",
+   "action": "video:https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
+  },
+  {
+   "title": "Auto Plus (576p)",
+   "titleFooter": "Auto",
+   "image": "https://i.imgur.com/sVc8cFt.png",
+   "playerLabel": "Auto Plus (576p)",
+   "action": "video:http://31.148.48.15/Avto_Plus/index.m3u8"
+  },
+  {
+   "title": "Avto24 (576p)",
+   "titleFooter": "Auto",
+   "image": "https://i.imgur.com/GXSXmN2.png",
+   "playerLabel": "Avto24 (576p)",
+   "action": "video:http://stream.mcquack.net/78/index.m3u8"
+  },
+  {
+   "title": "Baby Time (576p)",
+   "titleFooter": "Kids;Music",
+   "image": "https://i.imgur.com/lW3WIBD.png",
+   "playerLabel": "Baby Time (576p)",
+   "action": "video:http://178.134.1.158:8081/babytime/index.m3u8"
+  },
+  {
+   "title": "Balabol (1080p)",
+   "titleFooter": "Series",
+   "image": "https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg",
+   "playerLabel": "Balabol (1080p)",
+   "action": "video:https://cdn-dvr.ntv.ru/Balabol/index.m3u8"
+  },
+  {
+   "title": "Bashkortostan 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/s34Wtz6.png",
+   "playerLabel": "Bashkortostan 24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8"
+  },
+  {
+   "title": "Belgorod 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EEirvyx.png",
+   "playerLabel": "Belgorod 24 (1080p)",
+   "action": "video:https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8"
+  },
+  {
+   "title": "Big Asia (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/vruuPKF.png",
+   "playerLabel": "Big Asia (720p)",
+   "action": "video:http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8"
+  },
+  {
+   "title": "Big Planet (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/wyuqWTR.png",
+   "playerLabel": "Big Planet (576p)",
+   "action": "video:https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Blokbaster HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/KcOi4Os.png",
+   "playerLabel": "Blokbaster HD (1080p)",
+   "action": "video:http://stream.mcquack.net/364/index.m3u8"
+  },
+  {
+   "title": "Bober (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/clWWhB8.png",
+   "playerLabel": "Bober (576p)",
+   "action": "video:https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Boks TV (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/R1UjyfX.png",
+   "playerLabel": "Boks TV (720p)",
+   "action": "video:http://31.148.48.15/Boks_TV/index.m3u8"
+  },
+  {
+   "title": "Bollywood HD (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/YLQRnXt.png",
+   "playerLabel": "Bollywood HD (576p)",
+   "action": "video:http://176.118.197.101/Bollywood_HD/index.m3u8"
+  },
+  {
+   "title": "Bollywood HD Russia (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/scDKOLS.png",
+   "playerLabel": "Bollywood HD Russia (576p)",
+   "action": "video:https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8"
+  },
+  {
+   "title": "Bolt (Russia) (576p)",
+   "titleFooter": "Movies;Series",
+   "image": "https://i.imgur.com/YdIHXOR.png",
+   "playerLabel": "Bolt (Russia) (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Bolt/video.m3u8"
+  },
+  {
+   "title": "BRIDGE (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/qYObfrG.png",
+   "playerLabel": "BRIDGE (576p)",
+   "action": "video:http://stream.mcquack.net/318/index.m3u8"
+  },
+  {
+   "title": "BRIDGE Classic (576p)",
+   "titleFooter": "Classic;Music",
+   "image": "https://i.imgur.com/JJTQq81.png",
+   "playerLabel": "BRIDGE Classic (576p)",
+   "action": "video:http://stream.mcquack.net/272/index.m3u8"
+  },
+  {
+   "title": "BRIDGE Deluxe (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/EazL8w7.png",
+   "playerLabel": "BRIDGE Deluxe (1080p)",
+   "action": "video:http://31.148.48.15/Bridge_TV_HD/index.m3u8"
+  },
+  {
+   "title": "BRIDGE Deluxe HD (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/EazL8w7.png",
+   "playerLabel": "BRIDGE Deluxe HD (576p)",
+   "action": "video:http://stream.mcquack.net/92/index.m3u8"
+  },
+  {
+   "title": "BRIDGE Hits (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/sIW9oR4.png",
+   "playerLabel": "BRIDGE Hits (576p)",
+   "action": "video:http://stream.mcquack.net/320/index.m3u8"
+  },
+  {
+   "title": "BRIDGE Rock (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/MHuwct2.png",
+   "playerLabel": "BRIDGE Rock (576p)",
+   "action": "video:http://178.134.1.158:8081/BRIDGEROCK/index.m3u8"
+  },
+  {
+   "title": "BST (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/IDotHmQ.png",
+   "playerLabel": "BST (576p)",
+   "action": "video:https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8"
+  },
+  {
+   "title": "Carousel (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/4wmnx1W.png",
+   "playerLabel": "Carousel (1080p)",
+   "action": "video:http://31.148.48.15/Karusel_HD/index.m3u8"
+  },
+  {
+   "title": "Carousel +4 (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/4wmnx1W.png",
+   "playerLabel": "Carousel +4 (720p)",
+   "action": "video:http://185.37.150.46/Karusel/index.m3u8"
+  },
+  {
+   "title": "Channel 10 (Russia) (576i)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/k8JjFDw.png",
+   "playerLabel": "Channel 10 (Russia) (576i)",
+   "action": "video:https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https"
+  },
+  {
+   "title": "Channel 12 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OA9hm6e.png",
+   "playerLabel": "Channel 12 (1080p)",
+   "action": "video:https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8"
+  },
+  {
+   "title": "Channel 5 (Russia) (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KPXMa3U.png",
+   "playerLabel": "Channel 5 (Russia) (576p)",
+   "action": "video:http://31.148.5.241/kanal_5/index.m3u8"
+  },
+  {
+   "title": "Channel 8 (Russia) (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/nUSx1jF.png",
+   "playerLabel": "Channel 8 (Russia) (576p)",
+   "action": "video:http://45.11.139.43:8555/8kanal/index.m3u8"
+  },
+  {
+   "title": "Channel One (Russia) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/RUSX0rX.png",
+   "playerLabel": "Channel One (Russia) (1080p)",
+   "action": "video:http://31.148.48.15/Pervii_kanal_HD/index.m3u8"
+  },
+  {
+   "title": "Channel One (Russia) HD (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/RUSX0rX.png",
+   "playerLabel": "Channel One (Russia) HD (720p)",
+   "action": "video:https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
+  },
+  {
+   "title": "Channel-16 (406p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7tNDKHe.png",
+   "playerLabel": "Channel-16 (406p) [Not 24/7]",
+   "action": "video:http://serv25.vintera.tv:8081/test/k16/playlist.m3u8"
+  },
+  {
+   "title": "Che! (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/ZOcDGpB.png",
+   "playerLabel": "Che! (576p)",
+   "action": "video:http://flussonic.linkintel.ru/che/index.m3u8"
+  },
+  {
+   "title": "Cinema (Russia) (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/b5e9qUA.png",
+   "playerLabel": "Cinema (Russia) (576p)",
+   "action": "video:http://flussonic.linkintel.ru/cinema/index.m3u8"
+  },
+  {
+   "title": "City Eden AutoGid [Not 24/7]",
+   "titleFooter": "Auto",
+   "image": "https://i.imgur.com/qpe8L27.png",
+   "playerLabel": "City Eden AutoGid [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/47515/index.m3u8"
+  },
+  {
+   "title": "City Eden Birma Play [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/38Q5L5W.png",
+   "playerLabel": "City Eden Birma Play [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/34364/index.m3u8"
+  },
+  {
+   "title": "City Eden Classic Music [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/l7BE8l6.png",
+   "playerLabel": "City Eden Classic Music [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/47400/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoAction [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/uuzuvD0.png",
+   "playerLabel": "City Eden KinoAction [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/41333/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoArt [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/67CWCtz.png",
+   "playerLabel": "City Eden KinoArt [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/38398/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoAsia [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/gaket4B.png",
+   "playerLabel": "City Eden KinoAsia [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/34393/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoDetektiv [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/9rKHwBV.png",
+   "playerLabel": "City Eden KinoDetektiv [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/41327/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoDok [Not 24/7]",
+   "titleFooter": "Documentary;Series",
+   "image": "https://i.imgur.com/itRbMX3.png",
+   "playerLabel": "City Eden KinoDok [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/38354/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoDrama [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/29ddffh.png",
+   "playerLabel": "City Eden KinoDrama [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/45269/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoFantastika [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/I64FeIO.png",
+   "playerLabel": "City Eden KinoFantastika [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/45268/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoKlassika [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/0qGCS1S.png",
+   "playerLabel": "City Eden KinoKlassika [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/34185/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoKomediya [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Aga2XVA.png",
+   "playerLabel": "City Eden KinoKomediya [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/41331/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoMistika [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/s1Pid0K.png",
+   "playerLabel": "City Eden KinoMistika [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/40783/index.m3u8"
+  },
+  {
+   "title": "City Eden KinoSemya [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/YoWOZMx.png",
+   "playerLabel": "City Eden KinoSemya [Not 24/7]",
+   "action": "video:https://v2.catcast.tv/content/38128/index.m3u8"
+  },
+  {
+   "title": "City Eden MedZdrav [Not 24/7]",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/BM4E0Kr.png",
+   "playerLabel": "City Eden MedZdrav [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/47519/index.m3u8"
+  },
+  {
+   "title": "City Eden Play [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/ozEqob9.png",
+   "playerLabel": "City Eden Play [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/34100/index.m3u8"
+  },
+  {
+   "title": "City Eden Recepty Gurmana [Not 24/7]",
+   "titleFooter": "Cooking",
+   "image": "https://i.imgur.com/wR0pvRc.png",
+   "playerLabel": "City Eden Recepty Gurmana [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/47516/index.m3u8"
+  },
+  {
+   "title": "City Eden Sirtaki TV [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/V3MTfyc.png",
+   "playerLabel": "City Eden Sirtaki TV [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/46421/index.m3u8"
+  },
+  {
+   "title": "City Eden TeleNovella [Not 24/7]",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/mT5liTh.png",
+   "playerLabel": "City Eden TeleNovella [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/46209/index.m3u8"
+  },
+  {
+   "title": "City Eden TV [Not 24/7]",
+   "titleFooter": "General;Religious",
+   "image": "https://i.imgur.com/X9kACKi.png",
+   "playerLabel": "City Eden TV [Not 24/7]",
+   "action": "video:https://cityeden.catcast.tv/content/34246/index.m3u8"
+  },
+  {
+   "title": "Classic Music (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/TpXs1qA.png",
+   "playerLabel": "Classic Music (1080p)",
+   "action": "video:http://stream.mcquack.net/312/index.m3u8"
+  },
+  {
+   "title": "Crimea 24",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/k4C0uvp.png",
+   "playerLabel": "Crimea 24",
+   "action": "video:https://cdn.1tvcrimea.ru/24tvcrimea.m3u8"
+  },
+  {
+   "title": "Current Time TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/hKo8ApU.png",
+   "playerLabel": "Current Time TV (1080p)",
+   "action": "video:https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
+  },
+  {
+   "title": "Da Vinci (Russia) (576p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/V8AUJP6.png",
+   "playerLabel": "Da Vinci (Russia) (576p)",
+   "action": "video:http://stream.mcquack.net/238/index.m3u8"
+  },
+  {
+   "title": "Dagestan (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/jumkRvc.png",
+   "playerLabel": "Dagestan (1080p)",
+   "action": "video:https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
+  },
+  {
+   "title": "DanceHits80",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/uMw3kks.png",
+   "playerLabel": "DanceHits80",
+   "action": "video:http://dancehits80.denvs.ru:8080/index.m3u8"
+  },
+  {
+   "title": "Detskiy (576p)",
+   "titleFooter": "Kids",
+   "image": "https://mt.media/upload/iblock/c22/pndw8yi2jwgppdrjikm3eusqp8087kr3.png",
+   "playerLabel": "Detskiy (576p)",
+   "action": "video:https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Detskoe kino [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/dJqFRhQ.png",
+   "playerLabel": "Detskoe kino [Not 24/7]",
+   "action": "video:https://autopilot.catcast.tv/content/38720/index.m3u8"
+  },
+  {
+   "title": "Detvora+ (1080p)",
+   "titleFooter": "Animation;Family;Kids",
+   "image": "https://interra-cdn-europe1.b-cdn.net/logo-detvora.png",
+   "playerLabel": "Detvora+ (1080p)",
+   "action": "video:https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8"
+  },
+  {
+   "title": "Dikaya okhota HD (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/EOue13e.png",
+   "playerLabel": "Dikaya okhota HD (1080p)",
+   "action": "video:http://stream.mcquack.net/274/index.m3u8"
+  },
+  {
+   "title": "Dikaya rybalka HD (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/e3BFVgt.png",
+   "playerLabel": "Dikaya rybalka HD (1080p)",
+   "action": "video:http://stream.mcquack.net/275/index.m3u8"
+  },
+  {
+   "title": "Dikij (576p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/VDXDiPC.png",
+   "playerLabel": "Dikij (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Dikiy/video.m3u8"
+  },
+  {
+   "title": "Discovery Channel (Russia) (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+   "playerLabel": "Discovery Channel (Russia) (1080p)",
+   "action": "video:http://stream.mcquack.net/177/index.m3u8"
+  },
+  {
+   "title": "Doctor (1080p)",
+   "titleFooter": "Education;Lifestyle",
+   "image": "https://i.imgur.com/VNirxxn.png",
+   "playerLabel": "Doctor (1080p)",
+   "action": "video:http://31.148.48.15/Doktor/index.m3u8"
+  },
+  {
+   "title": "DocuBox Russia",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/pX4U9OG.png",
+   "playerLabel": "DocuBox Russia",
+   "action": "video:http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8"
+  },
+  {
+   "title": "Dom kino (576p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+   "playerLabel": "Dom kino (576p)",
+   "action": "video:http://stream.mcquack.net/236/index.m3u8"
+  },
+  {
+   "title": "Dom kino International (576p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+   "playerLabel": "Dom kino International (576p)",
+   "action": "video:https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Dom kino Premium (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/rJpQtvK.png",
+   "playerLabel": "Dom kino Premium (1080p)",
+   "action": "video:http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8"
+  },
+  {
+   "title": "Dom kino Premium HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/rJpQtvK.png",
+   "playerLabel": "Dom kino Premium HD (1080p)",
+   "action": "video:http://stream.mcquack.net/108/index.m3u8"
+  },
+  {
+   "title": "Domashnie Zhivotnye (576p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/ISJzQGP.png",
+   "playerLabel": "Domashnie Zhivotnye (576p)",
+   "action": "video:https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Domashniy (576p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/XVRwgom.png",
+   "playerLabel": "Domashniy (576p)",
+   "action": "video:http://stream.mcquack.net/227/index.m3u8"
+  },
+  {
+   "title": "Don 24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/fW15la1.png",
+   "playerLabel": "Don 24 (1080p)",
+   "action": "video:https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8"
+  },
+  {
+   "title": "Dorama (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/ZH5LuXU.png",
+   "playerLabel": "Dorama (576p)",
+   "action": "video:https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Drive (576i)",
+   "titleFooter": "Auto",
+   "image": "https://i.imgur.com/FnuwfSC.png",
+   "playerLabel": "Drive (576i)",
+   "action": "video:https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Duma TV (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/JvlO3PU.png",
+   "playerLabel": "Duma TV (720p)",
+   "action": "video:http://185.23.80.23:8080/DumaTV/index.m3u8"
+  },
+  {
+   "title": "Dushevnoe HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/vTRHAvD.png",
+   "playerLabel": "Dushevnoe HD (1080p)",
+   "action": "video:http://stream.mcquack.net/213/index.m3u8"
+  },
+  {
+   "title": "English Class (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/gst7wW7.png",
+   "playerLabel": "English Class (1080p)",
+   "action": "video:http://31.148.48.15/English_club_TV_HD/index.m3u8"
+  },
+  {
+   "title": "Enisey (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/57deE7f.png",
+   "playerLabel": "Enisey (576p)",
+   "action": "video:http://tshift-1.telecoma.tv/enisei/index.m3u8"
+  },
+  {
+   "title": "Eurasia (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4JUHIVS.png",
+   "playerLabel": "Eurasia (720p)",
+   "action": "video:https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8"
+  },
+  {
+   "title": "Euronews Russian (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/8t9mdg9.png",
+   "playerLabel": "Euronews Russian (720p)",
+   "action": "video:https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8"
+  },
+  {
+   "title": "Europa Plus TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/GLc4qrc.png",
+   "playerLabel": "Europa Plus TV (1080p)",
+   "action": "video:http://31.148.48.15/Europa_Plus_HD/index.m3u8"
+  },
+  {
+   "title": "Europa Plus TV Belarus (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/GLc4qrc.png",
+   "playerLabel": "Europa Plus TV Belarus (576p)",
+   "action": "video:http://46.53.200.153:7777/play/EuropaPlus/index.m3u8"
+  },
+  {
+   "title": "Eurosport 1 Russia (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/olQJgm7.png",
+   "playerLabel": "Eurosport 1 Russia (1080p)",
+   "action": "video:http://stream.mcquack.net/176/index.m3u8"
+  },
+  {
+   "title": "Eurosport 2 Russia (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/f56dHgR.png",
+   "playerLabel": "Eurosport 2 Russia (1080p)",
+   "action": "video:http://stream.mcquack.net/192/index.m3u8"
+  },
+  {
+   "title": "Evrokino (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/8LPtPf6.png",
+   "playerLabel": "Evrokino (576p)",
+   "action": "video:https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Evrokino HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/8LPtPf6.png",
+   "playerLabel": "Evrokino HD (1080p)",
+   "action": "video:http://stream.mcquack.net/385/index.m3u8"
+  },
+  {
+   "title": "Extreme Sports Channel (576p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
+   "playerLabel": "Extreme Sports Channel (576p)",
+   "action": "video:http://46.32.176.50/extremesport/index.m3u8"
+  },
+  {
+   "title": "FAN (1080p)",
+   "titleFooter": "Animation;Movies",
+   "image": "https://i.imgur.com/mDeTbaF.png",
+   "playerLabel": "FAN (1080p)",
+   "action": "video:http://31.148.48.15/Fan/index.m3u8"
+  },
+  {
+   "title": "Fashion&LifeStyle (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/ETmpllL.png",
+   "playerLabel": "Fashion&LifeStyle (1080p)",
+   "action": "video:http://stream.mcquack.net/119/index.m3u8"
+  },
+  {
+   "title": "FashionTV (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
+   "playerLabel": "FashionTV (1080p)",
+   "action": "video:http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8"
+  },
+  {
+   "title": "Feniks plus Kino (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/S9OPMLE.png",
+   "playerLabel": "Feniks plus Kino (576p)",
+   "action": "video:http://31.148.48.15/Feniks_plus_kino/index.m3u8"
+  },
+  {
+   "title": "First Music Channel (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/YdyFJrl.png",
+   "playerLabel": "First Music Channel (1080p)",
+   "action": "video:http://rtmp.one.by:1300"
+  },
+  {
+   "title": "First Music Channel Russia (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/rEo7nR1.png",
+   "playerLabel": "First Music Channel Russia (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/1muz_HD/video.m3u8"
+  },
+  {
+   "title": "FON Music (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/tXABQDE.png",
+   "playerLabel": "FON Music (576p)",
+   "action": "video:https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Food Network (Russia) (1080p)",
+   "titleFooter": "Cooking",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+   "playerLabel": "Food Network (Russia) (1080p)",
+   "action": "video:http://stream.mcquack.net/298/index.m3u8"
+  },
+  {
+   "title": "Football (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/pEuaZVx.png",
+   "playerLabel": "Football (720p)",
+   "action": "video:http://31.148.48.15/Futbol_HD/index.m3u8"
+  },
+  {
+   "title": "Fox (Russia) (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/nr1Y67Z.png",
+   "playerLabel": "Fox (Russia) (576p)",
+   "action": "video:http://stream.mcquack.net/182/index.m3u8"
+  },
+  {
+   "title": "Fox Life (576p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/O2miSLA.png",
+   "playerLabel": "Fox Life (576p)",
+   "action": "video:http://stream.mcquack.net/129/index.m3u8"
+  },
+  {
+   "title": "Friday! (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/UfmlXxe.png",
+   "playerLabel": "Friday! (576p)",
+   "action": "video:http://stream.mcquack.net/181/index.m3u8"
+  },
+  {
+   "title": "Friday! International Kazakhstan (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/N2z3EZC.png",
+   "playerLabel": "Friday! International Kazakhstan (576p)",
+   "action": "video:https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Gagsnetwork (576p)",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/ENj5GIp.png",
+   "playerLabel": "Gagsnetwork (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8"
+  },
+  {
+   "title": "Glazami Turista (576i)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/GXJKWdy.png",
+   "playerLabel": "Glazami Turista (576i)",
+   "action": "video:https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Gorodskoy telekanal (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zMNJfoV.png",
+   "playerLabel": "Gorodskoy telekanal (720p)",
+   "action": "video:https://gtk.tv/hls/gtyar.m3u8"
+  },
+  {
+   "title": "Govorit Moskva (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/z2mxf3E.png",
+   "playerLabel": "Govorit Moskva (720p)",
+   "action": "video:https://video.govoritmoskva.ru/rufm/index.m3u8"
+  },
+  {
+   "title": "Groznyj",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yrN0Vl6.png",
+   "playerLabel": "Groznyj",
+   "action": "video:https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8"
+  },
+  {
+   "title": "Gubernia Samara (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/IlL57Rm.png",
+   "playerLabel": "Gubernia Samara (576p)",
+   "action": "video:http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Gulli Girl (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/lbViDuC.png",
+   "playerLabel": "Gulli Girl (720p)",
+   "action": "video:https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Hit HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/jl3MNPe.png",
+   "playerLabel": "Hit HD (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/XitHD/video.m3u8"
+  },
+  {
+   "title": "Hollywood (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/1j7cT2I.png",
+   "playerLabel": "Hollywood (1080p)",
+   "action": "video:http://31.148.48.15/MGM_HD/index.m3u8"
+  },
+  {
+   "title": "Hope Channel Russia (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/ah6VnFJ.png",
+   "playerLabel": "Hope Channel Russia (720p)",
+   "action": "video:https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+  },
+  {
+   "title": "Horoshee Kino (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/ZbOqfy4.png",
+   "playerLabel": "Horoshee Kino (720p)",
+   "action": "video:https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8"
+  },
+  {
+   "title": "Illusion+ (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/9GvuHQ5.png",
+   "playerLabel": "Illusion+ (576p)",
+   "action": "video:http://176.118.197.101/Illuzion+/index.m3u8"
+  },
+  {
+   "title": "India (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/xDVcDOc.png",
+   "playerLabel": "India (576p)",
+   "action": "video:https://fs.uplink.kz/india/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Indiyskoye Kino (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/LL8GyCh.png",
+   "playerLabel": "Indiyskoye Kino (576p)",
+   "action": "video:http://188.113.190.12/329/index.m3u8"
+  },
+  {
+   "title": "Ingushetia (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Fw2Hkk4.png",
+   "playerLabel": "Ingushetia (1080p)",
+   "action": "video:https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
+  },
+  {
+   "title": "Investigation Discovery (Russia) (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+   "playerLabel": "Investigation Discovery (Russia) (1080p)",
+   "action": "video:http://stream.mcquack.net/205/index.m3u8"
+  },
+  {
+   "title": "Istoki (1080p)",
+   "titleFooter": "General",
+   "image": "https://istoki.tv/local/templates/istoki_new/img/logo.png",
+   "playerLabel": "Istoki (1080p)",
+   "action": "video:https://istoki.tv/live/stream1/playlist.m3u8"
+  },
+  {
+   "title": "Istoriya (576p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/eEjPail.png",
+   "playerLabel": "Istoriya (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Istoriya/video.m3u8"
+  },
+  {
+   "title": "Izvestia (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/r5HzA6J.png",
+   "playerLabel": "Izvestia (1080p)",
+   "action": "video:http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
+  },
+  {
+   "title": "Kapitan Fantastika (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/K3PSHiT.png",
+   "playerLabel": "Kapitan Fantastika (1080p)",
+   "action": "video:http://stream.mcquack.net/144/index.m3u8"
+  },
+  {
+   "title": "Kavkaz 24 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DyJw1Pi.png",
+   "playerLabel": "Kavkaz 24 (576p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8"
+  },
+  {
+   "title": "KHL (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/RgdHdOV.png",
+   "playerLabel": "KHL (720p)",
+   "action": "video:http://31.148.48.15/KHL_TV/index.m3u8"
+  },
+  {
+   "title": "Kineko (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Otfvlmf.png",
+   "playerLabel": "Kineko (1080p)",
+   "action": "video:http://31.148.48.15/Kineko_HD/index.m3u8"
+  },
+  {
+   "title": "Kino 1 (Russia) [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/zsCPLs4.png",
+   "playerLabel": "Kino 1 (Russia) [Not 24/7]",
+   "action": "video:http://kino-1.catcast.tv/content/38617/index.m3u8"
+  },
+  {
+   "title": "Kino 24 (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/QAdDARF.png",
+   "playerLabel": "Kino 24 (720p)",
+   "action": "video:http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+  },
+  {
+   "title": "Kino TV (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/sMpamNO.png",
+   "playerLabel": "Kino TV (720p)",
+   "action": "video:http://31.148.48.15/Kino_TV_HD/index.m3u8"
+  },
+  {
+   "title": "Kino TV HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/sMpamNO.png",
+   "playerLabel": "Kino TV HD (1080p)",
+   "action": "video:http://176.118.197.101/KinoTvHD/playlist.m3u8"
+  },
+  {
+   "title": "KinoHit (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Ge8vkQM.png",
+   "playerLabel": "KinoHit (576p)",
+   "action": "video:http://stream.mcquack.net/126/index.m3u8"
+  },
+  {
+   "title": "Kinokomedija (576p)",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/dVjtth0.png",
+   "playerLabel": "Kinokomedija (576p)",
+   "action": "video:http://stream.mcquack.net/265/index.m3u8"
+  },
+  {
+   "title": "Kinomix (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/D4q2XUT.png",
+   "playerLabel": "Kinomix (576p)",
+   "action": "video:http://93.170.254.17/Kinomiks/index.m3u8"
+  },
+  {
+   "title": "Kinopokaz (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/nNjMyAq.png",
+   "playerLabel": "Kinopokaz (576p)",
+   "action": "video:http://stream.mcquack.net/64/index.m3u8"
+  },
+  {
+   "title": "Kinopokaz HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/nNjMyAq.png",
+   "playerLabel": "Kinopokaz HD (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8"
+  },
+  {
+   "title": "Kinopremyera (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/s0UYT8T.png",
+   "playerLabel": "Kinopremyera (1080p)",
+   "action": "video:http://5.188.159.128:8070/KINOPREMIERA/index.m3u8"
+  },
+  {
+   "title": "Kinopremyera HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/s0UYT8T.png",
+   "playerLabel": "Kinopremyera HD (1080p)",
+   "action": "video:https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "KinoSat (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/7KsNvBz.png",
+   "playerLabel": "KinoSat (576p)",
+   "action": "video:http://31.148.48.15/Kineko/index.m3u8"
+  },
+  {
+   "title": "Kinosemja (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/4BF5VeK.png",
+   "playerLabel": "Kinosemja (576p)",
+   "action": "video:http://stream.mcquack.net/170/index.m3u8"
+  },
+  {
+   "title": "Kinoseriya (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/iao7zLZ.png",
+   "playerLabel": "Kinoseriya (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8"
+  },
+  {
+   "title": "Kinosvidanie (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/ZRaWqxj.png",
+   "playerLabel": "Kinosvidanie (576p)",
+   "action": "video:http://5.188.159.128:8070/kinosvidanie/index.m3u8"
+  },
+  {
+   "title": "Kinouzhas (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/mAcAAQF.png",
+   "playerLabel": "Kinouzhas (576p)",
+   "action": "video:http://stream.mcquack.net/278/index.m3u8"
+  },
+  {
+   "title": "Kluch (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/WA9TOPi.png",
+   "playerLabel": "Kluch (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Kluch/video.m3u8"
+  },
+  {
+   "title": "KN Music TV",
+   "titleFooter": "Music",
+   "image": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
+   "playerLabel": "KN Music TV",
+   "action": "video:https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Komedia (576p)",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/VRC5juh.png",
+   "playerLabel": "Komedia (576p)",
+   "action": "video:http://stream.mcquack.net/68/index.m3u8"
+  },
+  {
+   "title": "Komediynoe HD (1080p)",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/cEKe8XC.png",
+   "playerLabel": "Komediynoe HD (1080p)",
+   "action": "video:http://stream.mcquack.net/74/index.m3u8"
+  },
+  {
+   "title": "Kongress TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg",
+   "playerLabel": "Kongress TV (1080p)",
+   "action": "video:https://live-3.otcnet.ru/congresstv/index.m3u8"
+  },
+  {
+   "title": "Krik-TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/rtuChZR.png",
+   "playerLabel": "Krik-TV (1080p)",
+   "action": "video:http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
+  },
+  {
+   "title": "Kto est kto (576p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/PmD17UQ.png",
+   "playerLabel": "Kto est kto (576p)",
+   "action": "video:http://31.148.48.15/Kto_est_kto/index.m3u8"
+  },
+  {
+   "title": "Kuban 24 (480p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://www.cableman.ru/sites/default/files/2022-03-23_02-09-35.png",
+   "playerLabel": "Kuban 24 (480p) [Geo-blocked]",
+   "action": "video:http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8"
+  },
+  {
+   "title": "Kuhnya (576p)",
+   "titleFooter": "Cooking",
+   "image": "https://i.imgur.com/7jxZnuS.png",
+   "playerLabel": "Kuhnya (576p)",
+   "action": "video:http://stream.mcquack.net/179/index.m3u8"
+  },
+  {
+   "title": "Kulinar TV (576p)",
+   "titleFooter": "Cooking",
+   "image": "https://smotret.tv/images/kulinar-tv.webp",
+   "playerLabel": "Kulinar TV (576p)",
+   "action": "video:https://api.alpaca.t62a.com/hls/9110/stream0.m3u8"
+  },
+  {
+   "title": "Kuraj-TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hZXBD9F.png",
+   "playerLabel": "Kuraj-TV (576p)",
+   "action": "video:https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+  },
+  {
+   "title": "KVN TV (576p)",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/Vw3LFLX.png",
+   "playerLabel": "KVN TV (576p)",
+   "action": "video:http://178.124.179.122:8080/KVN-TV/index.m3u8"
+  },
+  {
+   "title": "Lapki Live (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://lapki.live/lapki_og.png",
+   "playerLabel": "Lapki Live (576p)",
+   "action": "video:https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "LDPR TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gCmCRfe.png",
+   "playerLabel": "LDPR TV (1080p)",
+   "action": "video:http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8"
+  },
+  {
+   "title": "Legendarnyy 24",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/z9t6x8B.png",
+   "playerLabel": "Legendarnyy 24",
+   "action": "video:https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
+  },
+  {
+   "title": "LenTV24",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/d02uxkB.png",
+   "playerLabel": "LenTV24",
+   "action": "video:https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657"
+  },
+  {
+   "title": "Leomax 24 (1080p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/qU9ohQu.png",
+   "playerLabel": "Leomax 24 (1080p)",
+   "action": "video:https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
+  },
+  {
+   "title": "Live Music Channel HD (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/9qJkxV9.png",
+   "playerLabel": "Live Music Channel HD (1080p)",
+   "action": "video:http://46.53.200.153:7777/play/Live_music_channel/index.m3u8"
+  },
+  {
+   "title": "Lugansk 24",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AihoVc0.png",
+   "playerLabel": "Lugansk 24",
+   "action": "video:https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+  },
+  {
+   "title": "Magnat (1080p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/r485aZL.png",
+   "playerLabel": "Magnat (1080p)",
+   "action": "video:https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+  },
+  {
+   "title": "Maidan (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/C8CCjZK.png",
+   "playerLabel": "Maidan (720p)",
+   "action": "video:https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8"
+  },
+  {
+   "title": "Mama (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/kmMIjjf.png",
+   "playerLabel": "Mama (576p)",
+   "action": "video:http://stream.mcquack.net/79/index.m3u8"
+  },
+  {
+   "title": "Match! Arena (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/udTzwzu.png",
+   "playerLabel": "Match! Arena (720p)",
+   "action": "video:http://31.148.48.15/Match_Arena_HD/index.m3u8"
+  },
+  {
+   "title": "Match! Boets (576p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/DogOkA4.png",
+   "playerLabel": "Match! Boets (576p)",
+   "action": "video:http://stream.mcquack.net/112/index.m3u8"
+  },
+  {
+   "title": "Match! Igra (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/5XWpF19.png",
+   "playerLabel": "Match! Igra (720p)",
+   "action": "video:http://31.148.48.15/Match_Igra_HD/index.m3u8"
+  },
+  {
+   "title": "Match! Planeta (576p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/vhyMb9D.png",
+   "playerLabel": "Match! Planeta (576p)",
+   "action": "video:https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Match! Premier (480p) [Geo-blocked]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/GQPyHYK.png",
+   "playerLabel": "Match! Premier (480p) [Geo-blocked]",
+   "action": "video:http://192.162.64.99:5000/play/a02b/index.m3u8"
+  },
+  {
+   "title": "Match! Strana (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/X02s2UE.png",
+   "playerLabel": "Match! Strana (720p)",
+   "action": "video:http://31.148.48.15/Match_Strana/index.m3u8"
+  },
+  {
+   "title": "Match! Ultra (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg",
+   "playerLabel": "Match! Ultra (1080p)",
+   "action": "video:http://31.148.5.241/kanal_3/index.m3u8"
+  },
+  {
+   "title": "MCM Top (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/EVtWQLd.png",
+   "playerLabel": "MCM Top (576p)",
+   "action": "video:http://46.32.176.50/mcmtop/index.m3u8"
+  },
+  {
+   "title": "Mezzo Live (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/H9ytKPN.png",
+   "playerLabel": "Mezzo Live (1080p)",
+   "action": "video:http://stream.mcquack.net/276/index.m3u8"
+  },
+  {
+   "title": "Millet (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/hUjLRLy.png",
+   "playerLabel": "Millet (720p)",
+   "action": "video:https://live1.1tvcrimea.ru/milletlive.m3u8"
+  },
+  {
+   "title": "Mir +2 (540p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AqWaJT8.png",
+   "playerLabel": "Mir +2 (540p) [Not 24/7]",
+   "action": "video:http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8"
+  },
+  {
+   "title": "Mir +4 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AqWaJT8.png",
+   "playerLabel": "Mir +4 (576p)",
+   "action": "video:http://31.148.48.15/Mir/index.m3u8"
+  },
+  {
+   "title": "Mir +7 (540p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AqWaJT8.png",
+   "playerLabel": "Mir +7 (540p)",
+   "action": "video:http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8"
+  },
+  {
+   "title": "Mir 24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/dj9c8Yd.png",
+   "playerLabel": "Mir 24 (1080p)",
+   "action": "video:http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+  },
+  {
+   "title": "Mir Belogorya (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png",
+   "playerLabel": "Mir Belogorya (720p) [Geo-blocked]",
+   "action": "video:http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
+  },
+  {
+   "title": "Mir HD (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AqWaJT8.png",
+   "playerLabel": "Mir HD (1080p) [Not 24/7]",
+   "action": "video:http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8"
+  },
+  {
+   "title": "Mir Kazakhstan (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AqWaJT8.png",
+   "playerLabel": "Mir Kazakhstan (576p)",
+   "action": "video:http://tvcdn01.esilnet.kz/tv/mir/index.m3u8"
+  },
+  {
+   "title": "Mir Seriala (576p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/uzj7wVp.png",
+   "playerLabel": "Mir Seriala (576p)",
+   "action": "video:http://176.118.197.101/MirSeriala/index.m3u8"
+  },
+  {
+   "title": "MMA-TV.com (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/QhdxNsB.png",
+   "playerLabel": "MMA-TV.com (1080p)",
+   "action": "video:https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+  },
+  {
+   "title": "Mosfilm Gold Collection (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/95Y8jb6.png",
+   "playerLabel": "Mosfilm Gold Collection (576p)",
+   "action": "video:http://31.222.235.15/mosfilm/index.m3u8"
+  },
+  {
+   "title": "Moskva 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gXbUMVy.png",
+   "playerLabel": "Moskva 24 (1080p)",
+   "action": "video:https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58"
+  },
+  {
+   "title": "Moskva. Doveriye (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QDqDQzt.png",
+   "playerLabel": "Moskva. Doveriye (576p)",
+   "action": "video:https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8"
+  },
+  {
+   "title": "Moy mir (720p)",
+   "titleFooter": "Shop",
+   "image": "https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png",
+   "playerLabel": "Moy mir (720p)",
+   "action": "video:https://moymir.ru/hls/onair.m3u8"
+  },
+  {
+   "title": "Moya Planeta (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/uIiAdBv.png",
+   "playerLabel": "Moya Planeta (1080p)",
+   "action": "video:http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Moya stikhiya HD (1080p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/Sl8c9eB.png",
+   "playerLabel": "Moya stikhiya HD (1080p)",
+   "action": "video:http://stream.mcquack.net/141/index.m3u8"
+  },
+  {
+   "title": "MTV Volgograd (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pdCAUrP.png",
+   "playerLabel": "MTV Volgograd (720p) [Not 24/7]",
+   "action": "video:http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Mult (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/xi351Fx.png",
+   "playerLabel": "Mult (1080p)",
+   "action": "video:http://31.148.48.15/Mult_HD/index.m3u8"
+  },
+  {
+   "title": "Mult i muzyka (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/SYt6BZP.png",
+   "playerLabel": "Mult i muzyka (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8"
+  },
+  {
+   "title": "Mult International (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/xi351Fx.png",
+   "playerLabel": "Mult International (576p)",
+   "action": "video:https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Muz Soyuz (576p)",
+   "titleFooter": "Music;Religious",
+   "image": "https://i.imgur.com/Puk1Bhx.png",
+   "playerLabel": "Muz Soyuz (576p)",
+   "action": "video:https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
+  },
+  {
+   "title": "Muz-TV (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/BtqrHmz.png",
+   "playerLabel": "Muz-TV (576p)",
+   "action": "video:http://46.32.176.50/muztv/index.m3u8"
+  },
+  {
+   "title": "Muzhskoe kino (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/8RN3tQC.png",
+   "playerLabel": "Muzhskoe kino (576p)",
+   "action": "video:http://stream.mcquack.net/107/index.m3u8"
+  },
+  {
+   "title": "Muzyka 1 [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/DIKe5vA.png",
+   "playerLabel": "Muzyka 1 [Not 24/7]",
+   "action": "video:https://kino-1.catcast.tv/content/37745/index.m3u8"
+  },
+  {
+   "title": "Muzyka Kino [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/2SG0Swa.png",
+   "playerLabel": "Muzyka Kino [Not 24/7]",
+   "action": "video:https://kino-1.catcast.tv/content/37739/index.m3u8"
+  },
+  {
+   "title": "Muzyka Live (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/RH6hTWG.png",
+   "playerLabel": "Muzyka Live (576p)",
+   "action": "video:http://stream.mcquack.net/303/index.m3u8"
+  },
+  {
+   "title": "Muzyka Pervogo (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/U0vKj3P.png",
+   "playerLabel": "Muzyka Pervogo (576p)",
+   "action": "video:http://stream.mcquack.net/153/index.m3u8"
+  },
+  {
+   "title": "Nano (576p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/dYj3XDa.png",
+   "playerLabel": "Nano (576p)",
+   "action": "video:http://stream.mcquack.net/419/index.m3u8"
+  },
+  {
+   "title": "Nano HD (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/dYj3XDa.png",
+   "playerLabel": "Nano HD (1080p)",
+   "action": "video:http://185.23.80.23:8080/NANO_HD/index.m3u8"
+  },
+  {
+   "title": "Nash Kinopokaz HD (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/iwTMl8O.png",
+   "playerLabel": "Nash Kinopokaz HD (576p)",
+   "action": "video:http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8"
+  },
+  {
+   "title": "Nashe HD (576p)",
+   "titleFooter": "Movies;Series",
+   "image": "https://i.imgur.com/KO8dhi9.png",
+   "playerLabel": "Nashe HD (576p)",
+   "action": "video:http://stream.mcquack.net/217/index.m3u8"
+  },
+  {
+   "title": "Nashe Lubimoe Kino (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/iKPfM5K.png",
+   "playerLabel": "Nashe Lubimoe Kino (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8"
+  },
+  {
+   "title": "Nashe muzhskoe HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/QRWKpmb.png",
+   "playerLabel": "Nashe muzhskoe HD (1080p)",
+   "action": "video:http://stream.mcquack.net/362/index.m3u8"
+  },
+  {
+   "title": "Nashe Novoe Kino",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/IOxIsPj.png",
+   "playerLabel": "Nashe Novoe Kino",
+   "action": "video:https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "National Geographic (Russia) (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+   "playerLabel": "National Geographic (Russia) (1080p)",
+   "action": "video:http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8"
+  },
+  {
+   "title": "National Geographic Wild (Russia) (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+   "playerLabel": "National Geographic Wild (Russia) (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8"
+  },
+  {
+   "title": "National Geographic Wild (Russia) HD",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+   "playerLabel": "National Geographic Wild (Russia) HD",
+   "action": "video:http://178.76.68.60:7442/50/mpegts"
+  },
+  {
+   "title": "Nauka (Russia) (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/ZZxzueO.png",
+   "playerLabel": "Nauka (Russia) (1080p)",
+   "action": "video:http://31.148.48.15/Nauka_2.0/index.m3u8"
+  },
+  {
+   "title": "Nevskiy (1080p)",
+   "titleFooter": "Series",
+   "image": "https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg",
+   "playerLabel": "Nevskiy (1080p)",
+   "action": "video:https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8"
+  },
+  {
+   "title": "Nickelodeon (Russia) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/w8iE8dV.png",
+   "playerLabel": "Nickelodeon (Russia) (576p)",
+   "action": "video:http://stream.mcquack.net/443/index.m3u8"
+  },
+  {
+   "title": "Nika TV (576p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/dccsFAu.png",
+   "playerLabel": "Nika TV (576p) [Not 24/7]",
+   "action": "video:https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Nizhniy Novgorod 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ZWgPVIC.png",
+   "playerLabel": "Nizhniy Novgorod 24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8"
+  },
+  {
+   "title": "Nostalgia (Russia) (576p)",
+   "titleFooter": "Classic",
+   "image": "https://i.imgur.com/YBdBc0J.png",
+   "playerLabel": "Nostalgia (Russia) (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Nostalgiya/video.m3u8"
+  },
+  {
+   "title": "Novorossiya TV (1080p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ijmf0bV.png",
+   "playerLabel": "Novorossiya TV (1080p) [Geo-blocked]",
+   "action": "video:http://31.131.139.253:9002/novoros/index.m3u8"
+  },
+  {
+   "title": "NST (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/uv2yxa5.png",
+   "playerLabel": "NST (576p)",
+   "action": "video:http://hls127.freeott.top:8080/HCTV/video.m3u8"
+  },
+  {
+   "title": "NTM (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AH50pGT.png",
+   "playerLabel": "NTM (720p) [Not 24/7]",
+   "action": "video:https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
+  },
+  {
+   "title": "NTS (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/skkDR7q.png",
+   "playerLabel": "NTS (1080p) [Not 24/7]",
+   "action": "video:https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
+  },
+  {
+   "title": "NTV (Russia) (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9r1BKzK.png",
+   "playerLabel": "NTV (Russia) (576p)",
+   "action": "video:http://45.153.24.78/NTV/index.m3u8"
+  },
+  {
+   "title": "NTV (Russia) +1 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9r1BKzK.png",
+   "playerLabel": "NTV (Russia) +1 (576p)",
+   "action": "video:https://cdn.ntv.ru/ntv1/playlist.m3u8"
+  },
+  {
+   "title": "NTV (Russia) +2 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9r1BKzK.png",
+   "playerLabel": "NTV (Russia) +2 (576p)",
+   "action": "video:https://cdn.ntv.ru/ntv2/playlist.m3u8"
+  },
+  {
+   "title": "NTV (Russia) +4 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9r1BKzK.png",
+   "playerLabel": "NTV (Russia) +4 (576p)",
+   "action": "video:https://cdn.ntv.ru/ntv4/playlist.m3u8"
+  },
+  {
+   "title": "NTV (Russia) +7 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9r1BKzK.png",
+   "playerLabel": "NTV (Russia) +7 (576p)",
+   "action": "video:https://cdn.ntv.ru/ntv7/playlist.m3u8"
+  },
+  {
+   "title": "NTV (Russia) HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9r1BKzK.png",
+   "playerLabel": "NTV (Russia) HD (1080p)",
+   "action": "video:https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https"
+  },
+  {
+   "title": "NTV Law (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/3ChnWGg.png",
+   "playerLabel": "NTV Law (576p)",
+   "action": "video:http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8"
+  },
+  {
+   "title": "NTV Series (576p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/QdVa8tl.png",
+   "playerLabel": "NTV Series (576p)",
+   "action": "video:http://stream.mcquack.net/301/index.m3u8"
+  },
+  {
+   "title": "NTV Style (576p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/rX6K6qT.png",
+   "playerLabel": "NTV Style (576p)",
+   "action": "video:http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8"
+  },
+  {
+   "title": "NTV Vitrina (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png",
+   "playerLabel": "NTV Vitrina (720p)",
+   "action": "video:https://cdn.ntv.ru/vitrina/index.m3u8"
+  },
+  {
+   "title": "NTV-Hit (576p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/FfKBvz5.png",
+   "playerLabel": "NTV-Hit (576p)",
+   "action": "video:http://178.134.1.158:8081/ntvhit/index.m3u8"
+  },
+  {
+   "title": "NVK Sakha (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/LwXNUhf.png",
+   "playerLabel": "NVK Sakha (1080p) [Not 24/7]",
+   "action": "video:https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8"
+  },
+  {
+   "title": "O! (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/pDc665V.png",
+   "playerLabel": "O! (576p)",
+   "action": "video:http://stream.mcquack.net/60/index.m3u8"
+  },
+  {
+   "title": "O! International (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/pDc665V.png",
+   "playerLabel": "O! International (720p)",
+   "action": "video:http://88.212.15.17/live/test_telekanal_o/playlist.m3u8"
+  },
+  {
+   "title": "o2tv (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/CM6z7fA.png",
+   "playerLabel": "o2tv (720p)",
+   "action": "video:http://31.148.48.15/O2_HD/index.m3u8"
+  },
+  {
+   "title": "Ocean-TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/zswzDZS.png",
+   "playerLabel": "Ocean-TV (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Ocean_TV/video.m3u8"
+  },
+  {
+   "title": "Ohotnik i rybolov (576i)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/Bj1jI7F.png",
+   "playerLabel": "Ohotnik i rybolov (576i)",
+   "action": "video:https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Ohotnik i rybolov HD (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/Bj1jI7F.png",
+   "playerLabel": "Ohotnik i rybolov HD (1080p)",
+   "action": "video:http://stream.mcquack.net/194/index.m3u8"
+  },
+  {
+   "title": "Okhota i rybalka (576p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/nZwBaeW.png",
+   "playerLabel": "Okhota i rybalka (576p)",
+   "action": "video:http://stream.mcquack.net/155/index.m3u8"
+  },
+  {
+   "title": "Okko Futbol (576p)",
+   "titleFooter": "Sports",
+   "image": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png",
+   "playerLabel": "Okko Futbol (576p)",
+   "action": "video:http://178.124.179.122:8080/Setanta1/index.m3u8"
+  },
+  {
+   "title": "Okko Prajm Sport (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/kQq5DMU.png",
+   "playerLabel": "Okko Prajm Sport (1080p)",
+   "action": "video:http://stream.mcquack.net/493/index.m3u8"
+  },
+  {
+   "title": "Oplot 2 (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://nettv.live/uploads/allimg/21/1-210123195A80-L.jpg",
+   "playerLabel": "Oplot 2 (720p) [Geo-blocked]",
+   "action": "video:http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8"
+  },
+  {
+   "title": "Oplot TV (1080p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/RvUkId2.png",
+   "playerLabel": "Oplot TV (1080p) [Geo-blocked]",
+   "action": "video:http://31.131.141.195:8000/play/a006/index.m3u8"
+  },
+  {
+   "title": "Oplot TV SD (1080p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/RvUkId2.png",
+   "playerLabel": "Oplot TV SD (1080p) [Geo-blocked]",
+   "action": "video:http://31.131.139.253:9002/oplot_hd/index.m3u8"
+  },
+  {
+   "title": "Osetiya-Iryston (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/N0Zn4zU.png",
+   "playerLabel": "Osetiya-Iryston (1080p)",
+   "action": "video:https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8"
+  },
+  {
+   "title": "OSN",
+   "titleFooter": "General",
+   "image": "https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png",
+   "playerLabel": "OSN",
+   "action": "video:http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
+  },
+  {
+   "title": "Ostrosyuzhetnoye HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/NwQ7GBy.png",
+   "playerLabel": "Ostrosyuzhetnoye HD (1080p)",
+   "action": "video:http://stream.mcquack.net/214/index.m3u8"
+  },
+  {
+   "title": "Otkritiy mir. Zdorove (576p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/7orZOJA.png",
+   "playerLabel": "Otkritiy mir. Zdorove (576p)",
+   "action": "video:https://v4.proofix.ru/0mir/index.m3u8"
+  },
+  {
+   "title": "OTR (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/VaWlnjZ.png",
+   "playerLabel": "OTR (576p)",
+   "action": "video:http://flussonic.linkintel.ru/otr/index.m3u8"
+  },
+  {
+   "title": "OTV-Prim",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/2zd8trG.png",
+   "playerLabel": "OTV-Prim",
+   "action": "video:https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8"
+  },
+  {
+   "title": "Patriot (720p)",
+   "titleFooter": "Movies",
+   "image": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
+   "playerLabel": "Patriot (720p)",
+   "action": "video:https://stream.smotrim.ru/hls2/static/playlist_4.m3u8"
+  },
+  {
+   "title": "Perviy Krymskiy (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/i6hg7QG.png",
+   "playerLabel": "Perviy Krymskiy (720p)",
+   "action": "video:https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
+  },
+  {
+   "title": "Perviy otdel (1080p)",
+   "titleFooter": "Series",
+   "image": "https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg",
+   "playerLabel": "Perviy otdel (1080p)",
+   "action": "video:https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8"
+  },
+  {
+   "title": "Pervyy Respublikanskiy",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ti4OMBv.png",
+   "playerLabel": "Pervyy Respublikanskiy",
+   "action": "video:https://streaming.televizor-24-tochka.ru/live/27.m3u8"
+  },
+  {
+   "title": "Pes (1080p)",
+   "titleFooter": "Series",
+   "image": "https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg",
+   "playerLabel": "Pes (1080p)",
+   "action": "video:https://cdn-dvr.ntv.ru/Pes/index.m3u8"
+  },
+  {
+   "title": "Poehali! (1080p)",
+   "titleFooter": "Entertainment;Outdoor",
+   "image": "https://i.imgur.com/ZNCpbII.png",
+   "playerLabel": "Poehali! (1080p)",
+   "action": "video:http://31.148.48.15/Poehali/index.m3u8"
+  },
+  {
+   "title": "Premialnoe HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/ck4aLBP.png",
+   "playerLabel": "Premialnoe HD (1080p)",
+   "action": "video:http://stream.mcquack.net/421/index.m3u8"
+  },
+  {
+   "title": "Priklyucheniya (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/qQ6pPPQ.png",
+   "playerLabel": "Priklyucheniya (576p)",
+   "action": "video:https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Priklyucheniya HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/qQ6pPPQ.png",
+   "playerLabel": "Priklyucheniya HD (1080p)",
+   "action": "video:http://stream.mcquack.net/198/index.m3u8"
+  },
+  {
+   "title": "Prima (Russia) (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/33XGMch.png",
+   "playerLabel": "Prima (Russia) (1080p)",
+   "action": "video:https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8"
+  },
+  {
+   "title": "Pro Business (720p)",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/1u8KvTD.png",
+   "playerLabel": "Pro Business (720p)",
+   "action": "video:https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
+  },
+  {
+   "title": "Pro Lyubov (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/QpIGAT0.png",
+   "playerLabel": "Pro Lyubov (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/ProLubovHD/video.m3u8"
+  },
+  {
+   "title": "Prodvizhenie (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/KlsnfG9.png",
+   "playerLabel": "Prodvizhenie (1080p)",
+   "action": "video:https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8"
+  },
+  {
+   "title": "Prosveshchenie (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/uppFhhq.png",
+   "playerLabel": "Prosveshchenie (576p)",
+   "action": "video:http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8"
+  },
+  {
+   "title": "Quadro (2160p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/P4c53HA.png",
+   "playerLabel": "Quadro (2160p)",
+   "action": "video:http://57.128.231.171:8080/316/index.m3u8"
+  },
+  {
+   "title": "Radio 1 (Russia) (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://radiopotok.ru/f/station/512/1812.png",
+   "playerLabel": "Radio 1 (Russia) (720p) [Geo-blocked]",
+   "action": "video:https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8"
+  },
+  {
+   "title": "Radio Mir (720p)",
+   "titleFooter": "General",
+   "image": "https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg",
+   "playerLabel": "Radio Mir (720p)",
+   "action": "video:https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8"
+  },
+  {
+   "title": "Radio Rossii (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png",
+   "playerLabel": "Radio Rossii (720p)",
+   "action": "video:https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8"
+  },
+  {
+   "title": "Radio Shanson (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/lbqM3K2.png",
+   "playerLabel": "Radio Shanson (720p) [Not 24/7]",
+   "action": "video:http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8"
+  },
+  {
+   "title": "Radost Moya (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/B5FA62o.png",
+   "playerLabel": "Radost Moya (576p)",
+   "action": "video:http://31.148.48.15/Radost_moya/index.m3u8"
+  },
+  {
+   "title": "RBK-TV (576p)",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/CwhmJby.png",
+   "playerLabel": "RBK-TV (576p)",
+   "action": "video:http://hls127.freeott.top:8080/RBK/video.m3u8"
+  },
+  {
+   "title": "Red Line (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/TgZ8Uv1.png",
+   "playerLabel": "Red Line (480p)",
+   "action": "video:http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8"
+  },
+  {
+   "title": "REN TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0Tu5lte.png",
+   "playerLabel": "REN TV (576p)",
+   "action": "video:http://31.148.48.15/REN-TV/index.m3u8"
+  },
+  {
+   "title": "Retro (576p)",
+   "titleFooter": "Classic",
+   "image": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png",
+   "playerLabel": "Retro (576p)",
+   "action": "video:http://stream.mcquack.net/191/index.m3u8"
+  },
+  {
+   "title": "Rodnoe Kino (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/H70LxoZ.png",
+   "playerLabel": "Rodnoe Kino (576p)",
+   "action": "video:http://stream.mcquack.net/242/index.m3u8"
+  },
+  {
+   "title": "RT Balkan (1080p)",
+   "titleFooter": "News",
+   "image": "https://pbs.twimg.com/media/FiHmjBrWIBsN41d.jpg",
+   "playerLabel": "RT Balkan (1080p)",
+   "action": "video:https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8"
+  },
+  {
+   "title": "RT Documentary Russian (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/aeu5zIC.png",
+   "playerLabel": "RT Documentary Russian (1080p)",
+   "action": "video:https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
+  },
+  {
+   "title": "RTG TV (720p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/ZMKPAho.png",
+   "playerLabel": "RTG TV (720p)",
+   "action": "video:http://31.148.48.15/RTG_HD/index.m3u8"
+  },
+  {
+   "title": "RTG TV HD (1080p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/ZMKPAho.png",
+   "playerLabel": "RTG TV HD (1080p)",
+   "action": "video:http://stream.mcquack.net/164/index.m3u8"
+  },
+  {
+   "title": "RU.TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Z7HUU7V.png",
+   "playerLabel": "RU.TV (1080p)",
+   "action": "video:https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https"
+  },
+  {
+   "title": "RU.TV Kids (720p)",
+   "titleFooter": "Kids",
+   "image": "https://rutvkids.ru/brand/logo-kids.png",
+   "playerLabel": "RU.TV Kids (720p)",
+   "action": "video:https://rutvkids.ru/live/efir/index.m3u8"
+  },
+  {
+   "title": "Rus (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/KuL21f9.png",
+   "playerLabel": "Rus (576p)",
+   "action": "video:http://31.148.5.241/kanal_21/index.m3u8"
+  },
+  {
+   "title": "Russia-1 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Osd2JHL.png",
+   "playerLabel": "Russia-1 (1080p)",
+   "action": "video:http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-1 +4 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Osd2JHL.png",
+   "playerLabel": "Russia-1 +4 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-1 +5 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Osd2JHL.png",
+   "playerLabel": "Russia-1 +5 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-1 +6 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Osd2JHL.png",
+   "playerLabel": "Russia-1 +6 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-1 +7 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Osd2JHL.png",
+   "playerLabel": "Russia-1 +7 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-1 +8 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Osd2JHL.png",
+   "playerLabel": "Russia-1 +8 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-1 +9 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Osd2JHL.png",
+   "playerLabel": "Russia-1 +9 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-1 HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
+   "playerLabel": "Russia-1 HD (1080p)",
+   "action": "video:https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8"
+  },
+  {
+   "title": "Russia-24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+   "playerLabel": "Russia-24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8"
+  },
+  {
+   "title": "Russia-24 HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+   "playerLabel": "Russia-24 HD (1080p)",
+   "action": "video:http://77.232.131.211/Rossiya24/index.m3u8"
+  },
+  {
+   "title": "Russia-K (576p)",
+   "titleFooter": "Culture",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+   "playerLabel": "Russia-K (576p)",
+   "action": "video:http://stream.mcquack.net/229/index.m3u8"
+  },
+  {
+   "title": "Russia-K +2 (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+   "playerLabel": "Russia-K +2 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-K +4 (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+   "playerLabel": "Russia-K +4 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-K +7 (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+   "playerLabel": "Russia-K +7 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8"
+  },
+  {
+   "title": "Russia-K HD (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+   "playerLabel": "Russia-K HD (1080p)",
+   "action": "video:https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8"
+  },
+  {
+   "title": "Russian Extreme (576p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/hJK7mOW.png",
+   "playerLabel": "Russian Extreme (576p)",
+   "action": "video:http://31.148.48.15/Russkiy_Ekstrim/index.m3u8"
+  },
+  {
+   "title": "Russian Extreme Ultra (1440p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/Dk8VbAc.png",
+   "playerLabel": "Russian Extreme Ultra (1440p)",
+   "action": "video:http://46.53.200.153:7777/play/test_krask1/index.m3u8"
+  },
+  {
+   "title": "Russian MusicBox (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/ZkJ3Rh9.png",
+   "playerLabel": "Russian MusicBox (576p)",
+   "action": "video:http://stream.mcquack.net/319/index.m3u8"
+  },
+  {
+   "title": "Russkiy Bestseller (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/w0ZE9QJ.png",
+   "playerLabel": "Russkiy Bestseller (576p)",
+   "action": "video:http://stream.mcquack.net/208/index.m3u8"
+  },
+  {
+   "title": "Russkiy Detektiv (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/H3qhN8S.png",
+   "playerLabel": "Russkiy Detektiv (576p)",
+   "action": "video:http://stream.mcquack.net/204/index.m3u8"
+  },
+  {
+   "title": "Russkiy Illusion (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/RlsqFN8.png",
+   "playerLabel": "Russkiy Illusion (576p)",
+   "action": "video:http://31.148.48.15/Russkiy_illusion/index.m3u8"
+  },
+  {
+   "title": "Russkiy roman (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/cQN0P2B.png",
+   "playerLabel": "Russkiy roman (1080p)",
+   "action": "video:http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
+  },
+  {
+   "title": "Rybolov (576p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/wJMTcFS.png",
+   "playerLabel": "Rybolov (576p)",
+   "action": "video:http://stream.mcquack.net/264/index.m3u8"
+  },
+  {
+   "title": "Ryzhiy (576i)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/acrU2IE.png",
+   "playerLabel": "Ryzhiy (576i)",
+   "action": "video:https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "RZD TV (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/lf1r9L6.png",
+   "playerLabel": "RZD TV (1080p) [Geo-blocked]",
+   "action": "video:http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8"
+  },
+  {
+   "title": "S1 (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/chNBF5t.png",
+   "playerLabel": "S1 (1080p) [Not 24/7]",
+   "action": "video:https://sitv.ru/hls/stv.m3u8"
+  },
+  {
+   "title": "Salyam (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/FfULLr1.png",
+   "playerLabel": "Salyam (576p)",
+   "action": "video:https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8"
+  },
+  {
+   "title": "Samara 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YUe3Dwd.png",
+   "playerLabel": "Samara 24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8"
+  },
+  {
+   "title": "Samara-GIS (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://samaragis.ru/wp-includes/images/logo.png",
+   "playerLabel": "Samara-GIS (1080p) [Not 24/7]",
+   "action": "video:https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Sankt-Peterburg (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9At4oG7.png",
+   "playerLabel": "Sankt-Peterburg (576p)",
+   "action": "video:http://31.148.48.15/Sankt_Peterburg/index.m3u8"
+  },
+  {
+   "title": "Sankt-Peterburg HD (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9At4oG7.png",
+   "playerLabel": "Sankt-Peterburg HD (720p)",
+   "action": "video:https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8"
+  },
+  {
+   "title": "Saphire (1080p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/NMOBvle.png",
+   "playerLabel": "Saphire (1080p)",
+   "action": "video:http://77.232.131.211/Sapfir/manifest.m3u8"
+  },
+  {
+   "title": "Sarafan (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/u4q1rMT.png",
+   "playerLabel": "Sarafan (576p)",
+   "action": "video:http://stream.mcquack.net/81/index.m3u8"
+  },
+  {
+   "title": "Seven (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/GpCwqUF.png",
+   "playerLabel": "Seven (576p)",
+   "action": "video:http://31.148.48.15/7TV/index.m3u8"
+  },
+  {
+   "title": "Sever",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/sTOQLYl.png",
+   "playerLabel": "Sever",
+   "action": "video:https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8"
+  },
+  {
+   "title": "Shanson TV SD (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Fk4sd8t.png",
+   "playerLabel": "Shanson TV SD (576p)",
+   "action": "video:http://catchup.videoline.ru/shanson/index.m3u8"
+  },
+  {
+   "title": "Shchyolkovskoe TV (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/0us6l04.png",
+   "playerLabel": "Shchyolkovskoe TV (576p) [Not 24/7]",
+   "action": "video:http://stream0.tv41.ru/live.m3u8"
+  },
+  {
+   "title": "Shef (1080p)",
+   "titleFooter": "Series",
+   "image": "https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg",
+   "playerLabel": "Shef (1080p)",
+   "action": "video:https://cdn-dvr.ntv.ru/Shef/index.m3u8"
+  },
+  {
+   "title": "Shokiruyushchee HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/UG63hZ0.png",
+   "playerLabel": "Shokiruyushchee HD (1080p)",
+   "action": "video:http://stream.mcquack.net/75/index.m3u8"
+  },
+  {
+   "title": "Shopping Live (720p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/EMmGnjV.png",
+   "playerLabel": "Shopping Live (720p)",
+   "action": "video:https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8"
+  },
+  {
+   "title": "Shot TV (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/MLSG7tA.png",
+   "playerLabel": "Shot TV (576p)",
+   "action": "video:http://hls127.freeott.top:8080/SHOT_TV/video.m3u8"
+  },
+  {
+   "title": "Sibir 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jgwQPl0.png",
+   "playerLabel": "Sibir 24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8"
+  },
+  {
+   "title": "Sibir 24 KYA (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jgwQPl0.png",
+   "playerLabel": "Sibir 24 KYA (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8"
+  },
+  {
+   "title": "Simferopol 24",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/S2QJ3bc.png",
+   "playerLabel": "Simferopol 24",
+   "action": "video:https://simf.1tvcrimea.ru/simferopol24.m3u8"
+  },
+  {
+   "title": "Skoraya pomoshch (1080p)",
+   "titleFooter": "Series",
+   "image": "https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg",
+   "playerLabel": "Skoraya pomoshch (1080p)",
+   "action": "video:https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8"
+  },
+  {
+   "title": "Smotrim 100% Detskoe (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/1hsNeTa.png",
+   "playerLabel": "Smotrim 100% Detskoe (720p)",
+   "action": "video:https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8"
+  },
+  {
+   "title": "Smotrim 100% Fakty (720p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/dB3cJzO.png",
+   "playerLabel": "Smotrim 100% Fakty (720p)",
+   "action": "video:https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8"
+  },
+  {
+   "title": "Smotrim 100% Klassika (720p)",
+   "titleFooter": "Classic;Movies",
+   "image": "https://i.imgur.com/aASNpKq.png",
+   "playerLabel": "Smotrim 100% Klassika (720p)",
+   "action": "video:https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8"
+  },
+  {
+   "title": "Smotrim 100% Lyubov (720p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/4EFh0nu.png",
+   "playerLabel": "Smotrim 100% Lyubov (720p)",
+   "action": "video:https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8"
+  },
+  {
+   "title": "Smotrim 100% Muzhskoe (720p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/UY3fjYU.png",
+   "playerLabel": "Smotrim 100% Muzhskoe (720p)",
+   "action": "video:https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8"
+  },
+  {
+   "title": "Smotrim 100% Prazdnik (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/NEcqFse.png",
+   "playerLabel": "Smotrim 100% Prazdnik (720p)",
+   "action": "video:https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8"
+  },
+  {
+   "title": "Smotrim Chestnyy Detektiv (1080p)",
+   "titleFooter": "Series",
+   "image": "https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg",
+   "playerLabel": "Smotrim Chestnyy Detektiv (1080p)",
+   "action": "video:https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
+  },
+  {
+   "title": "Sochi Live (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://www.cableman.ru/sites/default/files/sochi_live.png",
+   "playerLabel": "Sochi Live (720p) [Not 24/7]",
+   "action": "video:http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8"
+  },
+  {
+   "title": "Sochi24 (720p)",
+   "titleFooter": "General;News",
+   "image": "https://i.imgur.com/iwWxkl6.png",
+   "playerLabel": "Sochi24 (720p)",
+   "action": "video:http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8"
+  },
+  {
+   "title": "Solnce (576p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://i.imgur.com/HCefxaK.png",
+   "playerLabel": "Solnce (576p)",
+   "action": "video:http://31.148.48.15/Solnce/index.m3u8"
+  },
+  {
+   "title": "Solovyov Live (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png",
+   "playerLabel": "Solovyov Live (1080p)",
+   "action": "video:https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8"
+  },
+  {
+   "title": "SONGTV Russia",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/nM7LbmV.png",
+   "playerLabel": "SONGTV Russia",
+   "action": "video:https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
+  },
+  {
+   "title": "Soyuz (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/w3OewHc.png",
+   "playerLabel": "Soyuz (576p)",
+   "action": "video:https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
+  },
+  {
+   "title": "Soyuzny (576p)",
+   "titleFooter": "General",
+   "image": "https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png",
+   "playerLabel": "Soyuzny (576p)",
+   "action": "video:https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8"
+  },
+  {
+   "title": "Spas (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/yY39nMg.png",
+   "playerLabel": "Spas (576p)",
+   "action": "video:https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8"
+  },
+  {
+   "title": "Sportivnyy (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/ujS6mMo.png",
+   "playerLabel": "Sportivnyy (1080p)",
+   "action": "video:https://live-3.otcnet.ru/sportivny/index.m3u8"
+  },
+  {
+   "title": "Star Cinema",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/5sis895.png",
+   "playerLabel": "Star Cinema",
+   "action": "video:https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8"
+  },
+  {
+   "title": "Star Family (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/eGuGHnZ.png",
+   "playerLabel": "Star Family (1080p)",
+   "action": "video:https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8"
+  },
+  {
+   "title": "START Air (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
+   "playerLabel": "START Air (1080p)",
+   "action": "video:http://176.118.197.101/START_AIR/index.m3u8"
+  },
+  {
+   "title": "Start Triumf (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/L9jTieL.png",
+   "playerLabel": "Start Triumf (1080p)",
+   "action": "video:https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8"
+  },
+  {
+   "title": "START World (576p)",
+   "titleFooter": "Movies",
+   "image": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png",
+   "playerLabel": "START World (576p)",
+   "action": "video:https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Strana FM",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/WsPlKJJ.png",
+   "playerLabel": "Strana FM",
+   "action": "video:https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8"
+  },
+  {
+   "title": "STS (576p)",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/ilUzAeb.png",
+   "playerLabel": "STS (576p)",
+   "action": "video:http://tshift-1.telecoma.tv/sts/index.m3u8"
+  },
+  {
+   "title": "STS HD (1080p)",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/ilUzAeb.png",
+   "playerLabel": "STS HD (1080p)",
+   "action": "video:http://stream.mcquack.net/138/index.m3u8"
+  },
+  {
+   "title": "STS kids (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/o9kLpAL.png",
+   "playerLabel": "STS kids (1080p)",
+   "action": "video:http://31.148.48.15/STS_Kids_HD/index.m3u8"
+  },
+  {
+   "title": "STS kids HD (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/o9kLpAL.png",
+   "playerLabel": "STS kids HD (1080p)",
+   "action": "video:http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test"
+  },
+  {
+   "title": "Subbota! (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/nsk8PpB.png",
+   "playerLabel": "Subbota! (1080p)",
+   "action": "video:https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https"
+  },
+  {
+   "title": "Subbota! HD (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/nsk8PpB.png",
+   "playerLabel": "Subbota! HD (1080p)",
+   "action": "video:http://stream.mcquack.net/269/index.m3u8"
+  },
+  {
+   "title": "SuperGeroi (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/c0zZUR1.png",
+   "playerLabel": "SuperGeroi (1080p)",
+   "action": "video:http://31.148.48.15/Malish_TV/index.m3u8"
+  },
+  {
+   "title": "Surgut 24",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OxvqXMt.png",
+   "playerLabel": "Surgut 24",
+   "action": "video:https://sitv.ru/vgtrk/stv.m3u8"
+  },
+  {
+   "title": "Svoyo TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/3cP2fmX.png",
+   "playerLabel": "Svoyo TV (1080p)",
+   "action": "video:https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
+  },
+  {
+   "title": "T24 (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/1W6R14o.png",
+   "playerLabel": "T24 (576p)",
+   "action": "video:http://178.134.1.158:8081/t24/index.m3u8"
+  },
+  {
+   "title": "Tamyr (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/Ia3acCB.png",
+   "playerLabel": "Tamyr (576p)",
+   "action": "video:https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+  },
+  {
+   "title": "Tavriya",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gqung6i.png",
+   "playerLabel": "Tavriya",
+   "action": "video:https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+  },
+  {
+   "title": "Teatr (576p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/nc2ijCH.png",
+   "playerLabel": "Teatr (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Teatr/video.m3u8"
+  },
+  {
+   "title": "TeleDom",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/071JRrb.png",
+   "playerLabel": "TeleDom",
+   "action": "video:https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8"
+  },
+  {
+   "title": "Telekanal Krasnodar (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YVtutzp.png",
+   "playerLabel": "Telekanal Krasnodar (1080p)",
+   "action": "video:https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Teleputeshestviya (576p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/eXJm1n3.png",
+   "playerLabel": "Teleputeshestviya (576p)",
+   "action": "video:http://31.148.48.15/Teleputeshestviya/index.m3u8"
+  },
+  {
+   "title": "Telplus (360p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/1zbcZ3p.png",
+   "playerLabel": "Telplus (360p) [Not 24/7]",
+   "action": "video:https://streaming.astrakhan.ru/telplushd/playlist.m3u8"
+  },
+  {
+   "title": "TERRA (720p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/ZxUjCpF.png",
+   "playerLabel": "TERRA (720p)",
+   "action": "video:http://31.148.48.15/Terra_HD/index.m3u8"
+  },
+  {
+   "title": "TiJi (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/QCOUJ30.png",
+   "playerLabel": "TiJi (576p)",
+   "action": "video:http://stream.mcquack.net/111/index.m3u8"
+  },
+  {
+   "title": "TKR (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/VqtPB7L.png",
+   "playerLabel": "TKR (1080p) [Not 24/7]",
+   "action": "video:http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TLC (Russia) (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+   "playerLabel": "TLC (Russia) (1080p)",
+   "action": "video:http://stream.mcquack.net/168/index.m3u8"
+  },
+  {
+   "title": "TNT (Russia) (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/T4A6rEI.png",
+   "playerLabel": "TNT (Russia) (576p)",
+   "action": "video:http://stream.mcquack.net/135/index.m3u8"
+  },
+  {
+   "title": "TNT (Russia) HD (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/T4A6rEI.png",
+   "playerLabel": "TNT (Russia) HD (1080p)",
+   "action": "video:http://45.153.24.78/TNT/index.m3u8"
+  },
+  {
+   "title": "TNT International Belarus (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/l0RGbRI.png",
+   "playerLabel": "TNT International Belarus (1080p)",
+   "action": "video:http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8"
+  },
+  {
+   "title": "TNT4 (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/gBokU5i.png",
+   "playerLabel": "TNT4 (576p)",
+   "action": "video:http://flussonic.linkintel.ru/tnt4/index.m3u8"
+  },
+  {
+   "title": "TNV-Planet (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ijA1zDw.png",
+   "playerLabel": "TNV-Planet (576p)",
+   "action": "video:https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "TNV-Tatarstan (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/58u9TQT.png",
+   "playerLabel": "TNV-Tatarstan (720p)",
+   "action": "video:https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8"
+  },
+  {
+   "title": "Tochka otryva (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/TZiBQDK.png",
+   "playerLabel": "Tochka otryva (576p)",
+   "action": "video:https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Tochka TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/yyNR5jG.png",
+   "playerLabel": "Tochka TV (576p)",
+   "action": "video:http://31.148.48.15/Tochka_TV/index.m3u8"
+  },
+  {
+   "title": "Tolk (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/l7JZ79P.png",
+   "playerLabel": "Tolk (720p)",
+   "action": "video:http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+  },
+  {
+   "title": "Tonus (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/pGm8QCj.png",
+   "playerLabel": "Tonus (576p)",
+   "action": "video:http://194.143.148.28:8080/Mir24/index.m3u8"
+  },
+  {
+   "title": "Tooku (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png",
+   "playerLabel": "Tooku (1080p)",
+   "action": "video:http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8"
+  },
+  {
+   "title": "Top Secret (576p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/HM4xy4G.png",
+   "playerLabel": "Top Secret (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8"
+  },
+  {
+   "title": "Trace Sport Stars Russia (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/FabFP5A.png",
+   "playerLabel": "Trace Sport Stars Russia (720p)",
+   "action": "video:https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Travel Channel (Russia) (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/8/82/Travel_Channel_International.svg/revision/latest?cb=20191226223708",
+   "playerLabel": "Travel Channel (Russia) (1080p)",
+   "action": "video:http://stream.mcquack.net/231/index.m3u8"
+  },
+  {
+   "title": "Travel+Adventure (1080p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/AlpdXC4.png",
+   "playerLabel": "Travel+Adventure (1080p)",
+   "action": "video:http://31.148.48.15/Travel_Adventure_HD/index.m3u8"
+  },
+  {
+   "title": "Travel+Adventure HD (1080p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/AlpdXC4.png",
+   "playerLabel": "Travel+Adventure HD (1080p)",
+   "action": "video:http://stream.mcquack.net/206/index.m3u8"
+  },
+  {
+   "title": "Tsargrad TV (1080p) [Geo-blocked]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/34RINpb.png",
+   "playerLabel": "Tsargrad TV (1080p) [Geo-blocked]",
+   "action": "video:https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https"
+  },
+  {
+   "title": "TV 21 (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/nSmSnH6.png",
+   "playerLabel": "TV 21 (576p)",
+   "action": "video:http://178.134.1.158:8081/TVXXI/index.m3u8"
+  },
+  {
+   "title": "TV 21 International (576p)",
+   "titleFooter": "Movies",
+   "image": "https://ibb.co/BH6CZx3K",
+   "playerLabel": "TV 21 International (576p)",
+   "action": "video:http://stream.mcquack.net/152/index.m3u8"
+  },
+  {
+   "title": "TV BRICS Russian (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/vLpm8tN.png",
+   "playerLabel": "TV BRICS Russian (1080p)",
+   "action": "video:http://185.23.80.23:8080/TVBRICS/index.m3u8"
+  },
+  {
+   "title": "TV Centr (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg",
+   "playerLabel": "TV Centr (576p)",
+   "action": "video:http://hls127.freeott.top:8080/Tv_Center/video.m3u8"
+  },
+  {
+   "title": "TV Centr International (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/tsCOnBW.png",
+   "playerLabel": "TV Centr International (576p)",
+   "action": "video:https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "TV PRO",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/sbuSefI.png",
+   "playerLabel": "TV PRO",
+   "action": "video:http://rtmp.tvpro-online.ru/hls/ch1.m3u8"
+  },
+  {
+   "title": "TV Rain (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png",
+   "playerLabel": "TV Rain (1080p) [Geo-blocked]",
+   "action": "video:https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8"
+  },
+  {
+   "title": "TV-3 (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/JLAvq8O.png",
+   "playerLabel": "TV-3 (576p)",
+   "action": "video:http://flussonic.linkintel.ru/tv-3/index.m3u8"
+  },
+  {
+   "title": "TV-3 Belarus (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/JLAvq8O.png",
+   "playerLabel": "TV-3 Belarus (576p)",
+   "action": "video:http://178.124.179.122:8080/TB-3/index.m3u8"
+  },
+  {
+   "title": "TV-3 HD (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/JLAvq8O.png",
+   "playerLabel": "TV-3 HD (1080p)",
+   "action": "video:http://stream.mcquack.net/136/index.m3u8"
+  },
+  {
+   "title": "TVK (Russia) (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A2%D0%92%D0%9A_%282015%29.png",
+   "playerLabel": "TVK (Russia) (576p)",
+   "action": "video:https://air.tvk6.ru/tvk24/playlist.m3u8"
+  },
+  {
+   "title": "Tvoe TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/kKAM7dP.png",
+   "playerLabel": "Tvoe TV (1080p)",
+   "action": "video:http://tvoetv.space:8080/tvoetv/index.m3u8"
+  },
+  {
+   "title": "Tvoye TV Yumor (1080p)",
+   "titleFooter": "Comedy",
+   "image": "https://smotret.tv/images/tvoe-tv-yumor.webp",
+   "playerLabel": "Tvoye TV Yumor (1080p)",
+   "action": "video:http://tvoetv.space:8080/tvoetv_humor/index.m3u8"
+  },
+  {
+   "title": "U (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/KDZvt0Q.png",
+   "playerLabel": "U (720p)",
+   "action": "video:https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https"
+  },
+  {
+   "title": "Ugra-TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/561FRwI.png",
+   "playerLabel": "Ugra-TV (1080p)",
+   "action": "video:https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
+  },
+  {
+   "title": "Unikum (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/kSJZjDL.png",
+   "playerLabel": "Unikum (576p)",
+   "action": "video:http://31.148.48.15/Detskiy/index.m3u8"
+  },
+  {
+   "title": "Univer TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/r3u0mxr.png",
+   "playerLabel": "Univer TV (1080p)",
+   "action": "video:https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8"
+  },
+  {
+   "title": "Unknown Russia (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/W7ste2f.png",
+   "playerLabel": "Unknown Russia (1080p)",
+   "action": "video:https://cdn.ntv.ru/unknown_russia/playlist.m3u8"
+  },
+  {
+   "title": "Unknown Russia HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/W7ste2f.png",
+   "playerLabel": "Unknown Russia HD (1080p)",
+   "action": "video:http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8"
+  },
+  {
+   "title": "Ural 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/eoI4KuB.png",
+   "playerLabel": "Ural 24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8"
+  },
+  {
+   "title": "Usadba (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/mf13haG.png",
+   "playerLabel": "Usadba (576p)",
+   "action": "video:http://stream.mcquack.net/211/index.m3u8"
+  },
+  {
+   "title": "V gostyakh u skazki (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/jNJkLHl.png",
+   "playerLabel": "V gostyakh u skazki (1080p)",
+   "action": "video:https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "V mire zhivotnykh (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/6uotdVQ.png",
+   "playerLabel": "V mire zhivotnykh (1080p)",
+   "action": "video:http://stream.mcquack.net/241/index.m3u8"
+  },
+  {
+   "title": "Velvet. European Movies (1080p)",
+   "titleFooter": "Family;Movies",
+   "image": "https://antiabuse-container.b-cdn.net/eurkino.png",
+   "playerLabel": "Velvet. European Movies (1080p)",
+   "action": "video:https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8"
+  },
+  {
+   "title": "Velvet. Golden Collection (1080p)",
+   "titleFooter": "Classic;Movies",
+   "image": "https://interra-cdn-europe1.b-cdn.net/zolo.png",
+   "playerLabel": "Velvet. Golden Collection (1080p)",
+   "action": "video:https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8"
+  },
+  {
+   "title": "Velvet. Mentovskiye Serialy (1080p)",
+   "titleFooter": "Series",
+   "image": "https://interra-cdn-europe1.b-cdn.net/ment.png",
+   "playerLabel": "Velvet. Mentovskiye Serialy (1080p)",
+   "action": "video:https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8"
+  },
+  {
+   "title": "Velvet. Scary (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://antiabuse-container.b-cdn.net/uzh1.png",
+   "playerLabel": "Velvet. Scary (1080p)",
+   "action": "video:https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8"
+  },
+  {
+   "title": "Velvet. Series Hits (1080p)",
+   "titleFooter": "Comedy;Family;Series",
+   "image": "https://antiabuse-container.b-cdn.net/serialyhity.png",
+   "playerLabel": "Velvet. Series Hits (1080p)",
+   "action": "video:https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8"
+  },
+  {
+   "title": "Velvet. Sovetskoe Kino (1080p)",
+   "titleFooter": "Classic;Movies",
+   "image": "https://interra-cdn-europe1.b-cdn.net/soviet.png",
+   "playerLabel": "Velvet. Sovetskoe Kino (1080p)",
+   "action": "video:https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8"
+  },
+  {
+   "title": "Velvet. Svaty (1080p)",
+   "titleFooter": "Family;Series",
+   "image": "https://interra-cdn-europe1.b-cdn.net/svatyv.png",
+   "playerLabel": "Velvet. Svaty (1080p)",
+   "action": "video:https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8"
+  },
+  {
+   "title": "Velvet. World Series (1080p)",
+   "titleFooter": "Comedy;Family;Series",
+   "image": "https://antiabuse-container.b-cdn.net/mirseriallogo.png",
+   "playerLabel": "Velvet. World Series (1080p)",
+   "action": "video:https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8"
+  },
+  {
+   "title": "Vera 24",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Qer5Lnh.png",
+   "playerLabel": "Vera 24",
+   "action": "video:https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
+  },
+  {
+   "title": "Vesti FM (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ZBHqSZj.png",
+   "playerLabel": "Vesti FM (720p)",
+   "action": "video:https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8"
+  },
+  {
+   "title": "Vetta 24 (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/zKH1b5k.png",
+   "playerLabel": "Vetta 24 (576p) [Not 24/7]",
+   "action": "video:http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8"
+  },
+  {
+   "title": "viju Explore (576p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/EGIpLPu.png",
+   "playerLabel": "viju Explore (576p)",
+   "action": "video:http://stream.mcquack.net/239/index.m3u8"
+  },
+  {
+   "title": "viju History (576p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/FqWkeXb.png",
+   "playerLabel": "viju History (576p)",
+   "action": "video:http://178.124.179.122:8080/HistoryHD/index.m3u8"
+  },
+  {
+   "title": "viju Nature (576p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/8BPZ18l.png",
+   "playerLabel": "viju Nature (576p)",
+   "action": "video:https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "viju TV1000 (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/ZMsyjSr.png",
+   "playerLabel": "viju TV1000 (576p)",
+   "action": "video:http://stream.mcquack.net/110/index.m3u8"
+  },
+  {
+   "title": "viju TV1000 action (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/TMmyuzh.png",
+   "playerLabel": "viju TV1000 action (576p)",
+   "action": "video:http://stream.mcquack.net/100/index.m3u8"
+  },
+  {
+   "title": "viju TV1000 novella HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png",
+   "playerLabel": "viju TV1000 novella HD (1080p)",
+   "action": "video:http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8"
+  },
+  {
+   "title": "viju TV1000 romantica HD (1080p)",
+   "titleFooter": "Series",
+   "image": "https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/flo59mr6lh1jf68g3021urgwtd5k",
+   "playerLabel": "viju TV1000 romantica HD (1080p)",
+   "action": "video:http://46.53.200.153:7777/play/Viju_Drama/index.m3u8"
+  },
+  {
+   "title": "viju TV1000 russkoe (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Meak2y4.png",
+   "playerLabel": "viju TV1000 russkoe (576p)",
+   "action": "video:https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "viju+ Comedy HD (1080p)",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/YoNOFu7.png",
+   "playerLabel": "viju+ Comedy HD (1080p)",
+   "action": "video:http://stream.mcquack.net/201/index.m3u8"
+  },
+  {
+   "title": "viju+ Megahit HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/oIQNddV.png",
+   "playerLabel": "viju+ Megahit HD (1080p)",
+   "action": "video:http://stream.mcquack.net/200/index.m3u8"
+  },
+  {
+   "title": "viju+ Planet HD (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/9Weqdsk.png",
+   "playerLabel": "viju+ Planet HD (1080p)",
+   "action": "video:http://stream.mcquack.net/240/index.m3u8"
+  },
+  {
+   "title": "viju+ Premiere HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/klRvhR5.png",
+   "playerLabel": "viju+ Premiere HD (1080p)",
+   "action": "video:http://stream.mcquack.net/202/index.m3u8"
+  },
+  {
+   "title": "viju+ Serial HD (1080p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/8yXZET5.png",
+   "playerLabel": "viju+ Serial HD (1080p)",
+   "action": "video:http://stream.mcquack.net/311/index.m3u8"
+  },
+  {
+   "title": "viju+ Sport (576p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/fXESG0l.png",
+   "playerLabel": "viju+ Sport (576p)",
+   "action": "video:http://stream.mcquack.net/333/index.m3u8"
+  },
+  {
+   "title": "viju+ Sport HD (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/fXESG0l.png",
+   "playerLabel": "viju+ Sport HD (1080p)",
+   "action": "video:http://46.53.200.153:7777/play/a01l/index.m3u8"
+  },
+  {
+   "title": "Vital Drive",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/XoR9zLh.png",
+   "playerLabel": "Vital Drive",
+   "action": "video:https://autopilot.catcast.tv/content/37909/index.m3u8"
+  },
+  {
+   "title": "Vitrina TV (720p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/lzQsVfn.png",
+   "playerLabel": "Vitrina TV (720p)",
+   "action": "video:https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8"
+  },
+  {
+   "title": "Vkus (576p)",
+   "titleFooter": "Travel",
+   "image": "https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png",
+   "playerLabel": "Vkus (576p)",
+   "action": "video:http://178.134.1.158:8081/vkus/index.m3u8"
+  },
+  {
+   "title": "Vmeste-RF",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/KI1qZNc.png",
+   "playerLabel": "Vmeste-RF",
+   "action": "video:https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+  },
+  {
+   "title": "Volga",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xHs1pr1.png",
+   "playerLabel": "Volga",
+   "action": "video:http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
+  },
+  {
+   "title": "Volgograd 24 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/gFMnaU5.png",
+   "playerLabel": "Volgograd 24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8"
+  },
+  {
+   "title": "Vostok 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YEXDsMn.png",
+   "playerLabel": "Vostok 24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8"
+  },
+  {
+   "title": "Yalta TV (480p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://img.cataloxy.ru/fl/97/e3/808131.gif",
+   "playerLabel": "Yalta TV (480p) [Geo-blocked]",
+   "action": "video:http://195.26.83.96:7029/play/a006"
+  },
+  {
+   "title": "YaPervyy (1080p)",
+   "titleFooter": "General",
+   "image": "https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg",
+   "playerLabel": "YaPervyy (1080p)",
+   "action": "video:https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
+  },
+  {
+   "title": "Yuvelirochka (576p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/IcWtXCZ.png",
+   "playerLabel": "Yuvelirochka (576p)",
+   "action": "video:https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+  },
+  {
+   "title": "Za! TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pVPTl8J.png",
+   "playerLabel": "Za! TV",
+   "action": "video:https://streaming.televizor-24-tochka.ru/live/25.m3u8"
+  },
+  {
+   "title": "Zagorodnaya Zhizn (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/RoYd5pz.png",
+   "playerLabel": "Zagorodnaya Zhizn (576p)",
+   "action": "video:http://185.57.68.33/40/index.m3u8"
+  },
+  {
+   "title": "Zapad 24 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HerCP0u.png",
+   "playerLabel": "Zapad 24 (1080p)",
+   "action": "video:https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8"
+  },
+  {
+   "title": "Zdorovoe TV (576p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/jedtE5l.png",
+   "playerLabel": "Zdorovoe TV (576p)",
+   "action": "video:https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Zhivaya Planeta (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/onNv1tM.png",
+   "playerLabel": "Zhivaya Planeta (576p)",
+   "action": "video:https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Zhivaya priroda (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9lHQPdN.png",
+   "playerLabel": "Zhivaya priroda (1080p)",
+   "action": "video:http://stream.mcquack.net/83/index.m3u8"
+  },
+  {
+   "title": "Zhivaya priroda HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9lHQPdN.png",
+   "playerLabel": "Zhivaya priroda HD (1080p)",
+   "action": "video:http://stream.mcquack.net/225/index.m3u8"
+  },
+  {
+   "title": "Zhivi! (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/LPqySGk.png",
+   "playerLabel": "Zhivi! (1080p)",
+   "action": "video:http://31.148.48.15/Zhivi/index.m3u8"
+  },
+  {
+   "title": "Zoo TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/p7WzqGS.png",
+   "playerLabel": "Zoo TV (576p)",
+   "action": "video:http://31.148.48.15/Zoo_TV/index.m3u8"
+  },
+  {
+   "title": "Zoopark (576i)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/IO5jegK.png",
+   "playerLabel": "Zoopark (576i)",
+   "action": "video:https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Zvezda (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4PAcpfM.png",
+   "playerLabel": "Zvezda (1080p)",
+   "action": "video:http://51.158.144.33:2021/zvezda/index.m3u8"
+  },
+  {
+   "title": "Zvezda HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4PAcpfM.png",
+   "playerLabel": "Zvezda HD (1080p)",
+   "action": "video:https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8"
+  },
+  {
+   "title": "Zvezda Plus (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NNmjD9Z.png",
+   "playerLabel": "Zvezda Plus (576p)",
+   "action": "video:http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test"
+  },
+  {
+   "title": "Zvezda Plus HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NNmjD9Z.png",
+   "playerLabel": "Zvezda Plus HD (1080p)",
+   "action": "video:http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8"
+  }
+ ]
+}

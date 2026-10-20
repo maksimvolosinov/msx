@@ -1,0 +1,153 @@
+{
+ "type": "list",
+ "headline": "Sri Lanka (20)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Asia TV (720p)",
+   "titleFooter": "Entertainment;Family;General",
+   "image": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
+   "playerLabel": "Asia TV (720p)",
+   "action": "video:https://stream.asiatvnet.com/1/live/master.m3u8"
+  },
+  {
+   "title": "Charana TV (360p)",
+   "titleFooter": "Education;Entertainment",
+   "playerLabel": "Charana TV (360p)",
+   "action": "video:https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8"
+  },
+  {
+   "title": "Hiru TV (360p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/M66UqPB.png",
+   "playerLabel": "Hiru TV (360p) [Not 24/7]",
+   "action": "video:https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8"
+  },
+  {
+   "title": "Imai TV (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/9tODclu.png",
+   "playerLabel": "Imai TV (1080p)",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
+  },
+  {
+   "title": "Jaya TV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/J8NA1i9.jpeg",
+   "playerLabel": "Jaya TV (480p)",
+   "action": "video:https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8"
+  },
+  {
+   "title": "Monara TV (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/EB99mzR.png",
+   "playerLabel": "Monara TV (720p) [Not 24/7]",
+   "action": "video:https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+  },
+  {
+   "title": "National Geographic (India) (576p) [Geo-blocked]",
+   "titleFooter": "Documentary",
+   "image": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
+   "playerLabel": "National Geographic (India) (576p) [Geo-blocked]",
+   "action": "video:http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+  },
+  {
+   "title": "National Geographic (India) HD (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+   "playerLabel": "National Geographic (India) HD (1080p)",
+   "action": "video:http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
+  },
+  {
+   "title": "National Geographic Wild (India) HD (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+   "playerLabel": "National Geographic Wild (India) HD (1080p)",
+   "action": "video:http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
+  },
+  {
+   "title": "NDTV LANKA (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/5cyTVRJ.png",
+   "playerLabel": "NDTV LANKA (1080p)",
+   "action": "video:https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Nickelodeon (India) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+   "playerLabel": "Nickelodeon (India) (576p)",
+   "action": "video:http://103.185.24.134:3001/NICK/index.m3u8"
+  },
+  {
+   "title": "Rupavahini (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/vgHTfR0.png",
+   "playerLabel": "Rupavahini (720p)",
+   "action": "video:https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8"
+  },
+  {
+   "title": "Shakthi TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/RX6IwK8.png",
+   "playerLabel": "Shakthi TV (576p)",
+   "action": "video:https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8"
+  },
+  {
+   "title": "Shraddha TV (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/sZ3fEMi.png",
+   "playerLabel": "Shraddha TV (480p)",
+   "action": "video:https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8"
+  },
+  {
+   "title": "Siyatha TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9Zc8G7i.png",
+   "playerLabel": "Siyatha TV (576p)",
+   "action": "video:https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+  },
+  {
+   "title": "Star Tamil Television (360p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/fjHcr9z.jpg",
+   "playerLabel": "Star Tamil Television (360p)",
+   "action": "video:https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr="
+  },
+  {
+   "title": "Swarnavahini (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/0hnpeq9.png",
+   "playerLabel": "Swarnavahini (480p)",
+   "action": "video:https://teledrama.ebc.lk/TTT/proxy.php"
+  },
+  {
+   "title": "Talent TV (720p)",
+   "titleFooter": "Sports",
+   "image": "https://talenttv.lk/logo-footer.png",
+   "playerLabel": "Talent TV (720p)",
+   "action": "video:http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8"
+  },
+  {
+   "title": "The Buddhist (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/DUzOKWM.png",
+   "playerLabel": "The Buddhist (480p)",
+   "action": "video:https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8"
+  },
+  {
+   "title": "Verbum TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/YEKEaB4.png",
+   "playerLabel": "Verbum TV (1080p)",
+   "action": "video:https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8"
+  }
+ ]
+}

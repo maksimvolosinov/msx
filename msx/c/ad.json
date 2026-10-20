@@ -1,0 +1,63 @@
+{
+ "type": "list",
+ "headline": "Andorra (7)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "24 Horas (Spain) (720p)",
+   "titleFooter": "News;Public",
+   "image": "https://i.ibb.co/21sXZ3GT/24h.png",
+   "playerLabel": "24 Horas (Spain) (720p)",
+   "action": "video:https://ztnr.rtve.es/ztnr/1694255.m3u8"
+  },
+  {
+   "title": "3CatInfo (1080p)",
+   "titleFooter": "News;Public",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png",
+   "playerLabel": "3CatInfo (1080p)",
+   "action": "video:https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
+  },
+  {
+   "title": "Andorra TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png",
+   "playerLabel": "Andorra TV (1080p)",
+   "action": "video:https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8"
+  },
+  {
+   "title": "El 33 (1080p) [Geo-blocked]",
+   "titleFooter": "Culture;Public",
+   "image": "https://i.imgur.com/frKCBTN.png",
+   "playerLabel": "El 33 (1080p) [Geo-blocked]",
+   "action": "video:https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8"
+  },
+  {
+   "title": "Esport3 (1080p) [Geo-blocked]",
+   "titleFooter": "Public;Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",
+   "playerLabel": "Esport3 (1080p) [Geo-blocked]",
+   "action": "video:https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
+  },
+  {
+   "title": "La 2",
+   "titleFooter": "General;Public",
+   "image": "https://i.ibb.co/rfsr9PSh/La-2.png",
+   "playerLabel": "La 2",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8"
+  },
+  {
+   "title": "Pirineus TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8b5znGY.png",
+   "playerLabel": "Pirineus TV (1080p)",
+   "action": "video:https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "type": "list",
+ "headline": "Moldova (21)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Exclusiv TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5OhE6N8.png",
+   "playerLabel": "Exclusiv TV",
+   "action": "video:rtmp://89.28.25.122/live/tnt_md"
+  },
+  {
+   "title": "Hit FM",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/QwqM5j6.png",
+   "playerLabel": "Hit FM",
+   "action": "video:https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8"
+  },
+  {
+   "title": "Moldova 1 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ZbQY56v.png",
+   "playerLabel": "Moldova 1 (1080p)",
+   "action": "video:https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8"
+  },
+  {
+   "title": "Moldova 2 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Hv6Nk8A.png",
+   "playerLabel": "Moldova 2 (1080p)",
+   "action": "video:https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8"
+  },
+  {
+   "title": "Moldova TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gPMlDCP.png",
+   "playerLabel": "Moldova TV (1080p)",
+   "action": "video:https://moldovatv.ro/live-tv/live.m3u8"
+  },
+  {
+   "title": "Noroc TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/XvYqpqG.png",
+   "playerLabel": "Noroc TV",
+   "action": "video:https://media.noroc.tv/noroc/bitrate_1080p.m3u8"
+  },
+  {
+   "title": "Party Mix HD (1080p)",
+   "titleFooter": "Music",
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj",
+   "playerLabel": "Party Mix HD (1080p)",
+   "action": "video:https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8"
+  },
+  {
+   "title": "Privesc.Eu TV (2160p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/ukBacSn.png",
+   "playerLabel": "Privesc.Eu TV (2160p)",
+   "action": "video:https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
+  },
+  {
+   "title": "PRO TV Chisinau (576p)",
+   "titleFooter": "General;News",
+   "image": "https://i.imgur.com/X5PYRxF.png",
+   "playerLabel": "PRO TV Chisinau (576p)",
+   "action": "video:http://178.76.68.60:7442/15/mpegts"
+  },
+  {
+   "title": "Radio Moldova",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wNifDCo.png",
+   "playerLabel": "Radio Moldova",
+   "action": "video:https://radiolive.trm.md/hls_rma/actualitati.m3u8"
+  },
+  {
+   "title": "Radio Moldova Muzical",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/ZFHWst4.png",
+   "playerLabel": "Radio Moldova Muzical",
+   "action": "video:https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8"
+  },
+  {
+   "title": "Radio Moldova Tineret (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/h2oZuyc.png",
+   "playerLabel": "Radio Moldova Tineret (1080p)",
+   "action": "video:https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8"
+  },
+  {
+   "title": "Realitatea TV (406p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Ul4IIfX.png",
+   "playerLabel": "Realitatea TV (406p)",
+   "action": "video:https://realitatealive.md/tv/rlive.m3u8"
+  },
+  {
+   "title": "Sor TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/BcfZgD8.png",
+   "playerLabel": "Sor TV (720p)",
+   "action": "video:http://188.237.212.16:8888/live/cameraFeed.m3u8"
+  },
+  {
+   "title": "TeleMoldova + [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/8z0zLjw.jpeg",
+   "playerLabel": "TeleMoldova + [Geo-blocked]",
+   "action": "video:https://vdo.ssl-stream.com:3247/stream/play.m3u8"
+  },
+  {
+   "title": "Tezaur TV (576i)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/eAagwLW.png",
+   "playerLabel": "Tezaur TV (576i)",
+   "action": "video:https://tezaurtv.md/stream/index.m3u8"
+  },
+  {
+   "title": "TSV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6p4weSK.png",
+   "playerLabel": "TSV (1080p)",
+   "action": "video:https://tsv.md/stream/hls/tsv-online/index.m3u8"
+  },
+  {
+   "title": "TV8 (Moldova) [Not 24/7]",
+   "titleFooter": "Documentary;News",
+   "image": "https://i.imgur.com/Rsn4oUh.png",
+   "playerLabel": "TV8 (Moldova) [Not 24/7]",
+   "action": "video:http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8"
+  },
+  {
+   "title": "TVR Moldova (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wDe9gL2.png",
+   "playerLabel": "TVR Moldova (720p)",
+   "action": "video:https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8"
+  },
+  {
+   "title": "TVR Moldova HD (1440p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wDe9gL2.png",
+   "playerLabel": "TVR Moldova HD (1440p)",
+   "action": "video:https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8"
+  },
+  {
+   "title": "Vocea Basarabiei TV",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/irP8QLs.png",
+   "playerLabel": "Vocea Basarabiei TV",
+   "action": "video:https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8"
+  }
+ ]
+}

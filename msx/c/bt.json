@@ -1,0 +1,21 @@
+{
+ "type": "list",
+ "headline": "Bhutan (1)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Nick Jr. (India) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
+   "playerLabel": "Nick Jr. (India) (576p)",
+   "action": "video:http://103.185.24.134:3001/NICK-JR/index.m3u8"
+  }
+ ]
+}

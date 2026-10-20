@@ -1,0 +1,126 @@
+{
+ "type": "list",
+ "headline": "Philippines (16)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Abante TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
+   "playerLabel": "Abante TV (1080p)",
+   "action": "video:https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
+  },
+  {
+   "title": "Bilyonaryo News Channel (1080p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/iTH9Z0j.png",
+   "playerLabel": "Bilyonaryo News Channel (1080p) [Geo-blocked]",
+   "action": "video:https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8"
+  },
+  {
+   "title": "CCTN 47 (1080p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/IFpAmvW.png",
+   "playerLabel": "CCTN 47 (1080p) [Not 24/7]",
+   "action": "video:http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"
+  },
+  {
+   "title": "CLTV 36 (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2fGhl7q.png",
+   "playerLabel": "CLTV 36 (720p) [Not 24/7]",
+   "action": "video:https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+  },
+  {
+   "title": "FilAmTV Network (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nRiApdI.png",
+   "playerLabel": "FilAmTV Network (1080p)",
+   "action": "video:https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8"
+  },
+  {
+   "title": "Hope Channel Philippines (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/LB2vmMt.png",
+   "playerLabel": "Hope Channel Philippines (1080p)",
+   "action": "video:https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8"
+  },
+  {
+   "title": "INC Radio (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/y2Nrr68.png",
+   "playerLabel": "INC Radio (1080p)",
+   "action": "video:https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8"
+  },
+  {
+   "title": "INC TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/JGSLqA6.png",
+   "playerLabel": "INC TV (1080p)",
+   "action": "video:https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8"
+  },
+  {
+   "title": "INTRAVEL (1080p)",
+   "titleFooter": "Travel",
+   "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",
+   "playerLabel": "INTRAVEL (1080p)",
+   "action": "video:https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "Living Asia Channel (1080p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/q3UToRM.png",
+   "playerLabel": "Living Asia Channel (1080p)",
+   "action": "video:https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
+  },
+  {
+   "title": "Mindanow Network TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xBlYirh.jpeg",
+   "playerLabel": "Mindanow Network TV (1080p)",
+   "action": "video:https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8"
+  },
+  {
+   "title": "Premier Sports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/BURPHzI.png",
+   "playerLabel": "Premier Sports (1080p)",
+   "action": "video:https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+  },
+  {
+   "title": "Premier Sports 2 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/UQeXWd2.png",
+   "playerLabel": "Premier Sports 2 (1080p)",
+   "action": "video:https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
+  },
+  {
+   "title": "RTM ASEAN",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/skAiUxg.png",
+   "playerLabel": "RTM ASEAN",
+   "action": "video:https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+  },
+  {
+   "title": "SMNI (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9QhVnqY.jpg",
+   "playerLabel": "SMNI (720p)",
+   "action": "video:https://stream.kdlc.click/hls/0/stream.m3u8"
+  },
+  {
+   "title": "Vegas Life TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/G7lONcu.png",
+   "playerLabel": "Vegas Life TV (1080p)",
+   "action": "video:https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8"
+  }
+ ]
+}

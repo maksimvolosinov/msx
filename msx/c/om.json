@@ -1,0 +1,49 @@
+{
+ "type": "list",
+ "headline": "Oman (5)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Alistiqama TV (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/2FPtYZr.png",
+   "playerLabel": "Alistiqama TV (576p)",
+   "action": "video:https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
+  },
+  {
+   "title": "Oman Sports TV (1080p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/1omi7p8.png",
+   "playerLabel": "Oman Sports TV (1080p) [Not 24/7]",
+   "action": "video:https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "Oman TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rBftT9x.png",
+   "playerLabel": "Oman TV (1080p)",
+   "action": "video:https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "Oman TV Cultural (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/b38wNPK.png",
+   "playerLabel": "Oman TV Cultural (1080p)",
+   "action": "video:https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8"
+  },
+  {
+   "title": "Oman TV Mubashir (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/UkQTR5b.png",
+   "playerLabel": "Oman TV Mubashir (1080p)",
+   "action": "video:https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
+  }
+ ]
+}

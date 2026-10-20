@@ -1,0 +1,28 @@
+{
+ "type": "list",
+ "headline": "Belize (2)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Flex Studio Radio TV [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/tZjqtxd.png",
+   "playerLabel": "Flex Studio Radio TV [Not 24/7]",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8"
+  },
+  {
+   "title": "Guadalupe Media (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EfaOwRE.png",
+   "playerLabel": "Guadalupe Media (720p)",
+   "action": "video:https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8"
+  }
+ ]
+}

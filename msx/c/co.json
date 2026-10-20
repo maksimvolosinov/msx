@@ -1,0 +1,1022 @@
+{
+ "type": "list",
+ "headline": "Colombia (144)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "A&E Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+   "playerLabel": "A&E Latin America (1080p)",
+   "action": "video:http://138.121.15.230:9002/A&E/index.m3u8"
+  },
+  {
+   "title": "Alerta Bogota (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png",
+   "playerLabel": "Alerta Bogota (720p) [Geo-blocked]",
+   "action": "video:https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8"
+  },
+  {
+   "title": "Amaga Television (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hvpbfzG.png",
+   "playerLabel": "Amaga Television (720p)",
+   "action": "video:https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8"
+  },
+  {
+   "title": "ANC Television (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/xjTU14t.jpg",
+   "playerLabel": "ANC Television (720p)",
+   "action": "video:https://live.amelbatv.co:81/anctvlive/index.m3u8"
+  },
+  {
+   "title": "Aupur Television (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/FTv7zpJ.jpeg",
+   "playerLabel": "Aupur Television (1080p)",
+   "action": "video:https://canal.aupurtv.co/live/stream/index.m3u8"
+  },
+  {
+   "title": "Avivamiento TV (1080p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/ydoBp3b.png",
+   "playerLabel": "Avivamiento TV (1080p) [Not 24/7]",
+   "action": "video:https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
+  },
+  {
+   "title": "AXN Latin America Andes (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+   "playerLabel": "AXN Latin America Andes (1080p)",
+   "action": "video:http://181.78.8.199:8000/play/a0cu/index.m3u8"
+  },
+  {
+   "title": "Bendicion Channel (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/yKzV7m7.png",
+   "playerLabel": "Bendicion Channel (720p)",
+   "action": "video:https://s.emisoras.tv:8081/bendicionchannel/index.m3u8"
+  },
+  {
+   "title": "Bethel Colombia (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/BYdMsLL.png",
+   "playerLabel": "Bethel Colombia (720p)",
+   "action": "video:http://138.121.15.230:9002/BETHEL/index.m3u8"
+  },
+  {
+   "title": "Blu Radio (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/w2t8CGT.png",
+   "playerLabel": "Blu Radio (720p)",
+   "action": "video:https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8"
+  },
+  {
+   "title": "Buenisima Radio TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/URKDlOZ.png",
+   "playerLabel": "Buenisima Radio TV",
+   "action": "video:https://canal.mediaserver.com.co/live/buenisimatv.m3u8"
+  },
+  {
+   "title": "BUM Television (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/I0eGYI0.png",
+   "playerLabel": "BUM Television (720p) [Not 24/7]",
+   "action": "video:https://movil.ejeserver.com/live/visiondorada.m3u8"
+  },
+  {
+   "title": "Cablenoticias (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/FfhOGR9.png",
+   "playerLabel": "Cablenoticias (1080p)",
+   "action": "video:http://181.78.211.244:8005/play/a09u/index.m3u8"
+  },
+  {
+   "title": "Canal 1 (Colombia) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YFywPLC.png",
+   "playerLabel": "Canal 1 (Colombia) (1080p)",
+   "action": "video:http://190.109.2.92:8000/play/a010/index.m3u8"
+  },
+  {
+   "title": "Canal 14 Codazzi (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/wNSUMhJ.png",
+   "playerLabel": "Canal 14 Codazzi (720p) [Not 24/7]",
+   "action": "video:https://eu1.servers10.com:8081/8056/index.m3u8"
+  },
+  {
+   "title": "Canal 2 Alpavision Neiva (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Yv8XIGW.png",
+   "playerLabel": "Canal 2 Alpavision Neiva (720p) [Not 24/7]",
+   "action": "video:https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8"
+  },
+  {
+   "title": "Canal 8 TV+ (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/peOIG1F.png",
+   "playerLabel": "Canal 8 TV+ (720p)",
+   "action": "video:https://movil.ejeserver.com/live/canal8tv.m3u8"
+  },
+  {
+   "title": "Canal 9 Cosespu",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/w5e1d8k.png",
+   "playerLabel": "Canal 9 Cosespu",
+   "action": "video:https://video2.lhdserver.es/canal9cosespu/live.m3u8"
+  },
+  {
+   "title": "Canal Calima TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6YxtyUR.jpeg",
+   "playerLabel": "Canal Calima TV (720p)",
+   "action": "video:https://movil.ejeserver.com/live/calimatv.m3u8"
+  },
+  {
+   "title": "Canal Capital (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zAYtbYi.png",
+   "playerLabel": "Canal Capital (1080p)",
+   "action": "video:http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8"
+  },
+  {
+   "title": "Canal CHD",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/cNv1MPs.jpeg",
+   "playerLabel": "Canal CHD",
+   "action": "video:https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
+  },
+  {
+   "title": "Canal Cine Dios",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/S4xqZgV.png",
+   "playerLabel": "Canal Cine Dios",
+   "action": "video:https://canal.mediaserver.com.co/live/cinedios.m3u8"
+  },
+  {
+   "title": "Canal Congreso (1080p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/3VnL8dp.png",
+   "playerLabel": "Canal Congreso (1080p)",
+   "action": "video:http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8"
+  },
+  {
+   "title": "Canal Dos (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/BYsyNHZ.jpg",
+   "playerLabel": "Canal Dos (720p)",
+   "action": "video:http://131.221.41.94/hls/canal2.m3u8"
+  },
+  {
+   "title": "Canal Institucional (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hqfQVrU.png",
+   "playerLabel": "Canal Institucional (1080p)",
+   "action": "video:http://190.61.47.54:8000/play/a00v/index.m3u8"
+  },
+  {
+   "title": "Canal Mas Television (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ODMa27W.jpg",
+   "playerLabel": "Canal Mas Television (720p)",
+   "action": "video:https://movil.ejeserver.com/live/teledoradahd.m3u8"
+  },
+  {
+   "title": "Canal Mundo Vision (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zRqfJuj.png",
+   "playerLabel": "Canal Mundo Vision (720p) [Not 24/7]",
+   "action": "video:https://movil.ejeserver.com/live/mundovisiontv.m3u8"
+  },
+  {
+   "title": "Canal Nets (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/edaAexc.png",
+   "playerLabel": "Canal Nets (720p) [Not 24/7]",
+   "action": "video:https://movil.ejeserver.com/live/nets.m3u8"
+  },
+  {
+   "title": "Canal Oracion Con Son (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/rfnFqU3.png",
+   "playerLabel": "Canal Oracion Con Son (1080p)",
+   "action": "video:https://canal.mediaserver.com.co/live/oracionconson.m3u8"
+  },
+  {
+   "title": "Canal PyC (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/3qxBDhV.png",
+   "playerLabel": "Canal PyC (720p)",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8"
+  },
+  {
+   "title": "Canal RCN (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5PhTaHp.png",
+   "playerLabel": "Canal RCN (1080p)",
+   "action": "video:http://138.121.15.230:9002/RCN/index.m3u8"
+  },
+  {
+   "title": "Canal Telefamilia (360p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/D1s1Q3k.png",
+   "playerLabel": "Canal Telefamilia (360p) [Not 24/7]",
+   "action": "video:https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8"
+  },
+  {
+   "title": "Canal Telesantiago (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/DmkH5p8.jpg",
+   "playerLabel": "Canal Telesantiago (1080p)",
+   "action": "video:https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8"
+  },
+  {
+   "title": "Canal TV3 (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pyeBDpg.jpeg",
+   "playerLabel": "Canal TV3 (720p) [Not 24/7]",
+   "action": "video:https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8"
+  },
+  {
+   "title": "Canal Womtv (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/Nr4muMP.jpeg",
+   "playerLabel": "Canal Womtv (720p)",
+   "action": "video:https://live.amelbatv.co:81/womtvlive/index.m3u8"
+  },
+  {
+   "title": "Canica TV (240p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/RuQDwTt.jpeg",
+   "playerLabel": "Canica TV (240p)",
+   "action": "video:https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
+  },
+  {
+   "title": "Caracol HD2 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Fww94l9.png",
+   "playerLabel": "Caracol HD2 (1080p)",
+   "action": "video:http://181.78.14.26:4000/play/a00d/index.m3u8"
+  },
+  {
+   "title": "Caracol TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WbfdJbk.png",
+   "playerLabel": "Caracol TV (1080p)",
+   "action": "video:http://138.121.15.230:9002/CARACOL/index.m3u8"
+  },
+  {
+   "title": "Cartoon Network Latin America North Atlantic (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+   "playerLabel": "Cartoon Network Latin America North Atlantic (1080p)",
+   "action": "video:http://38.252.238.18:8000/play/a053/index.m3u8"
+  },
+  {
+   "title": "Cinecanal (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+   "playerLabel": "Cinecanal (1080p)",
+   "action": "video:http://15.204.246.24:8080/CinecanalHD/index.m3u8"
+  },
+  {
+   "title": "Citytv Bogota (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/h7K9EW9.png",
+   "playerLabel": "Citytv Bogota (1080p)",
+   "action": "video:http://138.121.15.230:9002/CITY-TV/index.m3u8"
+  },
+  {
+   "title": "Claro Musica TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/vrSFUwv.png",
+   "playerLabel": "Claro Musica TV (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a010"
+  },
+  {
+   "title": "CMB Television (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/akGKPsk.png",
+   "playerLabel": "CMB Television (1080p)",
+   "action": "video:https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
+  },
+  {
+   "title": "CNC Bugavision (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zJAwnvd.png",
+   "playerLabel": "CNC Bugavision (720p)",
+   "action": "video:https://movil.ejeserver.com/live/cncbuga.m3u8"
+  },
+  {
+   "title": "CNC Medellin (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/J1f4fNq.png",
+   "playerLabel": "CNC Medellin (1080p)",
+   "action": "video:http://138.94.3.106:8000/play/a02o/index.m3u8"
+  },
+  {
+   "title": "CNC Pereira (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5vJ0aXH.png",
+   "playerLabel": "CNC Pereira (720p)",
+   "action": "video:https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8"
+  },
+  {
+   "title": "CNC Santander de Quilichao (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/LNl2o9q.jpg",
+   "playerLabel": "CNC Santander de Quilichao (480p)",
+   "action": "video:https://movil.ejeserver.com/live/cncsantander.m3u8"
+  },
+  {
+   "title": "CNC Tulua (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NCzpcqm.png",
+   "playerLabel": "CNC Tulua (1080p)",
+   "action": "video:https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8"
+  },
+  {
+   "title": "CNC Valledupar (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/y5N6PCg.jpg",
+   "playerLabel": "CNC Valledupar (720p)",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8"
+  },
+  {
+   "title": "Comedy Central Latin America (1080p)",
+   "titleFooter": "Comedy",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+   "playerLabel": "Comedy Central Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
+  },
+  {
+   "title": "Cosmovision (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QlvYfEJ.png",
+   "playerLabel": "Cosmovision (720p)",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8"
+  },
+  {
+   "title": "Cristovision (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/XIhCUY9.png",
+   "playerLabel": "Cristovision (720p)",
+   "action": "video:https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8"
+  },
+  {
+   "title": "Discovery Channel Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+   "playerLabel": "Discovery Channel Latin America (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a032/index.m3u8"
+  },
+  {
+   "title": "Discovery Kids Latin America Colombia (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
+   "playerLabel": "Discovery Kids Latin America Colombia (1080p)",
+   "action": "video:http://38.134.250.110:8000/play/a003/index.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/DisneyHD/index.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America Center (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America Center (1080p)",
+   "action": "video:http://181.78.8.199:8000/play/a0dn/index.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America Panregional HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America Panregional HD (1080p)",
+   "action": "video:http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America (1080p)",
+   "action": "video:http://190.14.10.19:16000/play/a02d/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America North HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America North HD (1080p)",
+   "action": "video:http://181.78.14.26:4000/play/a073/index.m3u8"
+  },
+  {
+   "title": "DSports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+   "playerLabel": "DSports (1080p)",
+   "action": "video:http://38.187.7.252:8000/play/a03d/index.m3u8"
+  },
+  {
+   "title": "Eduvision (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/ppBdqel.png",
+   "playerLabel": "Eduvision (1080p)",
+   "action": "video:https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+  },
+  {
+   "title": "El Mundo del Campo (720p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/xG2apUG.jpeg",
+   "playerLabel": "El Mundo del Campo (720p)",
+   "action": "video:https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
+  },
+  {
+   "title": "Emisora Comunitaria 104.1 FM",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SQ79Wsb.png",
+   "playerLabel": "Emisora Comunitaria 104.1 FM",
+   "action": "video:https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8"
+  },
+  {
+   "title": "ESPN 2 Latin America Colombia (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
+   "playerLabel": "ESPN 2 Latin America Colombia (1080p)",
+   "action": "video:http://190.61.47.54:8000/play/a005/index.m3u8"
+  },
+  {
+   "title": "ESPN 3 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+   "playerLabel": "ESPN 3 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8"
+  },
+  {
+   "title": "ESPN 4 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+   "playerLabel": "ESPN 4 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
+  },
+  {
+   "title": "ESPN 5 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 5 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
+  },
+  {
+   "title": "ESPN 6 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 6 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
+  },
+  {
+   "title": "ESPN 7 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 7 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8"
+  },
+  {
+   "title": "ESPN Latin America Colombia (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN Latin America Colombia (1080p)",
+   "action": "video:http://190.61.47.54:8000/play/a004/index.m3u8"
+  },
+  {
+   "title": "Eureka (1080p) [Geo-blocked]",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/WgnZPol.png",
+   "playerLabel": "Eureka (1080p) [Geo-blocked]",
+   "action": "video:https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8"
+  },
+  {
+   "title": "Fiesta TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/42wImV2.png",
+   "playerLabel": "Fiesta TV",
+   "action": "video:https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8"
+  },
+  {
+   "title": "Frecuencia F TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Cw5k96N.png",
+   "playerLabel": "Frecuencia F TV (1080p)",
+   "action": "video:https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8"
+  },
+  {
+   "title": "FX Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+   "playerLabel": "FX Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/FXHD/index.m3u8"
+  },
+  {
+   "title": "Heliconia Radio TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AJ182BG.png",
+   "playerLabel": "Heliconia Radio TV (720p)",
+   "action": "video:https://eu1.servers10.com:8081/8178/index.m3u8"
+  },
+  {
+   "title": "History Latin America (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+   "playerLabel": "History Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/HistoryHD/index.m3u8"
+  },
+  {
+   "title": "Kalu TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/MO4w3OT.jpeg",
+   "playerLabel": "Kalu TV (1080p)",
+   "action": "video:https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8"
+  },
+  {
+   "title": "La Hermandad Salsera (1080p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/7Wlt6bc.png",
+   "playerLabel": "La Hermandad Salsera (1080p) [Not 24/7]",
+   "action": "video:https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
+  },
+  {
+   "title": "La Kalle (1080p)",
+   "titleFooter": "Music",
+   "image": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
+   "playerLabel": "La Kalle (1080p)",
+   "action": "video:http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8"
+  },
+  {
+   "title": "La Morada Radio TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/E3wDEX5.png",
+   "playerLabel": "La Morada Radio TV (720p)",
+   "action": "video:https://movil.ejeserver.com/live/lamoradatv.m3u8"
+  },
+  {
+   "title": "Marsella TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wwYOa00.png",
+   "playerLabel": "Marsella TV",
+   "action": "video:https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8"
+  },
+  {
+   "title": "Mas Norte TV [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NmsWlj6.jpeg",
+   "playerLabel": "Mas Norte TV [Not 24/7]",
+   "action": "video:https://live.arnoproducciones.com/hls/norte.m3u8"
+  },
+  {
+   "title": "MasMusica FM (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/tCg7owd.png",
+   "playerLabel": "MasMusica FM (720p)",
+   "action": "video:https://movil.ejeserver.com/live/masmusica.m3u8"
+  },
+  {
+   "title": "MaxTV [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://gia.tv/streams/pstream/209851.png",
+   "playerLabel": "MaxTV [Not 24/7]",
+   "action": "video:https://inliveserver.com:1936/8078/8078/playlist.m3u8"
+  },
+  {
+   "title": "MCI Television (1080p)",
+   "titleFooter": "Family;General;Movies",
+   "image": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
+   "playerLabel": "MCI Television (1080p)",
+   "action": "video:https://video.ejeserver.com/live/mcitelevision.m3u8"
+  },
+  {
+   "title": "Momento24",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/kLy6w9e.jpeg",
+   "playerLabel": "Momento24",
+   "action": "video:https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8"
+  },
+  {
+   "title": "MTV Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+   "playerLabel": "MTV Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/MTVHD/index.m3u8"
+  },
+  {
+   "title": "Nexo TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/tkEFZWo.png",
+   "playerLabel": "Nexo TV",
+   "action": "video:https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8"
+  },
+  {
+   "title": "Nick Jr. Latin America (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/KT4tdQs.png",
+   "playerLabel": "Nick Jr. Latin America (1080p)",
+   "action": "video:https://streaming.onnethn.com/NICK_JR/playlist.m3u8"
+  },
+  {
+   "title": "Nickelodeon Latin America (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/E84jnP8.png",
+   "playerLabel": "Nickelodeon Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/NickHD/index.m3u8"
+  },
+  {
+   "title": "Noticias RCN (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/FMX4QCM.png",
+   "playerLabel": "Noticias RCN (720p)",
+   "action": "video:https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8"
+  },
+  {
+   "title": "Noticiero 90 Minutos (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ThaRRCN.png",
+   "playerLabel": "Noticiero 90 Minutos (1080p)",
+   "action": "video:https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8"
+  },
+  {
+   "title": "NSTV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ES6xFAv.png",
+   "playerLabel": "NSTV (1080p)",
+   "action": "video:https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8"
+  },
+  {
+   "title": "Oasis TV (Colombia) (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/VKYzFpZ.png",
+   "playerLabel": "Oasis TV (Colombia) (720p) [Not 24/7]",
+   "action": "video:https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
+  },
+  {
+   "title": "Ondambiental TV (360p)",
+   "titleFooter": "Culture;Music",
+   "image": "https://i.imgur.com/u5804Au.jpg",
+   "playerLabel": "Ondambiental TV (360p)",
+   "action": "video:https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
+  },
+  {
+   "title": "Panche Television",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/BJVlOVA.jpeg",
+   "playerLabel": "Panche Television",
+   "action": "video:https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8"
+  },
+  {
+   "title": "Parranda Vallenata (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/BzBX7Qx.jpeg",
+   "playerLabel": "Parranda Vallenata (720p)",
+   "action": "video:https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8"
+  },
+  {
+   "title": "Radiola TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/3AXjotA.jpg",
+   "playerLabel": "Radiola TV (1080p)",
+   "action": "video:http://158.172.217.18:8000/play/a01k/index.m3u8"
+  },
+  {
+   "title": "Raizal TV (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/qWNSxq8.png",
+   "playerLabel": "Raizal TV (1080p)",
+   "action": "video:http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8"
+  },
+  {
+   "title": "RCN HD2 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SrMPTfc.png",
+   "playerLabel": "RCN HD2 (1080p)",
+   "action": "video:http://181.78.14.26:4000/play/a07m/index.m3u8"
+  },
+  {
+   "title": "Red+ (1080p)",
+   "titleFooter": "Entertainment;General;News",
+   "image": "https://i.imgur.com/kuqkTMC.png",
+   "playerLabel": "Red+ (1080p)",
+   "action": "video:https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+  },
+  {
+   "title": "Reyali (614p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/YmFjnsF.png",
+   "playerLabel": "Reyali (614p)",
+   "action": "video:https://eu1.servers10.com:8081/8090/index.m3u8"
+  },
+  {
+   "title": "Rumba TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/WtVpWwI.png",
+   "playerLabel": "Rumba TV",
+   "action": "video:http://186.148.196.100:8000/play/a02h"
+  },
+  {
+   "title": "Salsa Gorda Television (1080p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/3IhYd7G.jpg",
+   "playerLabel": "Salsa Gorda Television (1080p) [Not 24/7]",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+  },
+  {
+   "title": "Santel TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/jmJx0jo.png",
+   "playerLabel": "Santel TV",
+   "action": "video:https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8"
+  },
+  {
+   "title": "Senal Colombia (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Y9x16vl.png",
+   "playerLabel": "Senal Colombia (1080p)",
+   "action": "video:http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8"
+  },
+  {
+   "title": "Sin Limites (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/wrFfgzC.png",
+   "playerLabel": "Sin Limites (1080p)",
+   "action": "video:http://170.244.209.30:8000/play/a1im/index.m3u8"
+  },
+  {
+   "title": "Soona TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Pk8zzTL.jpeg",
+   "playerLabel": "Soona TV",
+   "action": "video:https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8"
+  },
+  {
+   "title": "Space (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
+   "playerLabel": "Space (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a04n/index.m3u8"
+  },
+  {
+   "title": "Star Channel (Colombia) (1080p)",
+   "titleFooter": "Movies;Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+   "playerLabel": "Star Channel (Colombia) (1080p)",
+   "action": "video:http://190.61.47.54:8000/play/a035/index.m3u8"
+  },
+  {
+   "title": "Supermusica TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/MiVs42N.jpeg",
+   "playerLabel": "Supermusica TV (720p)",
+   "action": "video:https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8"
+  },
+  {
+   "title": "Suram TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2N9LCES.png",
+   "playerLabel": "Suram TV (720p)",
+   "action": "video:https://us.streaminghd.cl/suramtv/index.m3u8"
+  },
+  {
+   "title": "Tele Amiga (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/gBZFZNv.png",
+   "playerLabel": "Tele Amiga (720p)",
+   "action": "video:http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8"
+  },
+  {
+   "title": "Tele Mocoa Canal 10 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XHtpEfu.png",
+   "playerLabel": "Tele Mocoa Canal 10 (720p)",
+   "action": "video:https://live.amelbatv.co:81/telemocoalive/index.m3u8"
+  },
+  {
+   "title": "Teleantioquia (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6WMV2Az.png",
+   "playerLabel": "Teleantioquia (1080p)",
+   "action": "video:http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8"
+  },
+  {
+   "title": "Teleantioquia Plus (1080p)",
+   "titleFooter": "General",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/b/b0/TeleantioquiaPlus.svg/revision/latest/scale-to-width-down/320?cb=20260826013823&path-prefix=es",
+   "playerLabel": "Teleantioquia Plus (1080p)",
+   "action": "video:http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8"
+  },
+  {
+   "title": "Telecaribe (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/E35cXHt.png",
+   "playerLabel": "Telecaribe (1080p)",
+   "action": "video:http://138.121.15.230:9002/TELECARIBE/index.m3u8"
+  },
+  {
+   "title": "Teleislas (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/aKHGRyk.png",
+   "playerLabel": "Teleislas (720p)",
+   "action": "video:http://190.61.47.54:8000/play/a015/index.m3u8"
+  },
+  {
+   "title": "Telemedellin (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GnxzRTC.png",
+   "playerLabel": "Telemedellin (1080p)",
+   "action": "video:http://181.78.82.130:8000/play/a0ru/index.m3u8"
+  },
+  {
+   "title": "TeleNostalgia (1080p)",
+   "titleFooter": "Classic",
+   "image": "https://i.imgur.com/WZeMZNy.png",
+   "playerLabel": "TeleNostalgia (1080p)",
+   "action": "video:http://38.134.250.110:8000/play/a01q/index.m3u8"
+  },
+  {
+   "title": "Telepacifico (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/39hy97J.png",
+   "playerLabel": "Telepacifico (1080p)",
+   "action": "video:http://138.121.15.230:9002/TELEPACIFICO/index.m3u8"
+  },
+  {
+   "title": "TeleQuindio (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/bJWj5ja.png",
+   "playerLabel": "TeleQuindio (1080p)",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
+  },
+  {
+   "title": "Telesangil (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png",
+   "playerLabel": "Telesangil (720p)",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8"
+  },
+  {
+   "title": "TeveColombia (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/vPwiJTw.png",
+   "playerLabel": "TeveColombia (720p) [Not 24/7]",
+   "action": "video:https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
+  },
+  {
+   "title": "TLC Latin America (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+   "playerLabel": "TLC Latin America (1080p)",
+   "action": "video:http://38.134.250.110:8000/play/a00n/index.m3u8"
+  },
+  {
+   "title": "TNT Latin America Colombia (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+   "playerLabel": "TNT Latin America Colombia (1080p)",
+   "action": "video:http://181.78.211.244:8005/play/a09g/index.m3u8"
+  },
+  {
+   "title": "TNT Novelas Colombia (1080p)",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+   "playerLabel": "TNT Novelas Colombia (1080p)",
+   "action": "video:http://190.61.47.54:8000/play/a02f/index.m3u8"
+  },
+  {
+   "title": "TNT Series Latin America (1080p)",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+   "playerLabel": "TNT Series Latin America (1080p)",
+   "action": "video:http://168.196.127.137:6001/play/a095/index.m3u8"
+  },
+  {
+   "title": "Trece (Colombia) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jsuXXIg.png",
+   "playerLabel": "Trece (Colombia) (1080p)",
+   "action": "video:http://190.60.46.228:8888/play/a030/index.m3u8"
+  },
+  {
+   "title": "Tu Universo TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/e6esjLZ.jpg",
+   "playerLabel": "Tu Universo TV (720p)",
+   "action": "video:https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
+  },
+  {
+   "title": "TV Golfo Uraba",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/Nd5axnS.png",
+   "playerLabel": "TV Golfo Uraba",
+   "action": "video:https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8"
+  },
+  {
+   "title": "TV Rivera [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/BmwZNWm.png",
+   "playerLabel": "TV Rivera [Not 24/7]",
+   "action": "video:https://movil.ejeserver.com/live/tvrivera.m3u8"
+  },
+  {
+   "title": "TV3 La Plata (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/uRMq5HC.jpeg",
+   "playerLabel": "TV3 La Plata (480p)",
+   "action": "video:https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8"
+  },
+  {
+   "title": "TVAgro (720p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/9nzY7Ch.png",
+   "playerLabel": "TVAgro (720p)",
+   "action": "video:http://168.228.44.241:9999/play/a04n/index.m3u8"
+  },
+  {
+   "title": "TVGracia",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/tMl4ISO.png",
+   "playerLabel": "TVGracia",
+   "action": "video:https://vs20.live.opencaster.com/diego_57244803/index.m3u8"
+  },
+  {
+   "title": "Ultra Casanare TV (1080p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/1voWgLI.png",
+   "playerLabel": "Ultra Casanare TV (1080p) [Not 24/7]",
+   "action": "video:https://eu1.servers10.com:8081/8072/index.m3u8"
+  },
+  {
+   "title": "UMC TV (720p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/YQUK4wO.png",
+   "playerLabel": "UMC TV (720p)",
+   "action": "video:https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+  },
+  {
+   "title": "Universal TV Latin America Colombia (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
+   "playerLabel": "Universal TV Latin America Colombia (1080p)",
+   "action": "video:http://38.134.250.110:8000/play/a006/index.m3u8"
+  },
+  {
+   "title": "Vallenato Internacional (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/rVKroNW.png",
+   "playerLabel": "Vallenato Internacional (720p) [Not 24/7]",
+   "action": "video:https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8"
+  },
+  {
+   "title": "Vive TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/25CFHpB.png",
+   "playerLabel": "Vive TV (1080p)",
+   "action": "video:http://192.144.113.132:1935/live/ViveTV/playlist.m3u8"
+  },
+  {
+   "title": "Warner Channel Colombia (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+   "playerLabel": "Warner Channel Colombia (1080p)",
+   "action": "video:http://38.134.250.110:8000/play/a029/index.m3u8"
+  },
+  {
+   "title": "Win Sports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/DuSSrHV.png",
+   "playerLabel": "Win Sports (1080p)",
+   "action": "video:http://138.121.15.230:9002/WIN-SPORT/index.m3u8"
+  },
+  {
+   "title": "Win+ Futbol (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/0UN87vB.png",
+   "playerLabel": "Win+ Futbol (1080p)",
+   "action": "video:http://181.78.12.119:16123/play/ch19/index.m3u8"
+  },
+  {
+   "title": "Zoom (Colombia) (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/euy5zp6.png",
+   "playerLabel": "Zoom (Colombia) (1080p)",
+   "action": "video:http://138.121.15.230:9002/ZOOM/index.m3u8"
+  }
+ ]
+}

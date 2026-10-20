@@ -1,0 +1,133 @@
+{
+ "type": "list",
+ "headline": "Hong Kong (17)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Asian Drama (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/wqtN7mH.png",
+   "playerLabel": "Asian Drama (1080p)",
+   "action": "video:http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8"
+  },
+  {
+   "title": "BSTV (Hong Kong) (576p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/GVYSSgm.png",
+   "playerLabel": "BSTV (Hong Kong) (576p)",
+   "action": "video:http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+  },
+  {
+   "title": "Celestial Movies (576i)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Mb5ssnu.png",
+   "playerLabel": "Celestial Movies (576i)",
+   "action": "video:http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8"
+  },
+  {
+   "title": "Golden Jade (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/lPYxsUr.png",
+   "playerLabel": "Golden Jade (1080p)",
+   "action": "video:http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8"
+  },
+  {
+   "title": "Hong Kong International Business Channel (1080p) [Geo-blocked]",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/jaIdkbz.png",
+   "playerLabel": "Hong Kong International Business Channel (1080p) [Geo-blocked]",
+   "action": "video:https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8"
+  },
+  {
+   "title": "HOY Infotainment (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/LNokYLQ.png",
+   "playerLabel": "HOY Infotainment (1080p) [Geo-blocked]",
+   "action": "video:https://hoytv-live-stream.hoy.tv/ch78/index.m3u8"
+  },
+  {
+   "title": "HOY TV (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NfVZPTT.png",
+   "playerLabel": "HOY TV (1080p) [Geo-blocked]",
+   "action": "video:https://hoytv-live-stream.hoy.tv/ch77/index.m3u8"
+  },
+  {
+   "title": "Jade (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",
+   "playerLabel": "Jade (1080p)",
+   "action": "video:http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8"
+  },
+  {
+   "title": "Mei Ah Movie Channel (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/laGiFM1.png",
+   "playerLabel": "Mei Ah Movie Channel (1080p)",
+   "action": "video:http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8"
+  },
+  {
+   "title": "Pet Club TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/ykPNNwQ.png",
+   "playerLabel": "Pet Club TV (1080p)",
+   "action": "video:https://petclub-samsungaus.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "Phoenix Chinese Channel (720p)",
+   "titleFooter": "General",
+   "image": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+   "playerLabel": "Phoenix Chinese Channel (720p)",
+   "action": "video:http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+  },
+  {
+   "title": "Phoenix InfoNews Channel (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/mt4h3VO.png",
+   "playerLabel": "Phoenix InfoNews Channel (720p)",
+   "action": "video:http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+  },
+  {
+   "title": "RTHK TV 31 (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/kf818kM.png",
+   "playerLabel": "RTHK TV 31 (1080p) [Geo-blocked]",
+   "action": "video:https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"
+  },
+  {
+   "title": "RTHK TV 32 (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/MXLuUoU.png",
+   "playerLabel": "RTHK TV 32 (1080p) [Geo-blocked]",
+   "action": "video:https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"
+  },
+  {
+   "title": "RTHK TV 33 (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/2MProun.png",
+   "playerLabel": "RTHK TV 33 (1080p) [Geo-blocked]",
+   "action": "video:https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8"
+  },
+  {
+   "title": "RTHK TV 34 (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Kq5A6Qn.png",
+   "playerLabel": "RTHK TV 34 (1080p) [Geo-blocked]",
+   "action": "video:https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8"
+  },
+  {
+   "title": "RTHK TV 35 (1080p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/FQmNKDS.png",
+   "playerLabel": "RTHK TV 35 (1080p) [Geo-blocked]",
+   "action": "video:https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8"
+  }
+ ]
+}

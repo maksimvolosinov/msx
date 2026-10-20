@@ -1,0 +1,154 @@
+{
+ "type": "list",
+ "headline": "Uganda (20)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "3ABN TV Uganda (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/mml9lI2.png",
+   "playerLabel": "3ABN TV Uganda (720p) [Not 24/7]",
+   "action": "video:https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8"
+  },
+  {
+   "title": "ACW UG TV (480p)",
+   "titleFooter": "General;Music",
+   "image": "https://i.imgur.com/8pzEmcJ.jpeg",
+   "playerLabel": "ACW UG TV (480p)",
+   "action": "video:https://live.acwugtv.com/hls/stream.m3u8"
+  },
+  {
+   "title": "Alpha Digital (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/sLt242H.png",
+   "playerLabel": "Alpha Digital (480p)",
+   "action": "video:https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+  },
+  {
+   "title": "Ark TV (1080p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/yCHNZXD.png",
+   "playerLabel": "Ark TV (1080p) [Not 24/7]",
+   "action": "video:https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8"
+  },
+  {
+   "title": "BBS TV (Uganda)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Hub1AXv.png",
+   "playerLabel": "BBS TV (Uganda)",
+   "action": "video:https://bbstv.ug/hls/ch01/index.m3u8"
+  },
+  {
+   "title": "BTM TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NUvA2jf.png",
+   "playerLabel": "BTM TV (480p) [Not 24/7]",
+   "action": "video:https://btmug.zerocdn.org/hls/stream.m3u8"
+  },
+  {
+   "title": "BTV (Uganda) (480p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/rcHZ1al.png",
+   "playerLabel": "BTV (Uganda) (480p)",
+   "action": "video:https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+  },
+  {
+   "title": "Bukedde TV 1 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HFq5QlJ.png",
+   "playerLabel": "Bukedde TV 1 (576p)",
+   "action": "video:https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"
+  },
+  {
+   "title": "Bukedde TV 2 (576p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ukwPZeY.png",
+   "playerLabel": "Bukedde TV 2 (576p) [Not 24/7]",
+   "action": "video:https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8"
+  },
+  {
+   "title": "Dream TV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/XRUDhqQ.png",
+   "playerLabel": "Dream TV (480p)",
+   "action": "video:https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8"
+  },
+  {
+   "title": "Faraja Television (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NmnOGHI.jpg",
+   "playerLabel": "Faraja Television (1080p) [Not 24/7]",
+   "action": "video:https://panel.freedomflixtv.org:3868/hybrid/play.m3u8"
+  },
+  {
+   "title": "FORT TV (480p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
+   "playerLabel": "FORT TV (480p)",
+   "action": "video:https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8"
+  },
+  {
+   "title": "Gugudde TV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/XEakc6Q.png",
+   "playerLabel": "Gugudde TV (480p)",
+   "action": "video:https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8"
+  },
+  {
+   "title": "KRC TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8c9Uqks.jpeg",
+   "playerLabel": "KRC TV",
+   "action": "video:https://channels.ad-ug.com/live/ch03/index.m3u8"
+  },
+  {
+   "title": "KSTV Uganda",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/MMPzPSl.png",
+   "playerLabel": "KSTV Uganda",
+   "action": "video:https://live.esteem.africa/kstv/hls/0/stream.m3u8"
+  },
+  {
+   "title": "Rwenzori TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/qo4QHfz.png",
+   "playerLabel": "Rwenzori TV",
+   "action": "video:https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8"
+  },
+  {
+   "title": "Salt TV (Uganda)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/AK9nE6Y.png",
+   "playerLabel": "Salt TV (Uganda)",
+   "action": "video:https://stream.salttelevision.com/hls/stream.m3u8"
+  },
+  {
+   "title": "Tayari West TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/tbnOtUZ.jpeg",
+   "playerLabel": "Tayari West TV (1080p)",
+   "action": "video:https://stream.hydeinnovations.com/tarari-west/index.m3u8"
+  },
+  {
+   "title": "TV West (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EiJzkIz.png",
+   "playerLabel": "TV West (720p)",
+   "action": "video:https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8"
+  },
+  {
+   "title": "Wan Luo TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4PUUp3E.png",
+   "playerLabel": "Wan Luo TV (576p)",
+   "action": "video:https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8"
+  }
+ ]
+}

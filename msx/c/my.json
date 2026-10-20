@@ -1,0 +1,112 @@
+{
+ "type": "list",
+ "headline": "Malaysia (14)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "8TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/Jkx9W88.png",
+   "playerLabel": "8TV",
+   "action": "video:http://cdn6.163189.xyz/163189/8tv"
+  },
+  {
+   "title": "Awesome TV [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/x90U1Bf.png",
+   "playerLabel": "Awesome TV [Geo-blocked]",
+   "action": "video:https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8"
+  },
+  {
+   "title": "AXN Asia Malaysia (1080p)",
+   "titleFooter": "Movies;Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+   "playerLabel": "AXN Asia Malaysia (1080p)",
+   "action": "video:https://2x2.me/5aE8sA"
+  },
+  {
+   "title": "FTV (Taiwan) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/q8ahtbT.png",
+   "playerLabel": "FTV (Taiwan) (720p) [Not 24/7]",
+   "action": "video:http://seb.sason.top/ptv/ftv.php?id=ms"
+  },
+  {
+   "title": "NTV7",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jDWR3xI.png",
+   "playerLabel": "NTV7",
+   "action": "video:https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+  },
+  {
+   "title": "RTM ASEAN",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/skAiUxg.png",
+   "playerLabel": "RTM ASEAN",
+   "action": "video:https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+  },
+  {
+   "title": "SelangorTV (1080p)",
+   "titleFooter": "General",
+   "image": "https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png",
+   "playerLabel": "SelangorTV (1080p)",
+   "action": "video:https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd"
+  },
+  {
+   "title": "Sukan RTM (1080p) [Geo-blocked]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/1pYYSu2.png",
+   "playerLabel": "Sukan RTM (1080p) [Geo-blocked]",
+   "action": "video:https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd"
+  },
+  {
+   "title": "Suke TV (720p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/hCwH3s0.png",
+   "playerLabel": "Suke TV (720p)",
+   "action": "video:https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272"
+  },
+  {
+   "title": "TV1 (Malaysia) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wSyPmiY.png",
+   "playerLabel": "TV1 (Malaysia) (1080p)",
+   "action": "video:https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047"
+  },
+  {
+   "title": "TV2 (Malaysia) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/LGEdeyJ.png",
+   "playerLabel": "TV2 (Malaysia) (1080p)",
+   "action": "video:https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d"
+  },
+  {
+   "title": "TV9 (Malaysia)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Krh1F8d.png",
+   "playerLabel": "TV9 (Malaysia)",
+   "action": "video:https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+  },
+  {
+   "title": "TVIKIM (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/X6JKNEE.png",
+   "playerLabel": "TVIKIM (1080p)",
+   "action": "video:https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942"
+  },
+  {
+   "title": "TVS (Malaysia) (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/960px-TVS_Sarawak.jpg",
+   "playerLabel": "TVS (Malaysia) (1080p) [Geo-blocked]",
+   "action": "video:https://api.dani-dev.co.za/v1/stream/mytv/live/tvs"
+  }
+ ]
+}

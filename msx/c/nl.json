@@ -1,0 +1,1118 @@
+{
+ "type": "list",
+ "headline": "Netherlands (158)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "1AlmereTV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XfkbTrU.png",
+   "playerLabel": "1AlmereTV (720p)",
+   "action": "video:https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8"
+  },
+  {
+   "title": "1Twente TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ftiuNK3.png",
+   "playerLabel": "1Twente TV (1080p)",
+   "action": "video:https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
+  },
+  {
+   "title": "360TuneBox (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/1Fyezng.png",
+   "playerLabel": "360TuneBox (1080p)",
+   "action": "video:https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8"
+  },
+  {
+   "title": "A1 TV (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JZ1oTM2.png",
+   "playerLabel": "A1 TV (1080p) [Not 24/7]",
+   "action": "video:https://stream.a1mediagroep.nl/hls/a1tv.m3u8"
+  },
+  {
+   "title": "Altena TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/0wblu0I.png",
+   "playerLabel": "Altena TV (720p)",
+   "action": "video:https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8"
+  },
+  {
+   "title": "Assen TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/upik15D.png",
+   "playerLabel": "Assen TV (720p)",
+   "action": "video:https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live"
+  },
+  {
+   "title": "AT5",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iAiSlEL.png",
+   "playerLabel": "AT5",
+   "action": "video:https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+  },
+  {
+   "title": "BEATTV (1080p)",
+   "titleFooter": "Entertainment;Music",
+   "image": "https://i.imgur.com/egK33Dj.png",
+   "playerLabel": "BEATTV (1080p)",
+   "action": "video:https://tv.beatfm.nl/live.m3u8"
+  },
+  {
+   "title": "BNR Nieuwsradio (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/d0KLwkj.png",
+   "playerLabel": "BNR Nieuwsradio (720p) [Geo-blocked]",
+   "action": "video:https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8"
+  },
+  {
+   "title": "BR6 TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NKtAiXu.png",
+   "playerLabel": "BR6 TV (720p)",
+   "action": "video:https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8"
+  },
+  {
+   "title": "BVN (576p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/960px-BVN_logo.svg.png",
+   "playerLabel": "BVN (576p)",
+   "action": "video:https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd"
+  },
+  {
+   "title": "Dance Television (1080p)",
+   "titleFooter": "Music",
+   "image": "https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg",
+   "playerLabel": "Dance Television (1080p)",
+   "action": "video:https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
+  },
+  {
+   "title": "Deep House District (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/IV2Qvc0.png",
+   "playerLabel": "Deep House District (1080p)",
+   "action": "video:https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8"
+  },
+  {
+   "title": "Den Haag TV (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gkzlRED.jpg",
+   "playerLabel": "Den Haag TV (1080p) [Not 24/7]",
+   "action": "video:http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8"
+  },
+  {
+   "title": "Dit is Helmond (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/fGAaBAs.png",
+   "playerLabel": "Dit is Helmond (480p)",
+   "action": "video:http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
+  },
+  {
+   "title": "DTV Den Bosch (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/aFBNbsy.png",
+   "playerLabel": "DTV Den Bosch (1080p)",
+   "action": "video:https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+  },
+  {
+   "title": "DTV Maashorst (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5WaCCAC.png",
+   "playerLabel": "DTV Maashorst (1080p)",
+   "action": "video:https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+  },
+  {
+   "title": "DTV Oss & Bernheze (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JL1f9Tx.png",
+   "playerLabel": "DTV Oss & Bernheze (1080p)",
+   "action": "video:https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+  },
+  {
+   "title": "Feel Good TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/qvs1BKr.png",
+   "playerLabel": "Feel Good TV (720p) [Not 24/7]",
+   "action": "video:https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8"
+  },
+  {
+   "title": "FILMBOX+ One Nederland",
+   "titleFooter": "Movies",
+   "image": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+   "playerLabel": "FILMBOX+ One Nederland",
+   "action": "video:http://46.149.191.219:9100/play/a015"
+  },
+  {
+   "title": "Gigant FM (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/LwEHfjD.png",
+   "playerLabel": "Gigant FM (720p)",
+   "action": "video:https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
+  },
+  {
+   "title": "Haarlem105 TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xyOVVZ0.png",
+   "playerLabel": "Haarlem105 TV (720p)",
+   "action": "video:https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8"
+  },
+  {
+   "title": "History (Netherlands) (360p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+   "playerLabel": "History (Netherlands) (360p)",
+   "action": "video:https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8"
+  },
+  {
+   "title": "Horse & Country TV (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/1x6zYZr.png",
+   "playerLabel": "Horse & Country TV (1080p)",
+   "action": "video:https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8"
+  },
+  {
+   "title": "HTR TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/IlwVHX0.png",
+   "playerLabel": "HTR TV (720p)",
+   "action": "video:https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "Hype Visual Radio (1080p)",
+   "titleFooter": "Music",
+   "image": "https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png",
+   "playerLabel": "Hype Visual Radio (1080p)",
+   "action": "video:https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8"
+  },
+  {
+   "title": "Ideaal TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JLYQFoX.png",
+   "playerLabel": "Ideaal TV (480p) [Not 24/7]",
+   "action": "video:https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "InTrouble (1080p)",
+   "titleFooter": "Auto;Outdoor;Sports",
+   "image": "https://i.imgur.com/a40chFI.png",
+   "playerLabel": "InTrouble (1080p)",
+   "action": "video:https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "InWonder (1080p)",
+   "titleFooter": "Science",
+   "image": "https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png",
+   "playerLabel": "InWonder (1080p)",
+   "action": "video:https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8"
+  },
+  {
+   "title": "Jin TV",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/37ajg2j.png",
+   "playerLabel": "Jin TV",
+   "action": "video:https://live.jintv.org/medialive/jintv.m3u8"
+  },
+  {
+   "title": "KempenTV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ZiPL9ar.png",
+   "playerLabel": "KempenTV (480p)",
+   "action": "video:http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8"
+  },
+  {
+   "title": "KTO (504p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EY6TsdV.png",
+   "playerLabel": "KTO (504p)",
+   "action": "video:http://145.239.5.177/354/index.m3u8"
+  },
+  {
+   "title": "L1 TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SDD5KS5.png",
+   "playerLabel": "L1 TV (720p) [Not 24/7]",
+   "action": "video:https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
+  },
+  {
+   "title": "Langstraat TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xchUfks.png",
+   "playerLabel": "Langstraat TV (720p)",
+   "action": "video:https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8"
+  },
+  {
+   "title": "Lansingerland TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/1r7IZ7Q.png",
+   "playerLabel": "Lansingerland TV (720p)",
+   "action": "video:https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8"
+  },
+  {
+   "title": "LEO Middelse TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wF3FFZv.png",
+   "playerLabel": "LEO Middelse TV (480p)",
+   "action": "video:https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "LINQ TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0DgP3vu.png",
+   "playerLabel": "LINQ TV (480p)",
+   "action": "video:https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "LOE TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8i6OwaS.png",
+   "playerLabel": "LOE TV (720p)",
+   "action": "video:https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8"
+  },
+  {
+   "title": "Lokale Omroep Zeewolde (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Dw4u9wT.png",
+   "playerLabel": "Lokale Omroep Zeewolde (720p)",
+   "action": "video:https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
+  },
+  {
+   "title": "LON TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/bH4XSGw.png",
+   "playerLabel": "LON TV (720p)",
+   "action": "video:https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8"
+  },
+  {
+   "title": "Magic PowerRadio (288p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/sWcwIte.png",
+   "playerLabel": "Magic PowerRadio (288p) [Not 24/7]",
+   "action": "video:https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8"
+  },
+  {
+   "title": "MaLive (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/0Vzg2OR.png",
+   "playerLabel": "MaLive (1080p)",
+   "action": "video:https://live.salto.nl/hls/malive_high.m3u8"
+  },
+  {
+   "title": "Meer TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/p4TXVkE.png",
+   "playerLabel": "Meer TV (720p) [Not 24/7]",
+   "action": "video:https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8"
+  },
+  {
+   "title": "MerweTV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JjB7U1q.png",
+   "playerLabel": "MerweTV (720p)",
+   "action": "video:https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8"
+  },
+  {
+   "title": "ML5 TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/knjHdei.png",
+   "playerLabel": "ML5 TV (480p)",
+   "action": "video:https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "NH (1080p)",
+   "titleFooter": "General;News",
+   "image": "https://i.imgur.com/SPkK4md.png",
+   "playerLabel": "NH (1080p)",
+   "action": "video:https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+  },
+  {
+   "title": "NOOS TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/X8xLcpT.png",
+   "playerLabel": "NOOS TV (720p)",
+   "action": "video:https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8"
+  },
+  {
+   "title": "NPO 1 (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HEtJEBa.png",
+   "playerLabel": "NPO 1 (360p)",
+   "action": "video:https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8"
+  },
+  {
+   "title": "NPO 1 HD (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HEtJEBa.png",
+   "playerLabel": "NPO 1 HD (720p) [Geo-blocked]",
+   "action": "video:https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8"
+  },
+  {
+   "title": "NPO 2 HD (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wmqaoXS.png",
+   "playerLabel": "NPO 2 HD (720p) [Geo-blocked]",
+   "action": "video:https://bpm.tv.delta.nl/hls/combined/2/mobile.m3u8"
+  },
+  {
+   "title": "NPO 3 HD (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/lKcFUqi.png",
+   "playerLabel": "NPO 3 HD (720p) [Geo-blocked]",
+   "action": "video:https://bpm.tv.delta.nl/hls/combined/3/mobile.m3u8"
+  },
+  {
+   "title": "Omroep Brabant (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KLYsKKC.png",
+   "playerLabel": "Omroep Brabant (1080p)",
+   "action": "video:https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8"
+  },
+  {
+   "title": "Omroep Brabant Radio (1080p)",
+   "titleFooter": "General",
+   "playerLabel": "Omroep Brabant Radio (1080p)",
+   "action": "video:https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8"
+  },
+  {
+   "title": "Omroep Centraal TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YNUPWbL.png",
+   "playerLabel": "Omroep Centraal TV (480p) [Not 24/7]",
+   "action": "video:https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8"
+  },
+  {
+   "title": "Omroep Dommelland (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6Tkd9Pv.png",
+   "playerLabel": "Omroep Dommelland (720p)",
+   "action": "video:https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8"
+  },
+  {
+   "title": "Omroep Flevoland (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rF4MTYD.png",
+   "playerLabel": "Omroep Flevoland (720p) [Not 24/7]",
+   "action": "video:https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8"
+  },
+  {
+   "title": "Omroep Gelderland HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/G08hKit.png",
+   "playerLabel": "Omroep Gelderland HD (1080p)",
+   "action": "video:https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8"
+  },
+  {
+   "title": "Omroep Hoeksche Waard (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pgMwNGV.png",
+   "playerLabel": "Omroep Hoeksche Waard (480p)",
+   "action": "video:https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "Omroep Hulst (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/RrQnqId.png",
+   "playerLabel": "Omroep Hulst (720p) [Not 24/7]",
+   "action": "video:https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "Omroep Land van Cuijk (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Pt2gXJ1.png",
+   "playerLabel": "Omroep Land van Cuijk (720p)",
+   "action": "video:https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8"
+  },
+  {
+   "title": "Omroep Lingewaard (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/FqyTFVN.png",
+   "playerLabel": "Omroep Lingewaard (720p)",
+   "action": "video:https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
+  },
+  {
+   "title": "Omroep Meierijstad (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sYzh01C.png",
+   "playerLabel": "Omroep Meierijstad (480p)",
+   "action": "video:https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "Omroep Ons West Brabant (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XlWTK7s.png",
+   "playerLabel": "Omroep Ons West Brabant (480p)",
+   "action": "video:https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "Omroep Peelrand (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/K4AhATP.png",
+   "playerLabel": "Omroep Peelrand (720p)",
+   "action": "video:https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "Omroep Sudwest (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XtKLmQS.png",
+   "playerLabel": "Omroep Sudwest (720p)",
+   "action": "video:https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
+  },
+  {
+   "title": "Omroep Tilburg (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rhazkU7.png",
+   "playerLabel": "Omroep Tilburg (480p)",
+   "action": "video:https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "Omroep Venlo (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zjDZdmM.png",
+   "playerLabel": "Omroep Venlo (720p)",
+   "action": "video:https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8"
+  },
+  {
+   "title": "Omroep Venray (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/uVqTbi2.png",
+   "playerLabel": "Omroep Venray (720p)",
+   "action": "video:https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8"
+  },
+  {
+   "title": "Omroep West HD (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/5IDb9fk.png",
+   "playerLabel": "Omroep West HD (1080p) [Not 24/7]",
+   "action": "video:https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8"
+  },
+  {
+   "title": "Omroep Zeeland (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3c3QUSn.png",
+   "playerLabel": "Omroep Zeeland (1080p)",
+   "action": "video:https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8"
+  },
+  {
+   "title": "Omrop Fryslan (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/khacDTU.png",
+   "playerLabel": "Omrop Fryslan (1080p) [Not 24/7]",
+   "action": "video:https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8"
+  },
+  {
+   "title": "OOG TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WzxY0PL.png",
+   "playerLabel": "OOG TV (720p)",
+   "action": "video:https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8"
+  },
+  {
+   "title": "OPEN Rotterdam TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nWahRAb.png",
+   "playerLabel": "OPEN Rotterdam TV (480p) [Not 24/7]",
+   "action": "video:https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8"
+  },
+  {
+   "title": "ORTS TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/RZM4Myo.png",
+   "playerLabel": "ORTS TV (480p) [Not 24/7]",
+   "action": "video:https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "Podium.TV (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/bAhMhuz.jpg",
+   "playerLabel": "Podium.TV (1080p) [Not 24/7]",
+   "action": "video:https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live"
+  },
+  {
+   "title": "Podium.TV 2 (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/bAhMhuz.jpg",
+   "playerLabel": "Podium.TV 2 (1080p) [Not 24/7]",
+   "action": "video:https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live"
+  },
+  {
+   "title": "Podium.TV 3 (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/bAhMhuz.jpg",
+   "playerLabel": "Podium.TV 3 (1080p) [Not 24/7]",
+   "action": "video:https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live"
+  },
+  {
+   "title": "Qmusic (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/fMTuqDu.png",
+   "playerLabel": "Qmusic (720p)",
+   "action": "video:https://stream.qmusic.nl/qmusic/videohls.m3u8"
+  },
+  {
+   "title": "Radio 10 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/2oGtj7r.png",
+   "playerLabel": "Radio 10 (720p)",
+   "action": "video:https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8"
+  },
+  {
+   "title": "Radio 350 (360p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/3nkzXup.png",
+   "playerLabel": "Radio 350 (360p) [Not 24/7]",
+   "action": "video:https://stream.radio350.nl/hls/radio350.m3u8"
+  },
+  {
+   "title": "Radio 538 (270p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/sd7BX9H.png",
+   "playerLabel": "Radio 538 (270p)",
+   "action": "video:https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8"
+  },
+  {
+   "title": "Radio Aalsmeer TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/SYzjLlI.png",
+   "playerLabel": "Radio Aalsmeer TV (720p) [Not 24/7]",
+   "action": "video:https://radioaalsmeer.nl:4443/live/tv.m3u8"
+  },
+  {
+   "title": "Radio JND (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/nyVlZeL.png",
+   "playerLabel": "Radio JND (1080p)",
+   "action": "video:https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8"
+  },
+  {
+   "title": "Radio Stad den Haag (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/ANK36EQ.png",
+   "playerLabel": "Radio Stad den Haag (720p)",
+   "action": "video:https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8"
+  },
+  {
+   "title": "RadioNL TV (1080p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/TVaMJYB.png",
+   "playerLabel": "RadioNL TV (1080p) [Not 24/7]",
+   "action": "video:https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8"
+  },
+  {
+   "title": "RadioToppers (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/9OMsUd7.png",
+   "playerLabel": "RadioToppers (720p)",
+   "action": "video:https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8"
+  },
+  {
+   "title": "Rararadio (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/vTpfxUG.png",
+   "playerLabel": "Rararadio (720p)",
+   "action": "video:https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8"
+  },
+  {
+   "title": "Regio TV De Bilt (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2jQbmyK.png",
+   "playerLabel": "Regio TV De Bilt (720p)",
+   "action": "video:https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8"
+  },
+  {
+   "title": "Regio TV Nieuws (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/BG7zrsC.png",
+   "playerLabel": "Regio TV Nieuws (1080p) [Not 24/7]",
+   "action": "video:http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8"
+  },
+  {
+   "title": "Regio90 TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/UGnm1jd.png",
+   "playerLabel": "Regio90 TV (720p)",
+   "action": "video:https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "RN7 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/dYBTrLc.png",
+   "playerLabel": "RN7 (1080p)",
+   "action": "video:https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8"
+  },
+  {
+   "title": "RPL Woerden (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/UdYMXWQ.png",
+   "playerLabel": "RPL Woerden (720p)",
+   "action": "video:https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8"
+  },
+  {
+   "title": "RTV 1 (Netherlands) (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/lRCsPWT.png",
+   "playerLabel": "RTV 1 (Netherlands) (720p)",
+   "action": "video:https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8"
+  },
+  {
+   "title": "RTV Arnhem TV (480p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "playerLabel": "RTV Arnhem TV (480p) [Not 24/7]",
+   "action": "video:https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8"
+  },
+  {
+   "title": "RTV Drenthe (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/UBQCjnG.png",
+   "playerLabel": "RTV Drenthe (1080p)",
+   "action": "video:https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8"
+  },
+  {
+   "title": "RTV GO! (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/WUClFUJ.png",
+   "playerLabel": "RTV GO! (1080p) [Not 24/7]",
+   "action": "video:http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8"
+  },
+  {
+   "title": "RTV Horizon (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/wnRsI8B.png",
+   "playerLabel": "RTV Horizon (720p)",
+   "action": "video:https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8"
+  },
+  {
+   "title": "RTV LOVE (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hucwX6v.png",
+   "playerLabel": "RTV LOVE (720p)",
+   "action": "video:https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8"
+  },
+  {
+   "title": "RTV Maastricht (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/nYl8H2e.png",
+   "playerLabel": "RTV Maastricht (720p) [Not 24/7]",
+   "action": "video:http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8"
+  },
+  {
+   "title": "RTV Meppel (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/RosyQkb.png",
+   "playerLabel": "RTV Meppel (720p)",
+   "action": "video:https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8"
+  },
+  {
+   "title": "RTV NOF Achtkarspelen & Tytsjerksteradiel (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/VO6wBcD.png",
+   "playerLabel": "RTV NOF Achtkarspelen & Tytsjerksteradiel (720p)",
+   "action": "video:https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8"
+  },
+  {
+   "title": "RTV Noord (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/l92Cb6H.png",
+   "playerLabel": "RTV Noord (720p) [Not 24/7]",
+   "action": "video:https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8"
+  },
+  {
+   "title": "RTV Noord Extra (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/T0UvltB.png",
+   "playerLabel": "RTV Noord Extra (1080p) [Not 24/7]",
+   "action": "video:https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8"
+  },
+  {
+   "title": "RTV Noordoost Friesland (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/CpQIedo.png",
+   "playerLabel": "RTV Noordoost Friesland (720p) [Not 24/7]",
+   "action": "video:https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8"
+  },
+  {
+   "title": "RTV Oost (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/nTR6q9H.png",
+   "playerLabel": "RTV Oost (720p)",
+   "action": "video:https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8"
+  },
+  {
+   "title": "RTV Parkstad (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zsTuF9y.png",
+   "playerLabel": "RTV Parkstad (1080p)",
+   "action": "video:https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8"
+  },
+  {
+   "title": "RTV Purmerend (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/dLKSpqz.png",
+   "playerLabel": "RTV Purmerend (720p)",
+   "action": "video:https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "RTV Rijnmond (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/fJTs9xH.png",
+   "playerLabel": "RTV Rijnmond (1080p)",
+   "action": "video:https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8"
+  },
+  {
+   "title": "RTV Rijnmond Extra (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mlrd5ia.png",
+   "playerLabel": "RTV Rijnmond Extra (1080p)",
+   "action": "video:http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8"
+  },
+  {
+   "title": "RTV Rijnstreek TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/uM5sJJs.png",
+   "playerLabel": "RTV Rijnstreek TV (720p) [Not 24/7]",
+   "action": "video:https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8"
+  },
+  {
+   "title": "RTV SLOS (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xdzrT9A.png",
+   "playerLabel": "RTV SLOS (720p)",
+   "action": "video:https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8"
+  },
+  {
+   "title": "RTV Utrecht (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/nrvs30l.png",
+   "playerLabel": "RTV Utrecht (1080p)",
+   "action": "video:https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8"
+  },
+  {
+   "title": "RTV Veluwezoom TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/KeHbJTM.png",
+   "playerLabel": "RTV Veluwezoom TV (720p)",
+   "action": "video:https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8"
+  },
+  {
+   "title": "RTV Westerwolde (432p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/002YXP6.png",
+   "playerLabel": "RTV Westerwolde (432p)",
+   "action": "video:https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
+  },
+  {
+   "title": "RTV Zulthe (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Z3zUUsJ.png",
+   "playerLabel": "RTV Zulthe (720p)",
+   "action": "video:http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8"
+  },
+  {
+   "title": "Salto 1 (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/hyubvS5.png",
+   "playerLabel": "Salto 1 (720p)",
+   "action": "video:https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8"
+  },
+  {
+   "title": "Salto 2 (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/6H3ycdL.png",
+   "playerLabel": "Salto 2 (720p)",
+   "action": "video:https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
+  },
+  {
+   "title": "Salto 4 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.vimeocdn.com/portrait/31947989_640x640",
+   "playerLabel": "Salto 4 (720p)",
+   "action": "video:https://salto-streams.nl/hls/sotv2.m3u8"
+  },
+  {
+   "title": "Salto ADE (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.vimeocdn.com/portrait/31947989_640x640",
+   "playerLabel": "Salto ADE (720p)",
+   "action": "video:https://live.salto.nl/hls/at5.m3u8"
+  },
+  {
+   "title": "Salto Brasa Music (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.vimeocdn.com/portrait/31947989_640x640",
+   "playerLabel": "Salto Brasa Music (1080p)",
+   "action": "video:https://salto-streams.nl/hls/sotv1.m3u8"
+  },
+  {
+   "title": "SBS6 Classics (1080p) [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
+   "playerLabel": "SBS6 Classics (1080p) [Geo-blocked]",
+   "action": "video:https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8"
+  },
+  {
+   "title": "Schie TV (576i)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/kt4Aqvq.png",
+   "playerLabel": "Schie TV (576i)",
+   "action": "video:https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8"
+  },
+  {
+   "title": "Siris TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/4qKe18X.png",
+   "playerLabel": "Siris TV (720p)",
+   "action": "video:https://cdn.streammy.events/siris/playout/playlist.m3u8"
+  },
+  {
+   "title": "Sleutelstad TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ljVGMWV.png",
+   "playerLabel": "Sleutelstad TV (720p)",
+   "action": "video:https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8"
+  },
+  {
+   "title": "Slotstad TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NXCUiuF.png",
+   "playerLabel": "Slotstad TV (720p)",
+   "action": "video:https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8"
+  },
+  {
+   "title": "SOL2 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/VEbhJRA.png",
+   "playerLabel": "SOL2 (1080p)",
+   "action": "video:https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8"
+  },
+  {
+   "title": "SRC TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/VSSbjrM.png",
+   "playerLabel": "SRC TV (720p)",
+   "action": "video:http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
+  },
+  {
+   "title": "Streekstad Central (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9gM6rPb.png",
+   "playerLabel": "Streekstad Central (1080p)",
+   "action": "video:https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8"
+  },
+  {
+   "title": "StreekTV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/48lkh57.png",
+   "playerLabel": "StreekTV (720p) [Not 24/7]",
+   "action": "video:http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
+  },
+  {
+   "title": "Studio Rheden (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/swfxaac.png",
+   "playerLabel": "Studio Rheden (1080p)",
+   "action": "video:https://stream.studiorhedenlive.nl/hlstv/stream.m3u8"
+  },
+  {
+   "title": "Studio040 TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NBludRL.png",
+   "playerLabel": "Studio040 TV (720p)",
+   "action": "video:https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8"
+  },
+  {
+   "title": "The Chat Show Channel (1080p)",
+   "titleFooter": "Comedy;Series",
+   "image": "https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj",
+   "playerLabel": "The Chat Show Channel (1080p)",
+   "action": "video:https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8"
+  },
+  {
+   "title": "Tipik (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/LKLjnrp.png",
+   "playerLabel": "Tipik (720p)",
+   "action": "video:http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
+  },
+  {
+   "title": "TMF (1080p)",
+   "titleFooter": "Classic;Music",
+   "image": "https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png",
+   "playerLabel": "TMF (1080p)",
+   "action": "video:https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8"
+  },
+  {
+   "title": "TV Ellef (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/FaCd2QY.png",
+   "playerLabel": "TV Ellef (1080p)",
+   "action": "video:http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Enquetezaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Enquetezaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Klompezaal (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Klompezaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Plenaire zaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Plenaire zaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Tilanuskamer (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Tilanuskamer (1080p) [Not 24/7]",
+   "action": "video:https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8"
+  },
+  {
+   "title": "Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/X9fezZ8.png",
+   "playerLabel": "Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]",
+   "action": "video:https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+  },
+  {
+   "title": "UStad (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9F8ieEz.png",
+   "playerLabel": "UStad (1080p)",
+   "action": "video:http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8"
+  },
+  {
+   "title": "Vechtdal TV (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/MhcKEwr.png",
+   "playerLabel": "Vechtdal TV (480p)",
+   "action": "video:https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8"
+  },
+  {
+   "title": "WaterBear (1080p)",
+   "titleFooter": "Documentary;Outdoor",
+   "image": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
+   "playerLabel": "WaterBear (1080p)",
+   "action": "video:https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
+  },
+  {
+   "title": "WeertFM TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8bt6xt2.png",
+   "playerLabel": "WeertFM TV (720p)",
+   "action": "video:https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8"
+  },
+  {
+   "title": "WOS (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/L7MUBIo.png",
+   "playerLabel": "WOS (1080p)",
+   "action": "video:https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8"
+  },
+  {
+   "title": "XITE (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/jxuwGRi.png",
+   "playerLabel": "XITE (720p)",
+   "action": "video:https://xite-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "XITE Hits (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/N51Rp7E.png",
+   "playerLabel": "XITE Hits (1080p)",
+   "action": "video:https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8"
+  },
+  {
+   "title": "XITE Reggae Vibes (1080p)",
+   "titleFooter": "Music",
+   "image": "https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png",
+   "playerLabel": "XITE Reggae Vibes (1080p)",
+   "action": "video:https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8"
+  },
+  {
+   "title": "XON (480p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xEUHgMj.png",
+   "playerLabel": "XON (480p) [Not 24/7]",
+   "action": "video:http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8"
+  },
+  {
+   "title": "ZFM Zoetermeer TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/vrjACvy.png",
+   "playerLabel": "ZFM Zoetermeer TV (720p)",
+   "action": "video:https://zfmzoetermeer.nl/live/master.m3u8"
+  },
+  {
+   "title": "ZO!34 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/yiihDg6.png",
+   "playerLabel": "ZO!34 (720p)",
+   "action": "video:https://video.uitzending.tv:19360/zo34/zo34.m3u8"
+  }
+ ]
+}

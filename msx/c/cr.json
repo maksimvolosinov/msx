@@ -1,0 +1,455 @@
+{
+ "type": "list",
+ "headline": "Costa Rica (63)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "360 RFTV (576p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EBtgnxR.png",
+   "playerLabel": "360 RFTV (576p) [Geo-blocked]",
+   "action": "video:https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8"
+  },
+  {
+   "title": "88 Stereo (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/i3YwORV.png",
+   "playerLabel": "88 Stereo (720p) [Not 24/7]",
+   "action": "video:http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
+  },
+  {
+   "title": "Antena Seis TV (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9Nh2mo9.png",
+   "playerLabel": "Antena Seis TV (720p) [Geo-blocked]",
+   "action": "video:https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
+  },
+  {
+   "title": "BestClasicosTV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/a/BRb8AVL.png",
+   "playerLabel": "BestClasicosTV (720p) [Not 24/7]",
+   "action": "video:https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+  },
+  {
+   "title": "Canal 1 (Costa Rica) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png",
+   "playerLabel": "Canal 1 (Costa Rica) (720p) [Not 24/7]",
+   "action": "video:https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+  },
+  {
+   "title": "Canal 10 (Costa Rica) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TO6WQbW.png",
+   "playerLabel": "Canal 10 (Costa Rica) (720p) [Not 24/7]",
+   "action": "video:https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
+  },
+  {
+   "title": "Canal 11 (Costa Rica) (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png",
+   "playerLabel": "Canal 11 (Costa Rica) (720p)",
+   "action": "video:https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8"
+  },
+  {
+   "title": "Canal 2 (Costa Rica) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Nn8BtH5.png",
+   "playerLabel": "Canal 2 (Costa Rica) (720p) [Not 24/7]",
+   "action": "video:https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8"
+  },
+  {
+   "title": "Canal 3 KMK TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/sgRDRBK.jpg",
+   "playerLabel": "Canal 3 KMK TV (720p)",
+   "action": "video:https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+  },
+  {
+   "title": "Canal 4 (Costa Rica) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5arZEgO.png",
+   "playerLabel": "Canal 4 (Costa Rica) (720p)",
+   "action": "video:https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8"
+  },
+  {
+   "title": "Canal 6 (Costa Rica) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nfKJftW.png",
+   "playerLabel": "Canal 6 (Costa Rica) (720p)",
+   "action": "video:https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8"
+  },
+  {
+   "title": "Canal 8 (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nefPi2Y.png",
+   "playerLabel": "Canal 8 (720p) [Not 24/7]",
+   "action": "video:https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8"
+  },
+  {
+   "title": "Cartago Medios TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Vcd40AL.png",
+   "playerLabel": "Cartago Medios TV (720p) [Not 24/7]",
+   "action": "video:https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+  },
+  {
+   "title": "Colosal TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/0DZB3eB.png",
+   "playerLabel": "Colosal TV",
+   "action": "video:https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
+  },
+  {
+   "title": "Conexion Positiva Television",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/HSSyRDs/conexion-positiva.png",
+   "playerLabel": "Conexion Positiva Television",
+   "action": "video:https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8"
+  },
+  {
+   "title": "Costa Rica Channel (576p) [Not 24/7]",
+   "titleFooter": "Culture;Travel",
+   "image": "https://i.imgur.com/N4pFVVF.png",
+   "playerLabel": "Costa Rica Channel (576p) [Not 24/7]",
+   "action": "video:https://video0.rogohosting.com:19360/8006/8006.m3u8"
+  },
+  {
+   "title": "Coto Brus TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png",
+   "playerLabel": "Coto Brus TV (720p)",
+   "action": "video:https://cloudvideo.servers10.com:8081/8030/index.m3u8"
+  },
+  {
+   "title": "Cristo Vision Canal 31",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/CFXZ8j0.png",
+   "playerLabel": "Cristo Vision Canal 31",
+   "action": "video:https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
+  },
+  {
+   "title": "Enlace Juvenil",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/GfpPQ5D.png",
+   "playerLabel": "Enlace Juvenil",
+   "action": "video:https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8"
+  },
+  {
+   "title": "Extra TV 42 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jjTodXj.png",
+   "playerLabel": "Extra TV 42 (720p)",
+   "action": "video:https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8"
+  },
+  {
+   "title": "Extrema Kids TV [Not 24/7]",
+   "titleFooter": "Animation;Kids",
+   "image": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
+   "playerLabel": "Extrema Kids TV [Not 24/7]",
+   "action": "video:https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+  },
+  {
+   "title": "Extrema TV (Costa Rica) (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/E9AuhOU.png",
+   "playerLabel": "Extrema TV (Costa Rica) (720p)",
+   "action": "video:https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+  },
+  {
+   "title": "FUTV",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/f8BkLql.png",
+   "playerLabel": "FUTV",
+   "action": "video:http://190.61.90.17:40000/play/a03v/index.m3u8"
+  },
+  {
+   "title": "GAMTV.cr (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/xFCS7wM/GAMTVCR.png",
+   "playerLabel": "GAMTV.cr (720p)",
+   "action": "video:https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
+  },
+  {
+   "title": "Garabito TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sAYNKJ8.png",
+   "playerLabel": "Garabito TV (720p)",
+   "action": "video:https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
+  },
+  {
+   "title": "Gex TV (1080p)",
+   "titleFooter": "Entertainment;Music",
+   "image": "https://gextv.com/LOGO-WHITE.png",
+   "playerLabel": "Gex TV (1080p)",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
+  },
+  {
+   "title": "Guatuso TV",
+   "titleFooter": "General",
+   "image": "https://www.grupodgrajal.com/images/logoguatusochannel.png",
+   "playerLabel": "Guatuso TV",
+   "action": "video:https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8"
+  },
+  {
+   "title": "Hope Channel PROYECTO JA (360p)",
+   "titleFooter": "Family;Music;Religious",
+   "image": "https://i.imgur.com/VDyf36C.png",
+   "playerLabel": "Hope Channel PROYECTO JA (360p)",
+   "action": "video:https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8"
+  },
+  {
+   "title": "Impact Channel",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/YRRID7W.png",
+   "playerLabel": "Impact Channel",
+   "action": "video:https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8"
+  },
+  {
+   "title": "IQ Channel (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/hwuaomt.png",
+   "playerLabel": "IQ Channel (720p)",
+   "action": "video:https://rtmp.info/iqtv/envivo/playlist.m3u8"
+  },
+  {
+   "title": "La Potente Radio TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/ti5Fg5D.png",
+   "playerLabel": "La Potente Radio TV",
+   "action": "video:https://latamvdo.com:3626/hybrid/play.m3u8"
+  },
+  {
+   "title": "Limon TV (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/rdpcv7C/1689421727166.jpg",
+   "playerLabel": "Limon TV (1080p) [Not 24/7]",
+   "action": "video:http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
+  },
+  {
+   "title": "Luz Naciente TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/GC2lubh.png",
+   "playerLabel": "Luz Naciente TV",
+   "action": "video:https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
+  },
+  {
+   "title": "NicoyaTV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Lj2jRn3.png",
+   "playerLabel": "NicoyaTV (720p) [Not 24/7]",
+   "action": "video:https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
+  },
+  {
+   "title": "Norte Informativo TV (240p)",
+   "titleFooter": "News",
+   "image": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
+   "playerLabel": "Norte Informativo TV (240p)",
+   "action": "video:https://videohd.live:19360/8076/8076.m3u8"
+  },
+  {
+   "title": "Quince UCR (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/U7DUlem.png",
+   "playerLabel": "Quince UCR (720p) [Not 24/7]",
+   "action": "video:http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8"
+  },
+  {
+   "title": "Retrox TV (720p) [Not 24/7]",
+   "titleFooter": "Classic",
+   "image": "https://i.imgur.com/viJBL6f.png",
+   "playerLabel": "Retrox TV (720p) [Not 24/7]",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
+  },
+  {
+   "title": "RTTV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/eTfsCCq.png",
+   "playerLabel": "RTTV (720p) [Not 24/7]",
+   "action": "video:https://cloudvideo.servers10.com:19360/8212/8212.m3u8"
+  },
+  {
+   "title": "San Jose TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
+   "playerLabel": "San Jose TV (1080p)",
+   "action": "video:https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
+  },
+  {
+   "title": "San Vito Television",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Yd7JOxr.png",
+   "playerLabel": "San Vito Television",
+   "action": "video:https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8"
+  },
+  {
+   "title": "Sarapiqui TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/obTnd32.png",
+   "playerLabel": "Sarapiqui TV (720p) [Not 24/7]",
+   "action": "video:http://tiquiciatv.com:1935/stv/web/playlist.m3u8"
+  },
+  {
+   "title": "SOY Plancha TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+   "playerLabel": "SOY Plancha TV (720p)",
+   "action": "video:https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+  },
+  {
+   "title": "Super Cable",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/KYtJp8F.png",
+   "playerLabel": "Super Cable",
+   "action": "video:http://191.102.39.254:5000/live/5up3r5/playlist.m3u8"
+  },
+  {
+   "title": "TDtv (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OFSOvpd.jpg",
+   "playerLabel": "TDtv (720p)",
+   "action": "video:https://cloudvideo.servers10.com:8081/8230/index.m3u8"
+  },
+  {
+   "title": "Tele Uno (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/eRwYxc2.png",
+   "playerLabel": "Tele Uno (720p) [Not 24/7]",
+   "action": "video:http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8"
+  },
+  {
+   "title": "TeleBrunca (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/m3xu6Ms.png",
+   "playerLabel": "TeleBrunca (720p) [Not 24/7]",
+   "action": "video:https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
+  },
+  {
+   "title": "TeleMas (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/5Rc8mA5.png",
+   "playerLabel": "TeleMas (720p) [Not 24/7]",
+   "action": "video:https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8"
+  },
+  {
+   "title": "TeleSUR Costa Rica (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/KUpgeOf.png",
+   "playerLabel": "TeleSUR Costa Rica (720p) [Not 24/7]",
+   "action": "video:https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+  },
+  {
+   "title": "Teletica 7 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ctnvE3c.png",
+   "playerLabel": "Teletica 7 (1080p)",
+   "action": "video:http://190.61.101.11:7050/play/a07t/index.m3u8"
+  },
+  {
+   "title": "TicaVision",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mev90pC.jpg",
+   "playerLabel": "TicaVision",
+   "action": "video:https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+  },
+  {
+   "title": "Tigo Sports (Costa Rica) (720p) [Geo-blocked]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/UrsLSRs.png",
+   "playerLabel": "Tigo Sports (Costa Rica) (720p) [Geo-blocked]",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8"
+  },
+  {
+   "title": "TV Sur Canal 14 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OpHYYZA.png",
+   "playerLabel": "TV Sur Canal 14 (1080p)",
+   "action": "video:https://k20.usastreams.com:8081/tvsur/index.m3u8"
+  },
+  {
+   "title": "TV Sur Canal 9 (620p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7HbISMV.png",
+   "playerLabel": "TV Sur Canal 9 (620p) [Not 24/7]",
+   "action": "video:http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8"
+  },
+  {
+   "title": "TVN 14 (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/1aNEo6U.png",
+   "playerLabel": "TVN 14 (720p) [Not 24/7]",
+   "action": "video:http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8"
+  },
+  {
+   "title": "Urbano TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/KVVU9PI.png",
+   "playerLabel": "Urbano TV (720p)",
+   "action": "video:https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+  },
+  {
+   "title": "Video Tour Channel",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/zEi8eMC.png",
+   "playerLabel": "Video Tour Channel",
+   "action": "video:https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
+  },
+  {
+   "title": "Vintage Music (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/KImqYnN.jpeg",
+   "playerLabel": "Vintage Music (720p)",
+   "action": "video:https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+  },
+  {
+   "title": "VM Latino (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Dvo1b82.png",
+   "playerLabel": "VM Latino (1080p)",
+   "action": "video:http://45.163.139.42:8000/play/a03d/index.m3u8"
+  },
+  {
+   "title": "VoiceOver Radio TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/HzGs1Eh.png",
+   "playerLabel": "VoiceOver Radio TV (720p)",
+   "action": "video:https://cloudvideo.servers10.com:8081/8198/index.m3u8"
+  },
+  {
+   "title": "XperTV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/0Aftiln.png",
+   "playerLabel": "XperTV (1080p)",
+   "action": "video:http://45.163.139.42:8000/play/a02x/index.m3u8"
+  },
+  {
+   "title": "Zona Music TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/TJ5l9iI.png",
+   "playerLabel": "Zona Music TV (1080p)",
+   "action": "video:https://acceso.radiosportstv.online:3022/stream/play.m3u8"
+  },
+  {
+   "title": "Zurqui TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XvktUBB.jpg",
+   "playerLabel": "Zurqui TV (720p)",
+   "action": "video:https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
+  },
+  {
+   "title": "¡OPA! (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/300c1ZH.png",
+   "playerLabel": "¡OPA! (720p)",
+   "action": "video:https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8"
+  }
+ ]
+}

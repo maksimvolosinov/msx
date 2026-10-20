@@ -1,0 +1,175 @@
+{
+ "type": "list",
+ "headline": "Nepal (23)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Angel TV Nepal (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/qKLEGU7.png",
+   "playerLabel": "Angel TV Nepal (720p)",
+   "action": "video:https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8"
+  },
+  {
+   "title": "Capital TV HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hb4bq1t.png",
+   "playerLabel": "Capital TV HD (1080p)",
+   "action": "video:https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+  },
+  {
+   "title": "Capital TV HD HD",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hb4bq1t.png",
+   "playerLabel": "Capital TV HD HD",
+   "action": "video:https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8"
+  },
+  {
+   "title": "Divya Darshan TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EwDQ12F.png",
+   "playerLabel": "Divya Darshan TV (720p)",
+   "action": "video:http://live.divyadarshantv.com/hls/stream.m3u8"
+  },
+  {
+   "title": "Divya Darshan TV HD (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EwDQ12F.png",
+   "playerLabel": "Divya Darshan TV HD (1080p)",
+   "action": "video:https://live.divyadarshantv.com/hls/0/stream.m3u8"
+  },
+  {
+   "title": "Indigenous Television (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/2MByL1X/indigenous-television.png",
+   "playerLabel": "Indigenous Television (720p)",
+   "action": "video:https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8"
+  },
+  {
+   "title": "Kantipur Max [Geo-blocked]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/EZUyzhG.jpg",
+   "playerLabel": "Kantipur Max [Geo-blocked]",
+   "action": "video:https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8"
+  },
+  {
+   "title": "Kantipur TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HEVo2Gc.png",
+   "playerLabel": "Kantipur TV",
+   "action": "video:https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8"
+  },
+  {
+   "title": "Kantipur TV SD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HEVo2Gc.png",
+   "playerLabel": "Kantipur TV SD (1080p)",
+   "action": "video:https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8"
+  },
+  {
+   "title": "Mithila Nepal TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/CWn3fH9/1689333550464.jpg",
+   "playerLabel": "Mithila Nepal TV (1080p)",
+   "action": "video:http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR="
+  },
+  {
+   "title": "National Geographic (India) (576p) [Geo-blocked]",
+   "titleFooter": "Documentary",
+   "image": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
+   "playerLabel": "National Geographic (India) (576p) [Geo-blocked]",
+   "action": "video:http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+  },
+  {
+   "title": "National Geographic (India) HD (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+   "playerLabel": "National Geographic (India) HD (1080p)",
+   "action": "video:http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
+  },
+  {
+   "title": "National Geographic Wild (India) HD (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+   "playerLabel": "National Geographic Wild (India) HD (1080p)",
+   "action": "video:http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
+  },
+  {
+   "title": "Nepal 1 (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/Xr4FjC8.png",
+   "playerLabel": "Nepal 1 (576p)",
+   "action": "video:https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8"
+  },
+  {
+   "title": "Nick Jr. (India) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
+   "playerLabel": "Nick Jr. (India) (576p)",
+   "action": "video:http://103.185.24.134:3001/NICK-JR/index.m3u8"
+  },
+  {
+   "title": "Nickelodeon (India) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+   "playerLabel": "Nickelodeon (India) (576p)",
+   "action": "video:http://103.185.24.134:3001/NICK/index.m3u8"
+  },
+  {
+   "title": "Public 4K TV HD",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/JxEzgDP.png",
+   "playerLabel": "Public 4K TV HD",
+   "action": "video:http://103.180.240.141:8080/hls/main1/playlist.m3u8"
+  },
+  {
+   "title": "Ray TV HD",
+   "titleFooter": "Entertainment;General",
+   "image": "https://i.imgur.com/QIkgiEn.png",
+   "playerLabel": "Ray TV HD",
+   "action": "video:https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8"
+  },
+  {
+   "title": "Ray TV HD SD (576p)",
+   "titleFooter": "Entertainment;General",
+   "image": "https://i.imgur.com/QIkgiEn.png",
+   "playerLabel": "Ray TV HD SD (576p)",
+   "action": "video:https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8"
+  },
+  {
+   "title": "Sonic (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
+   "playerLabel": "Sonic (576p)",
+   "action": "video:http://103.185.24.134:3001/SONIC/index.m3u8"
+  },
+  {
+   "title": "TV Today Janakpur",
+   "titleFooter": "Entertainment;General",
+   "image": "https://i.imgur.com/5fZF69m.png",
+   "playerLabel": "TV Today Janakpur",
+   "action": "video:https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
+  },
+  {
+   "title": "YRF Music Nepal",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/mxx05Z9.png",
+   "playerLabel": "YRF Music Nepal",
+   "action": "video:https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8"
+  },
+  {
+   "title": "Zoom (India) Nepal (720p)",
+   "titleFooter": "Music",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
+   "playerLabel": "Zoom (India) Nepal (720p)",
+   "action": "video:https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
+  }
+ ]
+}

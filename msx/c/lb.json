@@ -1,0 +1,230 @@
+{
+ "type": "list",
+ "headline": "Lebanon (31)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Aghani Aghani TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/o6HSfNg.png",
+   "playerLabel": "Aghani Aghani TV (1080p)",
+   "action": "video:https://cdn.streamlane.tv/hls/aghanitv/index.m3u8"
+  },
+  {
+   "title": "Al Ittihad TV (552p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QMUjPXx.png",
+   "playerLabel": "Al Ittihad TV (552p) [Not 24/7]",
+   "action": "video:http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8"
+  },
+  {
+   "title": "Al Jadeed (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CfxR8o3.png",
+   "playerLabel": "Al Jadeed (1080p)",
+   "action": "video:http://185.9.2.18/chid_391/mono.m3u8"
+  },
+  {
+   "title": "Al Mayadeen TV (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/GtQOKeW.png",
+   "playerLabel": "Al Mayadeen TV (576p)",
+   "action": "video:https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
+  },
+  {
+   "title": "Al-Iman TV (Lebanon) (240p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/4WKQppG.png",
+   "playerLabel": "Al-Iman TV (Lebanon) (240p) [Not 24/7]",
+   "action": "video:https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
+  },
+  {
+   "title": "Al-Manar (576p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/sOQLV7L.png",
+   "playerLabel": "Al-Manar (576p) [Not 24/7]",
+   "action": "video:https://edge.fastpublish.me/live/index.m3u8"
+  },
+  {
+   "title": "ALWifak News TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/1vqhmNz.png",
+   "playerLabel": "ALWifak News TV (720p)",
+   "action": "video:http://alwifaklive.info:1935/live/myStream/playlist.m3u8"
+  },
+  {
+   "title": "Arabica TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/sTOoDy1.png",
+   "playerLabel": "Arabica TV (720p)",
+   "action": "video:http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
+  },
+  {
+   "title": "Assirat TV (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/ps4Gtj0.png",
+   "playerLabel": "Assirat TV (576p)",
+   "action": "video:https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8"
+  },
+  {
+   "title": "Charity TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/U9z8WBY.png",
+   "playerLabel": "Charity TV",
+   "action": "video:https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8"
+  },
+  {
+   "title": "Future TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OaqEpwe.png",
+   "playerLabel": "Future TV (1080p)",
+   "action": "video:https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8"
+  },
+  {
+   "title": "Lana TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xPoycVY.png",
+   "playerLabel": "Lana TV (576p)",
+   "action": "video:https://cdn.streamlane.tv/hls/ltv/master.m3u8"
+  },
+  {
+   "title": "mfm (1080p)",
+   "titleFooter": "Music",
+   "image": "https://www.mtv.com.lb/images/header/mfm-logo.svg",
+   "playerLabel": "mfm (1080p)",
+   "action": "video:https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8"
+  },
+  {
+   "title": "MTV Lebanon (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png",
+   "playerLabel": "MTV Lebanon (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8"
+  },
+  {
+   "title": "Nabaa TV (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/p8eRgSs.png",
+   "playerLabel": "Nabaa TV (720p) [Not 24/7]",
+   "action": "video:http://31.14.40.237:1935/live/Nabaa/playlist.m3u8"
+  },
+  {
+   "title": "Nour Al Koddass (406p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/dF4Mvts.png",
+   "playerLabel": "Nour Al Koddass (406p) [Not 24/7]",
+   "action": "video:https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Nour Al Sharq (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EEy2dUr.png",
+   "playerLabel": "Nour Al Sharq (576p)",
+   "action": "video:https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Nour El Shabeb (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/cNr0vl1.png",
+   "playerLabel": "Nour El Shabeb (720p)",
+   "action": "video:https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Nour Mariam (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Ow5Lqh6.jpg",
+   "playerLabel": "Nour Mariam (576p)",
+   "action": "video:https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Noursat (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/6Zs5rx4.png",
+   "playerLabel": "Noursat (576p)",
+   "action": "video:https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Noursat English (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/RC5Kw82.png",
+   "playerLabel": "Noursat English (576p)",
+   "action": "video:https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8"
+  },
+  {
+   "title": "One TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/O4DuR9G.png",
+   "playerLabel": "One TV (720p) [Not 24/7]",
+   "action": "video:https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8"
+  },
+  {
+   "title": "OneFM (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
+   "playerLabel": "OneFM (720p) [Not 24/7]",
+   "action": "video:https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
+  },
+  {
+   "title": "OTV (Lebanon) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/toxFMeY.png",
+   "playerLabel": "OTV (Lebanon) (1080p)",
+   "action": "video:https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8"
+  },
+  {
+   "title": "Palestine Al Yawm (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/n8dSgx4.png",
+   "playerLabel": "Palestine Al Yawm (720p)",
+   "action": "video:https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8"
+  },
+  {
+   "title": "Red TV Lebanon (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/bWwY885.png",
+   "playerLabel": "Red TV Lebanon (1080p)",
+   "action": "video:https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8"
+  },
+  {
+   "title": "Senses TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/hnTx8eK.png",
+   "playerLabel": "Senses TV (1080p)",
+   "action": "video:http://31.14.41.69:8080/hls/sensesonline/index.m3u8"
+  },
+  {
+   "title": "Taha TV (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/hdsrxvX.png",
+   "playerLabel": "Taha TV (576p)",
+   "action": "video:https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8"
+  },
+  {
+   "title": "Tele Liban (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5VPYxJi.png",
+   "playerLabel": "Tele Liban (720p) [Not 24/7]",
+   "action": "video:https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8"
+  },
+  {
+   "title": "UNews (1080p)",
+   "titleFooter": "News",
+   "playerLabel": "UNews (1080p)",
+   "action": "video:https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8"
+  },
+  {
+   "title": "Voice of Lebanon (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/f8WcqRY.png",
+   "playerLabel": "Voice of Lebanon (1080p)",
+   "action": "video:https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8"
+  }
+ ]
+}

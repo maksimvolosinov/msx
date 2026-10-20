@@ -1,0 +1,70 @@
+{
+ "type": "list",
+ "headline": "Tanzania (8)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Dodoma TV (360p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/bLq9eFa.png",
+   "playerLabel": "Dodoma TV (360p) [Not 24/7]",
+   "action": "video:https://goliveafrica.media:9998/live/625965017ed69/index.m3u8"
+  },
+  {
+   "title": "IBN TV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/hkV51ij.png",
+   "playerLabel": "IBN TV (480p)",
+   "action": "video:http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8"
+  },
+  {
+   "title": "IBN TV Africa (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/eKy2ocd.png",
+   "playerLabel": "IBN TV Africa (720p)",
+   "action": "video:http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8"
+  },
+  {
+   "title": "Mahaasin TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/wdfdKvC.png",
+   "playerLabel": "Mahaasin TV",
+   "action": "video:https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8"
+  },
+  {
+   "title": "Tanzania Safari Channel (576p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/fcLFYhn.png",
+   "playerLabel": "Tanzania Safari Channel (576p)",
+   "action": "video:https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8"
+  },
+  {
+   "title": "TBC1",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OmiVZ1u.png",
+   "playerLabel": "TBC1",
+   "action": "video:https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8"
+  },
+  {
+   "title": "TBC2 (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/VkUJt2q.png",
+   "playerLabel": "TBC2 (1080p)",
+   "action": "video:https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8"
+  },
+  {
+   "title": "Urejesho TV Africa (360p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/u7xDXEt.jpg",
+   "playerLabel": "Urejesho TV Africa (360p) [Not 24/7]",
+   "action": "video:https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8"
+  }
+ ]
+}

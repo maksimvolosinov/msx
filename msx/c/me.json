@@ -1,0 +1,63 @@
+{
+ "type": "list",
+ "headline": "Montenegro (7)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Radio televizija Rozaje (614p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/vTZjEC5.png",
+   "playerLabel": "Radio televizija Rozaje (614p) [Not 24/7]",
+   "action": "video:https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8"
+  },
+  {
+   "title": "TV Niksic (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/51fGwzn.png",
+   "playerLabel": "TV Niksic (720p)",
+   "action": "video:https://tv.rtv-niksic.me/hls/stream.m3u8"
+  },
+  {
+   "title": "TV Teuta",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sWVqBuW.png",
+   "playerLabel": "TV Teuta",
+   "action": "video:http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "TVCG 1 (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/QORHrXu.png",
+   "playerLabel": "TVCG 1 (1080p) [Geo-blocked]",
+   "action": "video:https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8"
+  },
+  {
+   "title": "TVCG 2 (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/WECmUKH.png",
+   "playerLabel": "TVCG 2 (1080p) [Geo-blocked]",
+   "action": "video:https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8"
+  },
+  {
+   "title": "TVCG 3 (1080p) [Geo-blocked]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/0ZT3Bc2.png",
+   "playerLabel": "TVCG 3 (1080p) [Geo-blocked]",
+   "action": "video:https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8"
+  },
+  {
+   "title": "TVCG MNE (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/pf8VEwf.png",
+   "playerLabel": "TVCG MNE (1080p)",
+   "action": "video:https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8"
+  }
+ ]
+}

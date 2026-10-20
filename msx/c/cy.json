@@ -1,0 +1,133 @@
+{
+ "type": "list",
+ "headline": "Cyprus (17)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Ada TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YWmkUWU.png",
+   "playerLabel": "Ada TV",
+   "action": "video:https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8"
+  },
+  {
+   "title": "Alfa Sport (1080p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/vhMPYIW.png",
+   "playerLabel": "Alfa Sport (1080p) [Not 24/7]",
+   "action": "video:https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx"
+  },
+  {
+   "title": "ANT1 Cyprus (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/2KAObBt.png",
+   "playerLabel": "ANT1 Cyprus (1080p)",
+   "action": "video:http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8"
+  },
+  {
+   "title": "City Channel (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/oo2fxta.png",
+   "playerLabel": "City Channel (720p) [Not 24/7]",
+   "action": "video:https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx"
+  },
+  {
+   "title": "ERT Cosmos Cyprus (1080p)",
+   "titleFooter": "General",
+   "image": "https://www.ert.gr/wp-content/uploads/2026/05/ert-cosmos-cyprus.svg",
+   "playerLabel": "ERT Cosmos Cyprus (1080p)",
+   "action": "video:https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8"
+  },
+  {
+   "title": "Middle East TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/oKU5KeW.png",
+   "playerLabel": "Middle East TV (1080p)",
+   "action": "video:https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8"
+  },
+  {
+   "title": "Omega Channel (576i)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/QrSzNn6/31087.png",
+   "playerLabel": "Omega Channel (576i)",
+   "action": "video:https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8"
+  },
+  {
+   "title": "RIK 1",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/31eq4lS.png",
+   "playerLabel": "RIK 1",
+   "action": "video:http://213.7.216.229:8888/udp/239.23.0.1:1234"
+  },
+  {
+   "title": "RIK 2",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/EZUDmtI.png",
+   "playerLabel": "RIK 2",
+   "action": "video:http://213.7.216.229:8888/udp/239.23.0.2:1234"
+  },
+  {
+   "title": "RIK HD",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xQnHaPy.png",
+   "playerLabel": "RIK HD",
+   "action": "video:http://213.7.216.229:8888/udp/239.23.0.5:1234"
+  },
+  {
+   "title": "RIK Sat (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/BIKwFhD.png",
+   "playerLabel": "RIK Sat (720p) [Not 24/7]",
+   "action": "video:https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
+  },
+  {
+   "title": "Sat 7 Arabic (240p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/BzDjQeQ.png",
+   "playerLabel": "Sat 7 Arabic (240p)",
+   "action": "video:https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Sat 7 Kids (1080p)",
+   "titleFooter": "Kids;Religious",
+   "image": "https://i.imgur.com/M0ik0i2.png",
+   "playerLabel": "Sat 7 Kids (1080p)",
+   "action": "video:https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Sat 7 Pars",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/VTLQeul.png",
+   "playerLabel": "Sat 7 Pars",
+   "action": "video:https://sat7phls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Sat 7 Turk (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/cKQIK4i.png",
+   "playerLabel": "Sat 7 Turk (1080p)",
+   "action": "video:https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
+  },
+  {
+   "title": "Sigma TV (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/DXKx102.png",
+   "playerLabel": "Sigma TV (576p) [Not 24/7]",
+   "action": "video:https://sl2.sigmatv.com/hls/live.m3u8"
+  },
+  {
+   "title": "Vouli TV (1080p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png",
+   "playerLabel": "Vouli TV (1080p) [Not 24/7]",
+   "action": "video:https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx"
+  }
+ ]
+}

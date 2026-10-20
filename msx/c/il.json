@@ -1,0 +1,196 @@
+{
+ "type": "list",
+ "headline": "Israel (26)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "5Plus (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/L3RA9Lv.png",
+   "playerLabel": "5Plus (1080p)",
+   "action": "video:http://89.33.29.115:8080/sportplus/index.m3u8"
+  },
+  {
+   "title": "5Stars (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/IQtAKIa.png",
+   "playerLabel": "5Stars (1080p)",
+   "action": "video:http://89.33.29.115:8080/IL_5Stars/index.m3u8"
+  },
+  {
+   "title": "Angel TV Hebrew (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/qKLEGU7.png",
+   "playerLabel": "Angel TV Hebrew (720p)",
+   "action": "video:https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8"
+  },
+  {
+   "title": "Channel 16",
+   "titleFooter": "Undefined",
+   "image": "https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png",
+   "playerLabel": "Channel 16",
+   "action": "video:https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+  },
+  {
+   "title": "Channel 9 (Israel) (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/pttM3KQ.png",
+   "playerLabel": "Channel 9 (Israel) (1080p)",
+   "action": "video:https://contact.gostreaming.tv/Con-11/index.m3u8"
+  },
+  {
+   "title": "Comedy Channel (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc0d8109a18a4db3b585f154d32bd5b1/version/93/width/288/height/153/",
+   "playerLabel": "Comedy Channel (1080p)",
+   "action": "video:https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8"
+  },
+  {
+   "title": "Hala TV (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/028M4Ew.png",
+   "playerLabel": "Hala TV (1080p) [Not 24/7]",
+   "action": "video:https://stream.panet.com/edge/halaTV/playlist.m3u8"
+  },
+  {
+   "title": "Health Channel (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://cdn.epg.one/img2/2709.png",
+   "playerLabel": "Health Channel (1080p)",
+   "action": "video:http://89.33.29.115:8080/Health/index.m3u8"
+  },
+  {
+   "title": "Hidabroot (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/CTH4Hu2.png",
+   "playerLabel": "Hidabroot (1080p)",
+   "action": "video:https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8"
+  },
+  {
+   "title": "Hop! (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/bScuilD.png",
+   "playerLabel": "Hop! (1080p)",
+   "action": "video:http://stream.mcquack.net/44/index.m3u8"
+  },
+  {
+   "title": "i24NEWS Arabic (1080p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+   "playerLabel": "i24NEWS Arabic (1080p)",
+   "action": "video:https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8"
+  },
+  {
+   "title": "i24NEWS French (1080p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+   "playerLabel": "i24NEWS French (1080p)",
+   "action": "video:https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8"
+  },
+  {
+   "title": "i24NEWS Hebrew (1080p)",
+   "titleFooter": "News",
+   "image": "https://www.i24news.tv/images/favicon.png",
+   "playerLabel": "i24NEWS Hebrew (1080p)",
+   "action": "video:https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
+  },
+  {
+   "title": "Kabbalah for the People Israel (504p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/VxAHOgr.png",
+   "playerLabel": "Kabbalah for the People Israel (504p) [Not 24/7]",
+   "action": "video:https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8"
+  },
+  {
+   "title": "Kan 11 (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png",
+   "playerLabel": "Kan 11 (1080p)",
+   "action": "video:https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8"
+  },
+  {
+   "title": "Kan Educational (720p)",
+   "titleFooter": "Education",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
+   "playerLabel": "Kan Educational (720p)",
+   "action": "video:http://stream.mcquack.net/378/index.m3u8"
+  },
+  {
+   "title": "Makan 33 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/RVtQTed.png",
+   "playerLabel": "Makan 33 (1080p)",
+   "action": "video:https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
+  },
+  {
+   "title": "Now 14 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Iq2Kb69.png",
+   "playerLabel": "Now 14 (1080p)",
+   "action": "video:https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+  },
+  {
+   "title": "Reality Channel",
+   "titleFooter": "Entertainment",
+   "image": "https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png",
+   "playerLabel": "Reality Channel",
+   "action": "video:https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8"
+  },
+  {
+   "title": "Shelanu.TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/UVz2Ojq.png",
+   "playerLabel": "Shelanu.TV (720p)",
+   "action": "video:https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8"
+  },
+  {
+   "title": "Sport 3 (Israel) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/stSrBBh.png",
+   "playerLabel": "Sport 3 (Israel) (1080p)",
+   "action": "video:http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8"
+  },
+  {
+   "title": "Sport 4 (Israel) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/wFXzzYs.png",
+   "playerLabel": "Sport 4 (Israel) (1080p)",
+   "action": "video:http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8"
+  },
+  {
+   "title": "TeenNick (Israel) (406p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+   "playerLabel": "TeenNick (Israel) (406p)",
+   "action": "video:http://89.33.29.115:8080/TeenNick/index.m3u8"
+  },
+  {
+   "title": "Vacation Channel",
+   "titleFooter": "Entertainment",
+   "image": "https://static.g-cdn.app/streams/vacation-channel-il-hd.png",
+   "playerLabel": "Vacation Channel",
+   "action": "video:https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8"
+  },
+  {
+   "title": "Viva Premium (1080p)",
+   "titleFooter": "General",
+   "image": "https://cdn.epg.one/img2/9055.png",
+   "playerLabel": "Viva Premium (1080p)",
+   "action": "video:http://stream.mcquack.net/43/index.m3u8"
+  },
+  {
+   "title": "Yam Tichoni (1080p)",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png",
+   "playerLabel": "Yam Tichoni (1080p)",
+   "action": "video:http://stream.mcquack.net/46/index.m3u8"
+  }
+ ]
+}

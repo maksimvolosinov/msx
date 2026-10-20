@@ -1,0 +1,63 @@
+{
+ "type": "list",
+ "headline": "Jamaica (7)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Caribbean Gospel TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/lhgrqmA.png",
+   "playerLabel": "Caribbean Gospel TV",
+   "action": "video:https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8"
+  },
+  {
+   "title": "Fame95 FM (480p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/n3PUxes.png",
+   "playerLabel": "Fame95 FM (480p)",
+   "action": "video:https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8"
+  },
+  {
+   "title": "GNN TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/itetPKw.png",
+   "playerLabel": "GNN TV (1080p)",
+   "action": "video:https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8"
+  },
+  {
+   "title": "Jamaica Online TV (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Aw9u4Ax.png",
+   "playerLabel": "Jamaica Online TV (1080p) [Not 24/7]",
+   "action": "video:https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8"
+  },
+  {
+   "title": "Jamaica Travel Channel (720p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/ewdPTh8.png",
+   "playerLabel": "Jamaica Travel Channel (720p)",
+   "action": "video:https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8"
+  },
+  {
+   "title": "Mercy and Truth Ministries Television (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/krcVhrx.png",
+   "playerLabel": "Mercy and Truth Ministries Television (720p)",
+   "action": "video:https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8"
+  },
+  {
+   "title": "TVJ (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/R4PoC3L.png",
+   "playerLabel": "TVJ (720p) [Not 24/7]",
+   "action": "video:https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8"
+  }
+ ]
+}

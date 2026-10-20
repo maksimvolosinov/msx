@@ -1,0 +1,325 @@
+{
+ "type": "list",
+ "headline": "Bulgaria (45)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "100% Auto Moto TV (406p) [Not 24/7]",
+   "titleFooter": "Auto",
+   "image": "https://i.imgur.com/SZtJfOG.png",
+   "playerLabel": "100% Auto Moto TV (406p) [Not 24/7]",
+   "action": "video:http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"
+  },
+  {
+   "title": "24Kitchen Bulgary (1080p)",
+   "titleFooter": "Cooking",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png",
+   "playerLabel": "24Kitchen Bulgary (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8"
+  },
+  {
+   "title": "Agro TV (Bulgaria) (480p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/tPMNDtD.png",
+   "playerLabel": "Agro TV (Bulgaria) (480p)",
+   "action": "video:https://restr2.bgtv.bg/agro/hls/agro.m3u8"
+  },
+  {
+   "title": "AMC Europe Bulgary (576p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+   "playerLabel": "AMC Europe Bulgary (576p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_AMC/video.m3u8"
+  },
+  {
+   "title": "AXN Black (United States) (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Peo1QiZ.png",
+   "playerLabel": "AXN Black (United States) (576p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8"
+  },
+  {
+   "title": "AXN CEE Bulgary",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+   "playerLabel": "AXN CEE Bulgary",
+   "action": "video:http://85.11.144.9:4222/AXN"
+  },
+  {
+   "title": "AXN White (United States) Bulgaria (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/47IKxmt.png",
+   "playerLabel": "AXN White (United States) Bulgaria (576p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8"
+  },
+  {
+   "title": "BNT 1 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7JU9b5j.png",
+   "playerLabel": "BNT 1 (1080p)",
+   "action": "video:https://shift03.isp.bg/BNT1_HD/index.m3u8"
+  },
+  {
+   "title": "BNT 2 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/FyTUr9Q.png",
+   "playerLabel": "BNT 2 (1080p)",
+   "action": "video:https://shift03.isp.bg/BNT2_HD/index.m3u8"
+  },
+  {
+   "title": "BNT 3 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pPpSJ4u.png",
+   "playerLabel": "BNT 3 (1080p)",
+   "action": "video:https://shift03.isp.bg/BNT3_HD/index.m3u8"
+  },
+  {
+   "title": "BNT 4 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Lw8b3yu.png",
+   "playerLabel": "BNT 4 (1080p)",
+   "action": "video:https://shift03.isp.bg/BNT4_HD/index.m3u8"
+  },
+  {
+   "title": "CineStar 1 Bulgaria",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/t9vVTLH.png",
+   "playerLabel": "CineStar 1 Bulgaria",
+   "action": "video:http://213.91.179.28:8000/play/a05h"
+  },
+  {
+   "title": "City TV (Bulgaria) (576p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/mFL452f.png",
+   "playerLabel": "City TV (Bulgaria) (576p) [Not 24/7]",
+   "action": "video:https://tv.city.bg/play/tshls/citytv/index.m3u8"
+  },
+  {
+   "title": "Code Fashion TV (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/mVc2g64.png",
+   "playerLabel": "Code Fashion TV (1080p)",
+   "action": "video:https://cdn2.invivo.bg/Codefashion_5500/index.m3u8"
+  },
+  {
+   "title": "Code Health TV (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/NXBMzGV.png",
+   "playerLabel": "Code Health TV (1080p)",
+   "action": "video:https://cdn2.invivo.bg/codehealth_test/index.m3u8"
+  },
+  {
+   "title": "DSTV (Bulgaria) (614p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/YMgzzkf.png",
+   "playerLabel": "DSTV (Bulgaria) (614p) [Not 24/7]",
+   "action": "video:http://46.249.95.140:8081/hls/data.m3u8"
+  },
+  {
+   "title": "EKids (576p)",
+   "titleFooter": "Kids",
+   "playerLabel": "EKids (576p)",
+   "action": "video:http://78.108.244.134:8899/ekids"
+  },
+  {
+   "title": "Eurocom (360p)",
+   "titleFooter": "General",
+   "playerLabel": "Eurocom (360p)",
+   "action": "video:https://live.ecomservice.bg/hls/stream.m3u8"
+  },
+  {
+   "title": "FILMBOX+ Love & Crime Bulgaria (720p)",
+   "titleFooter": "Movies",
+   "image": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
+   "playerLabel": "FILMBOX+ Love & Crime Bulgaria (720p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8"
+  },
+  {
+   "title": "FILMBOX+ One Bulgaria (576p)",
+   "titleFooter": "Movies",
+   "image": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+   "playerLabel": "FILMBOX+ One Bulgaria (576p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8"
+  },
+  {
+   "title": "Hope Channel Bulgaria",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/bxzeEML.png",
+   "playerLabel": "Hope Channel Bulgaria",
+   "action": "video:https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8"
+  },
+  {
+   "title": "ID",
+   "titleFooter": "Documentary",
+   "playerLabel": "ID",
+   "action": "video:http://213.91.179.28:8000/play/a0cf"
+  },
+  {
+   "title": "Light Channel (Bulgaria) (480p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/S3Fbf8T.png",
+   "playerLabel": "Light Channel (Bulgaria) (480p) [Not 24/7]",
+   "action": "video:https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
+  },
+  {
+   "title": "Magic TV (Bulgaria) (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/n7bcrrp.png",
+   "playerLabel": "Magic TV (Bulgaria) (720p)",
+   "action": "video:https://bss1.neterra.tv/magictv/magictv.m3u8"
+  },
+  {
+   "title": "Max Sport 1 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/0ohnpql.png",
+   "playerLabel": "Max Sport 1 (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8"
+  },
+  {
+   "title": "Max Sport 2 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/33m1wPN.png",
+   "playerLabel": "Max Sport 2 (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8"
+  },
+  {
+   "title": "Max Sport 3 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/eGiGgZ2.png",
+   "playerLabel": "Max Sport 3 (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8"
+  },
+  {
+   "title": "Max Sport 4 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/7IxXX6f.png",
+   "playerLabel": "Max Sport 4 (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8"
+  },
+  {
+   "title": "National Geographic (Bulgaria) (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+   "playerLabel": "National Geographic (Bulgaria) (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8"
+  },
+  {
+   "title": "National Geographic Wild (Bulgaria) (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+   "playerLabel": "National Geographic Wild (Bulgaria) (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8"
+  },
+  {
+   "title": "Nickelodeon (Bulgaria) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/E84jnP8.png",
+   "playerLabel": "Nickelodeon (Bulgaria) (576p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8"
+  },
+  {
+   "title": "Plovdiv Orthodox TV (1080p)",
+   "titleFooter": "Religious",
+   "playerLabel": "Plovdiv Orthodox TV (1080p)",
+   "action": "video:http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8"
+  },
+  {
+   "title": "RMTV (288p)",
+   "titleFooter": "Undefined",
+   "image": "https://rmtv.bg/img/logo.png",
+   "playerLabel": "RMTV (288p)",
+   "action": "video:https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8"
+  },
+  {
+   "title": "Star Channel (Bulgaria) (720p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+   "playerLabel": "Star Channel (Bulgaria) (720p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_FOX/video.m3u8"
+  },
+  {
+   "title": "Star Crime (Bulgaria) (720p)",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+   "playerLabel": "Star Crime (Bulgaria) (720p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8"
+  },
+  {
+   "title": "Star Life (Bulgaria) (720p)",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+   "playerLabel": "Star Life (Bulgaria) (720p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8"
+  },
+  {
+   "title": "The Voice (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/OoJSmoj.png",
+   "playerLabel": "The Voice (720p)",
+   "action": "video:https://bss1.neterra.tv/thevoice/thevoice.m3u8"
+  },
+  {
+   "title": "This is Bulgaria HD (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/062jkXw.png",
+   "playerLabel": "This is Bulgaria HD (1080p)",
+   "action": "video:https://streamer103.neterra.tv/thisisbulgaria/live.m3u8"
+  },
+  {
+   "title": "Tiankov Folk (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/VKY4q64.png",
+   "playerLabel": "Tiankov Folk (576p)",
+   "action": "video:https://streamer103.neterra.tv/tiankov-folk/live.m3u8"
+  },
+  {
+   "title": "Tiankov Orient Folk (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/33LexyP.png",
+   "playerLabel": "Tiankov Orient Folk (576p)",
+   "action": "video:https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
+  },
+  {
+   "title": "Travel TV (576p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/5xllfed.png",
+   "playerLabel": "Travel TV (576p)",
+   "action": "video:https://streamer103.neterra.tv/travel/live.m3u8"
+  },
+  {
+   "title": "TV Spravedliva Bulgariya",
+   "titleFooter": "General",
+   "image": "https://tvsb.bg/theme/images/logo.png",
+   "playerLabel": "TV Spravedliva Bulgariya",
+   "action": "video:https://tv.tvsb.bg/112.m3u8"
+  },
+  {
+   "title": "TV Zagora (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DvBboqe.png",
+   "playerLabel": "TV Zagora (576p)",
+   "action": "video:http://zagoratv.ddns.net:8080/tvzagora.m3u8"
+  },
+  {
+   "title": "Viasat Kino Bulgaria (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/io0WAkA.png",
+   "playerLabel": "Viasat Kino Bulgaria (1080p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8"
+  },
+  {
+   "title": "Vivacom Arena (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/M7QKnH3.png",
+   "playerLabel": "Vivacom Arena (720p)",
+   "action": "video:http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8"
+  }
+ ]
+}

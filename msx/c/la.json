@@ -1,0 +1,91 @@
+{
+ "type": "list",
+ "headline": "Laos (11)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Brian TV (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/zG1WNgU.jpg",
+   "playerLabel": "Brian TV (720p) [Not 24/7]",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Dao Lane Xang TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yE7nZ6w.png",
+   "playerLabel": "Dao Lane Xang TV (720p) [Not 24/7]",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Hmong Star TV (720p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/dRsacao.png",
+   "playerLabel": "Hmong Star TV (720p) [Not 24/7]",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "ISTV (Laos) (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TGAKFcV.jpg",
+   "playerLabel": "ISTV (Laos) (480p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Lao Net TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ohbRT05.png",
+   "playerLabel": "Lao Net TV (720p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Look Thoong TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/eT7iE34.png",
+   "playerLabel": "Look Thoong TV (720p) [Not 24/7]",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "LS TV (480p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/fs3dQ6J.png",
+   "playerLabel": "LS TV (480p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Ning TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/ANnEPnK.png",
+   "playerLabel": "Ning TV (720p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Oh Muang Lao TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SdB3Vyr.jpg",
+   "playerLabel": "Oh Muang Lao TV (720p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8"
+  },
+  {
+   "title": "RTM ASEAN",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/skAiUxg.png",
+   "playerLabel": "RTM ASEAN",
+   "action": "video:https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+  },
+  {
+   "title": "Vati Lao (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/NwxXABV.png",
+   "playerLabel": "Vati Lao (720p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8"
+  }
+ ]
+}

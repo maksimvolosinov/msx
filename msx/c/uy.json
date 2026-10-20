@@ -1,0 +1,210 @@
+{
+ "type": "list",
+ "headline": "Uruguay (28)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Adult Swim Latin America",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+   "playerLabel": "Adult Swim Latin America",
+   "action": "video:http://170.244.209.30:8000/play/a02v/index.m3u8"
+  },
+  {
+   "title": "AMC Latin America (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+   "playerLabel": "AMC Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/AMCHD/index.m3u8"
+  },
+  {
+   "title": "AMC Series Latin America (1080p)",
+   "titleFooter": "Series",
+   "image": "https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",
+   "playerLabel": "AMC Series Latin America (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a005/index.m3u8"
+  },
+  {
+   "title": "Canal 5 (Uruguay) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/IpYxSr1.png",
+   "playerLabel": "Canal 5 (Uruguay) (720p)",
+   "action": "video:https://tinyurl.com/canal5uy"
+  },
+  {
+   "title": "Canal Mas (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/gs1L1mW.png",
+   "playerLabel": "Canal Mas (720p)",
+   "action": "video:https://canalmasuruguay.com/hls/master-abr.m3u8"
+  },
+  {
+   "title": "Cartoon Network Latin America South Atlantic (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+   "playerLabel": "Cartoon Network Latin America South Atlantic (1080p)",
+   "action": "video:http://158.172.217.18:8000/play/a03a/index.m3u8"
+  },
+  {
+   "title": "Comedy Central Latin America (1080p)",
+   "titleFooter": "Comedy",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+   "playerLabel": "Comedy Central Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/DisneyHD/index.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America Panregional HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America Panregional HD (1080p)",
+   "action": "video:http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America South (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America South (1080p)",
+   "action": "video:http://45.185.163.75:8000/play/a016/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America South HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America South HD (1080p)",
+   "action": "video:http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8"
+  },
+  {
+   "title": "DSports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+   "playerLabel": "DSports (1080p)",
+   "action": "video:http://38.187.7.252:8000/play/a03d/index.m3u8"
+  },
+  {
+   "title": "E! Latin America (1080p)",
+   "titleFooter": "Entertainment;News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+   "playerLabel": "E! Latin America (1080p)",
+   "action": "video:http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8"
+  },
+  {
+   "title": "El Gourmet South (1080p)",
+   "titleFooter": "Cooking",
+   "image": "https://i.imgur.com/ByMyRI9.png",
+   "playerLabel": "El Gourmet South (1080p)",
+   "action": "video:https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
+  },
+  {
+   "title": "ESPN 2 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
+   "playerLabel": "ESPN 2 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8"
+  },
+  {
+   "title": "ESPN 3 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+   "playerLabel": "ESPN 3 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8"
+  },
+  {
+   "title": "ESPN 4 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+   "playerLabel": "ESPN 4 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
+  },
+  {
+   "title": "ESPN 5 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 5 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
+  },
+  {
+   "title": "ESPN 6 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 6 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
+  },
+  {
+   "title": "ESPN 7 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 7 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8"
+  },
+  {
+   "title": "ESPN Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8"
+  },
+  {
+   "title": "Investigation Discovery Latin America South (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+   "playerLabel": "Investigation Discovery Latin America South (1080p)",
+   "action": "video:http://38.65.175.84:8000/play/a0ch/index.m3u8"
+  },
+  {
+   "title": "MTV Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+   "playerLabel": "MTV Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/MTVHD/index.m3u8"
+  },
+  {
+   "title": "Ovacion TV (720p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/7Xndgxk.png",
+   "playerLabel": "Ovacion TV (720p) [Not 24/7]",
+   "action": "video:http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
+  },
+  {
+   "title": "Pakapaka (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/GJbRWwH.png",
+   "playerLabel": "Pakapaka (1080p)",
+   "action": "video:http://138.59.227.20:8000/play/a05t/index.m3u8"
+  },
+  {
+   "title": "TCM Latin America South (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/QpDkrmT.png",
+   "playerLabel": "TCM Latin America South (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a014/index.m3u8"
+  },
+  {
+   "title": "TELE 6 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/p7tt72X.png",
+   "playerLabel": "TELE 6 (720p)",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+  },
+  {
+   "title": "Telemundo Internacional (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/j2O4ndp.png",
+   "playerLabel": "Telemundo Internacional (1080p)",
+   "action": "video:http://138.121.15.230:9002/TELEMUNDO/index.m3u8"
+  }
+ ]
+}

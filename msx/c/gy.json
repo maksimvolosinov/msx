@@ -1,0 +1,63 @@
+{
+ "type": "list",
+ "headline": "Guyana (7)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "DTV-8 [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/A5r0aZA.png",
+   "playerLabel": "DTV-8 [Geo-blocked]",
+   "action": "video:https://watch.davestv8.com/hls/stream.m3u8"
+  },
+  {
+   "title": "GMTV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/GJYb8c8.png",
+   "playerLabel": "GMTV (1080p)",
+   "action": "video:https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341"
+  },
+  {
+   "title": "GTN Canada (1080i) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7bQPJOd.png",
+   "playerLabel": "GTN Canada (1080i) [Geo-blocked]",
+   "action": "video:https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8"
+  },
+  {
+   "title": "HGPTV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0aIH6V5.png",
+   "playerLabel": "HGPTV (720p) [Not 24/7]",
+   "action": "video:https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8"
+  },
+  {
+   "title": "Ignite Television (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/aQI9tsg.jpeg",
+   "playerLabel": "Ignite Television (1080p) [Not 24/7]",
+   "action": "video:https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Little Guyana TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/b475xOT.jpg",
+   "playerLabel": "Little Guyana TV (1080p)",
+   "action": "video:https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8"
+  },
+  {
+   "title": "MTV Guyana (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Ky70brA.png",
+   "playerLabel": "MTV Guyana (1080p) [Not 24/7]",
+   "action": "video:https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8"
+  }
+ ]
+}

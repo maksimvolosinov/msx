@@ -1,0 +1,147 @@
+{
+ "type": "list",
+ "headline": "Nicaragua (19)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Canal 10 (Nicaragua)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ztp781b.png",
+   "playerLabel": "Canal 10 (Nicaragua)",
+   "action": "video:https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8"
+  },
+  {
+   "title": "Canal 15 (1080p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/DGBMuEs.png",
+   "playerLabel": "Canal 15 (1080p) [Not 24/7]",
+   "action": "video:https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8"
+  },
+  {
+   "title": "Canal 6 (Nicaragua) (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6BWAZdq.png",
+   "playerLabel": "Canal 6 (Nicaragua) (480p) [Not 24/7]",
+   "action": "video:http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8"
+  },
+  {
+   "title": "Canal 7 Boaco (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/chXNX9k.jpeg",
+   "playerLabel": "Canal 7 Boaco (1080p) [Not 24/7]",
+   "action": "video:https://cdn.amixtv.com/c7boaco/index.m3u8"
+  },
+  {
+   "title": "Canal Cvision (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WUq3NlG.png",
+   "playerLabel": "Canal Cvision (720p) [Not 24/7]",
+   "action": "video:https://stream.cvision.live/cvision_stream.m3u8"
+  },
+  {
+   "title": "CDNN 23 (1080p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/7CNzlB6.png",
+   "playerLabel": "CDNN 23 (1080p) [Not 24/7]",
+   "action": "video:https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8"
+  },
+  {
+   "title": "Escuchame Radio TV (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/gt6UvG8.png",
+   "playerLabel": "Escuchame Radio TV (720p) [Not 24/7]",
+   "action": "video:https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8"
+  },
+  {
+   "title": "JBN (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/vFi0FMZ.png",
+   "playerLabel": "JBN (720p) [Not 24/7]",
+   "action": "video:https://hdbox.chunklistv.com/live?stream=jbn39"
+  },
+  {
+   "title": "MegaBox (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/JqaW7Ei.png",
+   "playerLabel": "MegaBox (720p) [Not 24/7]",
+   "action": "video:https://hdbox.chunklistv.com/live?stream=megabox"
+  },
+  {
+   "title": "MTV Chontales (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zgUPYdv.png",
+   "playerLabel": "MTV Chontales (720p) [Not 24/7]",
+   "action": "video:https://altair.hostingnica.net/hls/mtv_stream/index.m3u8"
+  },
+  {
+   "title": "Olam Metro TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/dDZnyUA.jpeg",
+   "playerLabel": "Olam Metro TV (720p)",
+   "action": "video:https://netzerstreaming.com:4433/hls/olammetro/index.m3u8"
+  },
+  {
+   "title": "Radio Vision de Dios Stereo (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/ckY8DRW.jpg",
+   "playerLabel": "Radio Vision de Dios Stereo (720p) [Not 24/7]",
+   "action": "video:https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8"
+  },
+  {
+   "title": "TN8 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/m0Zdxiz.png",
+   "playerLabel": "TN8 (1080p)",
+   "action": "video:https://streamingcws30.com/tn8/videotn8/playlist.m3u8"
+  },
+  {
+   "title": "TV 45 (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/sI0msrn.png",
+   "playerLabel": "TV 45 (720p) [Not 24/7]",
+   "action": "video:https://hdbox.chunklistv.com/live?stream=3abn-nicaragua"
+  },
+  {
+   "title": "TVONE Nicaragua (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/FNk6rdz.png",
+   "playerLabel": "TVONE Nicaragua (720p) [Not 24/7]",
+   "action": "video:https://hdbox.chunklistv.com/live?stream=tvone"
+  },
+  {
+   "title": "Viva Nicaragua Canal 13 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9q7Ajz4.png",
+   "playerLabel": "Viva Nicaragua Canal 13 (720p)",
+   "action": "video:https://cdn.vivamediosni.com/viva_720p/index.m3u8"
+  },
+  {
+   "title": "Viva TV [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/n0buXRa.jpeg",
+   "playerLabel": "Viva TV [Not 24/7]",
+   "action": "video:https://cdn.amixtv.com/vivatv/index.m3u8"
+  },
+  {
+   "title": "Vos TV (Nicaragua) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Lbi87xv.png",
+   "playerLabel": "Vos TV (Nicaragua) (720p) [Not 24/7]",
+   "action": "video:http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8"
+  },
+  {
+   "title": "WTV Canal 20 (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/nb81xeU.png",
+   "playerLabel": "WTV Canal 20 (1080p)",
+   "action": "video:https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8"
+  }
+ ]
+}

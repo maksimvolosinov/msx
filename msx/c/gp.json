@@ -1,0 +1,49 @@
+{
+ "type": "list",
+ "headline": "Guadeloupe (5)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "ETV (Guadeloupe) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/m5E2VP0.png",
+   "playerLabel": "ETV (Guadeloupe) (1080p)",
+   "action": "video:https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8"
+  },
+  {
+   "title": "Madras FM TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/spGg1CZ.png",
+   "playerLabel": "Madras FM TV (1080p)",
+   "action": "video:https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8"
+  },
+  {
+   "title": "Radio TV Basse-Terre (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OvnRplq.png",
+   "playerLabel": "Radio TV Basse-Terre (720p)",
+   "action": "video:https://vdo.ssl-stream.com:3412/stream/play.m3u8"
+  },
+  {
+   "title": "RHT Guadeloupe (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/hQ0Q6nE.png",
+   "playerLabel": "RHT Guadeloupe (720p)",
+   "action": "video:https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8"
+  },
+  {
+   "title": "TMA (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/1iOAl2j.png",
+   "playerLabel": "TMA (1080p)",
+   "action": "video:http://hls.tmacaraibes.com/live/index.m3u8"
+  }
+ ]
+}

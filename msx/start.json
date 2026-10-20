@@ -1,0 +1,5 @@
+{
+ "name": "IPTV by Country",
+ "version": "1.0.0",
+ "parameter": "menu:https://maksimvolosinov.github.io/msx/msx/menu.json"
+}

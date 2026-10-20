@@ -1,0 +1,70 @@
+{
+ "type": "list",
+ "headline": "Turkmenistan (8)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Altyn Asyr (406p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/D7RBtZ2.png",
+   "playerLabel": "Altyn Asyr (406p) [Not 24/7]",
+   "action": "video:https://alpha.tv.online.tm/hls/ch001.m3u8"
+  },
+  {
+   "title": "Arkadag TV (406p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JdEb4Ug.png",
+   "playerLabel": "Arkadag TV (406p) [Not 24/7]",
+   "action": "video:https://alpha.tv.online.tm/hls/ch000.m3u8"
+  },
+  {
+   "title": "Asgabat (406p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EzjR1vo.png",
+   "playerLabel": "Asgabat (406p) [Not 24/7]",
+   "action": "video:https://alpha.tv.online.tm/hls/ch006.m3u8"
+  },
+  {
+   "title": "Miras (406p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/pWbJzr9.png",
+   "playerLabel": "Miras (406p) [Not 24/7]",
+   "action": "video:https://alpha.tv.online.tm/hls/ch003.m3u8"
+  },
+  {
+   "title": "Turkmen Owazy (406p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Ap7l2jC.png",
+   "playerLabel": "Turkmen Owazy (406p) [Not 24/7]",
+   "action": "video:https://alpha.tv.online.tm/hls/ch005.m3u8"
+  },
+  {
+   "title": "Turkmenistan (406p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iBBpBx4.png",
+   "playerLabel": "Turkmenistan (406p) [Not 24/7]",
+   "action": "video:https://alpha.tv.online.tm/hls/ch007.m3u8"
+  },
+  {
+   "title": "Turkmenistan Sport (406p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/n6vITLu.png",
+   "playerLabel": "Turkmenistan Sport (406p) [Not 24/7]",
+   "action": "video:https://alpha.tv.online.tm/hls/ch004.m3u8"
+  },
+  {
+   "title": "Yaslyk (406p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/QVWBNGM.png",
+   "playerLabel": "Yaslyk (406p) [Not 24/7]",
+   "action": "video:https://alpha.tv.online.tm/hls/ch002.m3u8"
+  }
+ ]
+}

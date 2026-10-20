@@ -1,0 +1,329 @@
+{
+ "type": "list",
+ "headline": "Serbia (45)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Arena Sport 1 Premium (Serbia) (360p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/csv6YsL.png",
+   "playerLabel": "Arena Sport 1 Premium (Serbia) (360p)",
+   "action": "video:http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
+  },
+  {
+   "title": "Belle Amie (540p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/tOlN5Rz.png",
+   "playerLabel": "Belle Amie (540p)",
+   "action": "video:http://92.60.238.10:1935/live/belleamie/playlist.m3u8"
+  },
+  {
+   "title": "EDU TV (576p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/NE48DJb.png",
+   "playerLabel": "EDU TV (576p) [Not 24/7]",
+   "action": "video:https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8"
+  },
+  {
+   "title": "IDJTV",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/btvyrzr.png",
+   "playerLabel": "IDJTV",
+   "action": "video:https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv"
+  },
+  {
+   "title": "Narodna TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/dua57HD.png",
+   "playerLabel": "Narodna TV (720p)",
+   "action": "video:https://edge8.pink.rs/narodnatv/index.m3u8"
+  },
+  {
+   "title": "Nova (Serbia) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sU8UPPY.png",
+   "playerLabel": "Nova (Serbia) (1080p)",
+   "action": "video:https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas"
+  },
+  {
+   "title": "Pannon TV (648p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xQa2idL.png",
+   "playerLabel": "Pannon TV (648p)",
+   "action": "video:https://stream.nmih.hu:4102/live.m3u8"
+  },
+  {
+   "title": "Pink (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/66wHb7E.png",
+   "playerLabel": "Pink (720p)",
+   "action": "video:https://edge8.pink.rs/pinktv/index.m3u8"
+  },
+  {
+   "title": "Prva (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NA31Gtm.png",
+   "playerLabel": "Prva (1080p)",
+   "action": "video:https://de1.dstv.cx/PrvaTVHD/index.m3u8"
+  },
+  {
+   "title": "Prva Files",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/8lZgAXu.png",
+   "playerLabel": "Prva Files",
+   "action": "video:https://de1.dstv.cx/PrvaFiles/index.m3u8"
+  },
+  {
+   "title": "Prva Kick (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/zsXD3cd.png",
+   "playerLabel": "Prva Kick (1080p)",
+   "action": "video:https://de1.dstv.cx/PrvaKick/index.m3u8"
+  },
+  {
+   "title": "Prva Life (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/fHntwzn.png",
+   "playerLabel": "Prva Life (1080p)",
+   "action": "video:https://de1.dstv.cx/PrvaLife/index.m3u8"
+  },
+  {
+   "title": "Prva Max (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/BzxmOaQ.png",
+   "playerLabel": "Prva Max (1080p)",
+   "action": "video:https://de1.dstv.cx/PrvaMax/index.m3u8"
+  },
+  {
+   "title": "Prva Plus (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/IlenHxZ.png",
+   "playerLabel": "Prva Plus (1080p)",
+   "action": "video:https://de1.dstv.cx/PrvaPlus/index.m3u8"
+  },
+  {
+   "title": "Prva World (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/tuh1vzj.png",
+   "playerLabel": "Prva World (1080p)",
+   "action": "video:https://de1.dstv.cx/PrvaWorld/index.m3u8"
+  },
+  {
+   "title": "Radio Hit FM TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/gP2OT4S.png",
+   "playerLabel": "Radio Hit FM TV (720p)",
+   "action": "video:https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8"
+  },
+  {
+   "title": "Radio Karolina TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/g2HpLX1.png",
+   "playerLabel": "Radio Karolina TV (720p)",
+   "action": "video:https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8"
+  },
+  {
+   "title": "Radio Lola TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/41eE8fl.png",
+   "playerLabel": "Radio Lola TV (720p) [Not 24/7]",
+   "action": "video:https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"
+  },
+  {
+   "title": "RTS 1",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/S1pKHSR.png",
+   "playerLabel": "RTS 1",
+   "action": "video:https://de1.dstv.cx/RTS1HD/index.m3u8"
+  },
+  {
+   "title": "RTS 2 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/jltAf5h.png",
+   "playerLabel": "RTS 2 (1080p)",
+   "action": "video:https://de1.dstv.cx/RTS2HD/index.m3u8"
+  },
+  {
+   "title": "RTS 3 (Serbia) (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/gxuGB4J.png",
+   "playerLabel": "RTS 3 (Serbia) (720p)",
+   "action": "video:http://185.81.240.65:15000/udp/233.233.233.36:12000"
+  },
+  {
+   "title": "RTS Drama (576p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/bsTUhYK.png",
+   "playerLabel": "RTS Drama (576p)",
+   "action": "video:https://de1.dstv.cx/RTSDrama/index.m3u8"
+  },
+  {
+   "title": "RTS Kolo (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/gXlEDDW.png",
+   "playerLabel": "RTS Kolo (576p)",
+   "action": "video:https://de1.dstv.cx/RTSKolo/index.m3u8"
+  },
+  {
+   "title": "RTS Muzika (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/n8p11NI.png",
+   "playerLabel": "RTS Muzika (576p)",
+   "action": "video:https://de1.dstv.cx/RTSMuzika/index.m3u8"
+  },
+  {
+   "title": "RTS Poletarac (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/8Nnw8NF.png",
+   "playerLabel": "RTS Poletarac (576p)",
+   "action": "video:https://de1.dstv.cx/RTSPoletarac/index.m3u8"
+  },
+  {
+   "title": "RTS Svet (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/LjunOdy.png",
+   "playerLabel": "RTS Svet (1080p)",
+   "action": "video:https://de1.dstv.cx/RTSSvet/index.m3u8"
+  },
+  {
+   "title": "RTS Trezor (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/BnSHfxF.png",
+   "playerLabel": "RTS Trezor (576p)",
+   "action": "video:https://de1.dstv.cx/RTSTrezor/index.m3u8"
+  },
+  {
+   "title": "RTS Zivot (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NpFG9uy.png",
+   "playerLabel": "RTS Zivot (576p)",
+   "action": "video:https://de1.dstv.cx/RTSZivot/index.m3u8"
+  },
+  {
+   "title": "RTV 1 (Serbia) (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/CG44YT3.png",
+   "playerLabel": "RTV 1 (Serbia) (576p) [Not 24/7]",
+   "action": "video:mmsh://212.200.255.151/rtv1"
+  },
+  {
+   "title": "RTV 2 (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/skpr66t.png",
+   "playerLabel": "RTV 2 (576p) [Not 24/7]",
+   "action": "video:mmsh://212.200.255.151/rtv2"
+  },
+  {
+   "title": "RTV Bap (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/TBAtPH6.png",
+   "playerLabel": "RTV Bap (480p)",
+   "action": "video:https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8"
+  },
+  {
+   "title": "RTV Novi Pazar",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NpyRVyC.png",
+   "playerLabel": "RTV Novi Pazar",
+   "action": "video:https://tv.rtvnp.rs/stream.m3u8"
+  },
+  {
+   "title": "Sandzak TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/lm9Fgsp.png",
+   "playerLabel": "Sandzak TV (576p)",
+   "action": "video:https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8"
+  },
+  {
+   "title": "SOS Kanal Plus (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/9SD40uH.png",
+   "playerLabel": "SOS Kanal Plus (720p)",
+   "action": "video:https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
+  },
+  {
+   "title": "TDI Radio TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/POdTmaD.png",
+   "playerLabel": "TDI Radio TV",
+   "action": "video:https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8"
+  },
+  {
+   "title": "Top TV (Serbia) (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/UJqbKEC.png",
+   "playerLabel": "Top TV (Serbia) (1080p)",
+   "action": "video:http://82.165.71.58:8081/TopTV/live/playlist.m3u8"
+  },
+  {
+   "title": "TV Arta (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/MAhJkK9.png",
+   "playerLabel": "TV Arta (720p)",
+   "action": "video:https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8"
+  },
+  {
+   "title": "TV Duga+ (480p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/qZV3JW5.png",
+   "playerLabel": "TV Duga+ (480p) [Not 24/7]",
+   "action": "video:http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8"
+  },
+  {
+   "title": "TV Hram (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/XzAYOFK.png",
+   "playerLabel": "TV Hram (576p) [Not 24/7]",
+   "action": "video:https://vod1.laki.eu/live/hram/index.m3u8"
+  },
+  {
+   "title": "TV Kanal M (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/hqNVRUU.png",
+   "playerLabel": "TV Kanal M (576p)",
+   "action": "video:http://176.67.210.1/hls/kanalm.m3u8"
+  },
+  {
+   "title": "TV Marsh (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Dt1mPyX.png",
+   "playerLabel": "TV Marsh (720p) [Not 24/7]",
+   "action": "video:http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8"
+  },
+  {
+   "title": "TV Panon",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9ZKA4Gx.png",
+   "playerLabel": "TV Panon",
+   "action": "video:https://stream2.nmih.hu:4102/live.m3u8"
+  },
+  {
+   "title": "TV Pi Kanal (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/8ugnFa3.png",
+   "playerLabel": "TV Pi Kanal (576p) [Not 24/7]",
+   "action": "video:https://stream.pikanal.rs/pikanal/pgm.m3u8"
+  },
+  {
+   "title": "TV Pirot (240p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/o5y1ok6.png",
+   "playerLabel": "TV Pirot (240p) [Not 24/7]",
+   "action": "video:https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8"
+  },
+  {
+   "title": "ZICO TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/8wbTnNW.png",
+   "playerLabel": "ZICO TV (720p)",
+   "action": "video:https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "type": "list",
+ "headline": "Slovenia (15)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Adria Music Television",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/QoDpnKg.png",
+   "playerLabel": "Adria Music Television",
+   "action": "video:https://adriaapp.b-cdn.net/1080p/index.m3u8"
+  },
+  {
+   "title": "Arena Sport 1 Premium (Slovenia)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/csv6YsL.png",
+   "playerLabel": "Arena Sport 1 Premium (Slovenia)",
+   "action": "video:http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6"
+  },
+  {
+   "title": "Exodus TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/WKr5ncQ.png",
+   "playerLabel": "Exodus TV (720p)",
+   "action": "video:https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8"
+  },
+  {
+   "title": "Folx Slovenija",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/RK1IASU.png",
+   "playerLabel": "Folx Slovenija",
+   "action": "video:https://folxsloapp.b-cdn.net/1080p/index.m3u8"
+  },
+  {
+   "title": "History (Slovenia) (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+   "playerLabel": "History (Slovenia) (1080p)",
+   "action": "video:https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
+  },
+  {
+   "title": "Kanal A",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JHNpcqF.png",
+   "playerLabel": "Kanal A",
+   "action": "video:https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
+  },
+  {
+   "title": "One Adria",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/NYkMamU.png",
+   "playerLabel": "One Adria",
+   "action": "video:https://oneadriaapp.b-cdn.net/1080p/index.m3u8"
+  },
+  {
+   "title": "Televizija Urslja (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PZwdXlN.png",
+   "playerLabel": "Televizija Urslja (1080p) [Not 24/7]",
+   "action": "video:http://ott.sgn.net/hls/tvurslja.m3u8"
+  },
+  {
+   "title": "Trzic TV (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/VZiaoqz.png",
+   "playerLabel": "Trzic TV (1080p) [Not 24/7]",
+   "action": "video:https://vpn.video2go.live:444/trzic/tv/playlist.m3u8"
+  },
+  {
+   "title": "TV SLO 1",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/E3YmlxF.png",
+   "playerLabel": "TV SLO 1",
+   "action": "video:https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
+  },
+  {
+   "title": "TV SLO 1 HD",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/E3YmlxF.png",
+   "playerLabel": "TV SLO 1 HD",
+   "action": "video:https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8"
+  },
+  {
+   "title": "TV SLO 2",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OPlzjjv.png",
+   "playerLabel": "TV SLO 2",
+   "action": "video:https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
+  },
+  {
+   "title": "TV SLO 2 HD",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OPlzjjv.png",
+   "playerLabel": "TV SLO 2 HD",
+   "action": "video:https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8"
+  },
+  {
+   "title": "TV SLO 3",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/yPb2FKg.png",
+   "playerLabel": "TV SLO 3",
+   "action": "video:https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
+  },
+  {
+   "title": "TV Veseljak Golica HD",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/49VrbSW.png",
+   "playerLabel": "TV Veseljak Golica HD",
+   "action": "video:https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8"
+  }
+ ]
+}

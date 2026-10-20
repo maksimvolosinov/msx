@@ -1,0 +1,28 @@
+{
+ "type": "list",
+ "headline": "Burundi (2)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "RTNB Divertissement",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/vNCVLuO.png",
+   "playerLabel": "RTNB Divertissement",
+   "action": "video:https://tv2-stream.rtnb.bi/hls/master.m3u8"
+  },
+  {
+   "title": "RTNB TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xfR5P9F.png",
+   "playerLabel": "RTNB TV",
+   "action": "video:https://tv1-stream.rtnb.bi/hls/master.m3u8"
+  }
+ ]
+}

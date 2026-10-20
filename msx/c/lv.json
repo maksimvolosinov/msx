@@ -1,0 +1,91 @@
+{
+ "type": "list",
+ "headline": "Latvia (11)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
+   "titleFooter": "Movies",
+   "image": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+   "playerLabel": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
+   "action": "video:https://s70378.cdn.ngenix.net/filmbox/index.m3u8"
+  },
+  {
+   "title": "Kino 24 (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/QAdDARF.png",
+   "playerLabel": "Kino 24 (720p)",
+   "action": "video:http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+  },
+  {
+   "title": "OTV (Estonia)",
+   "titleFooter": "Entertainment",
+   "image": "https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg",
+   "playerLabel": "OTV (Estonia)",
+   "action": "video:http://88.212.15.17/live/otv/playlist.m3u8"
+  },
+  {
+   "title": "Pingviins (720p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://i.imgur.com/hfXoJIY.png",
+   "playerLabel": "Pingviins (720p)",
+   "action": "video:https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+  },
+  {
+   "title": "Radio SWH TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/cFrNsXn.png",
+   "playerLabel": "Radio SWH TV (1080p)",
+   "action": "video:https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8"
+  },
+  {
+   "title": "Re TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Z3cre5Xm.png",
+   "playerLabel": "Re TV (1080p)",
+   "action": "video:https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8"
+  },
+  {
+   "title": "Sea TV (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/11dzVLi.png",
+   "playerLabel": "Sea TV (360p)",
+   "action": "video:http://dtv.vol.net.ua/Sea_TV_HD/index.m3u8"
+  },
+  {
+   "title": "TV Jurmala (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/tQHkHD0.png",
+   "playerLabel": "TV Jurmala (1080p)",
+   "action": "video:https://air.star.lv/TV_Jurmala_multistream/index.m3u8"
+  },
+  {
+   "title": "TVNET (Latvia) (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/jzv1ssE.png",
+   "playerLabel": "TVNET (Latvia) (360p)",
+   "action": "video:https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8"
+  },
+  {
+   "title": "Viasat Kino Action (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/HwsNIDK.png",
+   "playerLabel": "Viasat Kino Action (576p)",
+   "action": "video:http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8"
+  },
+  {
+   "title": "Vidusdaugavas Televizija (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/L5U3PQR.png",
+   "playerLabel": "Vidusdaugavas Televizija (576p)",
+   "action": "video:https://straume.vdtv.lv/vdtv2/index.m3u8"
+  }
+ ]
+}

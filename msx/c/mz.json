@@ -1,0 +1,49 @@
+{
+ "type": "list",
+ "headline": "Mozambique (5)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "MNTV",
+   "titleFooter": "Business",
+   "image": "https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png",
+   "playerLabel": "MNTV",
+   "action": "video:https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8"
+  },
+  {
+   "title": "Reino Infantil",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/oAygpDw.png",
+   "playerLabel": "Reino Infantil",
+   "action": "video:https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8"
+  },
+  {
+   "title": "TV Mana Mocambique (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/R5YrV5s.png",
+   "playerLabel": "TV Mana Mocambique (1080p)",
+   "action": "video:https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
+  },
+  {
+   "title": "TV Vitoria (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/HlWzzfj.png",
+   "playerLabel": "TV Vitoria (720p)",
+   "action": "video:https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8"
+  },
+  {
+   "title": "TVM (Mozambique) (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Vqv7R3Y.png",
+   "playerLabel": "TVM (Mozambique) (480p)",
+   "action": "video:http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8"
+  }
+ ]
+}

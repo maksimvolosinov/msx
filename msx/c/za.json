@@ -1,0 +1,161 @@
+{
+ "type": "list",
+ "headline": "South Africa (21)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "1KZN TV (576p)",
+   "titleFooter": "Entertainment;Family;General",
+   "image": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg",
+   "playerLabel": "1KZN TV (576p)",
+   "action": "video:https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
+  },
+  {
+   "title": "BOKTV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/mcNjuuO.png",
+   "playerLabel": "BOKTV (720p) [Not 24/7]",
+   "action": "video:https://livestream2.bokradio.co.za/hls/Bok5c.m3u8"
+  },
+  {
+   "title": "Cape Town TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Y8FK1Kk.png",
+   "playerLabel": "Cape Town TV (576p)",
+   "action": "video:https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
+  },
+  {
+   "title": "Crime and Evidence (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xwGquEb.png",
+   "playerLabel": "Crime and Evidence (720p)",
+   "action": "video:https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8"
+  },
+  {
+   "title": "e.tv News & Sport (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/lXMzsNM.png",
+   "playerLabel": "e.tv News & Sport (720p)",
+   "action": "video:https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"
+  },
+  {
+   "title": "GNF TV (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/vCB7u0e.png",
+   "playerLabel": "GNF TV (576p)",
+   "action": "video:https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Homebase TV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/MaLNfJG.png",
+   "playerLabel": "Homebase TV (480p)",
+   "action": "video:https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8"
+  },
+  {
+   "title": "LN24SA (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Hg5YTwu.png",
+   "playerLabel": "LN24SA (1080p)",
+   "action": "video:https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8"
+  },
+  {
+   "title": "LoveworldSAT (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Fg65XCS.png",
+   "playerLabel": "LoveworldSAT (1080p)",
+   "action": "video:https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8"
+  },
+  {
+   "title": "NuView TV (360p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/dYRJ7F0.png",
+   "playerLabel": "NuView TV (360p)",
+   "action": "video:https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8"
+  },
+  {
+   "title": "RLW TV (576p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/VcwqoEF.png",
+   "playerLabel": "RLW TV (576p) [Not 24/7]",
+   "action": "video:https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8"
+  },
+  {
+   "title": "ROV TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/sbeuEYY.png",
+   "playerLabel": "ROV TV (576p)",
+   "action": "video:https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8"
+  },
+  {
+   "title": "SABC 1 (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/G8OXWe4.png",
+   "playerLabel": "SABC 1 (720p) [Geo-blocked]",
+   "action": "video:https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8"
+  },
+  {
+   "title": "SABC 2 [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/rj6i9sn.png",
+   "playerLabel": "SABC 2 [Geo-blocked]",
+   "action": "video:https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8"
+  },
+  {
+   "title": "SABC Lehae [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/YhdnZHH.png",
+   "playerLabel": "SABC Lehae [Geo-blocked]",
+   "action": "video:https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8"
+  },
+  {
+   "title": "SABC News (720p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/liLta8j.png",
+   "playerLabel": "SABC News (720p) [Geo-blocked]",
+   "action": "video:https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8"
+  },
+  {
+   "title": "Seraphim TV [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/MfeKk07.png",
+   "playerLabel": "Seraphim TV [Not 24/7]",
+   "action": "video:https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8"
+  },
+  {
+   "title": "Soweto TV (576p)",
+   "titleFooter": "Entertainment;Family",
+   "image": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg",
+   "playerLabel": "Soweto TV (576p)",
+   "action": "video:https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+  },
+  {
+   "title": "Trigger",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/TrlrcWf.png",
+   "playerLabel": "Trigger",
+   "action": "video:https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8"
+  },
+  {
+   "title": "Tshwane TV (576p)",
+   "titleFooter": "Entertainment;Family;General",
+   "image": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png",
+   "playerLabel": "Tshwane TV (576p)",
+   "action": "video:https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
+  },
+  {
+   "title": "TV BRICS English (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8rKNuS6.png",
+   "playerLabel": "TV BRICS English (1080p)",
+   "action": "video:https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8"
+  }
+ ]
+}

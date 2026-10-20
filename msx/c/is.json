@@ -1,0 +1,56 @@
+{
+ "type": "list",
+ "headline": "Iceland (6)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Althingi (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/tKNPdea.png",
+   "playerLabel": "Althingi (1080p) [Not 24/7]",
+   "action": "video:https://althingi-live.secure.footprint.net/althingi/live/index.m3u8"
+  },
+  {
+   "title": "K100 (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/tv60ogG.png",
+   "playerLabel": "K100 (1080p)",
+   "action": "video:https://k100streymi.mbl.is/beint/k100/index.m3u8"
+  },
+  {
+   "title": "Omega (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/doybFbZ.png",
+   "playerLabel": "Omega (720p)",
+   "action": "video:https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8"
+  },
+  {
+   "title": "RUV (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/960px-R%C3%9AV_ohf_2019_logo.svg.png",
+   "playerLabel": "RUV (720p)",
+   "action": "video:https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8"
+  },
+  {
+   "title": "RUV 2 (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/R%C3%9AV_2_2019_logo.svg/960px-R%C3%9AV_2_2019_logo.svg.png",
+   "playerLabel": "RUV 2 (1080p)",
+   "action": "video:https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8"
+  },
+  {
+   "title": "Visir (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/07Vlt6i.jpg",
+   "playerLabel": "Visir (1080p)",
+   "action": "video:https://live.visir.is/hls-live/visir.smil/playlist.m3u8"
+  }
+ ]
+}

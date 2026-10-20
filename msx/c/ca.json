@@ -1,0 +1,1817 @@
+{
+ "type": "list",
+ "headline": "Canada (258)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "3ABN Canada (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/U99CsEc.png",
+   "playerLabel": "3ABN Canada (720p)",
+   "action": "video:https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
+  },
+  {
+   "title": "48 Hours CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png",
+   "playerLabel": "48 Hours CA",
+   "action": "video:https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8"
+  },
+  {
+   "title": "5AAB TV (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/jrGrfof.png",
+   "playerLabel": "5AAB TV (720p) [Not 24/7]",
+   "action": "video:http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
+  },
+  {
+   "title": "A&E (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+   "playerLabel": "A&E (720p)",
+   "action": "video:http://23.239.31.26:8989/aande/index.m3u8"
+  },
+  {
+   "title": "Afghan Nobel Movies (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.ibb.co/zfdbVSm/logo-1.png",
+   "playerLabel": "Afghan Nobel Movies (720p)",
+   "action": "video:https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
+  },
+  {
+   "title": "Afghan Nobel TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
+   "playerLabel": "Afghan Nobel TV (720p)",
+   "action": "video:https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8"
+  },
+  {
+   "title": "Amazing Discoveries TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/I0oPFTj.png",
+   "playerLabel": "Amazing Discoveries TV (720p)",
+   "action": "video:https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
+  },
+  {
+   "title": "America's Next Top Model CA",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",
+   "playerLabel": "America's Next Top Model CA",
+   "action": "video:https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8"
+  },
+  {
+   "title": "Animation+ (1080p) [Geo-blocked]",
+   "titleFooter": "Animation",
+   "image": "https://i.imgur.com/OIFK6JB.png",
+   "playerLabel": "Animation+ (1080p) [Geo-blocked]",
+   "action": "video:https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8"
+  },
+  {
+   "title": "Autentic History (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
+   "playerLabel": "Autentic History (1080p)",
+   "action": "video:https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8"
+  },
+  {
+   "title": "Autentic Travel (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
+   "playerLabel": "Autentic Travel (1080p)",
+   "action": "video:https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8"
+  },
+  {
+   "title": "Ayaz TV (720p)",
+   "titleFooter": "General",
+   "image": "https://www.ayaztv.com/storage/assets/site_logo.png",
+   "playerLabel": "Ayaz TV (720p)",
+   "action": "video:https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"
+  },
+  {
+   "title": "Az Star TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/di3XX5L.png",
+   "playerLabel": "Az Star TV (1080p)",
+   "action": "video:https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8"
+  },
+  {
+   "title": "Azan TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/JlqS6I4.jpeg",
+   "playerLabel": "Azan TV",
+   "action": "video:https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+  },
+  {
+   "title": "Bar Rescue CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png",
+   "playerLabel": "Bar Rescue CA",
+   "action": "video:https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8"
+  },
+  {
+   "title": "Best of The Drew Barrymore Show (United States)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png",
+   "playerLabel": "Best of The Drew Barrymore Show (United States)",
+   "action": "video:https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8"
+  },
+  {
+   "title": "BNN Bloomberg",
+   "titleFooter": "Business",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png",
+   "playerLabel": "BNN Bloomberg",
+   "action": "video:https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd"
+  },
+  {
+   "title": "Bob l'eponge (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoPNG.png",
+   "playerLabel": "Bob l'eponge (720p)",
+   "action": "video:https://jmp2.uk/plu-66588931a3865300085ca800.m3u8"
+  },
+  {
+   "title": "Bonanza CA",
+   "titleFooter": "Movies;Series",
+   "image": "https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png",
+   "playerLabel": "Bonanza CA",
+   "action": "video:https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8"
+  },
+  {
+   "title": "Bondi Rescue (United States) (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png",
+   "playerLabel": "Bondi Rescue (United States) (720p)",
+   "action": "video:https://jmp2.uk/plu-66166989635c7500084105a2.m3u8"
+  },
+  {
+   "title": "British Comedy",
+   "titleFooter": "Comedy",
+   "image": "https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png",
+   "playerLabel": "British Comedy",
+   "action": "video:https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8"
+  },
+  {
+   "title": "C Malayalam TV (1080p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/rpg0bQA.png",
+   "playerLabel": "C Malayalam TV (1080p)",
+   "action": "video:https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+  },
+  {
+   "title": "Canada One (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "playerLabel": "Canada One (720p) [Not 24/7]",
+   "action": "video:http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
+  },
+  {
+   "title": "CBC News Network (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/SjTdhvJ.png",
+   "playerLabel": "CBC News Network (1080p)",
+   "action": "video:https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8"
+  },
+  {
+   "title": "CBC Television CBAT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xflShTG.png",
+   "playerLabel": "CBC Television CBAT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBCT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CBCT-DT_2017.svg/960px-CBCT-DT_2017.svg.png",
+   "playerLabel": "CBC Television CBCT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBET-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NFts1uU.png",
+   "playerLabel": "CBC Television CBET-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBHT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/jdlYY4t.png",
+   "playerLabel": "CBC Television CBHT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBKT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/PWGVjsg.png",
+   "playerLabel": "CBC Television CBKT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBLT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png",
+   "playerLabel": "CBC Television CBLT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBMT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OiiM6Mz.png",
+   "playerLabel": "CBC Television CBMT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBNT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/960px-CBNT-DT_2017.svg.png",
+   "playerLabel": "CBC Television CBNT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBOT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/v3DJUa8.png",
+   "playerLabel": "CBC Television CBOT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBRT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ocq1x2B.png",
+   "playerLabel": "CBC Television CBRT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBUT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png",
+   "playerLabel": "CBC Television CBUT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBWT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/aWNHg5z.png",
+   "playerLabel": "CBC Television CBWT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CBXT-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png",
+   "playerLabel": "CBC Television CBXT-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8"
+  },
+  {
+   "title": "CBC Television CFYK-DT (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/EHGOQhj.png",
+   "playerLabel": "CBC Television CFYK-DT (720p) [Geo-blocked]",
+   "action": "video:https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8"
+  },
+  {
+   "title": "CHCO-TV (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EpMawIy.png",
+   "playerLabel": "CHCO-TV (720p) [Geo-blocked]",
+   "action": "video:https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8"
+  },
+  {
+   "title": "Cheers (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png",
+   "playerLabel": "Cheers (United States)",
+   "action": "video:https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8"
+  },
+  {
+   "title": "CityNews Calgary (720p)",
+   "titleFooter": "News",
+   "image": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+   "playerLabel": "CityNews Calgary (720p)",
+   "action": "video:https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8"
+  },
+  {
+   "title": "CityNews Edmonton",
+   "titleFooter": "News",
+   "image": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+   "playerLabel": "CityNews Edmonton",
+   "action": "video:https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8"
+  },
+  {
+   "title": "CityNews Toronto (720p)",
+   "titleFooter": "News",
+   "image": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+   "playerLabel": "CityNews Toronto (720p)",
+   "action": "video:https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
+  },
+  {
+   "title": "CityNews Vancouver (720p)",
+   "titleFooter": "News",
+   "image": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+   "playerLabel": "CityNews Vancouver (720p)",
+   "action": "video:https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
+  },
+  {
+   "title": "CKNO-FM (616p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/sF2g7KE.png",
+   "playerLabel": "CKNO-FM (616p)",
+   "action": "video:https://videostream.jpbgdigital.com/NOWTV.m3u8"
+  },
+  {
+   "title": "Classic TV: Families CA",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png",
+   "playerLabel": "Classic TV: Families CA",
+   "action": "video:https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8"
+  },
+  {
+   "title": "CNN (720p)",
+   "titleFooter": "News",
+   "image": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",
+   "playerLabel": "CNN (720p)",
+   "action": "video:https://tvsen6.aynaott.com/cnn/index.m3u8"
+  },
+  {
+   "title": "Comedy Central (United States) CA",
+   "titleFooter": "Comedy",
+   "image": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
+   "playerLabel": "Comedy Central (United States) CA",
+   "action": "video:https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8"
+  },
+  {
+   "title": "Cottage Life (720p)",
+   "titleFooter": "Lifestyle;Outdoor",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/960px-Cottage_Life_Logo.svg.png",
+   "playerLabel": "Cottage Life (720p)",
+   "action": "video:http://185.246.209.113/CottageLife/index.m3u8"
+  },
+  {
+   "title": "CP24 (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/YzjZUEl.png",
+   "playerLabel": "CP24 (720p)",
+   "action": "video:http://107.167.16.138/cp24/index.m3u8?token=test"
+  },
+  {
+   "title": "CPAC English (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png",
+   "playerLabel": "CPAC English (720p)",
+   "action": "video:https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8"
+  },
+  {
+   "title": "CTV (Canada) CFTO-DT (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png",
+   "playerLabel": "CTV (Canada) CFTO-DT (720p)",
+   "action": "video:http://stream.cammonitorplus.net/1712/index.m3u8"
+  },
+  {
+   "title": "CTV 2 Atlantic (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png",
+   "playerLabel": "CTV 2 Atlantic (720p)",
+   "action": "video:http://stream.cammonitorplus.net/1731/index.m3u8"
+  },
+  {
+   "title": "CTV Life Channel (720p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/500px-CTV_Life_Channel_2019.svg.png",
+   "playerLabel": "CTV Life Channel (720p)",
+   "action": "video:http://185.246.209.113/ANIMALPLANETHD/index.m3u8"
+  },
+  {
+   "title": "DesheBideshe TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Ek1Ohj6.png",
+   "playerLabel": "DesheBideshe TV",
+   "action": "video:https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
+  },
+  {
+   "title": "Deshi TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PzqzgMm.png",
+   "playerLabel": "Deshi TV (720p)",
+   "action": "video:https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+  },
+  {
+   "title": "Doc Martin (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png",
+   "playerLabel": "Doc Martin (United States)",
+   "action": "video:https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8"
+  },
+  {
+   "title": "Dora TV",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/zJuSbmU.png",
+   "playerLabel": "Dora TV",
+   "action": "video:https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8"
+  },
+  {
+   "title": "Doyel TV",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/8pR8Q4J.png",
+   "playerLabel": "Doyel TV",
+   "action": "video:https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8"
+  },
+  {
+   "title": "Dukh Nivaran (720p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/Zh60l1x.png",
+   "playerLabel": "Dukh Nivaran (720p) [Not 24/7]",
+   "action": "video:http://cdn12.henico.net:8080/live/dncal/index.m3u8"
+  },
+  {
+   "title": "Eawaz TV (720p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/vB4yzen.png",
+   "playerLabel": "Eawaz TV (720p) [Not 24/7]",
+   "action": "video:https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8"
+  },
+  {
+   "title": "EET TV (1080p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/rntSEDZ.png",
+   "playerLabel": "EET TV (1080p) [Not 24/7]",
+   "action": "video:https://eu.streamjo.com/eetlive/eettv.m3u8"
+  },
+  {
+   "title": "Erfan Halgheh TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+   "playerLabel": "Erfan Halgheh TV (720p)",
+   "action": "video:https://hls.erfanhalgheh.live/hls/stream.m3u8"
+  },
+  {
+   "title": "EWTN (United States) Canada (720p)",
+   "titleFooter": "Religious",
+   "image": "https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw",
+   "playerLabel": "EWTN (United States) Canada (720p)",
+   "action": "video:https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
+  },
+  {
+   "title": "FIFA+ United States (720p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+   "playerLabel": "FIFA+ United States (720p)",
+   "action": "video:https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8"
+  },
+  {
+   "title": "Fight Network (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/vlKPZHR.png",
+   "playerLabel": "Fight Network (1080p)",
+   "action": "video:https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
+  },
+  {
+   "title": "Frasier (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",
+   "playerLabel": "Frasier (United States)",
+   "action": "video:https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8"
+  },
+  {
+   "title": "Game+ (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/Lj69WbR.png",
+   "playerLabel": "Game+ (720p)",
+   "action": "video:https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+  },
+  {
+   "title": "Gaunda Punjab TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ArRZRM3.png",
+   "playerLabel": "Gaunda Punjab TV (720p)",
+   "action": "video:http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8"
+  },
+  {
+   "title": "GTN Canada (1080i) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7bQPJOd.png",
+   "playerLabel": "GTN Canada (1080i) [Geo-blocked]",
+   "action": "video:https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8"
+  },
+  {
+   "title": "GurSikh Sabha TV (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/2EKCtQm.png",
+   "playerLabel": "GurSikh Sabha TV (720p) [Not 24/7]",
+   "action": "video:http://cdn12.henico.net:8080/live/gsctv/index.m3u8"
+  },
+  {
+   "title": "Hamdard TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.ibb.co/JcD2xck/logo-hamda.png",
+   "playerLabel": "Hamdard TV (1080p)",
+   "action": "video:https://tv.hamdardtv.com/hamdard/index.m3u8"
+  },
+  {
+   "title": "Happy Days (United States) CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png",
+   "playerLabel": "Happy Days (United States) CA",
+   "action": "video:https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8"
+  },
+  {
+   "title": "HauntTV CA (720p)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",
+   "playerLabel": "HauntTV CA (720p)",
+   "action": "video:https://jmp2.uk/plu-63934c218ef524000757b122.m3u8"
+  },
+  {
+   "title": "HLN (720p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",
+   "playerLabel": "HLN (720p)",
+   "action": "video:http://23.237.104.106:8080/USA_HLN/index.m3u8"
+  },
+  {
+   "title": "Hyder TV (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/reHjjRZ.png",
+   "playerLabel": "Hyder TV (720p)",
+   "action": "video:https://cdn.live247stream.com/hyder/tv/playlist.m3u8"
+  },
+  {
+   "title": "I Love Lucy CA",
+   "titleFooter": "Classic;Comedy",
+   "image": "https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoPNG.png",
+   "playerLabel": "I Love Lucy CA",
+   "action": "video:https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CBAFT-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+   "playerLabel": "Ici Radio-Canada Tele CBAFT-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CBFT-DT (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/pFCJGj4.png",
+   "playerLabel": "Ici Radio-Canada Tele CBFT-DT (1080p) [Geo-blocked]",
+   "action": "video:https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CBKFT-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+   "playerLabel": "Ici Radio-Canada Tele CBKFT-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CBLFT-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/1f798e8.png",
+   "playerLabel": "Ici Radio-Canada Tele CBLFT-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CBOFT-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/373Y8Py.png",
+   "playerLabel": "Ici Radio-Canada Tele CBOFT-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CBUFT-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+   "playerLabel": "Ici Radio-Canada Tele CBUFT-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CBVT-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+   "playerLabel": "Ici Radio-Canada Tele CBVT-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CBWFT-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+   "playerLabel": "Ici Radio-Canada Tele CBWFT-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CBXFT-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xN4Valg.png",
+   "playerLabel": "Ici Radio-Canada Tele CBXFT-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CFHD-DT (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/x0vLIWr.png",
+   "playerLabel": "Ici Radio-Canada Tele CFHD-DT (720p)",
+   "action": "video:https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CJBR-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/1B3d8Jc.png",
+   "playerLabel": "Ici Radio-Canada Tele CJBR-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CKSH-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+   "playerLabel": "Ici Radio-Canada Tele CKSH-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CKTM-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+   "playerLabel": "Ici Radio-Canada Tele CKTM-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+  },
+  {
+   "title": "Ici Radio-Canada Tele CKTV-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+   "playerLabel": "Ici Radio-Canada Tele CKTV-DT [Geo-blocked]",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
+  },
+  {
+   "title": "Ici RDI (720p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png",
+   "playerLabel": "Ici RDI (720p)",
+   "action": "video:https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
+  },
+  {
+   "title": "ICnet 1",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/aeS4Sjv.png",
+   "playerLabel": "ICnet 1",
+   "action": "video:https://icnet1hls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "IIPC TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/mIih39Y.png",
+   "playerLabel": "IIPC TV (720p)",
+   "action": "video:https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8"
+  },
+  {
+   "title": "Ink Master CA",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/655f2d713944b60008bc7e90/colorLogoPNG.png",
+   "playerLabel": "Ink Master CA",
+   "action": "video:https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8"
+  },
+  {
+   "title": "INWILD (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png",
+   "playerLabel": "INWILD (1080p)",
+   "action": "video:https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8"
+  },
+  {
+   "title": "JAG (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png",
+   "playerLabel": "JAG (United States)",
+   "action": "video:https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8"
+  },
+  {
+   "title": "Kidoodle.TV (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/MaFtbM5.png",
+   "playerLabel": "Kidoodle.TV (1080p)",
+   "action": "video:https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "Knowledge Network (720p) [Geo-blocked]",
+   "titleFooter": "Education;Kids",
+   "image": "https://i.imgur.com/VfofmZZ.png",
+   "playerLabel": "Knowledge Network (720p) [Geo-blocked]",
+   "action": "video:https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8"
+  },
+  {
+   "title": "LCN [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/iKDLgOG.png",
+   "playerLabel": "LCN [Geo-blocked]",
+   "action": "video:https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
+  },
+  {
+   "title": "Legislative Assembly of British Columbia",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/5QGxHhh.png",
+   "playerLabel": "Legislative Assembly of British Columbia",
+   "action": "video:https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
+  },
+  {
+   "title": "Legislative Assembly of British Columbia Committee A",
+   "titleFooter": "Legislative",
+   "playerLabel": "Legislative Assembly of British Columbia Committee A",
+   "action": "video:https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
+  },
+  {
+   "title": "Legislative Assembly of Ontario",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/n24MrsX.png",
+   "playerLabel": "Legislative Assembly of Ontario",
+   "action": "video:https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+  },
+  {
+   "title": "Legislative Assembly TV Nunavut",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/wY9WhYS.png",
+   "playerLabel": "Legislative Assembly TV Nunavut",
+   "action": "video:http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+  },
+  {
+   "title": "Love Nature (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+   "playerLabel": "Love Nature (1080p)",
+   "action": "video:https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8"
+  },
+  {
+   "title": "Love Nature 4K (2160p) [Geo-blocked]",
+   "titleFooter": "Outdoor",
+   "image": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+   "playerLabel": "Love Nature 4K (2160p) [Geo-blocked]",
+   "action": "video:https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8"
+  },
+  {
+   "title": "Love Nature HD (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+   "playerLabel": "Love Nature HD (1080p)",
+   "action": "video:https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8"
+  },
+  {
+   "title": "Matlock (United States) CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png",
+   "playerLabel": "Matlock (United States) CA",
+   "action": "video:https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8"
+  },
+  {
+   "title": "MHZ",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/a5fw83n.jpg",
+   "playerLabel": "MHZ",
+   "action": "video:https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+   "title": "Mission Impossible (United States) CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png",
+   "playerLabel": "Mission Impossible (United States) CA",
+   "action": "video:https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8"
+  },
+  {
+   "title": "Montreal Greek TV (480p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/Y5YnUit.png",
+   "playerLabel": "Montreal Greek TV (480p)",
+   "action": "video:http://live.greektv.ca/hls1/greektv.m3u8"
+  },
+  {
+   "title": "More Pluto TV Comedy",
+   "titleFooter": "Comedy",
+   "image": "https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png",
+   "playerLabel": "More Pluto TV Comedy",
+   "action": "video:https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8"
+  },
+  {
+   "title": "Movie Music by Stingray (1080p)",
+   "titleFooter": "Music",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CSpCdAxnLpqebMLZh6h7vMPk6LYpdqkVHA&s",
+   "playerLabel": "Movie Music by Stingray (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "MovieSphere CA",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/h1ejU90.png",
+   "playerLabel": "MovieSphere CA",
+   "action": "video:https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8"
+  },
+  {
+   "title": "Mr Bean Animated (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+   "playerLabel": "Mr Bean Animated (1080p)",
+   "action": "video:https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "MTV Biggest Pop CA (1080p)",
+   "titleFooter": "Music",
+   "image": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
+   "playerLabel": "MTV Biggest Pop CA (1080p)",
+   "action": "video:https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
+  },
+  {
+   "title": "MTV Catfish (United States)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
+   "playerLabel": "MTV Catfish (United States)",
+   "action": "video:https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8"
+  },
+  {
+   "title": "MTV Classic CA (720p)",
+   "titleFooter": "Music",
+   "image": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+   "playerLabel": "MTV Classic CA (720p)",
+   "action": "video:https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
+  },
+  {
+   "title": "MTV Dating (United States) CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png",
+   "playerLabel": "MTV Dating (United States) CA",
+   "action": "video:https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8"
+  },
+  {
+   "title": "MTV Jersey Shore",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/colorLogoPNG_1757455543454.png",
+   "playerLabel": "MTV Jersey Shore",
+   "action": "video:https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8"
+  },
+  {
+   "title": "MTV Reality (United States) CA",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
+   "playerLabel": "MTV Reality (United States) CA",
+   "action": "video:https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8"
+  },
+  {
+   "title": "MTV Ridiculousness (United States) CA",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png",
+   "playerLabel": "MTV Ridiculousness (United States) CA",
+   "action": "video:https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8"
+  },
+  {
+   "title": "MTV Spankin' New CA (1080p)",
+   "titleFooter": "Music",
+   "image": "https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",
+   "playerLabel": "MTV Spankin' New CA (1080p)",
+   "action": "video:https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
+  },
+  {
+   "title": "NACTV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/FzM95rH.png",
+   "playerLabel": "NACTV",
+   "action": "video:https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+  },
+  {
+   "title": "Nash Bridges (720p)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png",
+   "playerLabel": "Nash Bridges (720p)",
+   "action": "video:https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8"
+  },
+  {
+   "title": "Nashville CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",
+   "playerLabel": "Nashville CA",
+   "action": "video:https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8"
+  },
+  {
+   "title": "NCIS (United States) CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
+   "playerLabel": "NCIS (United States) CA",
+   "action": "video:https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8"
+  },
+  {
+   "title": "NCIS: Los Angeles (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png",
+   "playerLabel": "NCIS: Los Angeles (United States)",
+   "action": "video:https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8"
+  },
+  {
+   "title": "Nick Jr. Pluto TV CA",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
+   "playerLabel": "Nick Jr. Pluto TV CA",
+   "action": "video:https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8"
+  },
+  {
+   "title": "Nicktoons (United States) CA",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
+   "playerLabel": "Nicktoons (United States) CA",
+   "action": "video:https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8"
+  },
+  {
+   "title": "NTD TV Canada",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iyFXcDy.png",
+   "playerLabel": "NTD TV Canada",
+   "action": "video:https://live.ntdtv.com/mllive860/playlist.m3u8"
+  },
+  {
+   "title": "NTD TV Canada West",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iyFXcDy.png",
+   "playerLabel": "NTD TV Canada West",
+   "action": "video:https://live.ntdtv.com/cwlive220/playlist.m3u8"
+  },
+  {
+   "title": "NTV (Canada) CJON-DT (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KQtQg5y.png",
+   "playerLabel": "NTV (Canada) CJON-DT (480p)",
+   "action": "video:https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
+  },
+  {
+   "title": "NTV+",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/YEUhPBv.png",
+   "playerLabel": "NTV+",
+   "action": "video:https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8"
+  },
+  {
+   "title": "One Piece CA",
+   "titleFooter": "Animation",
+   "image": "https://i.imgur.com/XsvbAWR.png",
+   "playerLabel": "One Piece CA",
+   "action": "video:https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8"
+  },
+  {
+   "title": "Ontario Parliamentary Network (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/xKXs6ER.png",
+   "playerLabel": "Ontario Parliamentary Network (720p)",
+   "action": "video:https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+  },
+  {
+   "title": "Outdoor Channel (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/Kh4MWaY.png",
+   "playerLabel": "Outdoor Channel (1080p)",
+   "action": "video:https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8"
+  },
+  {
+   "title": "Outdoor Channel HD (720p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/Kh4MWaY.png",
+   "playerLabel": "Outdoor Channel HD (720p)",
+   "action": "video:http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8"
+  },
+  {
+   "title": "Pamir TV (1080p) [Not 24/7]",
+   "titleFooter": "Culture;Music",
+   "image": "https://i.imgur.com/sCBbBOj.png",
+   "playerLabel": "Pamir TV (1080p) [Not 24/7]",
+   "action": "video:http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+  },
+  {
+   "title": "Pardesi TV (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/CwAdPpZ.jpg",
+   "playerLabel": "Pardesi TV (720p)",
+   "action": "video:http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "PBC Tapesh TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/50JzsmH.png",
+   "playerLabel": "PBC Tapesh TV (720p)",
+   "action": "video:https://iptv.tapesh.tv/tapesh/playlist.m3u8"
+  },
+  {
+   "title": "PBS Travel (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/A6GXhta.png",
+   "playerLabel": "PBS Travel (1080p)",
+   "action": "video:https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8"
+  },
+  {
+   "title": "Perry Mason CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png",
+   "playerLabel": "Perry Mason CA",
+   "action": "video:https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8"
+  },
+  {
+   "title": "Pluto Classic Movie Westerns",
+   "titleFooter": "Movies;Series",
+   "image": "https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",
+   "playerLabel": "Pluto Classic Movie Westerns",
+   "action": "video:https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8"
+  },
+  {
+   "title": "Pluto TV Action Movies",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Action Movies",
+   "action": "video:https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8"
+  },
+  {
+   "title": "Pluto TV Adventure CA",
+   "titleFooter": "Entertainment;Outdoor;Series",
+   "image": "https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Adventure CA",
+   "action": "video:https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8"
+  },
+  {
+   "title": "Pluto TV Anime CA",
+   "titleFooter": "Animation",
+   "image": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
+   "playerLabel": "Pluto TV Anime CA",
+   "action": "video:https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8"
+  },
+  {
+   "title": "Pluto TV Cars CA",
+   "titleFooter": "Auto",
+   "image": "https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png",
+   "playerLabel": "Pluto TV Cars CA",
+   "action": "video:https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8"
+  },
+  {
+   "title": "Pluto TV Classic TV Variety",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/68d25c623175a2780d051d3a/colorLogoPNG_1758809678864.png",
+   "playerLabel": "Pluto TV Classic TV Variety",
+   "action": "video:https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8"
+  },
+  {
+   "title": "Pluto TV Comedy CA",
+   "titleFooter": "Comedy",
+   "image": "https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Comedy CA",
+   "action": "video:https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8"
+  },
+  {
+   "title": "Pluto TV Comedy Movies",
+   "titleFooter": "Comedy;Movies",
+   "image": "https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Comedy Movies",
+   "action": "video:https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8"
+  },
+  {
+   "title": "Pluto TV Crime Drama CA",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Crime Drama CA",
+   "action": "video:https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8"
+  },
+  {
+   "title": "Pluto TV Drama Movies",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Drama Movies",
+   "action": "video:https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8"
+  },
+  {
+   "title": "Pluto TV FBI",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png",
+   "playerLabel": "Pluto TV FBI",
+   "action": "video:https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8"
+  },
+  {
+   "title": "Pluto TV Horror (United States) CA",
+   "titleFooter": "Movies;Series",
+   "image": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Horror (United States) CA",
+   "action": "video:https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8"
+  },
+  {
+   "title": "Pluto TV Paranormal (United States) CA",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Paranormal (United States) CA",
+   "action": "video:https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8"
+  },
+  {
+   "title": "Pluto TV Reality (United States) CA",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Reality (United States) CA",
+   "action": "video:https://jmp2.uk/plu-67922858b83355184c699699.m3u8"
+  },
+  {
+   "title": "Pluto TV Retro Action Movies",
+   "titleFooter": "Classic;Movies",
+   "image": "https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png",
+   "playerLabel": "Pluto TV Retro Action Movies",
+   "action": "video:https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8"
+  },
+  {
+   "title": "Pluto TV Retro Crime Action",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/69aee8a1acb7eb0bb68df641/colorLogoPNG_1774899454178.png",
+   "playerLabel": "Pluto TV Retro Crime Action",
+   "action": "video:https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8"
+  },
+  {
+   "title": "Pluto TV Retro Crime Drama",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/630f1e6073bd1800082107f0/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Retro Crime Drama",
+   "action": "video:https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8"
+  },
+  {
+   "title": "Pluto TV Retro Kid",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Retro Kid",
+   "action": "video:https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8"
+  },
+  {
+   "title": "Pluto TV Sci-Fi (United States) CA",
+   "titleFooter": "Movies;Series",
+   "image": "https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Sci-Fi (United States) CA",
+   "action": "video:https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8"
+  },
+  {
+   "title": "Pluto TV Snooker 900 (United States)",
+   "titleFooter": "Sports",
+   "image": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+   "playerLabel": "Pluto TV Snooker 900 (United States)",
+   "action": "video:https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8"
+  },
+  {
+   "title": "Pluto TV True Crime (United States) CA",
+   "titleFooter": "Documentary;Series",
+   "image": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
+   "playerLabel": "Pluto TV True Crime (United States) CA",
+   "action": "video:https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8"
+  },
+  {
+   "title": "Pluto TV Westerns (United States) CA",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Westerns (United States) CA",
+   "action": "video:https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8"
+  },
+  {
+   "title": "Prime Asia TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png",
+   "playerLabel": "Prime Asia TV (1080p)",
+   "action": "video:http://primeasia.selfip.net/Samsung/index.m3u8"
+  },
+  {
+   "title": "Prime Canada TV (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/Vji81jB.png",
+   "playerLabel": "Prime Canada TV (720p) [Not 24/7]",
+   "action": "video:http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8"
+  },
+  {
+   "title": "Probashi TV News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/7oTsfQ4.png",
+   "playerLabel": "Probashi TV News (1080p)",
+   "action": "video:http://158.69.24.53:8080/probashi_tv/index.m3u8"
+  },
+  {
+   "title": "PTC Punjabi Canada (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png",
+   "playerLabel": "PTC Punjabi Canada (1080p)",
+   "action": "video:https://stream.ottlive.co.in/ptccanada/index.m3u8"
+  },
+  {
+   "title": "Puto TV Classic TV Crime Drama",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/696e61287d2afdec4ff2cb75/colorLogoPNG_1768842232781.png",
+   "playerLabel": "Puto TV Classic TV Crime Drama",
+   "action": "video:https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8"
+  },
+  {
+   "title": "Qello Concerts by Stingray (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/IRyFTWq.png",
+   "playerLabel": "Qello Concerts by Stingray (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Quo Vadis TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/pEqDDHl.png",
+   "playerLabel": "Quo Vadis TV (720p)",
+   "action": "video:https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8"
+  },
+  {
+   "title": "Radio Tele Evangile Sans Limite",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/CL32kFA.png",
+   "playerLabel": "Radio Tele Evangile Sans Limite",
+   "action": "video:https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
+  },
+  {
+   "title": "Rawhide (United States) CA",
+   "titleFooter": "Movies;Series",
+   "image": "https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png",
+   "playerLabel": "Rawhide (United States) CA",
+   "action": "video:https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8"
+  },
+  {
+   "title": "Red Bull TV US (1080p)",
+   "titleFooter": "Outdoor;Sports",
+   "image": "https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",
+   "playerLabel": "Red Bull TV US (1080p)",
+   "action": "video:https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
+  },
+  {
+   "title": "RT France (1080p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
+   "playerLabel": "RT France (1080p) [Geo-blocked]",
+   "action": "video:https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8"
+  },
+  {
+   "title": "Sardari TV (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "playerLabel": "Sardari TV (1080p) [Not 24/7]",
+   "action": "video:http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8"
+  },
+  {
+   "title": "Savoir media CFTU-DT (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
+   "playerLabel": "Savoir media CFTU-DT (360p)",
+   "action": "video:https://hls.savoir.media/live/stream.m3u8"
+  },
+  {
+   "title": "Sikh Spiritual Centre Rexdale (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/YKXoIsr.png",
+   "playerLabel": "Sikh Spiritual Centre Rexdale (720p)",
+   "action": "video:https://cdn12.henico.net:8443/live/ssct/index.m3u8"
+  },
+  {
+   "title": "Sohail TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
+   "playerLabel": "Sohail TV (1080p)",
+   "action": "video:https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
+  },
+  {
+   "title": "Sooriyan TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+   "playerLabel": "Sooriyan TV (1080p)",
+   "action": "video:https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
+  },
+  {
+   "title": "South Park (United States)",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png",
+   "playerLabel": "South Park (United States)",
+   "action": "video:https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8"
+  },
+  {
+   "title": "South Park En Francais",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png",
+   "playerLabel": "South Park En Francais",
+   "action": "video:https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8"
+  },
+  {
+   "title": "South Park: Cartman Collection (United States)",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png",
+   "playerLabel": "South Park: Cartman Collection (United States)",
+   "action": "video:https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8"
+  },
+  {
+   "title": "South Park: Kenny Collection (United States)",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png",
+   "playerLabel": "South Park: Kenny Collection (United States)",
+   "action": "video:https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8"
+  },
+  {
+   "title": "South Park: Kyle Collection (United States)",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png",
+   "playerLabel": "South Park: Kyle Collection (United States)",
+   "action": "video:https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8"
+  },
+  {
+   "title": "South Park: Stan Collection (United States)",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png",
+   "playerLabel": "South Park: Stan Collection (United States)",
+   "action": "video:https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8"
+  },
+  {
+   "title": "South Park: Welcome to Canada!",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/663115d923e24f000843b49c/colorLogoPNG.png",
+   "playerLabel": "South Park: Welcome to Canada!",
+   "action": "video:https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8"
+  },
+  {
+   "title": "SpongeBob SquarePants (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png",
+   "playerLabel": "SpongeBob SquarePants (720p)",
+   "action": "video:https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8"
+  },
+  {
+   "title": "Star Channel International (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/6NUpxhr.png",
+   "playerLabel": "Star Channel International (720p)",
+   "action": "video:https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
+  },
+  {
+   "title": "Stingray Cityscapes (1080p)",
+   "titleFooter": "Music",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s",
+   "playerLabel": "Stingray Cityscapes (1080p)",
+   "action": "video:https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8"
+  },
+  {
+   "title": "Stingray Classic Rock (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/FBgu8yB.png",
+   "playerLabel": "Stingray Classic Rock (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Classica (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/nh1k5RC.png",
+   "playerLabel": "Stingray Classica (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Cozy Cafe (1080p)",
+   "titleFooter": "Music",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s",
+   "playerLabel": "Stingray Cozy Cafe (1080p)",
+   "action": "video:https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8"
+  },
+  {
+   "title": "Stingray DJAZZ (1080p)",
+   "titleFooter": "Music",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
+   "playerLabel": "Stingray DJAZZ (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Easy Listening (1080p)",
+   "titleFooter": "Music",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+   "playerLabel": "Stingray Easy Listening (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Everything '80s (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/6E3wYrb.png",
+   "playerLabel": "Stingray Everything '80s (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Flashback 70's (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/jf5C9QF.png",
+   "playerLabel": "Stingray Flashback 70's (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Hit List (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/lgpIwId.png",
+   "playerLabel": "Stingray Hit List (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Holiday Hits (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/4xVVKH8.png",
+   "playerLabel": "Stingray Holiday Hits (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Holidayscapes (1080p)",
+   "titleFooter": "Music",
+   "image": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+   "playerLabel": "Stingray Holidayscapes (1080p)",
+   "action": "video:https://d10cyxntpn0bwm.cloudfront.net/master.m3u8"
+  },
+  {
+   "title": "Stingray Hot Country (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/PZhxyIT.png",
+   "playerLabel": "Stingray Hot Country (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray iConcerts HD",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/GKc7RFz.png",
+   "playerLabel": "Stingray iConcerts HD",
+   "action": "video:https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8"
+  },
+  {
+   "title": "Stingray Jukebox Oldies (1080p)",
+   "titleFooter": "Music",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+   "playerLabel": "Stingray Jukebox Oldies (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Karaoke (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/9TLTLS3.png",
+   "playerLabel": "Stingray Karaoke (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Naturescape (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/882kd90.png",
+   "playerLabel": "Stingray Naturescape (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Nothin' But 90s (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Tq3I0po.png",
+   "playerLabel": "Stingray Nothin' But 90s (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Pop Adult (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/H2ugC9L.png",
+   "playerLabel": "Stingray Pop Adult (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Remember the 80s",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/duwc8E8.png",
+   "playerLabel": "Stingray Remember the 80s",
+   "action": "video:https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8"
+  },
+  {
+   "title": "Stingray Rock Alternative (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/mt8ulVX.png",
+   "playerLabel": "Stingray Rock Alternative (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Romance Latino (1080p)",
+   "titleFooter": "Music",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+   "playerLabel": "Stingray Romance Latino (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Smooth Jazz (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/h1DsOzH.png",
+   "playerLabel": "Stingray Smooth Jazz (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Soul Storm (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/dU1KC3f.png",
+   "playerLabel": "Stingray Soul Storm (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray The Spa (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/ywAN923.png",
+   "playerLabel": "Stingray The Spa (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Today's K-Pop (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/mMbntB5.png",
+   "playerLabel": "Stingray Today's K-Pop (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Stingray Today's Latin Pop (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Os3kRRP.png",
+   "playerLabel": "Stingray Today's Latin Pop (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
+  },
+  {
+   "title": "Summer of Movies",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",
+   "playerLabel": "Summer of Movies",
+   "action": "video:https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8"
+  },
+  {
+   "title": "SVBC (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540",
+   "playerLabel": "SVBC (1080p)",
+   "action": "video:https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8"
+  },
+  {
+   "title": "SVBC 2 (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540",
+   "playerLabel": "SVBC 2 (1080p)",
+   "action": "video:https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8"
+  },
+  {
+   "title": "SVBC 3 (720p)",
+   "titleFooter": "Religious",
+   "image": "https://jiotvimages.cdn.jio.com/dare_images/images/SVBC3.png",
+   "playerLabel": "SVBC 3 (720p)",
+   "action": "video:https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8"
+  },
+  {
+   "title": "SVBC 4 (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png",
+   "playerLabel": "SVBC 4 (1080p)",
+   "action": "video:https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
+  },
+  {
+   "title": "T+E (720p)",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/T%2BE_Television.png",
+   "playerLabel": "T+E (720p)",
+   "action": "video:http://185.246.209.113/T+E/index.m3u8"
+  },
+  {
+   "title": "TAG TV (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/4PA2adF.png",
+   "playerLabel": "TAG TV (1080p) [Not 24/7]",
+   "action": "video:http://cdn11.live247stream.com/tag/tv/playlist.m3u8"
+  },
+  {
+   "title": "TamilVision-TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/DodsLuW.png",
+   "playerLabel": "TamilVision-TV (1080p)",
+   "action": "video:https://live.cmr24.fm/TVI/HD/chunks.m3u8"
+  },
+  {
+   "title": "The Andy Griffith Show CA",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png",
+   "playerLabel": "The Andy Griffith Show CA",
+   "action": "video:https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8"
+  },
+  {
+   "title": "The Beverly Hillbillies",
+   "titleFooter": "Classic;Comedy",
+   "image": "https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png",
+   "playerLabel": "The Beverly Hillbillies",
+   "action": "video:https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8"
+  },
+  {
+   "title": "The Challenge CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/64f8a22a3efb510008245df0/colorLogoPNG.png",
+   "playerLabel": "The Challenge CA",
+   "action": "video:https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8"
+  },
+  {
+   "title": "The Conners",
+   "titleFooter": "Comedy;Series",
+   "image": "https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png",
+   "playerLabel": "The Conners",
+   "action": "video:https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8"
+  },
+  {
+   "title": "The Cowboy Channel Canada (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xwntWOP.png",
+   "playerLabel": "The Cowboy Channel Canada (1080p)",
+   "action": "video:https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8"
+  },
+  {
+   "title": "The Graham Norton Show (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
+   "playerLabel": "The Graham Norton Show (1080p)",
+   "action": "video:https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "The Judge Judy Channel CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png",
+   "playerLabel": "The Judge Judy Channel CA",
+   "action": "video:https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8"
+  },
+  {
+   "title": "The New Detectives (United States) CA",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png",
+   "playerLabel": "The New Detectives (United States) CA",
+   "action": "video:https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8"
+  },
+  {
+   "title": "The Price Is Right CA (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/colorLogoPNG.png",
+   "playerLabel": "The Price Is Right CA (720p)",
+   "action": "video:https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8"
+  },
+  {
+   "title": "The Weather Network (720p)",
+   "titleFooter": "Weather",
+   "image": "https://i.imgur.com/V6ZUwUY.png",
+   "playerLabel": "The Weather Network (720p)",
+   "action": "video:https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8"
+  },
+  {
+   "title": "Three's Company CA (720p)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png",
+   "playerLabel": "Three's Company CA (720p)",
+   "action": "video:https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8"
+  },
+  {
+   "title": "Toronto 360 TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/YJYdHKO.png",
+   "playerLabel": "Toronto 360 TV (720p) [Not 24/7]",
+   "action": "video:http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8"
+  },
+  {
+   "title": "Tortues Ninja TV (United States) (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png",
+   "playerLabel": "Tortues Ninja TV (United States) (720p)",
+   "action": "video:https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8"
+  },
+  {
+   "title": "Total Crime (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
+   "playerLabel": "Total Crime (1080p)",
+   "action": "video:https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8"
+  },
+  {
+   "title": "Totally Turtles (United States) CA (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png",
+   "playerLabel": "Totally Turtles (United States) CA (720p)",
+   "action": "video:https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8"
+  },
+  {
+   "title": "Transformers TV CA",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png",
+   "playerLabel": "Transformers TV CA",
+   "action": "video:https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8"
+  },
+  {
+   "title": "TSC (720p)",
+   "titleFooter": "Shop",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png",
+   "playerLabel": "TSC (720p)",
+   "action": "video:https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8"
+  },
+  {
+   "title": "TSN The Ocho (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
+   "playerLabel": "TSN The Ocho (1080p)",
+   "action": "video:https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8"
+  },
+  {
+   "title": "TSN4 (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/qJyAWU8.png",
+   "playerLabel": "TSN4 (720p)",
+   "action": "video:http://109.104.153.220:80/TSN-4/index.m3u8"
+  },
+  {
+   "title": "TV 16 Toronto (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/c4lLchb.png",
+   "playerLabel": "TV 16 Toronto (720p) [Not 24/7]",
+   "action": "video:http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8"
+  },
+  {
+   "title": "TV Punjab (720p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+   "playerLabel": "TV Punjab (720p) [Geo-blocked]",
+   "action": "video:https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TV5 Quebec Canada (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png",
+   "playerLabel": "TV5 Quebec Canada (1080p)",
+   "action": "video:http://23.133.220.149/TV5/index.m3u8"
+  },
+  {
+   "title": "TV5 Unis",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/3/3a/TV5_Unis.svg",
+   "playerLabel": "TV5 Unis",
+   "action": "video:http://23.133.220.149/Unis_TV/index.m3u8"
+  },
+  {
+   "title": "TVA (Canada) CFTM-DT [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png",
+   "playerLabel": "TVA (Canada) CFTM-DT [Geo-blocked]",
+   "action": "video:https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"
+  },
+  {
+   "title": "TVE Internacional America (576p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.ibb.co/RpKLCMvp/tve.png",
+   "playerLabel": "TVE Internacional America (576p) [Geo-blocked]",
+   "action": "video:https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8"
+  },
+  {
+   "title": "TVE Internacional America HD (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.ibb.co/RpKLCMvp/tve.png",
+   "playerLabel": "TVE Internacional America HD (1080p) [Geo-blocked]",
+   "action": "video:https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8"
+  },
+  {
+   "title": "TVOKids (720p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png",
+   "playerLabel": "TVOKids (720p)",
+   "action": "video:https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8"
+  },
+  {
+   "title": "Wild TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png",
+   "playerLabel": "Wild TV (1080p)",
+   "action": "video:https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
+  },
+  {
+   "title": "Willow Sports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
+   "playerLabel": "Willow Sports (1080p)",
+   "action": "video:https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+  },
+  {
+   "title": "XITE 90's Throwback (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/vwpOzuz.png",
+   "playerLabel": "XITE 90's Throwback (1080p)",
+   "action": "video:https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8"
+  },
+  {
+   "title": "XITE Nuevo Latino (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/2qyl2y3.png",
+   "playerLabel": "XITE Nuevo Latino (1080p)",
+   "action": "video:https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8"
+  },
+  {
+   "title": "XITE Siempre Latino (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/bwmIEgG.png",
+   "playerLabel": "XITE Siempre Latino (1080p)",
+   "action": "video:https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8"
+  },
+  {
+   "title": "Yo! MTV CA (1080p)",
+   "titleFooter": "Music",
+   "image": "https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png",
+   "playerLabel": "Yo! MTV CA (1080p)",
+   "action": "video:https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
+  },
+  {
+   "title": "ZenLIFE by Stingray (1080p)",
+   "titleFooter": "Relax",
+   "image": "https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg",
+   "playerLabel": "ZenLIFE by Stingray (1080p)",
+   "action": "video:https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8"
+  }
+ ]
+}

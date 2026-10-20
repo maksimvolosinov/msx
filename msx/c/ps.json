@@ -1,0 +1,119 @@
+{
+ "type": "list",
+ "headline": "Palestine (15)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Ajyal TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/i6Y7beR.jpg",
+   "playerLabel": "Ajyal TV (720p)",
+   "action": "video:http://htvajyal.mada.ps:8888/ajyal/index.m3u8"
+  },
+  {
+   "title": "Al Madina (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NVOeM3P.png",
+   "playerLabel": "Al Madina (720p)",
+   "action": "video:https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8"
+  },
+  {
+   "title": "Al Najah News (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/c2bwn4G.png",
+   "playerLabel": "Al Najah News (720p)",
+   "action": "video:https://streaming.najah.edu:8443/hls/AlNajah.m3u8"
+  },
+  {
+   "title": "Falastini TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/6B3Cims.png",
+   "playerLabel": "Falastini TV (1080p)",
+   "action": "video:https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8"
+  },
+  {
+   "title": "Holy Quran Radio Nablus (720p)",
+   "titleFooter": "Religious",
+   "image": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
+   "playerLabel": "Holy Quran Radio Nablus (720p)",
+   "action": "video:http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8"
+  },
+  {
+   "title": "Kolalnas TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/OyMxcRG.png",
+   "playerLabel": "Kolalnas TV",
+   "action": "video:https://htvint.mada.ps/kolalnas/index.m3u8"
+  },
+  {
+   "title": "Ma'an TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/hRFa03k.png",
+   "playerLabel": "Ma'an TV (720p)",
+   "action": "video:https://htvmada.mada.ps:4443/maannews/index.m3u8"
+  },
+  {
+   "title": "Nablus TV (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/GoLhaDK.png",
+   "playerLabel": "Nablus TV (720p) [Not 24/7]",
+   "action": "video:http://htvmada.mada.ps:8888/nabluslive/index.m3u8"
+  },
+  {
+   "title": "Palestine Edu (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/AwVHXyC.png",
+   "playerLabel": "Palestine Edu (1080p)",
+   "action": "video:https://pbc.furrera.ps/PalestineEDU/index.m3u8"
+  },
+  {
+   "title": "Palestine Today (480p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/BS8XXug.png",
+   "playerLabel": "Palestine Today (480p) [Geo-blocked]",
+   "action": "video:https://live.paltodaytv.com/paltv/live/playlist.m3u8"
+  },
+  {
+   "title": "Radio Albalad TV (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+   "playerLabel": "Radio Albalad TV (720p)",
+   "action": "video:http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8"
+  },
+  {
+   "title": "Rajeen TV (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/6Cx22ya.png",
+   "playerLabel": "Rajeen TV (1080p) [Not 24/7]",
+   "action": "video:https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8"
+  },
+  {
+   "title": "Shabab FM (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/4Cyz4Bn.png",
+   "playerLabel": "Shabab FM (720p) [Not 24/7]",
+   "action": "video:https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8"
+  },
+  {
+   "title": "Watar TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jdr22Sk.jpeg",
+   "playerLabel": "Watar TV (720p) [Not 24/7]",
+   "action": "video:http://htvint.mada.ps:8889/orient/index.m3u8"
+  },
+  {
+   "title": "Wattan TV",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/sf2A9vT.png",
+   "playerLabel": "Wattan TV",
+   "action": "video:https://htvmada.mada.ps:4443/wattan/index.m3u8"
+  }
+ ]
+}

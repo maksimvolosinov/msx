@@ -1,0 +1,469 @@
+{
+ "type": "list",
+ "headline": "Guatemala (65)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Amigos TV Chiquimula (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
+   "playerLabel": "Amigos TV Chiquimula (480p)",
+   "action": "video:https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
+  },
+  {
+   "title": "Aurora Media Films (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/DVC5w6H.png",
+   "playerLabel": "Aurora Media Films (720p)",
+   "action": "video:https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
+  },
+  {
+   "title": "Barbe TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2Sekew2.png",
+   "playerLabel": "Barbe TV (720p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8"
+  },
+  {
+   "title": "BD Television (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/VBJhHkJ/Fda27b8e352949c39c8d88de33a284a4.png",
+   "playerLabel": "BD Television (720p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8"
+  },
+  {
+   "title": "Canal 100 Chinique (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ygNKJXx.png",
+   "playerLabel": "Canal 100 Chinique (1080p)",
+   "action": "video:https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8"
+  },
+  {
+   "title": "Canal 11 (Guatemala) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nmlBLpI.png",
+   "playerLabel": "Canal 11 (Guatemala) (1080p)",
+   "action": "video:http://168.228.44.241:9999/play/a01m/index.m3u8"
+  },
+  {
+   "title": "Canal 13 (Guatemala) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/C1yVU3J.png",
+   "playerLabel": "Canal 13 (Guatemala) (720p)",
+   "action": "video:http://190.61.101.11:7050/play/a07f/index.m3u8"
+  },
+  {
+   "title": "Canal 13 Esquipulas (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/INKZvlN.png",
+   "playerLabel": "Canal 13 Esquipulas (720p)",
+   "action": "video:https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
+  },
+  {
+   "title": "Canal 27 (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/eA4vt8A.png",
+   "playerLabel": "Canal 27 (1080p)",
+   "action": "video:https://live.canal27.tv:3633/live/canal27live.m3u8"
+  },
+  {
+   "title": "Canal 3 (Guatemala) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yCykjIp.png",
+   "playerLabel": "Canal 3 (Guatemala) (720p)",
+   "action": "video:https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8"
+  },
+  {
+   "title": "Canal 30 TV Bethel (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/PP4U1JL.png",
+   "playerLabel": "Canal 30 TV Bethel (720p) [Not 24/7]",
+   "action": "video:https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8"
+  },
+  {
+   "title": "Canal 6 Panadish (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KJWNPiz.jpg",
+   "playerLabel": "Canal 6 Panadish (720p)",
+   "action": "video:https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8"
+  },
+  {
+   "title": "Canal 7 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yVhUkot.png",
+   "playerLabel": "Canal 7 (720p)",
+   "action": "video:https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8"
+  },
+  {
+   "title": "Canal Iglesia Luz y Verdad (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/x3Vdz6h/Screenshot-20231202-125205.jpg",
+   "playerLabel": "Canal Iglesia Luz y Verdad (1080p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8"
+  },
+  {
+   "title": "Canal Peniel (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Z7aKJCt.png",
+   "playerLabel": "Canal Peniel (720p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8"
+  },
+  {
+   "title": "Canal TV Radio Maya TGBA (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/kORStT1.png",
+   "playerLabel": "Canal TV Radio Maya TGBA (480p)",
+   "action": "video:https://s.emisoras.tv:8081/radiomaya/index.m3u8"
+  },
+  {
+   "title": "Canal Visof (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XiszuLl.png",
+   "playerLabel": "Canal Visof (720p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8"
+  },
+  {
+   "title": "Candelaria TV (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Mq1yoUQ.png",
+   "playerLabel": "Candelaria TV (720p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8"
+  },
+  {
+   "title": "Carinosa TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/13Kb6Lp.png",
+   "playerLabel": "Carinosa TV (720p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8"
+  },
+  {
+   "title": "Conectados con Dios",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Drn8nql.png",
+   "playerLabel": "Conectados con Dios",
+   "action": "video:https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8"
+  },
+  {
+   "title": "Cristo TV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/c2czW3M/Screenshot-20231201-180316.jpg",
+   "playerLabel": "Cristo TV (480p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8"
+  },
+  {
+   "title": "El-Roi TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/h8S0eA4.png",
+   "playerLabel": "El-Roi TV (720p)",
+   "action": "video:https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8"
+  },
+  {
+   "title": "Espiritu Santo Y Fuego TV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/8mdSWO4.jpg",
+   "playerLabel": "Espiritu Santo Y Fuego TV (480p)",
+   "action": "video:https://inliveserver.com:1936/8392/8392/playlist.m3u8"
+  },
+  {
+   "title": "Expresion TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/lFek4Pj.png",
+   "playerLabel": "Expresion TV (1080p)",
+   "action": "video:https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8"
+  },
+  {
+   "title": "Fe Viviente (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/PkW3cKR.png",
+   "playerLabel": "Fe Viviente (480p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8"
+  },
+  {
+   "title": "Franchs TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Rr9pKQh.png",
+   "playerLabel": "Franchs TV (720p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8"
+  },
+  {
+   "title": "Gardenias TV (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/YfVmfwV/83ff2da28cae14bc47bb07e976bef578.png",
+   "playerLabel": "Gardenias TV (720p) [Not 24/7]",
+   "action": "video:https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8"
+  },
+  {
+   "title": "GTV (Guatemala) (768p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/gUiIC8E.png",
+   "playerLabel": "GTV (Guatemala) (768p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8"
+  },
+  {
+   "title": "Guatevision (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/mbmHPnO.png",
+   "playerLabel": "Guatevision (1080p)",
+   "action": "video:http://200.115.120.1:8000/play/ca066/index.m3u8"
+  },
+  {
+   "title": "Iglesia Del Camino (480p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/vHfb3Z4.png",
+   "playerLabel": "Iglesia Del Camino (480p) [Not 24/7]",
+   "action": "video:http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8"
+  },
+  {
+   "title": "Jacal Canal 5 (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/k1oW0C6.png",
+   "playerLabel": "Jacal Canal 5 (720p) [Not 24/7]",
+   "action": "video:https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8"
+  },
+  {
+   "title": "Jehova Nissi (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/2BkL4wq.png",
+   "playerLabel": "Jehova Nissi (720p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8"
+  },
+  {
+   "title": "Jubilo TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png",
+   "playerLabel": "Jubilo TV (720p)",
+   "action": "video:http://173.249.60.54/hls/jubilotv.m3u8"
+  },
+  {
+   "title": "Knal 4 Quiche (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YRSv2Tf.png",
+   "playerLabel": "Knal 4 Quiche (720p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8"
+  },
+  {
+   "title": "MAS TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3XuwlkQ.jpg",
+   "playerLabel": "MAS TV",
+   "action": "video:https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8"
+  },
+  {
+   "title": "Maxivision TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/UC8WrEN.jpg",
+   "playerLabel": "Maxivision TV (720p)",
+   "action": "video:https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
+  },
+  {
+   "title": "MCN Television (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/SNUaCCw.png",
+   "playerLabel": "MCN Television (720p)",
+   "action": "video:https://eu1.servers10.com:8081/8338/index.m3u8"
+  },
+  {
+   "title": "Multivision Canal 3 (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6bdj2BV.jpg",
+   "playerLabel": "Multivision Canal 3 (720p) [Not 24/7]",
+   "action": "video:https://stream.digitalgt.com:3136/live/multivisionlive.m3u8"
+  },
+  {
+   "title": "Multivision Sports (720p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/wLjSSo2.jpg",
+   "playerLabel": "Multivision Sports (720p) [Not 24/7]",
+   "action": "video:https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+  },
+  {
+   "title": "Nim TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mBNOSzl.png",
+   "playerLabel": "Nim TV (720p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8"
+  },
+  {
+   "title": "Nuestra Imagen TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sknLXZI.jpeg",
+   "playerLabel": "Nuestra Imagen TV",
+   "action": "video:https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8"
+  },
+  {
+   "title": "Peniel K&Y (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/YtPRKmS.png",
+   "playerLabel": "Peniel K&Y (480p)",
+   "action": "video:https://s.emisoras.tv:8081/penielkids/index.m3u8"
+  },
+  {
+   "title": "Peniel Musical (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/IFQbGEf.png",
+   "playerLabel": "Peniel Musical (480p)",
+   "action": "video:https://s.emisoras.tv:8081/penielmusical/index.m3u8"
+  },
+  {
+   "title": "Peniel TV Biblia Abierta (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png",
+   "playerLabel": "Peniel TV Biblia Abierta (480p)",
+   "action": "video:https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8"
+  },
+  {
+   "title": "Plenitud TV (360p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/BFJ7EGj.png",
+   "playerLabel": "Plenitud TV (360p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8"
+  },
+  {
+   "title": "Presencia Television (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/SVho6El.png",
+   "playerLabel": "Presencia Television (720p) [Not 24/7]",
+   "action": "video:https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8"
+  },
+  {
+   "title": "Radio Coatan Canal 21",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/569xc5o.png",
+   "playerLabel": "Radio Coatan Canal 21",
+   "action": "video:https://s2.tvdatta.com:3112/hybrid/play.m3u8"
+  },
+  {
+   "title": "Rhema TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/5o821rT.png",
+   "playerLabel": "Rhema TV (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a04k/index.m3u8"
+  },
+  {
+   "title": "SAS TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/VShjB3o.png",
+   "playerLabel": "SAS TV (720p)",
+   "action": "video:https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8"
+  },
+  {
+   "title": "Sol TV (Guatemala) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/YXYv8sf/logo-soltv2.png",
+   "playerLabel": "Sol TV (Guatemala) (720p)",
+   "action": "video:https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8"
+  },
+  {
+   "title": "Telecosta (Guatemala) (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png",
+   "playerLabel": "Telecosta (Guatemala) (720p)",
+   "action": "video:https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8"
+  },
+  {
+   "title": "Telemax (Guatemala) (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/HisGao7.png",
+   "playerLabel": "Telemax (Guatemala) (720p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8"
+  },
+  {
+   "title": "Tigo Sports (Guatemala) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+   "playerLabel": "Tigo Sports (Guatemala) (1080p)",
+   "action": "video:http://45.5.119.43:4000/play/a05t/index.m3u8"
+  },
+  {
+   "title": "TN23 (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/UtZD3PA.png",
+   "playerLabel": "TN23 (720p)",
+   "action": "video:https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8"
+  },
+  {
+   "title": "Totovision",
+   "titleFooter": "Music",
+   "image": "https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png",
+   "playerLabel": "Totovision",
+   "action": "video:https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8"
+  },
+  {
+   "title": "Tunevision (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/XNiXqgj.png",
+   "playerLabel": "Tunevision (1080p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8"
+  },
+  {
+   "title": "TV Florencia (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jsbwnRb.png",
+   "playerLabel": "TV Florencia (720p)",
+   "action": "video:https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8"
+  },
+  {
+   "title": "TV Maria (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/qY7T9s9/cropped-TV-MARIA-LOGO-C.jpg",
+   "playerLabel": "TV Maria (720p) [Not 24/7]",
+   "action": "video:https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8"
+  },
+  {
+   "title": "TV Maya (480p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/BGFa4OO.png",
+   "playerLabel": "TV Maya (480p)",
+   "action": "video:https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8"
+  },
+  {
+   "title": "TV Tun (240p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/dGSfHCj.png",
+   "playerLabel": "TV Tun (240p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8"
+  },
+  {
+   "title": "TVS Retro (720p)",
+   "titleFooter": "Classic",
+   "image": "https://i.imgur.com/jdnHci0.png",
+   "playerLabel": "TVS Retro (720p)",
+   "action": "video:https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
+  },
+  {
+   "title": "Unica TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/VE5OrU7.png",
+   "playerLabel": "Unica TV (720p) [Not 24/7]",
+   "action": "video:https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8"
+  },
+  {
+   "title": "Vea Canal (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/oPJlbNf.png",
+   "playerLabel": "Vea Canal (720p)",
+   "action": "video:http://181.78.106.127:5000/play/ca090/index.m3u8"
+  },
+  {
+   "title": "Vision TV (Guatemala) (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/S0JrfIl.png",
+   "playerLabel": "Vision TV (Guatemala) (720p)",
+   "action": "video:https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8"
+  },
+  {
+   "title": "World TV Guatemala (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/G4cTmRgz/World-Tv-Guatemala.png",
+   "playerLabel": "World TV Guatemala (720p)",
+   "action": "video:https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8"
+  }
+ ]
+}

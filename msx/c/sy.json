@@ -1,0 +1,84 @@
+{
+ "type": "list",
+ "headline": "Syria (10)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Al-Souriya TV (1080p)",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/8FILgXT.jpeg",
+   "playerLabel": "Al-Souriya TV (1080p)",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8"
+  },
+  {
+   "title": "Alalam News Channel Syria (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/WQKYPKD.png",
+   "playerLabel": "Alalam News Channel Syria (1080p)",
+   "action": "video:http://live2.alalam.ir/alalam.m3u8"
+  },
+  {
+   "title": "Alikhbaria Syria (1080p)",
+   "titleFooter": "News",
+   "image": "https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp",
+   "playerLabel": "Alikhbaria Syria (1080p)",
+   "action": "video:http://185.9.2.18/chid_423/index.m3u8"
+  },
+  {
+   "title": "Althania (1080p)",
+   "titleFooter": "General",
+   "image": "https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg",
+   "playerLabel": "Althania (1080p)",
+   "action": "video:https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8"
+  },
+  {
+   "title": "Halab Today TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png",
+   "playerLabel": "Halab Today TV (1080p)",
+   "action": "video:https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Prime (Syria) (1080p)",
+   "titleFooter": "General;Sports",
+   "image": "https://prime1tv.com/wp-content/uploads/2025/12/7-1.png",
+   "playerLabel": "Prime (Syria) (1080p)",
+   "action": "video:https://cdn.bestream.io/prime/prime.m3u8"
+  },
+  {
+   "title": "Rojava TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/42noysO.png",
+   "playerLabel": "Rojava TV (1080p)",
+   "action": "video:https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8"
+  },
+  {
+   "title": "Ronahi TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/JSvJpD8.png",
+   "playerLabel": "Ronahi TV (1080p)",
+   "action": "video:https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8"
+  },
+  {
+   "title": "Syria TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/FjuVuXF.jpeg",
+   "playerLabel": "Syria TV (1080p)",
+   "action": "video:https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Welat TV (1080i)",
+   "titleFooter": "News",
+   "image": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
+   "playerLabel": "Welat TV (1080i)",
+   "action": "video:https://stream.badinan.xyz/welat/tv/playlist.m3u8"
+  }
+ ]
+}

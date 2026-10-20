@@ -1,0 +1,28 @@
+{
+ "type": "list",
+ "headline": "Namibia (2)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "NBC 1 [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ykQerMH.png",
+   "playerLabel": "NBC 1 [Not 24/7]",
+   "action": "video:https://hls2.nbcplus.na/hls/high_nbc1.m3u8"
+  },
+  {
+   "title": "Tjil TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/iBbawJ0.png",
+   "playerLabel": "Tjil TV (720p)",
+   "action": "video:https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,599 @@
+{
+ "type": "list",
+ "headline": "Vietnam (84)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "An Giang TV 1 (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mgp6RAU.png",
+   "playerLabel": "An Giang TV 1 (1080p) [Geo-blocked]",
+   "action": "video:https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8"
+  },
+  {
+   "title": "An Giang TV 2 (1080p) [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/efrauLr.png",
+   "playerLabel": "An Giang TV 2 (1080p) [Geo-blocked]",
+   "action": "video:https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8"
+  },
+  {
+   "title": "An Giang TV 3 (1080p) [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/gZUV4z8.png",
+   "playerLabel": "An Giang TV 3 (1080p) [Geo-blocked]",
+   "action": "video:https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8"
+  },
+  {
+   "title": "An Ninh TV HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi",
+   "playerLabel": "An Ninh TV HD (1080p)",
+   "action": "video:https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8"
+  },
+  {
+   "title": "Asian Food Network Vietnam (1080p)",
+   "titleFooter": "Cooking",
+   "image": "https://i.imgur.com/pux6WN8.png",
+   "playerLabel": "Asian Food Network Vietnam (1080p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=215"
+  },
+  {
+   "title": "Binh Thuan TV (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "playerLabel": "Binh Thuan TV (1080p) [Geo-blocked]",
+   "action": "video:https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8"
+  },
+  {
+   "title": "Ca Mau TV (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "playerLabel": "Ca Mau TV (720p) [Geo-blocked]",
+   "action": "video:https://tv.ctvcamau.vn/live/tv/tv.m3u8"
+  },
+  {
+   "title": "Can Tho TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/MDhNH26J/cantho1-2025.png",
+   "playerLabel": "Can Tho TV (1080p)",
+   "action": "video:https://live.canthotv.vn/live/tv/chunklist.m3u8"
+  },
+  {
+   "title": "Can Tho TV 2 (1080p)",
+   "titleFooter": "Education;Science",
+   "image": "https://i.ibb.co/JjVvkMsf/cantho2-2025.png",
+   "playerLabel": "Can Tho TV 2 (1080p)",
+   "action": "video:https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
+  },
+  {
+   "title": "Can Tho TV 3 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.ibb.co/d4G2PD9s/cantho3-2025.png",
+   "playerLabel": "Can Tho TV 3 (1080p)",
+   "action": "video:https://live.canthotv.vn/cs3/tv/chunklist.m3u8"
+  },
+  {
+   "title": "Cao Bang TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/dGonewm.png",
+   "playerLabel": "Cao Bang TV (720p)",
+   "action": "video:https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8"
+  },
+  {
+   "title": "Da Nang TV 1 (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EOMuO1z.png",
+   "playerLabel": "Da Nang TV 1 (1080p) [Not 24/7]",
+   "action": "video:https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8"
+  },
+  {
+   "title": "Da Nang TV2 (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "playerLabel": "Da Nang TV2 (1080p) [Not 24/7]",
+   "action": "video:https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8"
+  },
+  {
+   "title": "Da Vinci Asia Vietnam (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/iBx7K1M.png",
+   "playerLabel": "Da Vinci Asia Vietnam (1080p)",
+   "action": "video:https://vmttv.dpdns.org/tv360/?id=davinci-hd"
+  },
+  {
+   "title": "Dien Bien TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/u308o8q.png",
+   "playerLabel": "Dien Bien TV (1080p)",
+   "action": "video:https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8"
+  },
+  {
+   "title": "Dong Nai TV 1 (1080p)",
+   "titleFooter": "General;News",
+   "image": "https://i.imgur.com/oQyioVa.png",
+   "playerLabel": "Dong Nai TV 1 (1080p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=53"
+  },
+  {
+   "title": "Dong Nai TV 2 (1080p)",
+   "titleFooter": "Entertainment;Sports",
+   "image": "https://i.imgur.com/tNKPSkO.png",
+   "playerLabel": "Dong Nai TV 2 (1080p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=255"
+  },
+  {
+   "title": "Dong Nai TV 3 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/6P39BiA.png",
+   "playerLabel": "Dong Nai TV 3 (720p)",
+   "action": "video:https://dethich.pw/dongnai3/index.m3u8"
+  },
+  {
+   "title": "Dong Thap TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/XFX7yw0/logo2-1.png",
+   "playerLabel": "Dong Thap TV (720p)",
+   "action": "video:https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8"
+  },
+  {
+   "title": "Gia Lai TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/oUSJX0X.png",
+   "playerLabel": "Gia Lai TV (720p)",
+   "action": "video:http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8"
+  },
+  {
+   "title": "Ha Tinh TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4yIgKKx.png",
+   "playerLabel": "Ha Tinh TV (720p)",
+   "action": "video:https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8"
+  },
+  {
+   "title": "HanoiTV1 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Je3K25E.png",
+   "playerLabel": "HanoiTV1 (720p)",
+   "action": "video:https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8"
+  },
+  {
+   "title": "Hmong TV Network (720p)",
+   "titleFooter": "Culture",
+   "image": "https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj",
+   "playerLabel": "Hmong TV Network (720p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8"
+  },
+  {
+   "title": "HTV Sports",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png",
+   "playerLabel": "HTV Sports",
+   "action": "video:https://dethich.pw/htvthethao/index.m3u8"
+  },
+  {
+   "title": "HTV1 (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png",
+   "playerLabel": "HTV1 (720p)",
+   "action": "video:https://dethich.pw/htv1/index.m3u8"
+  },
+  {
+   "title": "HTV2 (720p)",
+   "titleFooter": "Entertainment;General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png",
+   "playerLabel": "HTV2 (720p)",
+   "action": "video:https://dethich.pw/htv2/index.m3u8"
+  },
+  {
+   "title": "HTV3 (720p)",
+   "titleFooter": "Entertainment;General;Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png",
+   "playerLabel": "HTV3 (720p)",
+   "action": "video:https://dethich.pw/htv3/index.m3u8"
+  },
+  {
+   "title": "HTV4 (1080p)",
+   "titleFooter": "Education",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png",
+   "playerLabel": "HTV4 (1080p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=9"
+  },
+  {
+   "title": "HTV7 (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp",
+   "playerLabel": "HTV7 (720p)",
+   "action": "video:https://dethich.pw/htv7/index.m3u8"
+  },
+  {
+   "title": "HTV9 (720p)",
+   "titleFooter": "General;News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp",
+   "playerLabel": "HTV9 (720p)",
+   "action": "video:https://dethich.pw/htv9/index.m3u8"
+  },
+  {
+   "title": "Hung Yen TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TH1DWdm.png",
+   "playerLabel": "Hung Yen TV (480p)",
+   "action": "video:https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8"
+  },
+  {
+   "title": "Kon Tum TV (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/lLlu6ZA.png",
+   "playerLabel": "Kon Tum TV (720p) [Geo-blocked]",
+   "action": "video:https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1"
+  },
+  {
+   "title": "Lang Son TV (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Sj7EjYT.png",
+   "playerLabel": "Lang Son TV (720p) [Geo-blocked]",
+   "action": "video:https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8"
+  },
+  {
+   "title": "Lao SV TV (480p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/ZIXtazI.png",
+   "playerLabel": "Lao SV TV (480p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8"
+  },
+  {
+   "title": "Lao-Thai TV (720p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/q6cQzbv.png",
+   "playerLabel": "Lao-Thai TV (720p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Nghe An TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/d9YEEwC.png",
+   "playerLabel": "Nghe An TV (720p)",
+   "action": "video:https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8"
+  },
+  {
+   "title": "ON Cine",
+   "titleFooter": "Series",
+   "image": "https://i.ibb.co/Jw0J5fnW/IMG-2509.png",
+   "playerLabel": "ON Cine",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=176"
+  },
+  {
+   "title": "ON Kids (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.ibb.co/RGsg8XfM/IMG-2512.webp",
+   "playerLabel": "ON Kids (720p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=179"
+  },
+  {
+   "title": "ON Life (720p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.ibb.co/XxtcgQQv/IMG-2513.webp",
+   "playerLabel": "ON Life (720p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=188"
+  },
+  {
+   "title": "ON Movies (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.ibb.co/fdbgvtT8/IMG-2523.webp",
+   "playerLabel": "ON Movies (720p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=181"
+  },
+  {
+   "title": "ON Music (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/DHk2gv86/IMG-2524.webp",
+   "playerLabel": "ON Music (1080p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=185"
+  },
+  {
+   "title": "ON Vie Drama (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
+   "playerLabel": "ON Vie Drama (720p)",
+   "action": "video:http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8"
+  },
+  {
+   "title": "Outdoor Channel Vietnam (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/Kh4MWaY.png",
+   "playerLabel": "Outdoor Channel Vietnam (1080p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=216"
+  },
+  {
+   "title": "QPVN HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/GQO7UNu.png",
+   "playerLabel": "QPVN HD (1080p)",
+   "action": "video:https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8"
+  },
+  {
+   "title": "Quang Nam TV",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/uWiOoVg.png",
+   "playerLabel": "Quang Nam TV",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=80"
+  },
+  {
+   "title": "RTM ASEAN",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/skAiUxg.png",
+   "playerLabel": "RTM ASEAN",
+   "action": "video:https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+  },
+  {
+   "title": "SCTV11 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ZmFfy9o.png",
+   "playerLabel": "SCTV11 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8"
+  },
+  {
+   "title": "SCTV12 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/5pDFkH0.png",
+   "playerLabel": "SCTV12 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8"
+  },
+  {
+   "title": "SCTV13 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/aoz1iDw.png",
+   "playerLabel": "SCTV13 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8"
+  },
+  {
+   "title": "SCTV14 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/rIqmRNK.png",
+   "playerLabel": "SCTV14 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8"
+  },
+  {
+   "title": "SCTV16 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ldCYtvt.png",
+   "playerLabel": "SCTV16 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8"
+  },
+  {
+   "title": "SCTV18 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/FfUSlgI.png",
+   "playerLabel": "SCTV18 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8"
+  },
+  {
+   "title": "SCTV19 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/yBAFZRs.png",
+   "playerLabel": "SCTV19 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8"
+  },
+  {
+   "title": "SCTV2 SD (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/8i5DXIg.png",
+   "playerLabel": "SCTV2 SD (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8"
+  },
+  {
+   "title": "SCTV20 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7ABZhfZ.png",
+   "playerLabel": "SCTV20 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8"
+  },
+  {
+   "title": "SCTV3 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/tfk298I.png",
+   "playerLabel": "SCTV3 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8"
+  },
+  {
+   "title": "SCTV4 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/qkZhzQq.png",
+   "playerLabel": "SCTV4 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8"
+  },
+  {
+   "title": "SCTV4K (2160p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/eQVMAur.png",
+   "playerLabel": "SCTV4K (2160p)",
+   "action": "video:https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8"
+  },
+  {
+   "title": "SCTV6 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/2oOVS42.png",
+   "playerLabel": "SCTV6 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8"
+  },
+  {
+   "title": "SCTV7 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xbIUZYd.png",
+   "playerLabel": "SCTV7 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8"
+  },
+  {
+   "title": "SCTV9 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OJMbhow.png",
+   "playerLabel": "SCTV9 (720p)",
+   "action": "video:https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8"
+  },
+  {
+   "title": "Tay Ninh TV (720p)",
+   "titleFooter": "General",
+   "image": "https://tayninhtv.vn/static/images/logo.png",
+   "playerLabel": "Tay Ninh TV (720p)",
+   "action": "video:https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8"
+  },
+  {
+   "title": "Tea TV (720p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/WorbnyD.jpg",
+   "playerLabel": "Tea TV (720p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Thai Nguyen TV (720p)",
+   "titleFooter": "General",
+   "image": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",
+   "playerLabel": "Thai Nguyen TV (720p)",
+   "action": "video:https://streaming.thainguyentv.vn/hls/livestream.m3u8"
+  },
+  {
+   "title": "Tien Giang TV (540p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/yonKxgZ.png",
+   "playerLabel": "Tien Giang TV (540p)",
+   "action": "video:https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8"
+  },
+  {
+   "title": "Tra Vinh TV (1080p)",
+   "titleFooter": "Culture;Entertainment;Music;News",
+   "image": "https://i.imgur.com/F12VdKO.png",
+   "playerLabel": "Tra Vinh TV (1080p)",
+   "action": "video:https://freem3u.xyz/api/live/play.m3u8?vid=91"
+  },
+  {
+   "title": "TVB Vietnam (1080p)",
+   "titleFooter": "General",
+   "image": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg",
+   "playerLabel": "TVB Vietnam (1080p)",
+   "action": "video:https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8"
+  },
+  {
+   "title": "Uniquely Thai (720p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/cTSDB8O.png",
+   "playerLabel": "Uniquely Thai (720p)",
+   "action": "video:https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8"
+  },
+  {
+   "title": "VBS TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OkslYzP.png",
+   "playerLabel": "VBS TV (480p) [Not 24/7]",
+   "action": "video:https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8"
+  },
+  {
+   "title": "Vietnam Today (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xW9rY7s.png",
+   "playerLabel": "Vietnam Today (1080p)",
+   "action": "video:https://amagi-live.ondemandkorea.com/amgplt0456.m3u8"
+  },
+  {
+   "title": "Vinh Long TV 1 (720p)",
+   "titleFooter": "General;News",
+   "image": "https://i.imgur.com/5YFsqPx.png",
+   "playerLabel": "Vinh Long TV 1 (720p)",
+   "action": "video:https://dethich.pw/thvl1/index.m3u8"
+  },
+  {
+   "title": "Vinh Long TV 2 (1080p)",
+   "titleFooter": "Culture;Entertainment",
+   "image": "https://i.imgur.com/iluoazf.png",
+   "playerLabel": "Vinh Long TV 2 (1080p)",
+   "action": "video:https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8"
+  },
+  {
+   "title": "Vinh Long TV 3 (720p)",
+   "titleFooter": "Entertainment;Movies",
+   "image": "https://i.imgur.com/OQXEhqu.png",
+   "playerLabel": "Vinh Long TV 3 (720p)",
+   "action": "video:https://dethich.pw/thvl3/index.m3u8"
+  },
+  {
+   "title": "Vinh Long TV 4 (720p)",
+   "titleFooter": "Culture;Entertainment;Sports;Travel",
+   "image": "https://i.imgur.com/ARhIkvR.png",
+   "playerLabel": "Vinh Long TV 4 (720p)",
+   "action": "video:https://dethich.pw/thvl4/index.m3u8"
+  },
+  {
+   "title": "VTV1 HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/vZYlGIW.png",
+   "playerLabel": "VTV1 HD (1080p)",
+   "action": "video:https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8"
+  },
+  {
+   "title": "VTV10 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png",
+   "playerLabel": "VTV10 (1080p)",
+   "action": "video:https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8"
+  },
+  {
+   "title": "VTV2 HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/qWWpYRR.png",
+   "playerLabel": "VTV2 HD (1080p)",
+   "action": "video:https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8"
+  },
+  {
+   "title": "VTV3 HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/4lJG1fu.png",
+   "playerLabel": "VTV3 HD (1080p)",
+   "action": "video:https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8"
+  },
+  {
+   "title": "VTV4 HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/WsLLmR2.png",
+   "playerLabel": "VTV4 HD (1080p)",
+   "action": "video:https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8"
+  },
+  {
+   "title": "VTV5 HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Vnnna1C.png",
+   "playerLabel": "VTV5 HD (1080p)",
+   "action": "video:https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8"
+  },
+  {
+   "title": "VTV6 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
+   "playerLabel": "VTV6 (1080p)",
+   "action": "video:https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8"
+  },
+  {
+   "title": "VTV7 HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ZwoP823.png",
+   "playerLabel": "VTV7 HD (1080p)",
+   "action": "video:https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8"
+  },
+  {
+   "title": "VTV8 HD (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/rf9adGJ.png",
+   "playerLabel": "VTV8 HD (720p)",
+   "action": "video:https://dethich.pw/vtv8/index.m3u8"
+  },
+  {
+   "title": "VTV9 HD (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/QiY55sy.png",
+   "playerLabel": "VTV9 HD (1080p)",
+   "action": "video:https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8"
+  }
+ ]
+}

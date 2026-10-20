@@ -1,0 +1,567 @@
+{
+ "type": "list",
+ "headline": "Honduras (79)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Alfa & Omega Vision (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4BSKCQT.png",
+   "playerLabel": "Alfa & Omega Vision (480p) [Not 24/7]",
+   "action": "video:https://srv.panelcast.net/dorian/dorian/playlist.m3u8"
+  },
+  {
+   "title": "Alsacias Television (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SbuD1UW.png",
+   "playerLabel": "Alsacias Television (720p)",
+   "action": "video:https://s.emisoras.tv:8081/atv/index.m3u8"
+  },
+  {
+   "title": "Aviva TV (288p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/0jMM4TQ.png",
+   "playerLabel": "Aviva TV (288p) [Not 24/7]",
+   "action": "video:https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8"
+  },
+  {
+   "title": "AZA TV HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Jytpy32.png",
+   "playerLabel": "AZA TV HD (1080p)",
+   "action": "video:https://tv.webmedialive.com/azatvhn/live/playlist.m3u8"
+  },
+  {
+   "title": "Azteca Honduras (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sxFh1dw.png",
+   "playerLabel": "Azteca Honduras (720p)",
+   "action": "video:https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8"
+  },
+  {
+   "title": "Buendia TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/m5hNyNE.png",
+   "playerLabel": "Buendia TV",
+   "action": "video:https://servilive.com:3508/stream/play.m3u8"
+  },
+  {
+   "title": "Campus TV (480p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/E1TmADM.png",
+   "playerLabel": "Campus TV (480p) [Not 24/7]",
+   "action": "video:https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8"
+  },
+  {
+   "title": "Canal 11 (Honduras) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Sht2Rd4.png",
+   "playerLabel": "Canal 11 (Honduras) (1080p)",
+   "action": "video:http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8"
+  },
+  {
+   "title": "Canal 32 STO (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/dS4Gb0Q.jpg",
+   "playerLabel": "Canal 32 STO (720p) [Not 24/7]",
+   "action": "video:https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8"
+  },
+  {
+   "title": "Canal 5 El Lider (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4hEYFa9.png",
+   "playerLabel": "Canal 5 El Lider (720p)",
+   "action": "video:http://186.33.26.18:8000/play/a0s4/index.m3u8"
+  },
+  {
+   "title": "Canal 51",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xhVEEA1.png",
+   "playerLabel": "Canal 51",
+   "action": "video:https://live.cn51hn.com/live/cn51.m3u8"
+  },
+  {
+   "title": "Canal 7 Talanga Vision (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png",
+   "playerLabel": "Canal 7 Talanga Vision (720p)",
+   "action": "video:https://amixtv.com:8081/talangavision/index.m3u8"
+  },
+  {
+   "title": "CCI Channel (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/c6hm03f.png",
+   "playerLabel": "CCI Channel (1080p)",
+   "action": "video:https://livestream.mediacci.com/ccitv/index.m3u8"
+  },
+  {
+   "title": "Cholusat Sur 36 (214p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/6qL2hE5.png",
+   "playerLabel": "Cholusat Sur 36 (214p) [Not 24/7]",
+   "action": "video:http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8"
+  },
+  {
+   "title": "Choluteca TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/mpc4Isd.png",
+   "playerLabel": "Choluteca TV (1080p)",
+   "action": "video:https://s.emisoras.tv:8081/cholutecatv/index.m3u8"
+  },
+  {
+   "title": "CHTV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QLQgwc6.png",
+   "playerLabel": "CHTV (1080p)",
+   "action": "video:https://viewhn.com/chtv/live/playlist.m3u8"
+  },
+  {
+   "title": "CVA TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/R8P5enu.jpg",
+   "playerLabel": "CVA TV (480p) [Not 24/7]",
+   "action": "video:http://190.124.161.21:8086/cvatv/live.m3u8"
+  },
+  {
+   "title": "Deportes TVC (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/Y1t8xkL.png",
+   "playerLabel": "Deportes TVC (1080p)",
+   "action": "video:http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8"
+  },
+  {
+   "title": "Dios Te Ve (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/7hNwUV2.png",
+   "playerLabel": "Dios Te Ve (720p)",
+   "action": "video:https://s.emisoras.tv:8081/diostevetv/index.m3u8"
+  },
+  {
+   "title": "Dios Te Ve Kids (720p)",
+   "titleFooter": "Kids;Religious",
+   "image": "https://i.imgur.com/GnZicVH.png",
+   "playerLabel": "Dios Te Ve Kids (720p)",
+   "action": "video:https://s.emisoras.tv:8081/diostevekids/index.m3u8"
+  },
+  {
+   "title": "Dios Tv Talanga (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/mb8F7R1/Db52f621d30793337de1cdcfc4f02be1.png",
+   "playerLabel": "Dios Tv Talanga (1080p)",
+   "action": "video:https://tv.webmedialive.com/unciontv/live/playlist.m3u8"
+  },
+  {
+   "title": "Ebenezer TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/IC30j61.png",
+   "playerLabel": "Ebenezer TV (1080p)",
+   "action": "video:https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8"
+  },
+  {
+   "title": "EDN TV (1080p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/5fPsYTz.png",
+   "playerLabel": "EDN TV (1080p) [Not 24/7]",
+   "action": "video:https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8"
+  },
+  {
+   "title": "Girasol TV (1080i)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/2t7A2yg.png",
+   "playerLabel": "Girasol TV (1080i)",
+   "action": "video:https://s.emisoras.tv:8081/girasoltv/index.m3u8"
+  },
+  {
+   "title": "Globo TV (Honduras)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hxGvZ77.png",
+   "playerLabel": "Globo TV (Honduras)",
+   "action": "video:https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8"
+  },
+  {
+   "title": "Guayape TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/cteBdAJ.jpg",
+   "playerLabel": "Guayape TV",
+   "action": "video:https://tv.bitstreaming.net:8443/live/guayapetv.m3u8"
+  },
+  {
+   "title": "HCH (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/2CB5ezq.png",
+   "playerLabel": "HCH (720p)",
+   "action": "video:https://live.streamhch.com/live/streams/hch1.m3u8"
+  },
+  {
+   "title": "ICN Digital",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/UCZVQgj.png",
+   "playerLabel": "ICN Digital",
+   "action": "video:https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8"
+  },
+  {
+   "title": "Imagen FM 105.1 (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
+   "playerLabel": "Imagen FM 105.1 (720p) [Not 24/7]",
+   "action": "video:https://streaming.imagenfm105-1.com/hls/stream.m3u8"
+  },
+  {
+   "title": "Inmaculada TV (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/2lisFJV.png",
+   "playerLabel": "Inmaculada TV (720p) [Not 24/7]",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8"
+  },
+  {
+   "title": "JBN TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/4EbHIvf.png",
+   "playerLabel": "JBN TV (1080p)",
+   "action": "video:https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8"
+  },
+  {
+   "title": "Jehova TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/ylZKG57.png",
+   "playerLabel": "Jehova TV",
+   "action": "video:https://mp.panelchs.com:1936/8038/8038/playlist.m3u8"
+  },
+  {
+   "title": "JEMR TV (1080p) [Geo-blocked]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/CnR2m66.png",
+   "playerLabel": "JEMR TV (1080p) [Geo-blocked]",
+   "action": "video:https://tv.webmedialive.com/jmrtv/live/playlist.m3u8"
+  },
+  {
+   "title": "Kerusso TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/S79uof0.png",
+   "playerLabel": "Kerusso TV (720p)",
+   "action": "video:https://s.emisoras.tv:8081/kerussotv/index.m3u8"
+  },
+  {
+   "title": "La 98.1 TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/7380kTN.png",
+   "playerLabel": "La 98.1 TV (720p) [Not 24/7]",
+   "action": "video:https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8"
+  },
+  {
+   "title": "La Top 102.9 (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/ZqwLPag.jpg",
+   "playerLabel": "La Top 102.9 (720p)",
+   "action": "video:https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8"
+  },
+  {
+   "title": "La Top 107.7 (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/vgHhh1W.jpg",
+   "playerLabel": "La Top 107.7 (720p)",
+   "action": "video:https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8"
+  },
+  {
+   "title": "Lenca TV (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/fc5IHSy.png",
+   "playerLabel": "Lenca TV (720p) [Not 24/7]",
+   "action": "video:https://lencatelevision.com/hls/stream.m3u8"
+  },
+  {
+   "title": "Litoral Atlantico HD (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/UXsgEPX.png",
+   "playerLabel": "Litoral Atlantico HD (720p)",
+   "action": "video:https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8"
+  },
+  {
+   "title": "LTV (Honduras) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KBYUOcP.png",
+   "playerLabel": "LTV (Honduras) (720p) [Not 24/7]",
+   "action": "video:https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8"
+  },
+  {
+   "title": "Mas Noticias Television (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/FG4nfRX.jpg",
+   "playerLabel": "Mas Noticias Television (720p)",
+   "action": "video:https://www.amixtv.com:8081/mntvh/index.m3u8"
+  },
+  {
+   "title": "Maya TV",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png",
+   "playerLabel": "Maya TV",
+   "action": "video:https://media.streambrothers.com:19360/8036/8036.m3u8"
+  },
+  {
+   "title": "Metro TV (Honduras) (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/BqS8BHi.png",
+   "playerLabel": "Metro TV (Honduras) (720p)",
+   "action": "video:https://s.emisoras.tv:8081/metrotv/index.m3u8"
+  },
+  {
+   "title": "Picosa TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/AGFeu7r.png",
+   "playerLabel": "Picosa TV (720p)",
+   "action": "video:http://45.167.2.101:8000/play/a0sd/index.m3u8"
+  },
+  {
+   "title": "Puringla TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CGyjxPO.jpg",
+   "playerLabel": "Puringla TV",
+   "action": "video:https://stmv2.srvif.com/puringla/puringla/playlist.m3u8"
+  },
+  {
+   "title": "Q'hubo TV (410p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/yZmnfvj.png",
+   "playerLabel": "Q'hubo TV (410p) [Not 24/7]",
+   "action": "video:https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8"
+  },
+  {
+   "title": "Radio Fiesta de Milagros TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/hqYPAYL.png",
+   "playerLabel": "Radio Fiesta de Milagros TV (1080p)",
+   "action": "video:https://tv.webmedialive.com/fiestatv/live/playlist.m3u8"
+  },
+  {
+   "title": "Radio Ideal (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/chPfoOs.png",
+   "playerLabel": "Radio Ideal (720p) [Not 24/7]",
+   "action": "video:https://www.idealfm104-7.com/hls/0/stream.m3u8"
+  },
+  {
+   "title": "Radio Omega TV (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+   "playerLabel": "Radio Omega TV (720p) [Not 24/7]",
+   "action": "video:https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
+  },
+  {
+   "title": "RCV TV (712p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/0TEeEFG.jpg",
+   "playerLabel": "RCV TV (712p)",
+   "action": "video:https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8"
+  },
+  {
+   "title": "RSV Honduras (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/yr7Ellh.jpg",
+   "playerLabel": "RSV Honduras (720p)",
+   "action": "video:https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8"
+  },
+  {
+   "title": "San Ignacio TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/XJNGsv0/903784d2b8df3f29a43579b78d4341d3.png",
+   "playerLabel": "San Ignacio TV (720p)",
+   "action": "video:https://amixtv.live:3753/live/sitvlive.m3u8"
+  },
+  {
+   "title": "Sercano TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg",
+   "playerLabel": "Sercano TV (720p) [Not 24/7]",
+   "action": "video:http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8"
+  },
+  {
+   "title": "STVE Telebasica (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/nUsq67m.png",
+   "playerLabel": "STVE Telebasica (1080p)",
+   "action": "video:https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8"
+  },
+  {
+   "title": "Sula TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/v90r5jS.png",
+   "playerLabel": "Sula TV (1080p)",
+   "action": "video:https://tv.webmedialive.com/sulatv/live/playlist.m3u8"
+  },
+  {
+   "title": "Suyapa TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/I7GuToz.png",
+   "playerLabel": "Suyapa TV (1080p)",
+   "action": "video:https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8"
+  },
+  {
+   "title": "Talanga TV Canal 39 (480p) [Not 24/7]",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/5GiUzHC.jpg",
+   "playerLabel": "Talanga TV Canal 39 (480p) [Not 24/7]",
+   "action": "video:https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8"
+  },
+  {
+   "title": "TDV TV (240p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/C2mr74y/Ee0f72e3708fb045177dd894cc93ae99.png",
+   "playerLabel": "TDV TV (240p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8"
+  },
+  {
+   "title": "Telavision (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/vzjqAZh.jpg",
+   "playerLabel": "Telavision (720p)",
+   "action": "video:https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8"
+  },
+  {
+   "title": "Telecadena 7 y 4 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PTN7fCa.png",
+   "playerLabel": "Telecadena 7 y 4 (576p)",
+   "action": "video:http://45.167.2.101:8000/play/a07n/index.m3u8"
+  },
+  {
+   "title": "Teleceiba (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/oPSfsvy.png",
+   "playerLabel": "Teleceiba (1080p)",
+   "action": "video:http://45.238.141.222:8000/play/a0pf/index.m3u8"
+  },
+  {
+   "title": "TeleDanli (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/BACuUSc.png",
+   "playerLabel": "TeleDanli (720p) [Not 24/7]",
+   "action": "video:https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8"
+  },
+  {
+   "title": "Telemas (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/eORs1yt.jpg",
+   "playerLabel": "Telemas (1080p)",
+   "action": "video:https://s.emisoras.tv:8081/telemas/index.m3u8"
+  },
+  {
+   "title": "Telerayo (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/jLQsU1u.png",
+   "playerLabel": "Telerayo (1080p)",
+   "action": "video:https://s.emisoras.tv:8081/telerayo/index.m3u8"
+  },
+  {
+   "title": "Television Comayagua Canal 40 (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/uDLhsDM.png",
+   "playerLabel": "Television Comayagua Canal 40 (720p) [Not 24/7]",
+   "action": "video:https://mediacp.us:8081/8034/index.m3u8"
+  },
+  {
+   "title": "Television Metropolis 19.1 (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/X5C1GzB.png",
+   "playerLabel": "Television Metropolis 19.1 (1080p) [Not 24/7]",
+   "action": "video:https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
+  },
+  {
+   "title": "Television Metropolis 19.2 (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QaocW5x.png",
+   "playerLabel": "Television Metropolis 19.2 (1080p) [Not 24/7]",
+   "action": "video:https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
+  },
+  {
+   "title": "Television Olanchana (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8LnLEQz.png",
+   "playerLabel": "Television Olanchana (1080p)",
+   "action": "video:https://viewhn.com/canal30/live/playlist.m3u8"
+  },
+  {
+   "title": "TEN Canal 10 (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/HQiKyHy.jpg",
+   "playerLabel": "TEN Canal 10 (720p) [Not 24/7]",
+   "action": "video:https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8"
+  },
+  {
+   "title": "Tigo Sports (Honduras) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+   "playerLabel": "Tigo Sports (Honduras) (1080p)",
+   "action": "video:http://168.196.127.137:6001/play/a0ay/index.m3u8"
+  },
+  {
+   "title": "TSi",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/GEyxDnf.png",
+   "playerLabel": "TSi",
+   "action": "video:http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8"
+  },
+  {
+   "title": "TV Centro 27.2 HD (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/Wo2scQf.jpg",
+   "playerLabel": "TV Centro 27.2 HD (720p)",
+   "action": "video:https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
+  },
+  {
+   "title": "TV Centro HD (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/bcfmqHb.png",
+   "playerLabel": "TV Centro HD (720p)",
+   "action": "video:https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8"
+  },
+  {
+   "title": "TV Copan (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/JiPmRFr.png",
+   "playerLabel": "TV Copan (720p) [Not 24/7]",
+   "action": "video:https://s.emisoras.tv:8081/tvcopan/index.m3u8"
+  },
+  {
+   "title": "TV Estrella (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/QqSR7l7.png",
+   "playerLabel": "TV Estrella (720p)",
+   "action": "video:https://s.emisoras.tv:8081/tve/index.m3u8"
+  },
+  {
+   "title": "UNAH UTV (360p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/GhzaYbK.png",
+   "playerLabel": "UNAH UTV (360p) [Not 24/7]",
+   "action": "video:https://live-utv.unah.edu.hn/web/salida.m3u8"
+  },
+  {
+   "title": "UNE TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/V9Fpd3Y.png",
+   "playerLabel": "UNE TV (720p)",
+   "action": "video:https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "VTV (Honduras) (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CsPkwD5.png",
+   "playerLabel": "VTV (Honduras) (480p) [Not 24/7]",
+   "action": "video:https://d3q93l5bumjyoq.cloudfront.net/index.m3u8"
+  },
+  {
+   "title": "Waldivision Internacional",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NB8pfpb.png",
+   "playerLabel": "Waldivision Internacional",
+   "action": "video:https://media.streambrothers.com:19360/8308/8308.m3u8"
+  }
+ ]
+}

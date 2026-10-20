@@ -1,0 +1,35 @@
+{
+ "type": "list",
+ "headline": "San Marino (3)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "FIFA+ Italy (720p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+   "playerLabel": "FIFA+ Italy (720p)",
+   "action": "video:https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8"
+  },
+  {
+   "title": "San Marino RTV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ZJSWusT.png",
+   "playerLabel": "San Marino RTV (720p)",
+   "action": "video:https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8"
+  },
+  {
+   "title": "San Marino RTV Sport (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/PGm944g.png",
+   "playerLabel": "San Marino RTV Sport (720p)",
+   "action": "video:https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
+  }
+ ]
+}

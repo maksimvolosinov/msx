@@ -1,0 +1,35 @@
+{
+ "type": "list",
+ "headline": "North Korea (3)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Korean Central Television (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/p02AEOF.png",
+   "playerLabel": "Korean Central Television (1080p) [Not 24/7]",
+   "action": "video:https://live.koryocdn.org/kctv/index.m3u8"
+  },
+  {
+   "title": "Ryongnamsan Television (720p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/1BHJjY4.png",
+   "playerLabel": "Ryongnamsan Television (720p) [Not 24/7]",
+   "action": "video:https://live.koryocdn.org/ryongnamsan/index.m3u8"
+  },
+  {
+   "title": "Sports Television (720p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/HvFpGeH.png",
+   "playerLabel": "Sports Television (720p) [Not 24/7]",
+   "action": "video:https://live.koryocdn.org/sports/index.m3u8"
+  }
+ ]
+}

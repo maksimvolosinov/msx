@@ -1,0 +1,91 @@
+{
+ "type": "list",
+ "headline": "Maldives (11)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Channel 13 (Maldives)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/lR5jUSU.jpeg",
+   "playerLabel": "Channel 13 (Maldives)",
+   "action": "video:https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8"
+  },
+  {
+   "title": "Disney International HD (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
+   "playerLabel": "Disney International HD (576p)",
+   "action": "video:http://103.151.60.162:2122/play/a018/index.m3u8?hls"
+  },
+  {
+   "title": "Maldives TV (720p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/Zl2FmFC.png",
+   "playerLabel": "Maldives TV (720p)",
+   "action": "video:https://lana.psm.mv/live/mtv.m3u8"
+  },
+  {
+   "title": "MMTV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/21tpl5b.png",
+   "playerLabel": "MMTV (1080p)",
+   "action": "video:https://sendlive.online/hls/mmtv.m3u8"
+  },
+  {
+   "title": "Munnaaru",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Adhr5xq.png",
+   "playerLabel": "Munnaaru",
+   "action": "video:https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8"
+  },
+  {
+   "title": "NTV (Maldives)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jnXpcwV.png",
+   "playerLabel": "NTV (Maldives)",
+   "action": "video:https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8"
+  },
+  {
+   "title": "PSM News",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/mGuBbPv.png",
+   "playerLabel": "PSM News",
+   "action": "video:https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8"
+  },
+  {
+   "title": "Raajje TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QxdkiCZ.png",
+   "playerLabel": "Raajje TV",
+   "action": "video:https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8"
+  },
+  {
+   "title": "TV Maldives",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/1c7rFKC.png",
+   "playerLabel": "TV Maldives",
+   "action": "video:https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8"
+  },
+  {
+   "title": "VTV (Maldives)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/6bY9Umo.png",
+   "playerLabel": "VTV (Maldives)",
+   "action": "video:https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8"
+  },
+  {
+   "title": "YES",
+   "titleFooter": "Culture;Entertainment;Sports",
+   "image": "https://i.imgur.com/HARIGQl.png",
+   "playerLabel": "YES",
+   "action": "video:https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "type": "list",
+ "headline": "Taiwan (28)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "AXN Asia Taiwan (1080p)",
+   "titleFooter": "Movies;Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+   "playerLabel": "AXN Asia Taiwan (1080p)",
+   "action": "video:http://125.227.210.55:4050/VideoInput/play.ts"
+  },
+  {
+   "title": "Beautiful Life TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/hkwcBM9.png",
+   "playerLabel": "Beautiful Life TV",
+   "action": "video:https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+  },
+  {
+   "title": "CGNTV Chinese (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/bPoPAbR.png",
+   "playerLabel": "CGNTV Chinese (1080p)",
+   "action": "video:https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8"
+  },
+  {
+   "title": "CTi Variety (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/tqsKObw.png",
+   "playerLabel": "CTi Variety (720p)",
+   "action": "video:http://23.237.10.66:16372"
+  },
+  {
+   "title": "CTS (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",
+   "playerLabel": "CTS (1080p)",
+   "action": "video:rtmp://59.124.75.138:1935/sat/tv111"
+  },
+  {
+   "title": "CTS News [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/V1EVtRm.png",
+   "playerLabel": "CTS News [Geo-blocked]",
+   "action": "video:http://seb.sason.top/sc/hsxw_fhd.m3u8"
+  },
+  {
+   "title": "DaAi 1 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KdJi9af.png",
+   "playerLabel": "DaAi 1 (720p)",
+   "action": "video:https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+  },
+  {
+   "title": "DaAi 2 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KdJi9af.png",
+   "playerLabel": "DaAi 2 (1080p)",
+   "action": "video:http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8"
+  },
+  {
+   "title": "Dali TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pFIMLsA.png",
+   "playerLabel": "Dali TV (720p)",
+   "action": "video:http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+  },
+  {
+   "title": "Discovery Asia Taiwan (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/foLICwL.png",
+   "playerLabel": "Discovery Asia Taiwan (1080p)",
+   "action": "video:http://125.227.210.55:1004/VideoInput/play.ts"
+  },
+  {
+   "title": "EBC Financial News (1080p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/uFDkOhV.png",
+   "playerLabel": "EBC Financial News (1080p) [Not 24/7]",
+   "action": "video:http://seb.sason.top/sc/dscjxw_fhd.m3u8"
+  },
+  {
+   "title": "EBC News (1080p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/QFZs80p.png",
+   "playerLabel": "EBC News (1080p) [Not 24/7]",
+   "action": "video:http://seb.sason.top/sc/dsxw_fhd.m3u8"
+  },
+  {
+   "title": "FTV (Taiwan) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/q8ahtbT.png",
+   "playerLabel": "FTV (Taiwan) (720p) [Not 24/7]",
+   "action": "video:http://seb.sason.top/ptv/ftv.php?id=ms"
+  },
+  {
+   "title": "FTV One (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HBT2o0I.png",
+   "playerLabel": "FTV One (720p) [Not 24/7]",
+   "action": "video:http://seb.sason.top/ptv/ftv.php?id=dy"
+  },
+  {
+   "title": "Good 2 (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/YxFRoft.png",
+   "playerLabel": "Good 2 (720p)",
+   "action": "video:https://live.streamingfast.net/osmflivech2.m3u8"
+  },
+  {
+   "title": "Good TV (Taiwan) (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/k28Kc3o.png",
+   "playerLabel": "Good TV (Taiwan) (720p) [Not 24/7]",
+   "action": "video:https://live.streamingfast.net/osmflivech1.m3u8"
+  },
+  {
+   "title": "Hakka TV",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/1CdGSbU.png",
+   "playerLabel": "Hakka TV",
+   "action": "video:https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8"
+  },
+  {
+   "title": "HBO Asia Taiwan (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+   "playerLabel": "HBO Asia Taiwan (1080p)",
+   "action": "video:http://125.227.210.55:1003/VideoInput/play.ts"
+  },
+  {
+   "title": "Indigenous TV (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/vmk4F9u.png",
+   "playerLabel": "Indigenous TV (720p)",
+   "action": "video:http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8"
+  },
+  {
+   "title": "MOMO TV (1080p)",
+   "titleFooter": "Shop",
+   "image": "https://m.momoshop.com.tw/img/message.png",
+   "playerLabel": "MOMO TV (1080p)",
+   "action": "video:http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8"
+  },
+  {
+   "title": "NTD TV Asia-Pacific",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iyFXcDy.png",
+   "playerLabel": "NTD TV Asia-Pacific",
+   "action": "video:https://live.ntdtv.com/aplive200/playlist.m3u8"
+  },
+  {
+   "title": "SET News (1080p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/EGVbAvJ.png",
+   "playerLabel": "SET News (1080p) [Geo-blocked]",
+   "action": "video:http://seb.sason.top/sc/sllive_fhd.m3u8"
+  },
+  {
+   "title": "Supreme Master TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/kFMHayP.png",
+   "playerLabel": "Supreme Master TV (720p)",
+   "action": "video:https://lbs-us1.suprememastertv.com/720p.m3u8"
+  },
+  {
+   "title": "Taiwan Indigenous TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QqIdVqz.png",
+   "playerLabel": "Taiwan Indigenous TV (720p)",
+   "action": "video:https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
+  },
+  {
+   "title": "TTV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png",
+   "playerLabel": "TTV (720p)",
+   "action": "video:http://162.19.247.76:22222/live/taishi/index.m3u8"
+  },
+  {
+   "title": "TVBS News [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/171lwfg.png",
+   "playerLabel": "TVBS News [Geo-blocked]",
+   "action": "video:http://seb.sason.top/sc/tvbsxw_fhd.m3u8"
+  },
+  {
+   "title": "TVBS-Asia (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/4S1rkhm.png",
+   "playerLabel": "TVBS-Asia (1080p)",
+   "action": "video:http://38.64.72.148/hls/modn/list/4005/playlist.m3u8"
+  },
+  {
+   "title": "WXTV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/s8tiTeb.png",
+   "playerLabel": "WXTV (480p)",
+   "action": "video:https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
+  }
+ ]
+}

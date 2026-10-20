@@ -1,0 +1,336 @@
+{
+ "type": "list",
+ "headline": "Kazakhstan (46)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "24KZ (576p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png",
+   "playerLabel": "24KZ (576p)",
+   "action": "video:https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "31 Kanal (576p)",
+   "titleFooter": "General",
+   "image": "https://31.kz/noimage.png",
+   "playerLabel": "31 Kanal (576p)",
+   "action": "video:http://stream.mcquack.net/388/index.m3u8"
+  },
+  {
+   "title": "Abai TV (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/Nw2R7Dq.png",
+   "playerLabel": "Abai TV (720p)",
+   "action": "video:https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
+  },
+  {
+   "title": "Alau TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/gK6ZRzp.png",
+   "playerLabel": "Alau TV (576p)",
+   "action": "video:https://otv.wotom.net/alau/stream.m3u8"
+  },
+  {
+   "title": "Almaty TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Mjqwt8C.png",
+   "playerLabel": "Almaty TV (576p)",
+   "action": "video:https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Aqjaiyq (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ZqIzzmf.png",
+   "playerLabel": "Aqjaiyq (576p)",
+   "action": "video:https://stream.kaztrk.kz/regional/oraltv/index.m3u8"
+  },
+  {
+   "title": "Aqtobe (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/csKl1z6.png",
+   "playerLabel": "Aqtobe (576p)",
+   "action": "video:https://stream.kaztrk.kz/regional/aktobetv/index.m3u8"
+  },
+  {
+   "title": "Astana TV (576p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Astana_TV_Logo.png",
+   "playerLabel": "Astana TV (576p)",
+   "action": "video:http://stream.mcquack.net/28/index.m3u8"
+  },
+  {
+   "title": "Atameken Business (576p)",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/CfRvm8i.png",
+   "playerLabel": "Atameken Business (576p)",
+   "action": "video:https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Atyray (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kva4O3T.png",
+   "playerLabel": "Atyray (720p)",
+   "action": "video:https://stream.kaztrk.kz/regional/atyrautv/index.m3u8"
+  },
+  {
+   "title": "Balapan (576p)",
+   "titleFooter": "Kids",
+   "image": "https://vote.rtrk.kz/img/balapan-logo.png",
+   "playerLabel": "Balapan (576p)",
+   "action": "video:https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Balapan HD (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://vote.rtrk.kz/img/balapan-logo.png",
+   "playerLabel": "Balapan HD (1080p)",
+   "action": "video:https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+  },
+  {
+   "title": "Balapan International (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
+   "playerLabel": "Balapan International (1080p)",
+   "action": "video:https://live-3.otcnet.ru/Balapan/index.m3u8"
+  },
+  {
+   "title": "Channel 7 (Kazakhstan) (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/LebKU09.png",
+   "playerLabel": "Channel 7 (Kazakhstan) (576p)",
+   "action": "video:http://stream.mcquack.net/27/index.m3u8"
+  },
+  {
+   "title": "Channel One Eurasia (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/vm5sJHP.png",
+   "playerLabel": "Channel One Eurasia (576p)",
+   "action": "video:https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Ertis (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/tghMiwW.png",
+   "playerLabel": "Ertis (1080p) [Not 24/7]",
+   "action": "video:https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8"
+  },
+  {
+   "title": "Jambyl (360p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/X7N3JK4.png",
+   "playerLabel": "Jambyl (360p) [Not 24/7]",
+   "action": "video:https://stream.kaztrk.kz/regional/taraztv/index.m3u8"
+  },
+  {
+   "title": "Jibek Joly (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SqyXtgK.png",
+   "playerLabel": "Jibek Joly (576p)",
+   "action": "video:https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Jibek Joly HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SqyXtgK.png",
+   "playerLabel": "Jibek Joly HD (1080p)",
+   "action": "video:https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8"
+  },
+  {
+   "title": "Khabar (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xG3HxId.png",
+   "playerLabel": "Khabar (576p)",
+   "action": "video:https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "KinoBoevik (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png",
+   "playerLabel": "KinoBoevik (1080p)",
+   "action": "video:https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Kokshe (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pOR3FSR.png",
+   "playerLabel": "Kokshe (720p) [Not 24/7]",
+   "action": "video:https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8"
+  },
+  {
+   "title": "KTK (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/BurrNTo.png",
+   "playerLabel": "KTK (576p)",
+   "action": "video:http://stream.mcquack.net/26/index.m3u8"
+  },
+  {
+   "title": "KTK HD (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/BurrNTo.png",
+   "playerLabel": "KTK HD (720p) [Not 24/7]",
+   "action": "video:http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
+  },
+  {
+   "title": "Mangystay (540p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9JfLseu.png",
+   "playerLabel": "Mangystay (540p) [Not 24/7]",
+   "action": "video:https://stream.kaztrk.kz/regional/mangystautv/index.m3u8"
+  },
+  {
+   "title": "Mirovoe kino (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_65c24031d8bec399a7aa2226.png",
+   "playerLabel": "Mirovoe kino (1080p)",
+   "action": "video:https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "MTRK (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XMyRwDk.png",
+   "playerLabel": "MTRK (576p)",
+   "action": "video:https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8"
+  },
+  {
+   "title": "Novoe televidenie (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mmKWrWs.png",
+   "playerLabel": "Novoe televidenie (576p)",
+   "action": "video:https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "NTK (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hHSCH4L.png",
+   "playerLabel": "NTK (576p)",
+   "action": "video:http://stream.mcquack.net/389/index.m3u8"
+  },
+  {
+   "title": "Ontustik (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xqr1hjN.png",
+   "playerLabel": "Ontustik (360p)",
+   "action": "video:https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8"
+  },
+  {
+   "title": "Qazaqstan (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/oI8g396.png",
+   "playerLabel": "Qazaqstan (576p)",
+   "action": "video:https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Qazaqstan HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/oI8g396.png",
+   "playerLabel": "Qazaqstan HD (1080p)",
+   "action": "video:http://stream.mcquack.net/71/index.m3u8"
+  },
+  {
+   "title": "Qazaqstan International",
+   "titleFooter": "General",
+   "image": "https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=",
+   "playerLabel": "Qazaqstan International",
+   "action": "video:https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "QazSport (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/UDJ0P5Q.png",
+   "playerLabel": "QazSport (1080p)",
+   "action": "video:http://stream.mcquack.net/72/index.m3u8"
+  },
+  {
+   "title": "Qonaev Media",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/JLlqgdp.png",
+   "playerLabel": "Qonaev Media",
+   "action": "video:https://s.qonaevtv.kz/live/qonaev/playlist.m3u8"
+  },
+  {
+   "title": "Qostanai (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/eOz4xJ8.png",
+   "playerLabel": "Qostanai (576p) [Not 24/7]",
+   "action": "video:https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8"
+  },
+  {
+   "title": "Qyzyljar (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7l1WSDJ.png",
+   "playerLabel": "Qyzyljar (720p)",
+   "action": "video:https://stream.kaztrk.kz/regional/petropavltv/index.m3u8"
+  },
+  {
+   "title": "Qyzylorda (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/r4BFQpE.png",
+   "playerLabel": "Qyzylorda (720p)",
+   "action": "video:https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8"
+  },
+  {
+   "title": "Rika TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KJHWZ3B.png",
+   "playerLabel": "Rika TV (480p)",
+   "action": "video:https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Saryarqa (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EIXwi1c.png",
+   "playerLabel": "Saryarqa (720p) [Not 24/7]",
+   "action": "video:https://stream.kaztrk.kz/regional/karagandytv/index.m3u8"
+  },
+  {
+   "title": "Silk Way (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SJNDksF.png",
+   "playerLabel": "Silk Way (1080p)",
+   "action": "video:https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8"
+  },
+  {
+   "title": "Silk Way Cinema (1080p) [Geo-blocked]",
+   "titleFooter": "Movies",
+   "image": "https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png",
+   "playerLabel": "Silk Way Cinema (1080p) [Geo-blocked]",
+   "action": "video:https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8"
+  },
+  {
+   "title": "Sport+ Qazaqstan (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/vIV7x6n.png",
+   "playerLabel": "Sport+ Qazaqstan (1080p)",
+   "action": "video:https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "TDK 42",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/iVhdcS7.png",
+   "playerLabel": "TDK 42",
+   "action": "video:https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8"
+  },
+  {
+   "title": "Turan TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/VagTPMo.png",
+   "playerLabel": "Turan TV (576p)",
+   "action": "video:https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv"
+  },
+  {
+   "title": "Ulytau",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jTL6TvC.png",
+   "playerLabel": "Ulytau",
+   "action": "video:https://ulytau.tv/hls/master.m3u8"
+  }
+ ]
+}

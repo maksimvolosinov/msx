@@ -1,0 +1,119 @@
+{
+ "type": "list",
+ "headline": "Cameroon (15)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Afrique54 TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/WIaRpiS.png",
+   "playerLabel": "Afrique54 TV (720p)",
+   "action": "video:https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8"
+  },
+  {
+   "title": "Allo Cine (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg",
+   "playerLabel": "Allo Cine (1080p)",
+   "action": "video:https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8"
+  },
+  {
+   "title": "Balafon TV [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/EqOzhYw.png",
+   "playerLabel": "Balafon TV [Geo-blocked]",
+   "action": "video:https://broadcasting-channels.com:9044/hls/test.m3u8"
+  },
+  {
+   "title": "CAM 10 TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xspb9uY.png",
+   "playerLabel": "CAM 10 TV (720p)",
+   "action": "video:https://stream.it-innov.com/cam10tv/index.m3u8"
+  },
+  {
+   "title": "CRTV (Cameroon) (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/cQWNh3L.png",
+   "playerLabel": "CRTV (Cameroon) (576p)",
+   "action": "video:http://145.239.5.177/147/index.m3u8"
+  },
+  {
+   "title": "CRTV News",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/5CshVf9.png",
+   "playerLabel": "CRTV News",
+   "action": "video:https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8"
+  },
+  {
+   "title": "For You TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/1oMboXL.png",
+   "playerLabel": "For You TV",
+   "action": "video:https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8"
+  },
+  {
+   "title": "Kemet TV",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/NZ0YqOb.jpeg",
+   "playerLabel": "Kemet TV",
+   "action": "video:https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8"
+  },
+  {
+   "title": "Laura Dave Media TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zzG1S2n.png",
+   "playerLabel": "Laura Dave Media TV (720p)",
+   "action": "video:https://streaming.lauradavemedia.com/ldm/index.m3u8"
+  },
+  {
+   "title": "My Righteous TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/wKSLNHB.png",
+   "playerLabel": "My Righteous TV",
+   "action": "video:https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8"
+  },
+  {
+   "title": "My TV Channel (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/vh2373L.png",
+   "playerLabel": "My TV Channel (720p) [Not 24/7]",
+   "action": "video:http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8"
+  },
+  {
+   "title": "Panafrican Media TV (480p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/wneSSYM.png",
+   "playerLabel": "Panafrican Media TV (480p)",
+   "action": "video:https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8"
+  },
+  {
+   "title": "Play TV (Cameroon) (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/1dmBqpf.png",
+   "playerLabel": "Play TV (Cameroon) (720p) [Not 24/7]",
+   "action": "video:http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8"
+  },
+  {
+   "title": "PLEX TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/H4VktvG/Plex-TV-237.jpg",
+   "playerLabel": "PLEX TV",
+   "action": "video:http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8"
+  },
+  {
+   "title": "TR24 Television (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+   "playerLabel": "TR24 Television (720p)",
+   "action": "video:https://stream.it-innov.com/tr24/index.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "type": "list",
+ "headline": "Sint Maarten (6)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "98.1 Pearl FM (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/GY750xh.jpg",
+   "playerLabel": "98.1 Pearl FM (720p)",
+   "action": "video:https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
+  },
+  {
+   "title": "TVCARiB (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/fvGlwKo.png",
+   "playerLabel": "TVCARiB (720p) [Not 24/7]",
+   "action": "video:https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8"
+  },
+  {
+   "title": "TVCARiB Cinema (720p) [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/fvGlwKo.png",
+   "playerLabel": "TVCARiB Cinema (720p) [Not 24/7]",
+   "action": "video:https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8"
+  },
+  {
+   "title": "TVCARiB Gospel (480p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/fvGlwKo.png",
+   "playerLabel": "TVCARiB Gospel (480p) [Not 24/7]",
+   "action": "video:https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8"
+  },
+  {
+   "title": "TVCARiB Kids & Teens (720p) [Not 24/7]",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/fvGlwKo.png",
+   "playerLabel": "TVCARiB Kids & Teens (720p) [Not 24/7]",
+   "action": "video:https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
+  },
+  {
+   "title": "TVCARiB Latino (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/fvGlwKo.png",
+   "playerLabel": "TVCARiB Latino (720p) [Not 24/7]",
+   "action": "video:https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8"
+  }
+ ]
+}

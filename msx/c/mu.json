@@ -1,0 +1,28 @@
+{
+ "type": "list",
+ "headline": "Mauritius (2)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Antenne Reunion (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EPIMMaB.png",
+   "playerLabel": "Antenne Reunion (720p) [Not 24/7]",
+   "action": "video:https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
+  },
+  {
+   "title": "Nickelodeon Junior (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+   "playerLabel": "Nickelodeon Junior (1080p)",
+   "action": "video:http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
+  }
+ ]
+}

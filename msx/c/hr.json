@@ -1,0 +1,175 @@
+{
+ "type": "list",
+ "headline": "Croatia (23)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Bravo! Kids TV",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/JcJ6fQ9.png",
+   "playerLabel": "Bravo! Kids TV",
+   "action": "video:https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8"
+  },
+  {
+   "title": "CMC TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/FCb7Ag2.png",
+   "playerLabel": "CMC TV (1080p)",
+   "action": "video:https://stream.cmctv.hr:49998/cmc/live.m3u8"
+  },
+  {
+   "title": "Diadora TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/qZzsASl.png",
+   "playerLabel": "Diadora TV",
+   "action": "video:https://diadoratv.stream/live/diadora/playlist.m3u8"
+  },
+  {
+   "title": "HRT 1 HD (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/lDSctzX.png",
+   "playerLabel": "HRT 1 HD (1080p) [Geo-blocked]",
+   "action": "video:https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd"
+  },
+  {
+   "title": "HRT 2 HD (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yyePcl1.png",
+   "playerLabel": "HRT 2 HD (1080p) [Geo-blocked]",
+   "action": "video:https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd"
+  },
+  {
+   "title": "HRT 3 HD (720p) [Geo-blocked]",
+   "titleFooter": "Culture;Documentary",
+   "image": "https://i.imgur.com/4OrOJRx.png",
+   "playerLabel": "HRT 3 HD (720p) [Geo-blocked]",
+   "action": "video:https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd"
+  },
+  {
+   "title": "HRT 4 HD (720p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/VcNrY0m.png",
+   "playerLabel": "HRT 4 HD (720p) [Geo-blocked]",
+   "action": "video:https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd"
+  },
+  {
+   "title": "Klape i Tambure TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/sKj3dgc.png",
+   "playerLabel": "Klape i Tambure TV (1080p)",
+   "action": "video:https://stream.cmctv.hr:49998/kit/live.m3u8"
+  },
+  {
+   "title": "Klasik (576p) [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/C90BYlb.png",
+   "playerLabel": "Klasik (576p) [Not 24/7]",
+   "action": "video:https://178.253.194.105/klasiktv/playlist.m3u8"
+  },
+  {
+   "title": "Libertas TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4R4fhbd.png",
+   "playerLabel": "Libertas TV (1080p)",
+   "action": "video:https://stream.luci.xyz/hls/LTV.m3u8"
+  },
+  {
+   "title": "National Geographic (Croatia) (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+   "playerLabel": "National Geographic (Croatia) (1080p)",
+   "action": "video:http://176.61.157.250/NationalGeographic/index.m3u8"
+  },
+  {
+   "title": "Nick Jr. (Croatia) (540p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+   "playerLabel": "Nick Jr. (Croatia) (540p)",
+   "action": "video:http://176.61.157.250/NickJr/index.m3u8"
+  },
+  {
+   "title": "Nickelodeon (Croatia) (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+   "playerLabel": "Nickelodeon (Croatia) (1080p)",
+   "action": "video:http://176.61.157.250/Nickelodeon/index.m3u8"
+  },
+  {
+   "title": "Nova TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png",
+   "playerLabel": "Nova TV (1080p)",
+   "action": "video:http://176.61.157.250/NovaTV/index.m3u8"
+  },
+  {
+   "title": "OTV (Croatia) (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/67zVdu2.png",
+   "playerLabel": "OTV (Croatia) (720p) [Not 24/7]",
+   "action": "video:https://stream.agatin.hr:3559/live/otvlive.m3u8"
+  },
+  {
+   "title": "Radio Televizija Banovina (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/gCFgC5D.png",
+   "playerLabel": "Radio Televizija Banovina (1080p) [Not 24/7]",
+   "action": "video:https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR="
+  },
+  {
+   "title": "SBTV (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/MIampxZ.png",
+   "playerLabel": "SBTV (1080p) [Not 24/7]",
+   "action": "video:https://live.leveex.hr/hls/live.m3u8"
+  },
+  {
+   "title": "Shift TV (1080p)",
+   "titleFooter": "Auto",
+   "image": "https://i.imgur.com/mudXVT8.png",
+   "playerLabel": "Shift TV (1080p)",
+   "action": "video:https://hls.shift.tv/live/shifttv/playlist.m3u8"
+  },
+  {
+   "title": "STV (Croatia) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Z3yRl17.png",
+   "playerLabel": "STV (Croatia) (720p)",
+   "action": "video:http://89.201.163.244:8080/hls/hdmi.m3u8"
+  },
+  {
+   "title": "Trend TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4SmNISY.jpg",
+   "playerLabel": "Trend TV (480p)",
+   "action": "video:http://185.62.75.22:1935/trend/myStream/playlist.m3u8"
+  },
+  {
+   "title": "TV Jadran (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/UWMHnOG.png",
+   "playerLabel": "TV Jadran (720p) [Not 24/7]",
+   "action": "video:https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8"
+  },
+  {
+   "title": "TV Nova (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/gFjJ7YB.png",
+   "playerLabel": "TV Nova (720p)",
+   "action": "video:https://stream.agatin.hr:3727/live/tvnovalive.m3u8"
+  },
+  {
+   "title": "TV Zapad (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/cgCeX12.png",
+   "playerLabel": "TV Zapad (1080p) [Not 24/7]",
+   "action": "video:http://85.94.67.158/TVZAPAD/index.fmp4.m3u8"
+  }
+ ]
+}

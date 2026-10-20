@@ -1,0 +1,21 @@
+{
+ "type": "list",
+ "headline": "Cape Verde (1)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "TV Cidade",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/gmSu21X.jpg",
+   "playerLabel": "TV Cidade",
+   "action": "video:https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8"
+  }
+ ]
+}

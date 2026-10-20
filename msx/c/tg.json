@@ -1,0 +1,91 @@
+{
+ "type": "list",
+ "headline": "Togo (11)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "AC TV (480p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/SYugK7Y.png",
+   "playerLabel": "AC TV (480p) [Not 24/7]",
+   "action": "video:https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8"
+  },
+  {
+   "title": "Chandel TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/jQO7dVE.png",
+   "playerLabel": "Chandel TV (720p)",
+   "action": "video:https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8"
+  },
+  {
+   "title": "Dynamic Gospel TV (480p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/e36BNNK.jpg",
+   "playerLabel": "Dynamic Gospel TV (480p) [Not 24/7]",
+   "action": "video:https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8"
+  },
+  {
+   "title": "NW Economie (576p)",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/OmlFQa8.png",
+   "playerLabel": "NW Economie (576p)",
+   "action": "video:https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+  },
+  {
+   "title": "NW Info (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/UDEY91v.png",
+   "playerLabel": "NW Info (576p)",
+   "action": "video:https://hls.newworldtv.com/nw-info/video/live.m3u8"
+  },
+  {
+   "title": "NW Info 2 (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/0W4GqFD.png",
+   "playerLabel": "NW Info 2 (576p)",
+   "action": "video:https://hls.newworldtv.com/nw-info-2/video/live.m3u8"
+  },
+  {
+   "title": "NW Magazine (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/RZNJZYN.png",
+   "playerLabel": "NW Magazine (576p)",
+   "action": "video:https://hls.newworldtv.com/nw-magazine/video/live.m3u8"
+  },
+  {
+   "title": "RT JVA (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Ja3HVLB.jpg",
+   "playerLabel": "RT JVA (720p) [Not 24/7]",
+   "action": "video:https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8"
+  },
+  {
+   "title": "SOS Docteur TV (480p) [Not 24/7]",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/wQpooHw.png",
+   "playerLabel": "SOS Docteur TV (480p) [Not 24/7]",
+   "action": "video:https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8"
+  },
+  {
+   "title": "Television Espoir 47 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/utBh0xL.png",
+   "playerLabel": "Television Espoir 47 (720p)",
+   "action": "video:https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8"
+  },
+  {
+   "title": "TVT (Togo) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WtXonN9.png",
+   "playerLabel": "TVT (Togo) (720p) [Not 24/7]",
+   "action": "video:http://69.64.57.208/tvt/playlist.m3u8"
+  }
+ ]
+}

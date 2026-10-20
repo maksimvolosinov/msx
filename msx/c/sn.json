@@ -1,0 +1,126 @@
+{
+ "type": "list",
+ "headline": "Senegal (16)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "A2i Music (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Fykhzxh.jpg",
+   "playerLabel": "A2i Music (720p) [Not 24/7]",
+   "action": "video:https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
+  },
+  {
+   "title": "A2i Naija (720p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/yq7ghPE.jpg",
+   "playerLabel": "A2i Naija (720p) [Not 24/7]",
+   "action": "video:https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8"
+  },
+  {
+   "title": "A2i Religion (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/54WrwyN.jpg",
+   "playerLabel": "A2i Religion (720p) [Not 24/7]",
+   "action": "video:https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"
+  },
+  {
+   "title": "A2i TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YlDFir7.jpg",
+   "playerLabel": "A2i TV (1080p)",
+   "action": "video:https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
+  },
+  {
+   "title": "Amani TV (1080p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/0cY4K7G.png",
+   "playerLabel": "Amani TV (1080p) [Not 24/7]",
+   "action": "video:https://goccn.cloud/hls/amanitv/index.m3u8"
+  },
+  {
+   "title": "Chabiba TV (360p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/qVTOklV.png",
+   "playerLabel": "Chabiba TV (360p) [Not 24/7]",
+   "action": "video:https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8"
+  },
+  {
+   "title": "CNM TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/0cfdGKv/1630802325205.jpg",
+   "playerLabel": "CNM TV (720p) [Not 24/7]",
+   "action": "video:https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8"
+  },
+  {
+   "title": "Diaspora 24 [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/4devfx1.png",
+   "playerLabel": "Diaspora 24 [Geo-blocked]",
+   "action": "video:https://vdo3.pro-fhi.net:3218/stream/play.m3u8"
+  },
+  {
+   "title": "GMS TV (Senegal)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Ue02CIH.png",
+   "playerLabel": "GMS TV (Senegal)",
+   "action": "video:https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8"
+  },
+  {
+   "title": "Louga TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
+   "playerLabel": "Louga TV (480p)",
+   "action": "video:https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8"
+  },
+  {
+   "title": "One Nation TV (720p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/RGHbkZU.png",
+   "playerLabel": "One Nation TV (720p) [Not 24/7]",
+   "action": "video:https://endour.net/hls/One_nationtv/index.m3u8"
+  },
+  {
+   "title": "RTS 3 (Senegal) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/UC3olOw.png",
+   "playerLabel": "RTS 3 (Senegal) (720p)",
+   "action": "video:http://145.239.5.177/224/index.m3u8"
+  },
+  {
+   "title": "Seneweb TV [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/i9P2qjs.png",
+   "playerLabel": "Seneweb TV [Geo-blocked]",
+   "action": "video:https://vdo2.pro-fhi.net:3297/stream/play.m3u8"
+  },
+  {
+   "title": "SenJeunes TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/MeCSPsI.jpg",
+   "playerLabel": "SenJeunes TV (480p) [Not 24/7]",
+   "action": "video:https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8"
+  },
+  {
+   "title": "SunuLabel TV (480p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Ibp7IBk.jpeg",
+   "playerLabel": "SunuLabel TV (480p) [Not 24/7]",
+   "action": "video:https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8"
+  },
+  {
+   "title": "TeleMusik Senegal (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/dPAPLsd.png",
+   "playerLabel": "TeleMusik Senegal (720p)",
+   "action": "video:https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8"
+  }
+ ]
+}

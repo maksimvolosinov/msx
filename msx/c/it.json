@@ -1,0 +1,2236 @@
+{
+ "type": "list",
+ "headline": "Italy (318)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "111 TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kVREx1Q.png",
+   "playerLabel": "111 TV (720p)",
+   "action": "video:https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8"
+  },
+  {
+   "title": "12 TV Parma (540p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mBYxWOg.png",
+   "playerLabel": "12 TV Parma (540p) [Not 24/7]",
+   "action": "video:https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8"
+  },
+  {
+   "title": "16 Anni e Incinta",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
+   "playerLabel": "16 Anni e Incinta",
+   "action": "video:https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8"
+  },
+  {
+   "title": "20 [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
+   "playerLabel": "20 [Geo-blocked]",
+   "action": "video:https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8"
+  },
+  {
+   "title": "50 Canale",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/D3OTRzf.png",
+   "playerLabel": "50 Canale",
+   "action": "video:https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8"
+  },
+  {
+   "title": "51 Radio TV (480p) [Geo-blocked]",
+   "titleFooter": "Music",
+   "image": "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
+   "playerLabel": "51 Radio TV (480p) [Geo-blocked]",
+   "action": "video:http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+  },
+  {
+   "title": "7 Gold (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
+   "playerLabel": "7 Gold (1080p)",
+   "action": "video:https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8"
+  },
+  {
+   "title": "7 RadioVisione (720p)",
+   "titleFooter": "Music",
+   "image": "https://radio7note.com/img/favicon/android-icon-192x192.png",
+   "playerLabel": "7 RadioVisione (720p)",
+   "action": "video:https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
+  },
+  {
+   "title": "70-80 TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/y4kNV3Q.png",
+   "playerLabel": "70-80 TV",
+   "action": "video:https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+  },
+  {
+   "title": "A2i TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YlDFir7.jpg",
+   "playerLabel": "A2i TV (1080p)",
+   "action": "video:https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
+  },
+  {
+   "title": "ACI Sport TV SD (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/U8cHMOt.png",
+   "playerLabel": "ACI Sport TV SD (1080p)",
+   "action": "video:https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"
+  },
+  {
+   "title": "Adnkronos (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/mEoDAf1.png",
+   "playerLabel": "Adnkronos (720p)",
+   "action": "video:https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Alma TV (576p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/MfFOnJp.png",
+   "playerLabel": "Alma TV (576p)",
+   "action": "video:http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8"
+  },
+  {
+   "title": "AltoAdige TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yt7JJrn.png",
+   "playerLabel": "AltoAdige TV (720p)",
+   "action": "video:https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Andromeda Italy (720p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/6ot2lmd.png",
+   "playerLabel": "Andromeda Italy (720p)",
+   "action": "video:https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8"
+  },
+  {
+   "title": "Antenna 2 TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kNrzk3X.png",
+   "playerLabel": "Antenna 2 TV (720p)",
+   "action": "video:https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Antenna Sud (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Sf0bA4P.png",
+   "playerLabel": "Antenna Sud (720p)",
+   "action": "video:https://live.antennasudwebtv.it:9443/hls/vod.m3u8"
+  },
+  {
+   "title": "Antenna Sud Extra (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kiCcHzc.png",
+   "playerLabel": "Antenna Sud Extra (720p)",
+   "action": "video:https://live.antennasudwebtv.it:9443/hls/vod92.m3u8"
+  },
+  {
+   "title": "Antenna Tre (480p) [Geo-blocked]",
+   "titleFooter": "General",
+   "playerLabel": "Antenna Tre (480p) [Geo-blocked]",
+   "action": "video:https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8"
+  },
+  {
+   "title": "Aurora Arte (480p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/Y1Yq3iV.png",
+   "playerLabel": "Aurora Arte (480p)",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
+  },
+  {
+   "title": "Azzurra TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/qWIZNEc.png",
+   "playerLabel": "Azzurra TV (576p)",
+   "action": "video:https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8"
+  },
+  {
+   "title": "BeJoy.kids (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png",
+   "playerLabel": "BeJoy.kids (1080p)",
+   "action": "video:https://stream.paroledivita.org/bejoy.m3u8"
+  },
+  {
+   "title": "Bergamo TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Np3RaKv.png",
+   "playerLabel": "Bergamo TV (1080p)",
+   "action": "video:https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Bom Channel (720p)",
+   "titleFooter": "General",
+   "image": "https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png",
+   "playerLabel": "Bom Channel (720p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8"
+  },
+  {
+   "title": "CafeTV24 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/SRFzjja.png",
+   "playerLabel": "CafeTV24 (720p)",
+   "action": "video:https://srvx1.selftv.video/cafe/live/playlist.m3u8"
+  },
+  {
+   "title": "Calabria TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/noTgJJp.png",
+   "playerLabel": "Calabria TV",
+   "action": "video:https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8"
+  },
+  {
+   "title": "Camera dei Deputati (240p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/hv4zi9N.png",
+   "playerLabel": "Camera dei Deputati (240p)",
+   "action": "video:https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+  },
+  {
+   "title": "Canale 2 Altamura (576p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7XXdN5T.png",
+   "playerLabel": "Canale 2 Altamura (576p) [Not 24/7]",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
+  },
+  {
+   "title": "Canale 5 [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
+   "playerLabel": "Canale 5 [Geo-blocked]",
+   "action": "video:https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8"
+  },
+  {
+   "title": "Canale 5 HD",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
+   "playerLabel": "Canale 5 HD",
+   "action": "video:https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
+  },
+  {
+   "title": "Canale 7 (480p)",
+   "titleFooter": "General",
+   "image": "https://canale7.tv/assets/front/img/fb_logo.jpg",
+   "playerLabel": "Canale 7 (480p)",
+   "action": "video:http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8"
+  },
+  {
+   "title": "Canale 8 (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xwYmFgj.png",
+   "playerLabel": "Canale 8 (480p)",
+   "action": "video:http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8"
+  },
+  {
+   "title": "Canale Dieci (540p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8Pay0Vv.png",
+   "playerLabel": "Canale Dieci (540p) [Not 24/7]",
+   "action": "video:http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8"
+  },
+  {
+   "title": "Casa Italia 53 (720p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/X8BI1Md.png",
+   "playerLabel": "Casa Italia 53 (720p)",
+   "action": "video:https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8"
+  },
+  {
+   "title": "CG Entertainment",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/XeWzy7e.png",
+   "playerLabel": "CG Entertainment",
+   "action": "video:https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+   "title": "Cin Cin",
+   "titleFooter": "Classic;Series",
+   "image": "https://images.pluto.tv/channels/65cb78b83a116800079e2e35/colorLogoPNG.png",
+   "playerLabel": "Cin Cin",
+   "action": "video:https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8"
+  },
+  {
+   "title": "Cine34 [Geo-blocked]",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png",
+   "playerLabel": "Cine34 [Geo-blocked]",
+   "action": "video:https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8"
+  },
+  {
+   "title": "Cine34 HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png",
+   "playerLabel": "Cine34 HD (1080p)",
+   "action": "video:https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8"
+  },
+  {
+   "title": "Class CNBC (1080p)",
+   "titleFooter": "Business",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png",
+   "playerLabel": "Class CNBC (1080p)",
+   "action": "video:https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg"
+  },
+  {
+   "title": "Company TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/ccdwsWj.png",
+   "playerLabel": "Company TV (720p)",
+   "action": "video:https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
+  },
+  {
+   "title": "Cusano Italia TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/fOluzuE.png",
+   "playerLabel": "Cusano Italia TV (720p)",
+   "action": "video:https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8"
+  },
+  {
+   "title": "Deejay TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YV27Chs.png",
+   "playerLabel": "Deejay TV (1080p)",
+   "action": "video:https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+  },
+  {
+   "title": "DellaTV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6lvQ3Xz.png",
+   "playerLabel": "DellaTV (720p)",
+   "action": "video:https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8"
+  },
+  {
+   "title": "Deluxe 139 (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NbsGekl.png",
+   "playerLabel": "Deluxe 139 (480p)",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8"
+  },
+  {
+   "title": "DI.TV 80 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2AqKAMy.png",
+   "playerLabel": "DI.TV 80 (720p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
+  },
+  {
+   "title": "Discovery Channel (Italy) (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+   "playerLabel": "Discovery Channel (Italy) (1080p)",
+   "action": "video:https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8"
+  },
+  {
+   "title": "Discovery Turbo (Italy) (1080p)",
+   "titleFooter": "Auto",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png",
+   "playerLabel": "Discovery Turbo (Italy) (1080p)",
+   "action": "video:https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8"
+  },
+  {
+   "title": "Disney Channel (Germany) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+   "playerLabel": "Disney Channel (Germany) (576p)",
+   "action": "video:https://s6.hopslan.com/disneyX/index.m3u8"
+  },
+  {
+   "title": "DMAX (Italy) (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/uGd9fnn.png",
+   "playerLabel": "DMAX (Italy) (1080p)",
+   "action": "video:https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8"
+  },
+  {
+   "title": "Donna TV (480p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/39cSNHs.png",
+   "playerLabel": "Donna TV (480p)",
+   "action": "video:https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+  },
+  {
+   "title": "Elive TV Brescia (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gZxjLph.png",
+   "playerLabel": "Elive TV Brescia (720p) [Not 24/7]",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8"
+  },
+  {
+   "title": "Entella TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pGJcMmB.png",
+   "playerLabel": "Entella TV (720p) [Not 24/7]",
+   "action": "video:https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8"
+  },
+  {
+   "title": "Espansione TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NZJi7mm.png",
+   "playerLabel": "Espansione TV (576p)",
+   "action": "video:https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8"
+  },
+  {
+   "title": "Esperia TV (480p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png",
+   "playerLabel": "Esperia TV (480p)",
+   "action": "video:http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8"
+  },
+  {
+   "title": "Etna Espresso Channel (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/lSI5QgV.png",
+   "playerLabel": "Etna Espresso Channel (720p)",
+   "action": "video:https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8"
+  },
+  {
+   "title": "eTv Marche (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/U6OW577.png",
+   "playerLabel": "eTv Marche (720p)",
+   "action": "video:https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
+  },
+  {
+   "title": "eTv Rete 7 (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/xYVI5OC.png",
+   "playerLabel": "eTv Rete 7 (720p)",
+   "action": "video:https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
+  },
+  {
+   "title": "Euro TV (Italy) (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/HFWWzKT.png",
+   "playerLabel": "Euro TV (Italy) (720p) [Not 24/7]",
+   "action": "video:https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8"
+  },
+  {
+   "title": "FailArmy Italy",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/VIpQJxL.png",
+   "playerLabel": "FailArmy Italy",
+   "action": "video:https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+   "title": "Fano TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rN6h7XU.png",
+   "playerLabel": "Fano TV (1080p)",
+   "action": "video:https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8"
+  },
+  {
+   "title": "FIFA+ Italy (720p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+   "playerLabel": "FIFA+ Italy (720p)",
+   "action": "video:https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8"
+  },
+  {
+   "title": "FM ITALIA (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/54CO2u9.png",
+   "playerLabel": "FM ITALIA (1080p)",
+   "action": "video:https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8"
+  },
+  {
+   "title": "Food Network (Italy) (1080p)",
+   "titleFooter": "Cooking",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+   "playerLabel": "Food Network (Italy) (1080p)",
+   "action": "video:https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8"
+  },
+  {
+   "title": "Gambero Rosso Channel (720p)",
+   "titleFooter": "Cooking;Lifestyle",
+   "image": "https://i.imgur.com/x5cwb1q.png",
+   "playerLabel": "Gambero Rosso Channel (720p)",
+   "action": "video:https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8"
+  },
+  {
+   "title": "Geordie Shore (Germany)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png",
+   "playerLabel": "Geordie Shore (Germany)",
+   "action": "video:https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8"
+  },
+  {
+   "title": "Giallo (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/960px-Giallo_-_Logo_2014.svg.png",
+   "playerLabel": "Giallo (1080p)",
+   "action": "video:https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8"
+  },
+  {
+   "title": "Giornale Radio TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/2Y5qiao.png",
+   "playerLabel": "Giornale Radio TV (720p)",
+   "action": "video:https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Giovanni Paolo TV (1080p)",
+   "titleFooter": "Religious",
+   "playerLabel": "Giovanni Paolo TV (1080p)",
+   "action": "video:https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8"
+  },
+  {
+   "title": "GO-TV Canale 163 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/11V0QSp.png",
+   "playerLabel": "GO-TV Canale 163 (720p)",
+   "action": "video:https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Gold TV (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/Yzc47k9.png",
+   "playerLabel": "Gold TV (576p)",
+   "action": "video:https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8"
+  },
+  {
+   "title": "Gold TV Sat (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/gQzNIg5.png",
+   "playerLabel": "Gold TV Sat (576p)",
+   "action": "video:https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
+  },
+  {
+   "title": "GRP VERATV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jasSHXJ.png",
+   "playerLabel": "GRP VERATV (576p)",
+   "action": "video:https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8"
+  },
+  {
+   "title": "HGTV (Italy) (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/ejPii8T.png",
+   "playerLabel": "HGTV (Italy) (1080p)",
+   "action": "video:https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8"
+  },
+  {
+   "title": "Horse TV (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/nK4UUX4.png",
+   "playerLabel": "Horse TV (720p)",
+   "action": "video:https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
+  },
+  {
+   "title": "Icaro TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nWBWzNy.png",
+   "playerLabel": "Icaro TV (720p) [Not 24/7]",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8"
+  },
+  {
+   "title": "Il Banco dei Pugni",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/NZDUlME.png",
+   "playerLabel": "Il Banco dei Pugni",
+   "action": "video:https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8"
+  },
+  {
+   "title": "Il Testimone",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/colorLogoPNG.png",
+   "playerLabel": "Il Testimone",
+   "action": "video:https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8"
+  },
+  {
+   "title": "Inter TV (Italy) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/FUTqh2L.png",
+   "playerLabel": "Inter TV (Italy) (1080p)",
+   "action": "video:https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8"
+  },
+  {
+   "title": "Iris [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/ZLnSLh4.png",
+   "playerLabel": "Iris [Geo-blocked]",
+   "action": "video:https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8"
+  },
+  {
+   "title": "Iris HD (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/ZLnSLh4.png",
+   "playerLabel": "Iris HD (1080p)",
+   "action": "video:https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8"
+  },
+  {
+   "title": "Italia 1 [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png",
+   "playerLabel": "Italia 1 [Geo-blocked]",
+   "action": "video:https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8"
+  },
+  {
+   "title": "Italia 2 (480p) [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png",
+   "playerLabel": "Italia 2 (480p) [Geo-blocked]",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
+  },
+  {
+   "title": "Italia 7 (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xc0kUHk.png",
+   "playerLabel": "Italia 7 (576p)",
+   "action": "video:http://151.0.207.99:1935/italia7/italia7/playlist.m3u8"
+  },
+  {
+   "title": "Italia2TV (480p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/TDSgG28.png",
+   "playerLabel": "Italia2TV (480p) [Geo-blocked]",
+   "action": "video:http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
+  },
+  {
+   "title": "Italian Fishing TV (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/qrn6tUO.png",
+   "playerLabel": "Italian Fishing TV (1080p)",
+   "action": "video:https://fms.premio.link/fishingtv/playlist.m3u8"
+  },
+  {
+   "title": "Iunior TV (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/FBOJnfT.png",
+   "playerLabel": "Iunior TV (1080p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8"
+  },
+  {
+   "title": "Juwelo (Italy) (480p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/T3r1khc.png",
+   "playerLabel": "Juwelo (Italy) (480p)",
+   "action": "video:https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8"
+  },
+  {
+   "title": "Kiss Kiss Napoli TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/RsGiBwE.png",
+   "playerLabel": "Kiss Kiss Napoli TV (720p)",
+   "action": "video:https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Kiss Kiss TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/ja6c2YZ.png",
+   "playerLabel": "Kiss Kiss TV (1080p)",
+   "action": "video:https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8"
+  },
+  {
+   "title": "L'altro Corriere TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/05YWVCq.png",
+   "playerLabel": "L'altro Corriere TV",
+   "action": "video:https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8"
+  },
+  {
+   "title": "La C TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TF4LKp0.png",
+   "playerLabel": "La C TV (720p)",
+   "action": "video:https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8"
+  },
+  {
+   "title": "La Nuova TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OHMv86A.png",
+   "playerLabel": "La Nuova TV",
+   "action": "video:https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
+  },
+  {
+   "title": "La TR3 Marsala (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/R4sqZQu.png",
+   "playerLabel": "La TR3 Marsala (720p)",
+   "action": "video:https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
+  },
+  {
+   "title": "La5 [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/960px-La5_Mediaset.svg.png",
+   "playerLabel": "La5 [Geo-blocked]",
+   "action": "video:https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8"
+  },
+  {
+   "title": "La7 Cinema (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/khPweok.png",
+   "playerLabel": "La7 Cinema (720p)",
+   "action": "video:http://102.129.186.182:81/la7d/index.m3u8"
+  },
+  {
+   "title": "LA7 HD (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png",
+   "playerLabel": "LA7 HD (1080p)",
+   "action": "video:https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8"
+  },
+  {
+   "title": "LA7d (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sM0A3GD.png",
+   "playerLabel": "LA7d (720p)",
+   "action": "video:https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8"
+  },
+  {
+   "title": "LaC News 24 (720p)",
+   "titleFooter": "News",
+   "image": "https://www.omnys.com/media/news/lac-news24-icona.png",
+   "playerLabel": "LaC News 24 (720p)",
+   "action": "video:https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+  },
+  {
+   "title": "Lazio Style Channel HD (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/vDB8HFq.png",
+   "playerLabel": "Lazio Style Channel HD (720p)",
+   "action": "video:https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
+  },
+  {
+   "title": "Lazio TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TNLD9yD.png",
+   "playerLabel": "Lazio TV (576p)",
+   "action": "video:http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8"
+  },
+  {
+   "title": "Le Cronache TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/d8ziiEJ.png",
+   "playerLabel": "Le Cronache TV (720p)",
+   "action": "video:http://77.68.40.210:8888/hls/cronache.m3u8"
+  },
+  {
+   "title": "Le sorelle McLeod",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/OkGiH9a.png",
+   "playerLabel": "Le sorelle McLeod",
+   "action": "video:https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8"
+  },
+  {
+   "title": "Lira TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/sC9ELuY.jpg",
+   "playerLabel": "Lira TV",
+   "action": "video:https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
+  },
+  {
+   "title": "Lombardia TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/frVhm9q.png",
+   "playerLabel": "Lombardia TV",
+   "action": "video:https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8"
+  },
+  {
+   "title": "Love The Planet IT (1080p) [Geo-blocked]",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/RBcD49X.png",
+   "playerLabel": "Love The Planet IT (1080p) [Geo-blocked]",
+   "action": "video:https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "m2o TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png",
+   "playerLabel": "m2o TV (1080p)",
+   "action": "video:https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
+  },
+  {
+   "title": "MadeinBO TV (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/47X44DD.png",
+   "playerLabel": "MadeinBO TV (1080p)",
+   "action": "video:https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
+  },
+  {
+   "title": "Maria Vision Italia (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/gP3XAlV.jpeg",
+   "playerLabel": "Maria Vision Italia (1080p)",
+   "action": "video:https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
+  },
+  {
+   "title": "Mediaset Extra [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/G51Lvah.png",
+   "playerLabel": "Mediaset Extra [Geo-blocked]",
+   "action": "video:https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8"
+  },
+  {
+   "title": "MediterraniaTV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PJbXCoe.png",
+   "playerLabel": "MediterraniaTV (1080p)",
+   "action": "video:https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8"
+  },
+  {
+   "title": "Medjugorje Italia TV (480p)",
+   "titleFooter": "Religious",
+   "playerLabel": "Medjugorje Italia TV (480p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
+  },
+  {
+   "title": "Minformo TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/9Oq6fLw.png",
+   "playerLabel": "Minformo TV (720p)",
+   "action": "video:https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8"
+  },
+  {
+   "title": "Mr Bean Animated IT (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+   "playerLabel": "Mr Bean Animated IT (1080p)",
+   "action": "video:https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+  },
+  {
+   "title": "Nautical Channel (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/2ByDyzL.png",
+   "playerLabel": "Nautical Channel (720p)",
+   "action": "video:https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8"
+  },
+  {
+   "title": "Nick Jr. (Italy) (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/6p3eFgf.png",
+   "playerLabel": "Nick Jr. (Italy) (720p)",
+   "action": "video:http://102.129.186.182:81/nick/index.m3u8"
+  },
+  {
+   "title": "Nickelodeon (Italy)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/E84jnP8.png",
+   "playerLabel": "Nickelodeon (Italy)",
+   "action": "video:https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8"
+  },
+  {
+   "title": "Nove (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rTjIkGO.png",
+   "playerLabel": "Nove (1080p)",
+   "action": "video:https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8"
+  },
+  {
+   "title": "NTN (Italy) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/AW5fJwa.png",
+   "playerLabel": "NTN (Italy) (720p)",
+   "action": "video:https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8"
+  },
+  {
+   "title": "Onda Novara TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DTxhOhT.png",
+   "playerLabel": "Onda Novara TV (720p) [Not 24/7]",
+   "action": "video:https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
+  },
+  {
+   "title": "Onda TV (Italy) (568p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
+   "playerLabel": "Onda TV (Italy) (568p)",
+   "action": "video:https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8"
+  },
+  {
+   "title": "Orler TV (420p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/Ia7iULa.png",
+   "playerLabel": "Orler TV (420p) [Not 24/7]",
+   "action": "video:https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Otto Channel (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zxdwM4f.png",
+   "playerLabel": "Otto Channel (480p)",
+   "action": "video:https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8"
+  },
+  {
+   "title": "Paci Contemporary Channel (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/RtOvD2M.png",
+   "playerLabel": "Paci Contemporary Channel (720p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+  },
+  {
+   "title": "Padre Pio TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg",
+   "playerLabel": "Padre Pio TV (1080p)",
+   "action": "video:https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Paradise TV [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OKhpyWr.png",
+   "playerLabel": "Paradise TV [Geo-blocked]",
+   "action": "video:https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
+  },
+  {
+   "title": "Parole di Vita (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/vkFlXbR.png",
+   "playerLabel": "Parole di Vita (1080p)",
+   "action": "video:https://stream.paroledivita.org/paroledivita.m3u8"
+  },
+  {
+   "title": "Passione Lotto (300p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/jYmy4G5.png",
+   "playerLabel": "Passione Lotto (300p)",
+   "action": "video:http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8"
+  },
+  {
+   "title": "Peer TV Alto Adige (1280p)",
+   "titleFooter": "Outdoor;Travel",
+   "image": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
+   "playerLabel": "Peer TV Alto Adige (1280p)",
+   "action": "video:https://iptv.peer.biz/live/peertv-it.m3u8"
+  },
+  {
+   "title": "Peer TV South Tyrol (1280p)",
+   "titleFooter": "Outdoor;Travel",
+   "image": "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",
+   "playerLabel": "Peer TV South Tyrol (1280p)",
+   "action": "video:https://iptv.peer.biz/live/peertv-en.m3u8"
+  },
+  {
+   "title": "Peer TV Sudtirol (1080p)",
+   "titleFooter": "Outdoor;Travel",
+   "image": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
+   "playerLabel": "Peer TV Sudtirol (1080p)",
+   "action": "video:https://iptv.peer.biz/live/peertv.m3u8"
+  },
+  {
+   "title": "Pluto TV Alberto Sordi",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Alberto Sordi",
+   "action": "video:https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8"
+  },
+  {
+   "title": "Pluto TV Christmas tutto l'anno",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png",
+   "playerLabel": "Pluto TV Christmas tutto l'anno",
+   "action": "video:https://jmp2.uk/plu-612e05b885183d0007958101.m3u8"
+  },
+  {
+   "title": "Pluto TV Cinema Italiano",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Cinema Italiano",
+   "action": "video:https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8"
+  },
+  {
+   "title": "Pluto TV Cinema Orientale",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Cinema Orientale",
+   "action": "video:https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8"
+  },
+  {
+   "title": "Pluto TV Cucina",
+   "titleFooter": "Cooking;Lifestyle",
+   "image": "https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG_1774519163545.png",
+   "playerLabel": "Pluto TV Cucina",
+   "action": "video:https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8"
+  },
+  {
+   "title": "Pluto TV Documentari",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Documentari",
+   "action": "video:https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8"
+  },
+  {
+   "title": "Pluto TV Film (Germany)",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png",
+   "playerLabel": "Pluto TV Film (Germany)",
+   "action": "video:https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8"
+  },
+  {
+   "title": "Pluto TV Film Ancora Piu Romantici",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png",
+   "playerLabel": "Pluto TV Film Ancora Piu Romantici",
+   "action": "video:https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8"
+  },
+  {
+   "title": "Pluto TV Film Azione",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Film Azione",
+   "action": "video:https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8"
+  },
+  {
+   "title": "Pluto TV Film Commedia",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Film Commedia",
+   "action": "video:https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8"
+  },
+  {
+   "title": "Pluto TV Film Romantici",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Film Romantici",
+   "action": "video:https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8"
+  },
+  {
+   "title": "Pluto TV Film Storici",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/68750875759366af05a151ce/colorLogoPNG_1756144116606.png",
+   "playerLabel": "Pluto TV Film Storici",
+   "action": "video:https://jmp2.uk/plu-68750875759366af05a151ce.m3u8"
+  },
+  {
+   "title": "Pluto TV Film Thriller",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Film Thriller",
+   "action": "video:https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8"
+  },
+  {
+   "title": "Pluto TV Legami Letali",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/64808a8c536e0c0008a276d1/colorLogoPNG_1747395859514.png",
+   "playerLabel": "Pluto TV Legami Letali",
+   "action": "video:https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8"
+  },
+  {
+   "title": "Pluto TV Natura",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG_1773147389391.png",
+   "playerLabel": "Pluto TV Natura",
+   "action": "video:https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8"
+  },
+  {
+   "title": "Pluto TV Notti di Passione",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png",
+   "playerLabel": "Pluto TV Notti di Passione",
+   "action": "video:https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8"
+  },
+  {
+   "title": "Pluto TV Notti di Sangue",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/6911c92b4316999535eb1e08/colorLogoPNG_1766041125862.png",
+   "playerLabel": "Pluto TV Notti di Sangue",
+   "action": "video:https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8"
+  },
+  {
+   "title": "Pluto TV Notti di Terrore",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/6911c8dd8caba6f046c5c5d5/colorLogoPNG_1766041208757.png",
+   "playerLabel": "Pluto TV Notti di Terrore",
+   "action": "video:https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8"
+  },
+  {
+   "title": "Pluto TV Paranormal (Germany) IT",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Paranormal (Germany) IT",
+   "action": "video:https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8"
+  },
+  {
+   "title": "Pluto TV Real Life",
+   "titleFooter": "Lifestyle",
+   "image": "https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG_1775123848385.png",
+   "playerLabel": "Pluto TV Real Life",
+   "action": "video:https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8"
+  },
+  {
+   "title": "Pluto TV Scherzi e risate",
+   "titleFooter": "Comedy",
+   "image": "https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Scherzi e risate",
+   "action": "video:https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8"
+  },
+  {
+   "title": "Pluto TV Sci-Fi (Germany) IT",
+   "titleFooter": "Movies;Series",
+   "image": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Sci-Fi (Germany) IT",
+   "action": "video:https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8"
+  },
+  {
+   "title": "Pluto TV Serie Crime",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png",
+   "playerLabel": "Pluto TV Serie Crime",
+   "action": "video:https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8"
+  },
+  {
+   "title": "Pluto TV Serie IT",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Serie IT",
+   "action": "video:https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8"
+  },
+  {
+   "title": "Pluto TV Serie Sci-Fi",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png",
+   "playerLabel": "Pluto TV Serie Sci-Fi",
+   "action": "video:https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8"
+  },
+  {
+   "title": "Pluto TV Shore",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png",
+   "playerLabel": "Pluto TV Shore",
+   "action": "video:https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8"
+  },
+  {
+   "title": "Pluto TV Snooker 900 (Germany) IT (720p)",
+   "titleFooter": "Sports",
+   "image": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+   "playerLabel": "Pluto TV Snooker 900 (Germany) IT (720p)",
+   "action": "video:https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8"
+  },
+  {
+   "title": "Pluto TV Sport (Germany)",
+   "titleFooter": "Sports",
+   "image": "https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png",
+   "playerLabel": "Pluto TV Sport (Germany)",
+   "action": "video:https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8"
+  },
+  {
+   "title": "Pluto TV Storia",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png",
+   "playerLabel": "Pluto TV Storia",
+   "action": "video:https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8"
+  },
+  {
+   "title": "Pluto TV Teen IT (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
+   "playerLabel": "Pluto TV Teen IT (720p)",
+   "action": "video:https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8"
+  },
+  {
+   "title": "Pluto TV Toto",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png",
+   "playerLabel": "Pluto TV Toto",
+   "action": "video:https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8"
+  },
+  {
+   "title": "Pluto TV True Crime (Germany) IT",
+   "titleFooter": "Documentary;Series",
+   "image": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
+   "playerLabel": "Pluto TV True Crime (Germany) IT",
+   "action": "video:https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8"
+  },
+  {
+   "title": "Pluto TV Viaggi",
+   "titleFooter": "Lifestyle",
+   "image": "https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG_1774882201565.png",
+   "playerLabel": "Pluto TV Viaggi",
+   "action": "video:https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8"
+  },
+  {
+   "title": "Pluto TV Western IT",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png",
+   "playerLabel": "Pluto TV Western IT",
+   "action": "video:https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8"
+  },
+  {
+   "title": "Prima Free",
+   "titleFooter": "General",
+   "image": "https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg",
+   "playerLabel": "Prima Free",
+   "action": "video:https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
+  },
+  {
+   "title": "Prima TV (Italy) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HE9c8Sk.png",
+   "playerLabel": "Prima TV (Italy) (720p)",
+   "action": "video:https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+  },
+  {
+   "title": "PrimAntenna TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4Bx2321.png",
+   "playerLabel": "PrimAntenna TV (720p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8"
+  },
+  {
+   "title": "Primocanale (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/eunZ2Sa.png",
+   "playerLabel": "Primocanale (1080p) [Not 24/7]",
+   "action": "video:https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Promovideo TV (486p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/eKpS5Ck.png",
+   "playerLabel": "Promovideo TV (486p)",
+   "action": "video:https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
+  },
+  {
+   "title": "Quarto Canale Flegreo (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XfNSWp0.png",
+   "playerLabel": "Quarto Canale Flegreo (720p)",
+   "action": "video:https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
+  },
+  {
+   "title": "QVC (Italy) (540p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/6TWUVrh.png",
+   "playerLabel": "QVC (Italy) (540p)",
+   "action": "video:https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+  },
+  {
+   "title": "Radio 51 TV (480p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/UupkBt6.png",
+   "playerLabel": "Radio 51 TV (480p) [Geo-blocked]",
+   "action": "video:http://178.32.140.155/canale51/canale51/playlist.m3u8"
+  },
+  {
+   "title": "Radio Birikina TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/CFAx6m5.png",
+   "playerLabel": "Radio Birikina TV (720p) [Not 24/7]",
+   "action": "video:https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Radio Bruno TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/WBcwDb7.png",
+   "playerLabel": "Radio Bruno TV (720p)",
+   "action": "video:http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8"
+  },
+  {
+   "title": "Radio Capital TiVu (720p)",
+   "titleFooter": "Music;News",
+   "image": "https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg",
+   "playerLabel": "Radio Capital TiVu (720p)",
+   "action": "video:https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
+  },
+  {
+   "title": "Radio Ibiza TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/KfFqYQi.png",
+   "playerLabel": "Radio Ibiza TV (720p) [Not 24/7]",
+   "action": "video:https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Radio Iglesias (576p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/2OXQpZM.png",
+   "playerLabel": "Radio Iglesias (576p) [Geo-blocked]",
+   "action": "video:http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8"
+  },
+  {
+   "title": "Radio Iglesias Sardegna (576p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/KDtVpLl.png",
+   "playerLabel": "Radio Iglesias Sardegna (576p) [Geo-blocked]",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
+  },
+  {
+   "title": "Radio Norba TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Tucoyzy.png",
+   "playerLabel": "Radio Norba TV (1080p)",
+   "action": "video:https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Radio Number One (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/8cpuaG5.png",
+   "playerLabel": "Radio Number One (720p) [Not 24/7]",
+   "action": "video:https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Radio Piter Pan TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/hbqVWV4.png",
+   "playerLabel": "Radio Piter Pan TV (720p) [Not 24/7]",
+   "action": "video:https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Radio Studio Delta TV (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xJqVOpn.png",
+   "playerLabel": "Radio Studio Delta TV (1080p) [Not 24/7]",
+   "action": "video:https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8"
+  },
+  {
+   "title": "Radio Taormina Sicilia (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/SrhtocV.png",
+   "playerLabel": "Radio Taormina Sicilia (720p) [Not 24/7]",
+   "action": "video:https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
+  },
+  {
+   "title": "Radio Zeta (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/K2xLMin.png",
+   "playerLabel": "Radio Zeta (1080p)",
+   "action": "video:https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
+  },
+  {
+   "title": "Radiofreccia (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/RxeRlar.png",
+   "playerLabel": "Radiofreccia (1080p)",
+   "action": "video:https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
+  },
+  {
+   "title": "Rai 1 (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
+   "playerLabel": "Rai 1 (720p)",
+   "action": "video:https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
+  },
+  {
+   "title": "Rai 3 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
+   "playerLabel": "Rai 3 (1080p)",
+   "action": "video:https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8"
+  },
+  {
+   "title": "Rai 4 (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/sEY21rg.png",
+   "playerLabel": "Rai 4 (576p)",
+   "action": "video:https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966"
+  },
+  {
+   "title": "Rai Gulp (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/irAhPJM.png",
+   "playerLabel": "Rai Gulp (576p)",
+   "action": "video:https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953"
+  },
+  {
+   "title": "Rai Movie HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/0FjxXU9.png",
+   "playerLabel": "Rai Movie HD (1080p)",
+   "action": "video:http://team-tv.co:81/raimovie/index.m3u8"
+  },
+  {
+   "title": "Rai News 24 (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/n2u57y3.png",
+   "playerLabel": "Rai News 24 (720p)",
+   "action": "video:https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"
+  },
+  {
+   "title": "Rai News 24 HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/n2u57y3.png",
+   "playerLabel": "Rai News 24 HD (1080p)",
+   "action": "video:https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8"
+  },
+  {
+   "title": "Rai Scuola (576p) [Geo-blocked]",
+   "titleFooter": "Education",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
+   "playerLabel": "Rai Scuola (576p) [Geo-blocked]",
+   "action": "video:https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
+  },
+  {
+   "title": "Rakuten TV Action Movies Italy (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Meew6eX.png",
+   "playerLabel": "Rakuten TV Action Movies Italy (1080p)",
+   "action": "video:https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+  },
+  {
+   "title": "Rakuten TV Comedy Movies Italy (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Meew6eX.png",
+   "playerLabel": "Rakuten TV Comedy Movies Italy (1080p)",
+   "action": "video:https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+  },
+  {
+   "title": "Rakuten TV Drama Movies Italy (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Meew6eX.png",
+   "playerLabel": "Rakuten TV Drama Movies Italy (1080p)",
+   "action": "video:https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+  },
+  {
+   "title": "Rakuten TV Family Movies Italy (1080p)",
+   "titleFooter": "Family;Movies",
+   "image": "https://i.imgur.com/Meew6eX.png",
+   "playerLabel": "Rakuten TV Family Movies Italy (1080p)",
+   "action": "video:https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+  },
+  {
+   "title": "Rakuten TV Top Movies Italy (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Meew6eX.png",
+   "playerLabel": "Rakuten TV Top Movies Italy (1080p)",
+   "action": "video:https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
+  },
+  {
+   "title": "RDS Social TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/bxGvE8C.png",
+   "playerLabel": "RDS Social TV (720p)",
+   "action": "video:https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8"
+  },
+  {
+   "title": "Real Time (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/SPlk2Gx.png",
+   "playerLabel": "Real Time (1080p)",
+   "action": "video:https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8"
+  },
+  {
+   "title": "ReggioTV (480p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/cEwJkRV.png",
+   "playerLabel": "ReggioTV (480p) [Not 24/7]",
+   "action": "video:https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8"
+  },
+  {
+   "title": "Rete 55",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/UtS9YLc.png",
+   "playerLabel": "Rete 55",
+   "action": "video:https://live1.giocabet.tv/stream/6/index.m3u8"
+  },
+  {
+   "title": "Rete 8",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jojCxg3.png",
+   "playerLabel": "Rete 8",
+   "action": "video:https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
+  },
+  {
+   "title": "Rete Biella TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/I4OVxIb.png",
+   "playerLabel": "Rete Biella TV (720p) [Not 24/7]",
+   "action": "video:https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
+  },
+  {
+   "title": "Rete Oro (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/3oYiBSz.png",
+   "playerLabel": "Rete Oro (720p) [Not 24/7]",
+   "action": "video:https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
+  },
+  {
+   "title": "Rete TV Italia (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/BR7QfUF.png",
+   "playerLabel": "Rete TV Italia (1080p)",
+   "action": "video:https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8"
+  },
+  {
+   "title": "Retemia (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/IbzQpfn.png",
+   "playerLabel": "Retemia (720p) [Not 24/7]",
+   "action": "video:https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8"
+  },
+  {
+   "title": "Reteveneta (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png",
+   "playerLabel": "Reteveneta (480p)",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
+  },
+  {
+   "title": "Romantica TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Romantica%20TV.jpeg",
+   "playerLabel": "Romantica TV (1080p)",
+   "action": "video:https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8"
+  },
+  {
+   "title": "Rossini TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wGKsAk3.png",
+   "playerLabel": "Rossini TV (720p)",
+   "action": "video:https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8"
+  },
+  {
+   "title": "RTC Telecalabria (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NnFopuS.png",
+   "playerLabel": "RTC Telecalabria (720p) [Not 24/7]",
+   "action": "video:http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8"
+  },
+  {
+   "title": "RTL 102.5 Best (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/9PNlbaq.png",
+   "playerLabel": "RTL 102.5 Best (1080p)",
+   "action": "video:https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8"
+  },
+  {
+   "title": "RTL 102.5 Bro&Sis (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/EWbK4XZ.png",
+   "playerLabel": "RTL 102.5 Bro&Sis (1080p)",
+   "action": "video:https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8"
+  },
+  {
+   "title": "RTL 102.5 Caliente (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/P0zsi6I.png",
+   "playerLabel": "RTL 102.5 Caliente (1080p)",
+   "action": "video:https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8"
+  },
+  {
+   "title": "RTL 102.5 Disco (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/JA1OPrz.png",
+   "playerLabel": "RTL 102.5 Disco (1080p)",
+   "action": "video:https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8"
+  },
+  {
+   "title": "RTL 102.5 Napule (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/HFPw1YW.png",
+   "playerLabel": "RTL 102.5 Napule (1080p)",
+   "action": "video:https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
+  },
+  {
+   "title": "RTL 102.5 Traffic (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/EBftMcB.png",
+   "playerLabel": "RTL 102.5 Traffic (1080p)",
+   "action": "video:https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+  },
+  {
+   "title": "RTL 102.5 TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/75qUdR7.png",
+   "playerLabel": "RTL 102.5 TV (1080p)",
+   "action": "video:https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+  },
+  {
+   "title": "RTM TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/w9Twxsi.png",
+   "playerLabel": "RTM TV (1080p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8"
+  },
+  {
+   "title": "RTP (Italy) (404p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png",
+   "playerLabel": "RTP (Italy) (404p)",
+   "action": "video:https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+  },
+  {
+   "title": "RTTR Trento (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/6DyzN8M.png",
+   "playerLabel": "RTTR Trento (720p)",
+   "action": "video:https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8"
+  },
+  {
+   "title": "RTV38 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YOlwudm.png",
+   "playerLabel": "RTV38 (576p)",
+   "action": "video:https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8"
+  },
+  {
+   "title": "San Marino RTV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ZJSWusT.png",
+   "playerLabel": "San Marino RTV (720p)",
+   "action": "video:https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8"
+  },
+  {
+   "title": "San Marino RTV Sport (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/PGm944g.png",
+   "playerLabel": "San Marino RTV Sport (720p)",
+   "action": "video:https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
+  },
+  {
+   "title": "Senato TV (1080p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/h4NyN5d.png",
+   "playerLabel": "Senato TV (1080p)",
+   "action": "video:https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+  },
+  {
+   "title": "Sophia TV (Italy) (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/RPXusvS.png",
+   "playerLabel": "Sophia TV (Italy) (720p)",
+   "action": "video:https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8"
+  },
+  {
+   "title": "South Park (Germany) IT",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
+   "playerLabel": "South Park (Germany) IT",
+   "action": "video:https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8"
+  },
+  {
+   "title": "Sportitalia (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/0CJGGgd.png",
+   "playerLabel": "Sportitalia (1080p)",
+   "action": "video:https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
+  },
+  {
+   "title": "Sportitalia 24 (720p) [Geo-blocked]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/RSwnoLn.png",
+   "playerLabel": "Sportitalia 24 (720p) [Geo-blocked]",
+   "action": "video:https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
+  },
+  {
+   "title": "Sportitalia Motori (720p) [Geo-blocked]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/hu56Ya5.png",
+   "playerLabel": "Sportitalia Motori (720p) [Geo-blocked]",
+   "action": "video:https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8"
+  },
+  {
+   "title": "Sportitalia Solocalcio (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/hu56Ya5.png",
+   "playerLabel": "Sportitalia Solocalcio (1080p)",
+   "action": "video:https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
+  },
+  {
+   "title": "Star Trek: Voyager (Germany) IT",
+   "titleFooter": "Movies;Series",
+   "image": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
+   "playerLabel": "Star Trek: Voyager (Germany) IT",
+   "action": "video:https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8"
+  },
+  {
+   "title": "Stereo 5 TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/sCDcYFW.png",
+   "playerLabel": "Stereo 5 TV (720p)",
+   "action": "video:https://stream1.aswifi.it/stereo5/live/index.m3u8"
+  },
+  {
+   "title": "Storie Criminali",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png",
+   "playerLabel": "Storie Criminali",
+   "action": "video:https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8"
+  },
+  {
+   "title": "Super J TV Teramo (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/H3uItqg.png",
+   "playerLabel": "Super J TV Teramo (720p)",
+   "action": "video:https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8"
+  },
+  {
+   "title": "Super Six (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png",
+   "playerLabel": "Super Six (720p)",
+   "action": "video:https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
+  },
+  {
+   "title": "Super TV (Italy) (720p)",
+   "titleFooter": "General;Series",
+   "image": "https://i.imgur.com/hxF3yhw.png",
+   "playerLabel": "Super TV (Italy) (720p)",
+   "action": "video:http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
+  },
+  {
+   "title": "Super TV Oristano (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/it/2/22/Logosupertvoristano.png",
+   "playerLabel": "Super TV Oristano (720p) [Not 24/7]",
+   "action": "video:http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8"
+  },
+  {
+   "title": "Super!",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png",
+   "playerLabel": "Super!",
+   "action": "video:https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8"
+  },
+  {
+   "title": "Super! iCarly",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/IWcQfF2.png",
+   "playerLabel": "Super! iCarly",
+   "action": "video:https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8"
+  },
+  {
+   "title": "Super! Pop",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/2FfREQE.png",
+   "playerLabel": "Super! Pop",
+   "action": "video:https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8"
+  },
+  {
+   "title": "Super! SpongeBob (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/65wxNn4.png",
+   "playerLabel": "Super! SpongeBob (720p)",
+   "action": "video:https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8"
+  },
+  {
+   "title": "SuperTennis (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png",
+   "playerLabel": "SuperTennis (1080p)",
+   "action": "video:https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8"
+  },
+  {
+   "title": "T9 (288p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kQKzpYj.png",
+   "playerLabel": "T9 (288p)",
+   "action": "video:https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
+  },
+  {
+   "title": "Taurianova TV (720p)",
+   "titleFooter": "General",
+   "image": "https://www.taurianovatv.it/wp-content/uploads/2024/04/cropped-FotoJet-2-HD15.jpg",
+   "playerLabel": "Taurianova TV (720p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8"
+  },
+  {
+   "title": "Teatro TV (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/GbyLSc2.png",
+   "playerLabel": "Teatro TV (720p)",
+   "action": "video:https://m.iostream.it/hls/teatrotv/teatrotv.m3u8"
+  },
+  {
+   "title": "Teen Mom (Germany)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
+   "playerLabel": "Teen Mom (Germany)",
+   "action": "video:https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8"
+  },
+  {
+   "title": "Teenage Mutant Ninja Turtles (720p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png",
+   "playerLabel": "Teenage Mutant Ninja Turtles (720p)",
+   "action": "video:https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8"
+  },
+  {
+   "title": "Tele Abruzzo (384p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/XymK2PR.png",
+   "playerLabel": "Tele Abruzzo (384p)",
+   "action": "video:http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8"
+  },
+  {
+   "title": "Tele Chiara (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/LpXeY4v.png",
+   "playerLabel": "Tele Chiara (720p)",
+   "action": "video:http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8"
+  },
+  {
+   "title": "Tele Liguria Sud (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OxgSGUW.png",
+   "playerLabel": "Tele Liguria Sud (576p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8"
+  },
+  {
+   "title": "Tele One 16",
+   "titleFooter": "General",
+   "playerLabel": "Tele One 16",
+   "action": "video:https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8"
+  },
+  {
+   "title": "Tele Pegaso Catania (404p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/2syaOJz.png",
+   "playerLabel": "Tele Pegaso Catania (404p) [Not 24/7]",
+   "action": "video:https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8"
+  },
+  {
+   "title": "Tele Quattro (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png",
+   "playerLabel": "Tele Quattro (720p)",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8"
+  },
+  {
+   "title": "Tele Radio Sciacca (240p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/uyNOVUW.png",
+   "playerLabel": "Tele Radio Sciacca (240p) [Not 24/7]",
+   "action": "video:http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8"
+  },
+  {
+   "title": "Teleacras (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/c3Kw2XT.png",
+   "playerLabel": "Teleacras (576p)",
+   "action": "video:https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8"
+  },
+  {
+   "title": "TeleArena (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/cTmsGJD.png",
+   "playerLabel": "TeleArena (480p)",
+   "action": "video:https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8"
+  },
+  {
+   "title": "Telecity Lombardia (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TxApoQf.png",
+   "playerLabel": "Telecity Lombardia (1080p)",
+   "action": "video:https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8"
+  },
+  {
+   "title": "Telecolor Lombardia (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/QfJqBno.png",
+   "playerLabel": "Telecolor Lombardia (1080p) [Not 24/7]",
+   "action": "video:https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8"
+  },
+  {
+   "title": "Telefoggia (480p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ImvO2rV.png",
+   "playerLabel": "Telefoggia (480p) [Not 24/7]",
+   "action": "video:http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8"
+  },
+  {
+   "title": "Telefriuli (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/He3uCs6.png",
+   "playerLabel": "Telefriuli (1080p)",
+   "action": "video:https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8"
+  },
+  {
+   "title": "Telegela 647",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ppkX45f.png",
+   "playerLabel": "Telegela 647",
+   "action": "video:https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8"
+  },
+  {
+   "title": "Telegranda (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/j3r0URO.png",
+   "playerLabel": "Telegranda (720p) [Not 24/7]",
+   "action": "video:http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8"
+  },
+  {
+   "title": "Telejato (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/2EJdCJO.png",
+   "playerLabel": "Telejato (720p)",
+   "action": "video:https://telejato.liberotratto.com/hls/0/stream.m3u8"
+  },
+  {
+   "title": "Teleliberta (486p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/424KS6J.png",
+   "playerLabel": "Teleliberta (486p) [Not 24/7]",
+   "action": "video:https://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8"
+  },
+  {
+   "title": "TeleMajg (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/j5fnQ1h.png",
+   "playerLabel": "TeleMajg (480p)",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8"
+  },
+  {
+   "title": "Telemantova (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WYXiov6.png",
+   "playerLabel": "Telemantova (1080p)",
+   "action": "video:https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8"
+  },
+  {
+   "title": "TeleMia (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",
+   "playerLabel": "TeleMia (576p)",
+   "action": "video:https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8"
+  },
+  {
+   "title": "TeleMia Extra (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",
+   "playerLabel": "TeleMia Extra (576p)",
+   "action": "video:https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8"
+  },
+  {
+   "title": "TeleMistretta (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/BLhvyEi.png",
+   "playerLabel": "TeleMistretta (1080p)",
+   "action": "video:https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Telemolise (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/aTs88Es.png",
+   "playerLabel": "Telemolise (1080p)",
+   "action": "video:http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8"
+  },
+  {
+   "title": "Telemontecarlo (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/B0NbjcT.png",
+   "playerLabel": "Telemontecarlo (720p)",
+   "action": "video:https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8"
+  },
+  {
+   "title": "teleMonteneve (480p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/UAtEkvI.png",
+   "playerLabel": "teleMonteneve (480p) [Not 24/7]",
+   "action": "video:http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8"
+  },
+  {
+   "title": "Telenord (Italy) (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://telenord.it/assets/images/logo.png",
+   "playerLabel": "Telenord (Italy) (576p) [Not 24/7]",
+   "action": "video:https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8"
+  },
+  {
+   "title": "Telenova (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/lo9OiWg.png",
+   "playerLabel": "Telenova (720p)",
+   "action": "video:https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8"
+  },
+  {
+   "title": "Telepace 1 (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/TpdsPWG.png",
+   "playerLabel": "Telepace 1 (1080p)",
+   "action": "video:https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Telepace 2 (1080p)",
+   "titleFooter": "Culture;Religious",
+   "image": "https://i.imgur.com/qvcf6QC.png",
+   "playerLabel": "Telepace 2 (1080p)",
+   "action": "video:https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Telepace 3 (1080p)",
+   "titleFooter": "Education;Religious",
+   "image": "https://i.imgur.com/hE4i2ft.png",
+   "playerLabel": "Telepace 3 (1080p)",
+   "action": "video:https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Telepace 4 (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/JKHEL1H.png",
+   "playerLabel": "Telepace 4 (1080p)",
+   "action": "video:https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Telepace Trento (540p)",
+   "titleFooter": "Religious",
+   "image": "https://tvtvtv.ru/icons/telepace_trento.png",
+   "playerLabel": "Telepace Trento (540p)",
+   "action": "video:https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
+  },
+  {
+   "title": "Telepavia (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png",
+   "playerLabel": "Telepavia (720p)",
+   "action": "video:http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8"
+  },
+  {
+   "title": "TeleRama (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0YTYXB9.png",
+   "playerLabel": "TeleRama (576p)",
+   "action": "video:https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Teleromagna (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GGPtHX3.png",
+   "playerLabel": "Teleromagna (480p)",
+   "action": "video:https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8"
+  },
+  {
+   "title": "TeleSanDomenico (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/l52v9uv.png",
+   "playerLabel": "TeleSanDomenico (1080p)",
+   "action": "video:https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Telestense (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/E3ZVcJ3.png",
+   "playerLabel": "Telestense (720p)",
+   "action": "video:https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Telesud Trapani (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/JNohS1G.png",
+   "playerLabel": "Telesud Trapani (720p) [Not 24/7]",
+   "action": "video:http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8"
+  },
+  {
+   "title": "Teletricolore (480p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/GajzIN6.png",
+   "playerLabel": "Teletricolore (480p) [Not 24/7]",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8"
+  },
+  {
+   "title": "TeleTusciaSabina 2000 (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/cfexNL9.png",
+   "playerLabel": "TeleTusciaSabina 2000 (576p) [Not 24/7]",
+   "action": "video:http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8"
+  },
+  {
+   "title": "Televallo (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SfGVu6a.png",
+   "playerLabel": "Televallo (576p)",
+   "action": "video:https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8"
+  },
+  {
+   "title": "TeleVenezia (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/RG4o4Ni.png",
+   "playerLabel": "TeleVenezia (576p)",
+   "action": "video:https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8"
+  },
+  {
+   "title": "TGCom24 (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/fPmvbGH.png",
+   "playerLabel": "TGCom24 (720p)",
+   "action": "video:https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8"
+  },
+  {
+   "title": "The Pet Collective Italy",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/yH7n2dF.png",
+   "playerLabel": "The Pet Collective Italy",
+   "action": "video:https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+   "title": "TLT Molise (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4G8fqtn.png",
+   "playerLabel": "TLT Molise (1080p)",
+   "action": "video:https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8"
+  },
+  {
+   "title": "Top Crime [Geo-blocked]",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png",
+   "playerLabel": "Top Crime [Geo-blocked]",
+   "action": "video:https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8"
+  },
+  {
+   "title": "TR Sport (480p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/ELXmaqg.png",
+   "playerLabel": "TR Sport (480p)",
+   "action": "video:https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+  },
+  {
+   "title": "Trentino TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Xcw3TRB.png",
+   "playerLabel": "Trentino TV (720p) [Not 24/7]",
+   "action": "video:https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8"
+  },
+  {
+   "title": "TSN TeleSondrio News (480p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/eE37h7Q.png",
+   "playerLabel": "TSN TeleSondrio News (480p) [Not 24/7]",
+   "action": "video:https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8"
+  },
+  {
+   "title": "TV Campane 1 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GsdVpll.png",
+   "playerLabel": "TV Campane 1 (720p)",
+   "action": "video:https://eu1.servers10.com:8081/8032/index.m3u8"
+  },
+  {
+   "title": "TV Prato (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/72mAJtf.png",
+   "playerLabel": "TV Prato (1080p)",
+   "action": "video:https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8"
+  },
+  {
+   "title": "TV Qui Modena (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/YfMVNDE.png",
+   "playerLabel": "TV Qui Modena (480p)",
+   "action": "video:https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+  },
+  {
+   "title": "TV Sei (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/H8fklOG.png",
+   "playerLabel": "TV Sei (576p) [Not 24/7]",
+   "action": "video:http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8"
+  },
+  {
+   "title": "TV Yes Italia (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/3CDxatu.png",
+   "playerLabel": "TV Yes Italia (720p)",
+   "action": "video:https://stream1.aswifi.it/radioyes/live/index.m3u8"
+  },
+  {
+   "title": "TV2000 (720p)",
+   "titleFooter": "Religious",
+   "image": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png",
+   "playerLabel": "TV2000 (720p)",
+   "action": "video:https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
+  },
+  {
+   "title": "TV7 Benevento (288p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/VBhVaKB.png",
+   "playerLabel": "TV7 Benevento (288p) [Not 24/7]",
+   "action": "video:http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TV7 Triveneta (562p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ndFoo4V.png",
+   "playerLabel": "TV7 Triveneta (562p)",
+   "action": "video:https://www.gruppotv7.com:8090/hls/ireporter.m3u8"
+  },
+  {
+   "title": "tv9 Telemaremma (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/3WAyf6H.png",
+   "playerLabel": "tv9 Telemaremma (576p)",
+   "action": "video:https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8"
+  },
+  {
+   "title": "TVA Vicenza (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png",
+   "playerLabel": "TVA Vicenza (720p)",
+   "action": "video:http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8"
+  },
+  {
+   "title": "TVL (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/2wkSHNI.png",
+   "playerLabel": "TVL (720p) [Not 24/7]",
+   "action": "video:https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TVRS (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/6bxtL6D.png",
+   "playerLabel": "TVRS (576p) [Not 24/7]",
+   "action": "video:http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8"
+  },
+  {
+   "title": "Umbria TV (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/olJIJ7c.png",
+   "playerLabel": "Umbria TV (576p) [Not 24/7]",
+   "action": "video:https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
+  },
+  {
+   "title": "UniNettuno University TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/c9So8nf.png",
+   "playerLabel": "UniNettuno University TV (720p)",
+   "action": "video:https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
+  },
+  {
+   "title": "Value 24 TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/FdEyI96.png",
+   "playerLabel": "Value 24 TV",
+   "action": "video:https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8"
+  },
+  {
+   "title": "Vera TV (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7o1bq3p.png",
+   "playerLabel": "Vera TV (1080p) [Not 24/7]",
+   "action": "video:http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8"
+  },
+  {
+   "title": "Video Rola (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/9w54eVy.png",
+   "playerLabel": "Video Rola (1080p)",
+   "action": "video:https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8"
+  },
+  {
+   "title": "Videolina Sardegna (404p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/nQwXaef.png",
+   "playerLabel": "Videolina Sardegna (404p) [Not 24/7]",
+   "action": "video:http://livestreaming.videolina.it/live/Videolina/playlist.m3u8"
+  },
+  {
+   "title": "Visual Radio (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ah14ah0.png",
+   "playerLabel": "Visual Radio (576p) [Not 24/7]",
+   "action": "video:http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8"
+  },
+  {
+   "title": "WaterBear (1080p)",
+   "titleFooter": "Documentary;Outdoor",
+   "image": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
+   "playerLabel": "WaterBear (1080p)",
+   "action": "video:https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
+  },
+  {
+   "title": "Wedding TV",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/dFCrfbk.png",
+   "playerLabel": "Wedding TV",
+   "action": "video:https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8"
+  }
+ ]
+}

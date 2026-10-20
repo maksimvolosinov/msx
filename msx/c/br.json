@@ -1,0 +1,2726 @@
+{
+ "type": "list",
+ "headline": "Brazil (388)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "+MaisUm (720p)",
+   "titleFooter": "Entertainment;General;Movies;Music",
+   "image": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+   "playerLabel": "+MaisUm (720p)",
+   "action": "video:https://stream.ichibansys.com:3230/hybrid/play.m3u8"
+  },
+  {
+   "title": "1001 Noites (720p) [Not 24/7]",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/dWA9y2J.png",
+   "playerLabel": "1001 Noites (720p) [Not 24/7]",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+  },
+  {
+   "title": "A&E Latin America Brazil (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+   "playerLabel": "A&E Latin America Brazil (720p)",
+   "action": "video:http://170.83.16.50/AeE/index.m3u8"
+  },
+  {
+   "title": "Adesso TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KgetM8j.png",
+   "playerLabel": "Adesso TV (720p)",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
+  },
+  {
+   "title": "Adrenalina Pura TV Brazil",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Pvid2iH.png",
+   "playerLabel": "Adrenalina Pura TV Brazil",
+   "action": "video:https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8"
+  },
+  {
+   "title": "Adult Swim Latin America Brazil (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+   "playerLabel": "Adult Swim Latin America Brazil (720p)",
+   "action": "video:http://168.197.104.22/ADULT_SWIM/index.m3u8"
+  },
+  {
+   "title": "AgroBrasil TV (720p) [Not 24/7]",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/aNkP7Zd.png",
+   "playerLabel": "AgroBrasil TV (720p) [Not 24/7]",
+   "action": "video:http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8"
+  },
+  {
+   "title": "AgroCanal (720p)",
+   "titleFooter": "Education;Outdoor",
+   "image": "https://i.imgur.com/5XyopHf.png",
+   "playerLabel": "AgroCanal (720p)",
+   "action": "video:http://45.162.64.114/AGRO_CANAL/index.m3u8"
+  },
+  {
+   "title": "AgroMais (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/sFcOZeo.png",
+   "playerLabel": "AgroMais (720p)",
+   "action": "video:http://45.162.64.114/AGROMAIS/index.m3u8"
+  },
+  {
+   "title": "Alpha Channel (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/c1QqslA.png",
+   "playerLabel": "Alpha Channel (720p)",
+   "action": "video:https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8"
+  },
+  {
+   "title": "Amazon Sat (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7rjCS5i.png",
+   "playerLabel": "Amazon Sat (1080p)",
+   "action": "video:https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+  },
+  {
+   "title": "AMC Latin America Brazil (720p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+   "playerLabel": "AMC Latin America Brazil (720p)",
+   "action": "video:http://170.83.49.66:8083/AMCHD/index.m3u8"
+  },
+  {
+   "title": "Angel TV Portuguese (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/qKLEGU7.png",
+   "playerLabel": "Angel TV Portuguese (720p)",
+   "action": "video:https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8"
+  },
+  {
+   "title": "Araruna TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jl39ula.png",
+   "playerLabel": "Araruna TV",
+   "action": "video:https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8"
+  },
+  {
+   "title": "Aratu On",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Ht4jCab.png",
+   "playerLabel": "Aratu On",
+   "action": "video:https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
+  },
+  {
+   "title": "Arte 1 (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/Ivnk7A6.png",
+   "playerLabel": "Arte 1 (720p)",
+   "action": "video:http://45.162.64.114/ARTE1/index.m3u8"
+  },
+  {
+   "title": "Auge TV (720p)",
+   "titleFooter": "General",
+   "image": "https://m.media-amazon.com/images/I/81UMY8nlXHL._SL500_.png",
+   "playerLabel": "Auge TV (720p)",
+   "action": "video:https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
+  },
+  {
+   "title": "Avatar: A lenda de Aang",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",
+   "playerLabel": "Avatar: A lenda de Aang",
+   "action": "video:https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8"
+  },
+  {
+   "title": "AXN (Brazil) (720p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+   "playerLabel": "AXN (Brazil) (720p)",
+   "action": "video:http://170.83.16.50/AXN/index.m3u8"
+  },
+  {
+   "title": "BabyFirst Brazil",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/WxLHBwu.png",
+   "playerLabel": "BabyFirst Brazil",
+   "action": "video:https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8"
+  },
+  {
+   "title": "Band (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/1r5T6Pw.png",
+   "playerLabel": "Band (720p)",
+   "action": "video:http://170.84.165.204/BAND_HD/index.m3u8"
+  },
+  {
+   "title": "Band Sports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/EuPvzJe.png",
+   "playerLabel": "Band Sports (1080p)",
+   "action": "video:https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8"
+  },
+  {
+   "title": "BandNews (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg",
+   "playerLabel": "BandNews (1080p)",
+   "action": "video:https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8"
+  },
+  {
+   "title": "Bem Melhor (720p)",
+   "titleFooter": "General",
+   "image": "https://www.ubplay.com.br/wp-content/uploads/sites/67/2025/10/capa-site-bemmelhor.png",
+   "playerLabel": "Bem Melhor (720p)",
+   "action": "video:https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8"
+  },
+  {
+   "title": "BET Pluto TV BR",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png",
+   "playerLabel": "BET Pluto TV BR",
+   "action": "video:https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
+  },
+  {
+   "title": "Blitstv",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/FO4QTRf.jpeg",
+   "playerLabel": "Blitstv",
+   "action": "video:https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
+  },
+  {
+   "title": "BM&C News (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/pOUY2Uz.png",
+   "playerLabel": "BM&C News (720p)",
+   "action": "video:https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
+  },
+  {
+   "title": "Boas Novas (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ZqhizdP.png",
+   "playerLabel": "Boas Novas (1080p)",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
+   "title": "Bob Esponja Calca Quadrada (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png",
+   "playerLabel": "Bob Esponja Calca Quadrada (720p)",
+   "action": "video:https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8"
+  },
+  {
+   "title": "Box Kids TV (720p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",
+   "playerLabel": "Box Kids TV (720p)",
+   "action": "video:http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
+  },
+  {
+   "title": "BR8 TV",
+   "titleFooter": "News",
+   "image": "https://i.ibb.co/1QZv2q1/Br8-fb-graph.png",
+   "playerLabel": "BR8 TV",
+   "action": "video:https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
+  },
+  {
+   "title": "Cabo Frio TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/mPi6Wp3.png",
+   "playerLabel": "Cabo Frio TV (720p)",
+   "action": "video:https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8"
+  },
+  {
+   "title": "Canal 25 Jundiai (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7igGMwH.png",
+   "playerLabel": "Canal 25 Jundiai (720p)",
+   "action": "video:https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8"
+  },
+  {
+   "title": "Canal 38 (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/co7TCWC.png",
+   "playerLabel": "Canal 38 (720p)",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
+  },
+  {
+   "title": "Canal do Boi (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/pVM5MhS.png",
+   "playerLabel": "Canal do Boi (720p)",
+   "action": "video:http://45.162.64.114/CANAL_DO_BOI/index.m3u8"
+  },
+  {
+   "title": "Canal do Criador (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/k29So6X.png",
+   "playerLabel": "Canal do Criador (1080p)",
+   "action": "video:https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8"
+  },
+  {
+   "title": "Canal do Inter (720p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/TQFWEIS.png",
+   "playerLabel": "Canal do Inter (720p) [Not 24/7]",
+   "action": "video:https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
+  },
+  {
+   "title": "Canal Educacao (720p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/OOB7nrS.png",
+   "playerLabel": "Canal Educacao (720p)",
+   "action": "video:http://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
+  },
+  {
+   "title": "Canal FDR",
+   "titleFooter": "Education;General",
+   "image": "https://i.imgur.com/7SE4CkE.png",
+   "playerLabel": "Canal FDR",
+   "action": "video:https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+  },
+  {
+   "title": "Canal Futura (720p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/LgynEBC.png",
+   "playerLabel": "Canal Futura (720p)",
+   "action": "video:http://45.162.64.114/FUTURA/index.m3u8"
+  },
+  {
+   "title": "Canal Gov (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/rHPY0Yv.png",
+   "playerLabel": "Canal Gov (720p)",
+   "action": "video:http://45.177.114.115/TV_BRASIL_2/index.m3u8"
+  },
+  {
+   "title": "Canal Libras (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/LnWWKzP.png",
+   "playerLabel": "Canal Libras (720p)",
+   "action": "video:https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8"
+  },
+  {
+   "title": "Canal Metropolitano de Noticias",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/G0x4xqa.png",
+   "playerLabel": "Canal Metropolitano de Noticias",
+   "action": "video:https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
+  },
+  {
+   "title": "Canal Off (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/1biaLgJ.png",
+   "playerLabel": "Canal Off (1080p)",
+   "action": "video:http://170.82.202.31/OFF/index.m3u8"
+  },
+  {
+   "title": "Canal Ricos (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hs2YVJ3.png",
+   "playerLabel": "Canal Ricos (480p)",
+   "action": "video:https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8"
+  },
+  {
+   "title": "Canal Rural (720p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/w9R9IIX.png",
+   "playerLabel": "Canal Rural (720p)",
+   "action": "video:http://170.83.49.66:8083/CANALRURALHD/index.m3u8"
+  },
+  {
+   "title": "Canal Saude",
+   "titleFooter": "Education;Lifestyle",
+   "image": "https://i.imgur.com/ht4tUOc.png",
+   "playerLabel": "Canal Saude",
+   "action": "video:https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
+  },
+  {
+   "title": "Canal Sete",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0cq0BPp.png",
+   "playerLabel": "Canal Sete",
+   "action": "video:http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
+  },
+  {
+   "title": "Canal START (720p)",
+   "titleFooter": "General",
+   "image": "https://storage.googleapis.com/soultv-prod-media/media/brand/Logomarca_CANAL_START_100X100_PNG_CrAzZzP.png",
+   "playerLabel": "Canal START (720p)",
+   "action": "video:https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8"
+  },
+  {
+   "title": "Canal UOL (1080p)",
+   "titleFooter": "General",
+   "image": "https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg",
+   "playerLabel": "Canal UOL (1080p)",
+   "action": "video:https://video24.mais.uol.com.br/live/6146.m3u8"
+  },
+  {
+   "title": "Cartoon Network Latin America Brazil (720p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+   "playerLabel": "Cartoon Network Latin America Brazil (720p)",
+   "action": "video:http://45.162.64.114/CARTOON_NETWORK/index.m3u8"
+  },
+  {
+   "title": "Catve FM (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/w89yw36.png",
+   "playerLabel": "Catve FM (720p) [Not 24/7]",
+   "action": "video:https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Catve Master TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4m7Iazm.png",
+   "playerLabel": "Catve Master TV (720p) [Not 24/7]",
+   "action": "video:https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Catve2 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/qiVfsfB.png",
+   "playerLabel": "Catve2 (720p)",
+   "action": "video:https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8"
+  },
+  {
+   "title": "Chef TV (720p)",
+   "titleFooter": "Cooking",
+   "image": "https://i.imgur.com/UYksTee.png",
+   "playerLabel": "Chef TV (720p)",
+   "action": "video:http://168.197.104.22/CHEF_TV/index.m3u8"
+  },
+  {
+   "title": "Chroma TV (480p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/SnaIMgj.png",
+   "playerLabel": "Chroma TV (480p)",
+   "action": "video:https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8"
+  },
+  {
+   "title": "Cine Terror BR",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
+   "playerLabel": "Cine Terror BR",
+   "action": "video:https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8"
+  },
+  {
+   "title": "Cinturao Verde",
+   "titleFooter": "General",
+   "image": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775688612576-u0628igjimf.png",
+   "playerLabel": "Cinturao Verde",
+   "action": "video:https://play.redecinturaoverde.com.br/playlist.m3u8"
+  },
+  {
+   "title": "Classique TV (360p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/rHxcraT.png",
+   "playerLabel": "Classique TV (360p)",
+   "action": "video:https://stmv1.srvif.com/classique/classique/playlist.m3u8"
+  },
+  {
+   "title": "CNN Brasil (1080p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png",
+   "playerLabel": "CNN Brasil (1080p)",
+   "action": "video:https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8"
+  },
+  {
+   "title": "COM Brasil (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GrjGwKM.png",
+   "playerLabel": "COM Brasil (720p)",
+   "action": "video:https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8"
+  },
+  {
+   "title": "Combate (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/ZPYK5jr.png",
+   "playerLabel": "Combate (720p)",
+   "action": "video:http://143.14.134.107/167/index.m3u8"
+  },
+  {
+   "title": "Comedy Central Brasil (480p)",
+   "titleFooter": "Comedy",
+   "image": "https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png",
+   "playerLabel": "Comedy Central Brasil (480p)",
+   "action": "video:https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
+  },
+  {
+   "title": "Comedy Central Pluto TV BR",
+   "titleFooter": "Comedy",
+   "image": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
+   "playerLabel": "Comedy Central Pluto TV BR",
+   "action": "video:https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8"
+  },
+  {
+   "title": "Comedy Central South Park",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png",
+   "playerLabel": "Comedy Central South Park",
+   "action": "video:https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8"
+  },
+  {
+   "title": "Conecta Mais TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/qHwTWlz.png",
+   "playerLabel": "Conecta Mais TV (720p)",
+   "action": "video:https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
+  },
+  {
+   "title": "ConecTV Brasil (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XN6jjMR.png",
+   "playerLabel": "ConecTV Brasil (720p)",
+   "action": "video:https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8"
+  },
+  {
+   "title": "Conexao TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CJ9SPsZ.png",
+   "playerLabel": "Conexao TV (720p)",
+   "action": "video:https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "CSI: Miami BR",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
+   "playerLabel": "CSI: Miami BR",
+   "action": "video:https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
+  },
+  {
+   "title": "Cultura Fast (720p)",
+   "titleFooter": "General",
+   "image": "https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png",
+   "playerLabel": "Cultura Fast (720p)",
+   "action": "video:https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
+  },
+  {
+   "title": "Cultura Para (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5jPEI5c.png",
+   "playerLabel": "Cultura Para (720p)",
+   "action": "video:http://170.84.165.204/CANAL_21_HD/index.m3u8"
+  },
+  {
+   "title": "Demais TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Md3xibE.png",
+   "playerLabel": "Demais TV (720p)",
+   "action": "video:https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8"
+  },
+  {
+   "title": "Despertar TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png",
+   "playerLabel": "Despertar TV (720p)",
+   "action": "video:https://br.conectmy.com.br/DespertarTV/index.m3u8"
+  },
+  {
+   "title": "Detetives Medicos",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
+   "playerLabel": "Detetives Medicos",
+   "action": "video:https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8"
+  },
+  {
+   "title": "Diff'rent Strokes Arnold",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/jkmouY3.png",
+   "playerLabel": "Diff'rent Strokes Arnold",
+   "action": "video:https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8"
+  },
+  {
+   "title": "Discovery Kids Latin America Brazil (720p) [Geo-blocked]",
+   "titleFooter": "Kids",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
+   "playerLabel": "Discovery Kids Latin America Brazil (720p) [Geo-blocked]",
+   "action": "video:http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8"
+  },
+  {
+   "title": "Discovery World Brazil (720p) [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/yNFmUkE.png",
+   "playerLabel": "Discovery World Brazil (720p) [Geo-blocked]",
+   "action": "video:http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8"
+  },
+  {
+   "title": "DumDum (720p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg",
+   "playerLabel": "DumDum (720p)",
+   "action": "video:http://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
+  },
+  {
+   "title": "Elemental Channel (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/8upyApg.png",
+   "playerLabel": "Elemental Channel (1080p)",
+   "action": "video:https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8"
+  },
+  {
+   "title": "ElyTV (360p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/1eHNe91.png",
+   "playerLabel": "ElyTV (360p)",
+   "action": "video:https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
+  },
+  {
+   "title": "ESPN (Brazil) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN (Brazil) (1080p)",
+   "action": "video:http://181.78.197.59:8000/play/a07z/index.m3u8"
+  },
+  {
+   "title": "ESPN 3 (Brazil) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+   "playerLabel": "ESPN 3 (Brazil) (1080p)",
+   "action": "video:http://190.83.2.182:8090/ESPN3/index.m3u8"
+  },
+  {
+   "title": "ESPN 4 (Brazil) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+   "playerLabel": "ESPN 4 (Brazil) (1080p)",
+   "action": "video:http://181.78.197.59:8000/play/a07n/index.m3u8"
+  },
+  {
+   "title": "EUTV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8PxpamC.png",
+   "playerLabel": "EUTV (720p)",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+  },
+  {
+   "title": "FailArmy Brazil",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/VIpQJxL.png",
+   "playerLabel": "FailArmy Brazil",
+   "action": "video:https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8"
+  },
+  {
+   "title": "Fala Litoral (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NF6PL8O.png",
+   "playerLabel": "Fala Litoral (480p)",
+   "action": "video:https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
+  },
+  {
+   "title": "FIFA+ Portuguese (720p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+   "playerLabel": "FIFA+ Portuguese (720p)",
+   "action": "video:https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8"
+  },
+  {
+   "title": "Filmes Suspense",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png",
+   "playerLabel": "Filmes Suspense",
+   "action": "video:https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8"
+  },
+  {
+   "title": "Fish TV (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://www.fishtv.com/public/site/images/logos/fishtv.svg",
+   "playerLabel": "Fish TV (1080p)",
+   "action": "video:http://190.128.214.97:64333/play/a006/index.m3u8"
+  },
+  {
+   "title": "Fonte TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/7q2BmNc.png",
+   "playerLabel": "Fonte TV",
+   "action": "video:https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
+  },
+  {
+   "title": "Futura (720p)",
+   "titleFooter": "Education",
+   "image": "https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png",
+   "playerLabel": "Futura (720p)",
+   "action": "video:http://170.83.49.66:8083/FUTURAHD/index.m3u8"
+  },
+  {
+   "title": "Geekdot (720p)",
+   "titleFooter": "Animation",
+   "image": "https://i.imgur.com/jML1u4O.png",
+   "playerLabel": "Geekdot (720p)",
+   "action": "video:https://stream.ichibantv.com:3764/hybrid/play.m3u8"
+  },
+  {
+   "title": "Ghost TV (712p) [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/ZVO8GVI.png",
+   "playerLabel": "Ghost TV (712p) [Not 24/7]",
+   "action": "video:https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8"
+  },
+  {
+   "title": "GloboNews (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/3yZyaCm.png",
+   "playerLabel": "GloboNews (1080p)",
+   "action": "video:http://79.127.238.228:14093"
+  },
+  {
+   "title": "Globoplay Novelas (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png",
+   "playerLabel": "Globoplay Novelas (1080p)",
+   "action": "video:http://170.82.202.31/Viva/index.m3u8"
+  },
+  {
+   "title": "Gloob (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/N1BUULh.png",
+   "playerLabel": "Gloob (576p)",
+   "action": "video:http://45.235.0.78/Gloob/playlist.m3u8"
+  },
+  {
+   "title": "Gloob Web [Not 24/7]",
+   "titleFooter": "Kids",
+   "image": "https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png",
+   "playerLabel": "Gloob Web [Not 24/7]",
+   "action": "video:https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8"
+  },
+  {
+   "title": "GNT (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/XymcvMy.png",
+   "playerLabel": "GNT (1080p)",
+   "action": "video:http://170.82.202.31/GNT/index.m3u8"
+  },
+  {
+   "title": "Gospel Cartoon (360p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/yxjPno5.png",
+   "playerLabel": "Gospel Cartoon (360p)",
+   "action": "video:https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8"
+  },
+  {
+   "title": "Gospel Movie TV (360p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/cQN3nWt.png",
+   "playerLabel": "Gospel Movie TV (360p)",
+   "action": "video:https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
+  },
+  {
+   "title": "History (Brazil) (720p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+   "playerLabel": "History (Brazil) (720p)",
+   "action": "video:http://45.177.114.114/HISTORY/index.m3u8"
+  },
+  {
+   "title": "History 2 Latin America Brazil (720p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+   "playerLabel": "History 2 Latin America Brazil (720p)",
+   "action": "video:http://45.177.114.114/HISTORY_2/index.m3u8"
+  },
+  {
+   "title": "iCarly (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
+   "playerLabel": "iCarly (United States)",
+   "action": "video:https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8"
+  },
+  {
+   "title": "ISTV (Brazil) (720p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/RUKVrOH.png",
+   "playerLabel": "ISTV (Brazil) (720p) [Not 24/7]",
+   "action": "video:https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+  },
+  {
+   "title": "J3NEWS TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/lezIQyL.png",
+   "playerLabel": "J3NEWS TV",
+   "action": "video:https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
+  },
+  {
+   "title": "Jornada nas Estrelas: A Nova Geracao",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png",
+   "playerLabel": "Jornada nas Estrelas: A Nova Geracao",
+   "action": "video:https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8"
+  },
+  {
+   "title": "Jornada nas Estrelas: Deep Space Nine",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png",
+   "playerLabel": "Jornada nas Estrelas: Deep Space Nine",
+   "action": "video:https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8"
+  },
+  {
+   "title": "Jornada nas Estrelas: Voyager",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png",
+   "playerLabel": "Jornada nas Estrelas: Voyager",
+   "action": "video:https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8"
+  },
+  {
+   "title": "Jovem Pan News (720p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
+   "playerLabel": "Jovem Pan News (720p)",
+   "action": "video:http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
+  },
+  {
+   "title": "Kenan & Kel BR",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png",
+   "playerLabel": "Kenan & Kel BR",
+   "action": "video:https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
+  },
+  {
+   "title": "KpopTV Play (576p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Tf0vweF.png",
+   "playerLabel": "KpopTV Play (576p)",
+   "action": "video:https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+  },
+  {
+   "title": "Kuriakos Kids (1080p)",
+   "titleFooter": "Animation;Kids;Religious",
+   "image": "https://i.imgur.com/SRX6EPY.png",
+   "playerLabel": "Kuriakos Kids (1080p)",
+   "action": "video:https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+  },
+  {
+   "title": "L!ke (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/chHsCzB.png",
+   "playerLabel": "L!ke (1080p)",
+   "action": "video:https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8"
+  },
+  {
+   "title": "Laboral TV (360p)",
+   "titleFooter": "Business",
+   "image": "https://tv.laboralsst.com.br/logo.png",
+   "playerLabel": "Laboral TV (360p)",
+   "action": "video:https://tv.laboralsst.com.br/hls/stream.m3u8"
+  },
+  {
+   "title": "Lamore Rock Show WebTV (720p)",
+   "titleFooter": "Music",
+   "image": "https://www.lamorerockshowwebtv.com.br/wp-content/uploads/2024/11/logo_rockshow.avif",
+   "playerLabel": "Lamore Rock Show WebTV (720p)",
+   "action": "video:https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8"
+  },
+  {
+   "title": "Lider TV (Brazil) (720p)",
+   "titleFooter": "General",
+   "image": "https://i0.wp.com/lidertv.com.br/wp-content/uploads/2024/11/cropped-cropped-LOGO-LIDER-EM-BAIXA.png?fit=512%2C228&ssl=1",
+   "playerLabel": "Lider TV (Brazil) (720p)",
+   "action": "video:https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8"
+  },
+  {
+   "title": "Lifetime Latin America Brazil (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+   "playerLabel": "Lifetime Latin America Brazil (720p)",
+   "action": "video:http://170.83.16.50/LIFETIME/index.m3u8"
+  },
+  {
+   "title": "Loading (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/R0aflu1.png",
+   "playerLabel": "Loading (720p)",
+   "action": "video:https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
+  },
+  {
+   "title": "MacGyver (United States)",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png",
+   "playerLabel": "MacGyver (United States)",
+   "action": "video:https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8"
+  },
+  {
+   "title": "MasterChef",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/lOuySbz.png",
+   "playerLabel": "MasterChef",
+   "action": "video:https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
+  },
+  {
+   "title": "MBC Brasil TV",
+   "titleFooter": "General",
+   "image": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png",
+   "playerLabel": "MBC Brasil TV",
+   "action": "video:https://play.mbcbrasil.tv.br/playlist.m3u8"
+  },
+  {
+   "title": "MCM Pop (580p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/j31lBL7.png",
+   "playerLabel": "MCM Pop (580p)",
+   "action": "video:http://188.115.15.121:8000/play/a014"
+  },
+  {
+   "title": "MKK Web TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/A8Yhtid.png",
+   "playerLabel": "MKK Web TV (720p) [Not 24/7]",
+   "action": "video:https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8"
+  },
+  {
+   "title": "MTV Are you the One?",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
+   "playerLabel": "MTV Are you the One?",
+   "action": "video:https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8"
+  },
+  {
+   "title": "MTV Biggest Pop BR (1080p)",
+   "titleFooter": "Music",
+   "image": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
+   "playerLabel": "MTV Biggest Pop BR (1080p)",
+   "action": "video:https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
+  },
+  {
+   "title": "MTV Catfish (United States) BR (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
+   "playerLabel": "MTV Catfish (United States) BR (720p)",
+   "action": "video:https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8"
+  },
+  {
+   "title": "MTV Classic BR (720p)",
+   "titleFooter": "Music",
+   "image": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+   "playerLabel": "MTV Classic BR (720p)",
+   "action": "video:https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
+  },
+  {
+   "title": "MTV Com o Ex",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",
+   "playerLabel": "MTV Com o Ex",
+   "action": "video:https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8"
+  },
+  {
+   "title": "MTV Dating (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png",
+   "playerLabel": "MTV Dating (United States)",
+   "action": "video:https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
+  },
+  {
+   "title": "MTV Drag",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png",
+   "playerLabel": "MTV Drag",
+   "action": "video:https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8"
+  },
+  {
+   "title": "MTV Jovens e Maes (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",
+   "playerLabel": "MTV Jovens e Maes (720p)",
+   "action": "video:https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8"
+  },
+  {
+   "title": "MTV Pluto TV BR",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
+   "playerLabel": "MTV Pluto TV BR",
+   "action": "video:https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
+  },
+  {
+   "title": "MTV Reality (United States) (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
+   "playerLabel": "MTV Reality (United States) (720p)",
+   "action": "video:https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
+  },
+  {
+   "title": "MTV Rocks",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png",
+   "playerLabel": "MTV Rocks",
+   "action": "video:https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
+  },
+  {
+   "title": "MTV Shore",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",
+   "playerLabel": "MTV Shore",
+   "action": "video:https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8"
+  },
+  {
+   "title": "Music Box Brazil (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/CDPCF2X.png",
+   "playerLabel": "Music Box Brazil (720p)",
+   "action": "video:http://168.197.104.22/MUSIC/index.m3u8"
+  },
+  {
+   "title": "MyTime Movie Network (Brazil) (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/aiGQtzI.png",
+   "playerLabel": "MyTime Movie Network (Brazil) (720p)",
+   "action": "video:https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "N Sports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/7QnJojr.png",
+   "playerLabel": "N Sports (1080p)",
+   "action": "video:https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
+  },
+  {
+   "title": "Naruto Brazil",
+   "titleFooter": "Animation",
+   "image": "https://i.imgur.com/M8X3Kvc.png",
+   "playerLabel": "Naruto Brazil",
+   "action": "video:https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8"
+  },
+  {
+   "title": "NCIS (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
+   "playerLabel": "NCIS (United States)",
+   "action": "video:https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8"
+  },
+  {
+   "title": "Nick Jr. Club (United States) BR (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
+   "playerLabel": "Nick Jr. Club (United States) BR (720p)",
+   "action": "video:https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8"
+  },
+  {
+   "title": "Nickelodeon Classico (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png",
+   "playerLabel": "Nickelodeon Classico (720p)",
+   "action": "video:https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8"
+  },
+  {
+   "title": "Nickelodeon Teen (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
+   "playerLabel": "Nickelodeon Teen (720p)",
+   "action": "video:https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8"
+  },
+  {
+   "title": "Nickelodeon Toons (720p)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
+   "playerLabel": "Nickelodeon Toons (720p)",
+   "action": "video:https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
+  },
+  {
+   "title": "NickOnline Bob Esponja (720p) [Not 24/7]",
+   "titleFooter": "Animation;Kids",
+   "image": "https://x1colegal.com/nickonlinebobesponja.png",
+   "playerLabel": "NickOnline Bob Esponja (720p) [Not 24/7]",
+   "action": "video:https://bob.x1colegal.com/hls/stream.m3u8"
+  },
+  {
+   "title": "NickOnline HD (720p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://x1colegal.com/logo.png",
+   "playerLabel": "NickOnline HD (720p)",
+   "action": "video:https://x1colegal.com/hls/stream.m3u8"
+  },
+  {
+   "title": "Nova Era TV (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/IK3F9Uq.png",
+   "playerLabel": "Nova Era TV (1080p) [Not 24/7]",
+   "action": "video:http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
+  },
+  {
+   "title": "Novo Tempo (720p)",
+   "titleFooter": "Religious",
+   "playerLabel": "Novo Tempo (720p)",
+   "action": "video:http://45.162.64.114/NOVO_TEMPO/index.m3u8"
+  },
+  {
+   "title": "NTV (Brazil) (720p)",
+   "titleFooter": "Entertainment;General",
+   "image": "https://i.imgur.com/n79nkVC.png",
+   "playerLabel": "NTV (Brazil) (720p)",
+   "action": "video:https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
+  },
+  {
+   "title": "Numbers (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png",
+   "playerLabel": "Numbers (United States)",
+   "action": "video:https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
+  },
+  {
+   "title": "O Dia TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/1LUbAVP.png",
+   "playerLabel": "O Dia TV",
+   "action": "video:https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
+  },
+  {
+   "title": "O Encantador de Caes",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/sQn6vvh.png",
+   "playerLabel": "O Encantador de Caes",
+   "action": "video:https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8"
+  },
+  {
+   "title": "O Reino Infantil",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/qoVxc13.png",
+   "playerLabel": "O Reino Infantil",
+   "action": "video:https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8"
+  },
+  {
+   "title": "Oggy e as Baratas Tontas",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",
+   "playerLabel": "Oggy e as Baratas Tontas",
+   "action": "video:https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8"
+  },
+  {
+   "title": "One Piece BR",
+   "titleFooter": "Animation",
+   "image": "https://i.imgur.com/XsvbAWR.png",
+   "playerLabel": "One Piece BR",
+   "action": "video:https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
+  },
+  {
+   "title": "Petlovers TV",
+   "titleFooter": "Entertainment",
+   "image": "https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png",
+   "playerLabel": "Petlovers TV",
+   "action": "video:https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8"
+  },
+  {
+   "title": "Play TV (Brazil) (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Ikrj3lk.png",
+   "playerLabel": "Play TV (Brazil) (720p)",
+   "action": "video:http://45.162.64.114/PLAY_TV/index.m3u8"
+  },
+  {
+   "title": "Plena TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/lH4RT7b.png",
+   "playerLabel": "Plena TV (720p)",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+  },
+  {
+   "title": "Plenitude TV",
+   "titleFooter": "Religious",
+   "playerLabel": "Plenitude TV",
+   "action": "video:https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
+  },
+  {
+   "title": "Pluto TV Aliens",
+   "titleFooter": "Documentary;Series",
+   "image": "https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png",
+   "playerLabel": "Pluto TV Aliens",
+   "action": "video:https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8"
+  },
+  {
+   "title": "Pluto TV Animais",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Animais",
+   "action": "video:https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8"
+  },
+  {
+   "title": "Pluto TV Anime Acao",
+   "titleFooter": "Animation",
+   "image": "https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Anime Acao",
+   "action": "video:https://jmp2.uk/plu-604b79c558393100078faeef.m3u8"
+  },
+  {
+   "title": "Pluto TV Anime BR",
+   "titleFooter": "Animation",
+   "image": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
+   "playerLabel": "Pluto TV Anime BR",
+   "action": "video:https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8"
+  },
+  {
+   "title": "Pluto TV Bang Bang",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Bang Bang",
+   "action": "video:https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8"
+  },
+  {
+   "title": "Pluto TV Canal UOL (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Canal UOL (720p)",
+   "action": "video:https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8"
+  },
+  {
+   "title": "Pluto TV Cine Classicos",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG_1733440556804.png",
+   "playerLabel": "Pluto TV Cine Classicos",
+   "action": "video:https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8"
+  },
+  {
+   "title": "Pluto TV Cine Comedia (United States) BR",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png",
+   "playerLabel": "Pluto TV Cine Comedia (United States) BR",
+   "action": "video:https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8"
+  },
+  {
+   "title": "Pluto TV Cine Comedia Romantica",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Cine Comedia Romantica",
+   "action": "video:https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8"
+  },
+  {
+   "title": "Pluto TV Cine Crime",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Cine Crime",
+   "action": "video:https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8"
+  },
+  {
+   "title": "Pluto TV Cine Drama",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Cine Drama",
+   "action": "video:https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8"
+  },
+  {
+   "title": "Pluto TV Cine Familia",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png",
+   "playerLabel": "Pluto TV Cine Familia",
+   "action": "video:https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8"
+  },
+  {
+   "title": "Pluto TV Cine Inspiracao",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png",
+   "playerLabel": "Pluto TV Cine Inspiracao",
+   "action": "video:https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8"
+  },
+  {
+   "title": "Pluto TV Cine Romance",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png",
+   "playerLabel": "Pluto TV Cine Romance",
+   "action": "video:https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8"
+  },
+  {
+   "title": "Pluto TV Cine Sucessos",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Cine Sucessos",
+   "action": "video:https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8"
+  },
+  {
+   "title": "Pluto TV Cozinha",
+   "titleFooter": "Lifestyle",
+   "image": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Cozinha",
+   "action": "video:https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
+  },
+  {
+   "title": "Pluto TV Desenhos Classicos",
+   "titleFooter": "Classic",
+   "image": "https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Desenhos Classicos",
+   "action": "video:https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
+  },
+  {
+   "title": "Pluto TV Esportes",
+   "titleFooter": "Sports",
+   "image": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
+   "playerLabel": "Pluto TV Esportes",
+   "action": "video:https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
+  },
+  {
+   "title": "Pluto TV Ficcao Cientifica",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Ficcao Cientifica",
+   "action": "video:https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8"
+  },
+  {
+   "title": "Pluto TV Filmes Acao",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Filmes Acao",
+   "action": "video:https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8"
+  },
+  {
+   "title": "Pluto TV Filmes Aventura",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Filmes Aventura",
+   "action": "video:https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8"
+  },
+  {
+   "title": "Pluto TV Filmes de Luta",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png",
+   "playerLabel": "Pluto TV Filmes de Luta",
+   "action": "video:https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8"
+  },
+  {
+   "title": "Pluto TV Filmes Nacionais",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG_1732044719987.png",
+   "playerLabel": "Pluto TV Filmes Nacionais",
+   "action": "video:https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8"
+  },
+  {
+   "title": "Pluto TV Historia (United States)",
+   "titleFooter": "Undefined",
+   "image": "https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png",
+   "playerLabel": "Pluto TV Historia (United States)",
+   "action": "video:https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8"
+  },
+  {
+   "title": "Pluto TV Investigacao",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/JlQq0YJ.png",
+   "playerLabel": "Pluto TV Investigacao",
+   "action": "video:https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8"
+  },
+  {
+   "title": "Pluto TV Junior",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Junior",
+   "action": "video:https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8"
+  },
+  {
+   "title": "Pluto TV Karaoke por Stingray (720p)",
+   "titleFooter": "Music",
+   "image": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Karaoke por Stingray (720p)",
+   "action": "video:https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8"
+  },
+  {
+   "title": "Pluto TV KFOOD",
+   "titleFooter": "Cooking;Lifestyle",
+   "image": "https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png",
+   "playerLabel": "Pluto TV KFOOD",
+   "action": "video:https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8"
+  },
+  {
+   "title": "Pluto TV Kids",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Kids",
+   "action": "video:https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8"
+  },
+  {
+   "title": "Pluto TV Kids Club (United States)",
+   "titleFooter": "Kids",
+   "image": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Kids Club (United States)",
+   "action": "video:https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
+  },
+  {
+   "title": "Pluto TV Minha Obsessao Favorita",
+   "titleFooter": "Education",
+   "image": "https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Minha Obsessao Favorita",
+   "action": "video:https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8"
+  },
+  {
+   "title": "Pluto TV Misterios",
+   "titleFooter": "Education",
+   "image": "https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Misterios",
+   "action": "video:https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8"
+  },
+  {
+   "title": "Pluto TV Natureza",
+   "titleFooter": "Education",
+   "image": "https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Natureza",
+   "action": "video:https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8"
+  },
+  {
+   "title": "Pluto TV Negocio Fechado",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Negocio Fechado",
+   "action": "video:https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8"
+  },
+  {
+   "title": "Pluto TV Netmovies",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Netmovies",
+   "action": "video:https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8"
+  },
+  {
+   "title": "Pluto TV Novelas BR",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Novelas BR",
+   "action": "video:https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8"
+  },
+  {
+   "title": "Pluto TV Paisagens por Stingray (720p)",
+   "titleFooter": "Education",
+   "image": "https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Paisagens por Stingray (720p)",
+   "action": "video:https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8"
+  },
+  {
+   "title": "Pluto TV Policial",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Policial",
+   "action": "video:https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8"
+  },
+  {
+   "title": "Pluto TV Record News (720p)",
+   "titleFooter": "News",
+   "image": "https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Record News (720p)",
+   "action": "video:https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8"
+  },
+  {
+   "title": "Pluto TV Retro",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/wztO3GM.png",
+   "playerLabel": "Pluto TV Retro",
+   "action": "video:https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8"
+  },
+  {
+   "title": "Pluto TV Series Acao",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Series Acao",
+   "action": "video:https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8"
+  },
+  {
+   "title": "Pluto TV Series Comedia",
+   "titleFooter": "Comedy;Series",
+   "image": "https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Series Comedia",
+   "action": "video:https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8"
+  },
+  {
+   "title": "Pluto TV Series Criminais",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Series Criminais",
+   "action": "video:https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8"
+  },
+  {
+   "title": "Pluto TV Series Drama",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Series Drama",
+   "action": "video:https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8"
+  },
+  {
+   "title": "Pluto TV Series Novelescas",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png",
+   "playerLabel": "Pluto TV Series Novelescas",
+   "action": "video:https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8"
+  },
+  {
+   "title": "Pluto TV Series Sci-Fi (United States)",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Series Sci-Fi (United States)",
+   "action": "video:https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8"
+  },
+  {
+   "title": "Pluto TV Shows por Stingray (720p)",
+   "titleFooter": "Music",
+   "image": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Shows por Stingray (720p)",
+   "action": "video:https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8"
+  },
+  {
+   "title": "Pluto TV Terror Trash",
+   "titleFooter": "Movies",
+   "image": "https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Terror Trash",
+   "action": "video:https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
+  },
+  {
+   "title": "Pluto TV Turbo",
+   "titleFooter": "Auto;Documentary",
+   "image": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+   "playerLabel": "Pluto TV Turbo",
+   "action": "video:https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8"
+  },
+  {
+   "title": "Pluto TV Viagens",
+   "titleFooter": "Lifestyle",
+   "image": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
+   "playerLabel": "Pluto TV Viagens",
+   "action": "video:https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8"
+  },
+  {
+   "title": "Pluto TV Vida Real",
+   "titleFooter": "Education",
+   "image": "https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png",
+   "playerLabel": "Pluto TV Vida Real",
+   "action": "video:https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8"
+  },
+  {
+   "title": "Primer TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PMptSP3.png",
+   "playerLabel": "Primer TV (1080p)",
+   "action": "video:http://200.194.238.229:8383/live/primer/playlist.m3u8"
+  },
+  {
+   "title": "Pronto-socorro: Historias De Emergencia",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/0PkyJ3U.png",
+   "playerLabel": "Pronto-socorro: Historias De Emergencia",
+   "action": "video:https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8"
+  },
+  {
+   "title": "RBATV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ZWFxlU1.png",
+   "playerLabel": "RBATV (720p)",
+   "action": "video:https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
+  },
+  {
+   "title": "RCTV Brasil",
+   "titleFooter": "General",
+   "image": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776378749826-jef0fj1ekwq.png",
+   "playerLabel": "RCTV Brasil",
+   "action": "video:https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8"
+  },
+  {
+   "title": "Record (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/sz9gTTr.png",
+   "playerLabel": "Record (720p)",
+   "action": "video:http://170.84.165.204/Record_HD/index.m3u8"
+  },
+  {
+   "title": "Record News (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/HZDRG0K.png",
+   "playerLabel": "Record News (720p)",
+   "action": "video:http://45.162.64.114/RECORD_NEWS/index.m3u8"
+  },
+  {
+   "title": "Record RS (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JLQWoNc.png",
+   "playerLabel": "Record RS (720p) [Geo-blocked]",
+   "action": "video:https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8"
+  },
+  {
+   "title": "RecordTV Belem (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gEEiN10.png",
+   "playerLabel": "RecordTV Belem (720p) [Geo-blocked]",
+   "action": "video:https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8"
+  },
+  {
+   "title": "RecordTV Brasilia (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PZMas8Y.png",
+   "playerLabel": "RecordTV Brasilia (720p) [Geo-blocked]",
+   "action": "video:https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8"
+  },
+  {
+   "title": "RecordTV Goias (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Fdoax1M.png",
+   "playerLabel": "RecordTV Goias (720p) [Geo-blocked]",
+   "action": "video:https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8"
+  },
+  {
+   "title": "RecordTV Interior SP",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/VcHy0fu.png",
+   "playerLabel": "RecordTV Interior SP",
+   "action": "video:http://200.77.176.130:8000/udp/224.0.0.4:49152"
+  },
+  {
+   "title": "RecordTV Itapoan (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/500px-Logotipo_da_RecordTV_Itapoan.png",
+   "playerLabel": "RecordTV Itapoan (720p) [Geo-blocked]",
+   "action": "video:https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8"
+  },
+  {
+   "title": "RecordTV Rio (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/500px-Logotipo_da_RecordTV_Rio.png",
+   "playerLabel": "RecordTV Rio (720p) [Geo-blocked]",
+   "action": "video:https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8"
+  },
+  {
+   "title": "RecordTV Sao Paulo (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png",
+   "playerLabel": "RecordTV Sao Paulo (720p) [Geo-blocked]",
+   "action": "video:https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8"
+  },
+  {
+   "title": "Red Bull TV BR (1080p)",
+   "titleFooter": "Outdoor;Sports",
+   "image": "https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",
+   "playerLabel": "Red Bull TV BR (1080p)",
+   "action": "video:https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
+  },
+  {
+   "title": "Rede Brasil (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TXJKwzZ.png",
+   "playerLabel": "Rede Brasil (1080p)",
+   "action": "video:https://redebrasil.nuvemplay.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Rede CNT Rio de Janeiro (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/jcasAmw.png",
+   "playerLabel": "Rede CNT Rio de Janeiro (720p)",
+   "action": "video:http://45.162.64.114/CNT/index.m3u8"
+  },
+  {
+   "title": "Rede Familia (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7KVFCrQ.png",
+   "playerLabel": "Rede Familia (720p)",
+   "action": "video:http://168.197.104.22/REDE_FAMILIA/index.m3u8"
+  },
+  {
+   "title": "Rede Globo (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/O02TF2r.png",
+   "playerLabel": "Rede Globo (1080p)",
+   "action": "video:https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq"
+  },
+  {
+   "title": "Rede Gospel (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/mttSwgO.png",
+   "playerLabel": "Rede Gospel (1080p)",
+   "action": "video:https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+  },
+  {
+   "title": "Rede Meio Norte (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/KVdTi0M.png",
+   "playerLabel": "Rede Meio Norte (720p)",
+   "action": "video:https://maystreaming.cloudecast.com/redemeio/index.m3u8"
+  },
+  {
+   "title": "Rede Metropole (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/qJx9Zvd.png",
+   "playerLabel": "Rede Metropole (720p)",
+   "action": "video:https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8"
+  },
+  {
+   "title": "Rede Minas (720p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/MtQWAHv.png",
+   "playerLabel": "Rede Minas (720p)",
+   "action": "video:https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
+  },
+  {
+   "title": "Rede NGT (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/ZFN1R4B.png",
+   "playerLabel": "Rede NGT (1080p)",
+   "action": "video:https://isaocorp.cloudecast.com/ngt/index.m3u8"
+  },
+  {
+   "title": "Rede Premium TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/jMHaHAR.png",
+   "playerLabel": "Rede Premium TV (720p)",
+   "action": "video:https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8"
+  },
+  {
+   "title": "Rede RC (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/y9dqo3f.png",
+   "playerLabel": "Rede RC (720p) [Not 24/7]",
+   "action": "video:http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8"
+  },
+  {
+   "title": "Rede Seculo 21 (720p)",
+   "titleFooter": "Religious",
+   "playerLabel": "Rede Seculo 21 (720p)",
+   "action": "video:http://45.162.64.114/REDE_SECULO_21/index.m3u8"
+  },
+  {
+   "title": "Rede SPTV (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kh3LGAP.png",
+   "playerLabel": "Rede SPTV (360p)",
+   "action": "video:https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
+  },
+  {
+   "title": "Rede TV! Mais",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png",
+   "playerLabel": "Rede TV! Mais",
+   "action": "video:https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
+  },
+  {
+   "title": "Rede TV! SD (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ZJgD38F.png",
+   "playerLabel": "Rede TV! SD (720p)",
+   "action": "video:http://45.162.64.114/REDE_TV/index.m3u8"
+  },
+  {
+   "title": "Rede Vida (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/mP1qfp2.png",
+   "playerLabel": "Rede Vida (720p)",
+   "action": "video:http://168.197.104.22/REDE_VIDA/index.m3u8"
+  },
+  {
+   "title": "RedeTV! Parana",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/D8R0Af4.png",
+   "playerLabel": "RedeTV! Parana",
+   "action": "video:https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
+  },
+  {
+   "title": "Retro Cartoon (720p)",
+   "titleFooter": "Classic",
+   "image": "https://i.imgur.com/hIlEfhl.png",
+   "playerLabel": "Retro Cartoon (720p)",
+   "action": "video:https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+  },
+  {
+   "title": "RIT TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Unjs1wi.png",
+   "playerLabel": "RIT TV (1080p)",
+   "action": "video:https://acesso.ecast.site:3648/live/ritlive.m3u8"
+  },
+  {
+   "title": "Santa Cecilia TV (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/KxYsq1d.png",
+   "playerLabel": "Santa Cecilia TV (1080p)",
+   "action": "video:https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8"
+  },
+  {
+   "title": "SBT Cuiaba",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/EZJWQ3i.png",
+   "playerLabel": "SBT Cuiaba",
+   "action": "video:https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
+  },
+  {
+   "title": "SBT Interior (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/IkZfa4j.png",
+   "playerLabel": "SBT Interior (720p)",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+  },
+  {
+   "title": "SBT Kids (1080p) [Geo-blocked]",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/1/19/SBTKids2026.png",
+   "playerLabel": "SBT Kids (1080p) [Geo-blocked]",
+   "action": "video:https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8"
+  },
+  {
+   "title": "SBT Nacional (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/tc1ALuu.png",
+   "playerLabel": "SBT Nacional (1080p)",
+   "action": "video:https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
+  },
+  {
+   "title": "SBT News (720p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg",
+   "playerLabel": "SBT News (720p)",
+   "action": "video:https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
+  },
+  {
+   "title": "SBT Nova Mutum",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",
+   "playerLabel": "SBT Nova Mutum",
+   "action": "video:https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
+  },
+  {
+   "title": "SBT Rondonopolis",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png",
+   "playerLabel": "SBT Rondonopolis",
+   "action": "video:https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
+  },
+  {
+   "title": "Series Classic (720p)",
+   "titleFooter": "Series",
+   "image": "https://storage.googleapis.com/soultv-prod-media/media/img/mobile/featured/bg_mobile.jpg",
+   "playerLabel": "Series Classic (720p)",
+   "action": "video:https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8"
+  },
+  {
+   "title": "Sertao TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/b5xOCsC.png",
+   "playerLabel": "Sertao TV (720p)",
+   "action": "video:http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "SESC TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Mu8O6CV.png",
+   "playerLabel": "SESC TV (1080p)",
+   "action": "video:https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8"
+  },
+  {
+   "title": "Show do Milhao (1080p) [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Show_do_Milh%C3%A3o_Logo_2024.webp",
+   "playerLabel": "Show do Milhao (1080p) [Geo-blocked]",
+   "action": "video:https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8"
+  },
+  {
+   "title": "SIC TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/mHxQyB2.png",
+   "playerLabel": "SIC TV (720p)",
+   "action": "video:https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
+  },
+  {
+   "title": "Smithsonian Channel Pluto TV",
+   "titleFooter": "Documentary",
+   "image": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
+   "playerLabel": "Smithsonian Channel Pluto TV",
+   "action": "video:https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
+  },
+  {
+   "title": "Sony Channel (Brazil) (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
+   "playerLabel": "Sony Channel (Brazil) (720p)",
+   "action": "video:http://170.83.16.50/SONY_CHANNEL/index.m3u8"
+  },
+  {
+   "title": "Sony Movies (720p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+   "playerLabel": "Sony Movies (720p)",
+   "action": "video:http://45.162.64.114/SONY_MOVIES/index.m3u8"
+  },
+  {
+   "title": "SOU TV",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png",
+   "playerLabel": "SOU TV",
+   "action": "video:https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+  },
+  {
+   "title": "South Park: Colecao Cartman",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png",
+   "playerLabel": "South Park: Colecao Cartman",
+   "action": "video:https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8"
+  },
+  {
+   "title": "South Park: Colecao Kenny",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png",
+   "playerLabel": "South Park: Colecao Kenny",
+   "action": "video:https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8"
+  },
+  {
+   "title": "South Park: Colecao Kyle",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png",
+   "playerLabel": "South Park: Colecao Kyle",
+   "action": "video:https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8"
+  },
+  {
+   "title": "South Park: Colecao Stan",
+   "titleFooter": "Animation;Comedy",
+   "image": "https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png",
+   "playerLabel": "South Park: Colecao Stan",
+   "action": "video:https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
+  },
+  {
+   "title": "SporTV 2 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/pBiUnb2.png",
+   "playerLabel": "SporTV 2 (1080p)",
+   "action": "video:http://195.178.110.110/sportv2/index.m3u8"
+  },
+  {
+   "title": "SporTV 3 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/mWOR8pi.png",
+   "playerLabel": "SporTV 3 (1080p)",
+   "action": "video:http://195.178.110.110/sportv3/index.m3u8"
+  },
+  {
+   "title": "Star Trek",
+   "titleFooter": "Series",
+   "image": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",
+   "playerLabel": "Star Trek",
+   "action": "video:https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8"
+  },
+  {
+   "title": "Studio Universal Latin America Brazil (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
+   "playerLabel": "Studio Universal Latin America Brazil (720p)",
+   "action": "video:http://187.102.210.46/universo/index.m3u8"
+  },
+  {
+   "title": "STZ TV (1080p)",
+   "titleFooter": "Culture;News",
+   "image": "https://i.imgur.com/SeF2I7q.png",
+   "playerLabel": "STZ TV (1080p)",
+   "action": "video:https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
+  },
+  {
+   "title": "Tastemade Brasil (720p)",
+   "titleFooter": "Cooking",
+   "image": "https://i.imgur.com/FPy4zF4.png",
+   "playerLabel": "Tastemade Brasil (720p)",
+   "action": "video:https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8"
+  },
+  {
+   "title": "TCM 10 HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/aMuMVvB.png",
+   "playerLabel": "TCM 10 HD (1080p)",
+   "action": "video:https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+  },
+  {
+   "title": "TELE 6 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/p7tt72X.png",
+   "playerLabel": "TELE 6 (720p)",
+   "action": "video:https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+  },
+  {
+   "title": "Telecine Action (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/BHYWG0h.png",
+   "playerLabel": "Telecine Action (1080p)",
+   "action": "video:http://46.151.196.223:14326/"
+  },
+  {
+   "title": "Terra Viva (720p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/wnYsE3O.png",
+   "playerLabel": "Terra Viva (720p)",
+   "action": "video:http://45.162.64.114/TERRAVIVA/index.m3u8"
+  },
+  {
+   "title": "The Pet Collective Brazil (720p)",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/yH7n2dF.png",
+   "playerLabel": "The Pet Collective Brazil (720p)",
+   "action": "video:https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8"
+  },
+  {
+   "title": "TikTok Radio Brasil (1080p)",
+   "titleFooter": "Music",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
+   "playerLabel": "TikTok Radio Brasil (1080p)",
+   "action": "video:https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
+  },
+  {
+   "title": "Times Brasil (720p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",
+   "playerLabel": "Times Brasil (720p)",
+   "action": "video:https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
+  },
+  {
+   "title": "TLC Latin America Brazil (720p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+   "playerLabel": "TLC Latin America Brazil (720p)",
+   "action": "video:http://79.127.238.228:14433"
+  },
+  {
+   "title": "TNT Latin America Brazil (720p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+   "playerLabel": "TNT Latin America Brazil (720p) [Geo-blocked]",
+   "action": "video:http://15.204.246.24:8080/TNTHD/index.m3u8"
+  },
+  {
+   "title": "TNT Novelas Brazil (720p)",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+   "playerLabel": "TNT Novelas Brazil (720p)",
+   "action": "video:http://45.162.64.114/TNT_NOVELAS/index.m3u8"
+  },
+  {
+   "title": "Tokusato",
+   "titleFooter": "Animation",
+   "image": "https://i.imgur.com/tWpjXtl.png",
+   "playerLabel": "Tokusato",
+   "action": "video:https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8"
+  },
+  {
+   "title": "Trace Brazuca HD (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/DFBocPu.png",
+   "playerLabel": "Trace Brazuca HD (1080p)",
+   "action": "video:https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
+  },
+  {
+   "title": "Travel Box Brazil (720p)",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/3tBJERH.png",
+   "playerLabel": "Travel Box Brazil (720p)",
+   "action": "video:http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8"
+  },
+  {
+   "title": "Turma da Monica (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/nrvPPrW.png",
+   "playerLabel": "Turma da Monica (720p)",
+   "action": "video:https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8"
+  },
+  {
+   "title": "TV 3 Curitiba (720p)",
+   "titleFooter": "General",
+   "image": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png",
+   "playerLabel": "TV 3 Curitiba (720p)",
+   "action": "video:https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8"
+  },
+  {
+   "title": "TV A Critica",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/j51rBro.png",
+   "playerLabel": "TV A Critica",
+   "action": "video:https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
+  },
+  {
+   "title": "TV A Folha (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/I7XGMhj.png",
+   "playerLabel": "TV A Folha (720p)",
+   "action": "video:https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+  },
+  {
+   "title": "TV Adorar (720p)",
+   "titleFooter": "General",
+   "image": "https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_Adorar_100x100_s5tW1gW.png",
+   "playerLabel": "TV Adorar (720p)",
+   "action": "video:https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8"
+  },
+  {
+   "title": "TV Aldeia (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rsfnv4Z.png",
+   "playerLabel": "TV Aldeia (720p)",
+   "action": "video:https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
+  },
+  {
+   "title": "TV Alianca Catarinense (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/eqmOhtP.png",
+   "playerLabel": "TV Alianca Catarinense (720p)",
+   "action": "video:https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
+  },
+  {
+   "title": "TV Alternativa (410p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/wM9xXhc.png",
+   "playerLabel": "TV Alternativa (410p)",
+   "action": "video:https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+  },
+  {
+   "title": "TV Aparecida (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/kxrja0X.png",
+   "playerLabel": "TV Aparecida (720p)",
+   "action": "video:http://45.162.64.114/TV_APARECIDA/index.m3u8"
+  },
+  {
+   "title": "TV Arapuan (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3395A2h.png",
+   "playerLabel": "TV Arapuan (720p)",
+   "action": "video:https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+  },
+  {
+   "title": "TV Assembleia Ceara (720p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/UPa1tjs.png",
+   "playerLabel": "TV Assembleia Ceara (720p)",
+   "action": "video:https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8"
+  },
+  {
+   "title": "TV Assembleia Piaui",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/eMguSjM.png",
+   "playerLabel": "TV Assembleia Piaui",
+   "action": "video:https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8"
+  },
+  {
+   "title": "TV Birigui (640p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/z7VlNLR.png",
+   "playerLabel": "TV Birigui (640p)",
+   "action": "video:https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8"
+  },
+  {
+   "title": "TV Brasil (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png",
+   "playerLabel": "TV Brasil (720p)",
+   "action": "video:http://45.162.64.114/TV_BRASIL/index.m3u8"
+  },
+  {
+   "title": "TV Brasil Oeste (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/noqGfuy.png",
+   "playerLabel": "TV Brasil Oeste (720p)",
+   "action": "video:https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
+   "title": "TV BRICS Portuguese (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/vLpm8tN.png",
+   "playerLabel": "TV BRICS Portuguese (1080p)",
+   "action": "video:https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
+  },
+  {
+   "title": "TV Brusque (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/J2EAZPS.png",
+   "playerLabel": "TV Brusque (720p)",
+   "action": "video:https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+  },
+  {
+   "title": "TV Camara (Brazil) (1080p)",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/Sdou1Ab.png",
+   "playerLabel": "TV Camara (Brazil) (1080p)",
+   "action": "video:https://stream3.camara.gov.br/tv1/manifest.m3u8"
+  },
+  {
+   "title": "TV Camara 2 (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/dHrUG1R.png",
+   "playerLabel": "TV Camara 2 (1080p) [Not 24/7]",
+   "action": "video:https://stream3.camara.gov.br/tv2/manifest.m3u8"
+  },
+  {
+   "title": "TV Camara Salvador (288p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/VEXEzSx.png",
+   "playerLabel": "TV Camara Salvador (288p) [Not 24/7]",
+   "action": "video:https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8"
+  },
+  {
+   "title": "TV Cancao Nova (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OaM9hkH.png",
+   "playerLabel": "TV Cancao Nova (720p)",
+   "action": "video:http://45.162.64.114/CANCAO_NOVA/index.m3u8"
+  },
+  {
+   "title": "TV Carioca (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mVWydMw.png",
+   "playerLabel": "TV Carioca (720p)",
+   "action": "video:https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8"
+  },
+  {
+   "title": "TV Cidade de Petropolis (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xUs8gHV.png",
+   "playerLabel": "TV Cidade de Petropolis (1080p) [Not 24/7]",
+   "action": "video:https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8"
+  },
+  {
+   "title": "TV Clube (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/CpXjcyE.png",
+   "playerLabel": "TV Clube (720p)",
+   "action": "video:https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
+  },
+  {
+   "title": "TV Comunitaria (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/uxefHY3.png",
+   "playerLabel": "TV Comunitaria (360p)",
+   "action": "video:https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
+  },
+  {
+   "title": "TV Cultura (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
+   "playerLabel": "TV Cultura (720p)",
+   "action": "video:http://45.162.64.114/TV_CULTURA/index.m3u8"
+  },
+  {
+   "title": "TV Curuca (360p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/JdCKNZ4.png",
+   "playerLabel": "TV Curuca (360p)",
+   "action": "video:https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8"
+  },
+  {
+   "title": "TV das Artes (360p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/fSWaiKt.png",
+   "playerLabel": "TV das Artes (360p)",
+   "action": "video:http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8"
+  },
+  {
+   "title": "TV Destak (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/YoCVrav.png",
+   "playerLabel": "TV Destak (360p)",
+   "action": "video:http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8"
+  },
+  {
+   "title": "TV Diario Macapa (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yAW2Z5j.jpg",
+   "playerLabel": "TV Diario Macapa (1080p) [Not 24/7]",
+   "action": "video:https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8"
+  },
+  {
+   "title": "TV Difusao (720p)",
+   "titleFooter": "General",
+   "image": "https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png",
+   "playerLabel": "TV Difusao (720p)",
+   "action": "video:https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8"
+  },
+  {
+   "title": "TV Difusora Leste (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hEd25Cr.png",
+   "playerLabel": "TV Difusora Leste (1080p)",
+   "action": "video:https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8"
+  },
+  {
+   "title": "TV Digital Birigui (640p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/B5ZTMzY.png",
+   "playerLabel": "TV Digital Birigui (640p)",
+   "action": "video:http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8"
+  },
+  {
+   "title": "TV Empire (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/tT1NVfV.png",
+   "playerLabel": "TV Empire (720p)",
+   "action": "video:https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8"
+  },
+  {
+   "title": "TV Encontro das Aguas",
+   "titleFooter": "General",
+   "playerLabel": "TV Encontro das Aguas",
+   "action": "video:https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8"
+  },
+  {
+   "title": "TV Evangelizar (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/IrYR7Kp.png",
+   "playerLabel": "TV Evangelizar (720p)",
+   "action": "video:http://45.162.64.114/EVANGELIZAR/index.m3u8"
+  },
+  {
+   "title": "TV Fronteira (480i)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NtcoW6G.png",
+   "playerLabel": "TV Fronteira (480i)",
+   "action": "video:https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+  },
+  {
+   "title": "TV Futuro (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xonrNBf.png",
+   "playerLabel": "TV Futuro (1080p)",
+   "action": "video:https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
+  },
+  {
+   "title": "TV Gazeta (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/0sksWse.png",
+   "playerLabel": "TV Gazeta (720p)",
+   "action": "video:http://45.162.64.114/TV_GAZETA/index.m3u8"
+  },
+  {
+   "title": "TV Gazin (720p)",
+   "titleFooter": "General",
+   "image": "https://tvgazin.com.br/wp-content/uploads/2024/03/logo.png",
+   "playerLabel": "TV Gazin (720p)",
+   "action": "video:https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
+  },
+  {
+   "title": "TV Gideoes (1080p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/dDomKND.png",
+   "playerLabel": "TV Gideoes (1080p) [Not 24/7]",
+   "action": "video:https://streaming01.zas.media/gideoes/programacao/playlist.m3u8"
+  },
+  {
+   "title": "TV Globo Sao Paulo (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OoSUg78.png",
+   "playerLabel": "TV Globo Sao Paulo (720p)",
+   "action": "video:http://170.84.165.204/Globo_HD/index.m3u8"
+  },
+  {
+   "title": "TV GRANDE NATAL HDTV BRASIL (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/MTuErdw.png",
+   "playerLabel": "TV GRANDE NATAL HDTV BRASIL (1080p)",
+   "action": "video:http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
+  },
+  {
+   "title": "TV Grao Para (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/1drg0E9.png",
+   "playerLabel": "TV Grao Para (720p)",
+   "action": "video:https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8"
+  },
+  {
+   "title": "TV Guara (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/8PErNBT.png",
+   "playerLabel": "TV Guara (720p) [Not 24/7]",
+   "action": "video:https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
+  },
+  {
+   "title": "TV Interlagos (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/iuQVDpq.jpg",
+   "playerLabel": "TV Interlagos (360p)",
+   "action": "video:https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8"
+  },
+  {
+   "title": "TV Justica (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/rOQKiMO.png",
+   "playerLabel": "TV Justica (720p)",
+   "action": "video:http://45.162.64.114/TV_JUSTICA/index.m3u8"
+  },
+  {
+   "title": "TV Liberdade (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/W6bHHqE.png",
+   "playerLabel": "TV Liberdade (720p) [Not 24/7]",
+   "action": "video:https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8"
+  },
+  {
+   "title": "TV Life America (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/HZI0ilU.png",
+   "playerLabel": "TV Life America (720p)",
+   "action": "video:https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
+  },
+  {
+   "title": "TV Litoral RN (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg",
+   "playerLabel": "TV Litoral RN (720p)",
+   "action": "video:https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
+  },
+  {
+   "title": "TV Mackenzie (480p)",
+   "titleFooter": "Education",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/960px-TV_Mackenzie_logo.svg.png",
+   "playerLabel": "TV Mackenzie (480p)",
+   "action": "video:https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8"
+  },
+  {
+   "title": "TV Mais Marica (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/lgCRX7q.png",
+   "playerLabel": "TV Mais Marica (1080p)",
+   "action": "video:https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8"
+  },
+  {
+   "title": "TV Mana Brasil (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/AFb712e.png",
+   "playerLabel": "TV Mana Brasil (1080p)",
+   "action": "video:https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
+  },
+  {
+   "title": "TV Marajoara (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9d9vBN7.png",
+   "playerLabel": "TV Marajoara (720p)",
+   "action": "video:https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
+  },
+  {
+   "title": "TV Meio (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/1/17/Logotipo_da_TV_Meio.png",
+   "playerLabel": "TV Meio (720p)",
+   "action": "video:https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
+  },
+  {
+   "title": "TV Metropole (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/bJyjLpg.png",
+   "playerLabel": "TV Metropole (720p) [Not 24/7]",
+   "action": "video:https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
+  },
+  {
+   "title": "TV Mon (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Gjan8rl.png",
+   "playerLabel": "TV Mon (720p)",
+   "action": "video:https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8"
+  },
+  {
+   "title": "TV Natal (1080p)",
+   "titleFooter": "Entertainment;General;News",
+   "image": "https://i.imgur.com/wqQmQml.png",
+   "playerLabel": "TV Natal (1080p)",
+   "action": "video:http://185.228.163.146:8000/play/a01y/index.m3u8"
+  },
+  {
+   "title": "TV Padre Cicero (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Y7b29VG.png",
+   "playerLabel": "TV Padre Cicero (720p)",
+   "action": "video:https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
+  },
+  {
+   "title": "TV Pai Eterno (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/iuoXchN.png",
+   "playerLabel": "TV Pai Eterno (720p)",
+   "action": "video:http://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
+  },
+  {
+   "title": "TV Pantanal MS (360p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/0FOmktl.png",
+   "playerLabel": "TV Pantanal MS (360p) [Not 24/7]",
+   "action": "video:https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TV Paraense (720p)",
+   "titleFooter": "Entertainment;Family;General;News",
+   "image": "https://duckduckgo.com/i/e408ea02.png",
+   "playerLabel": "TV Paraense (720p)",
+   "action": "video:https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+  },
+  {
+   "title": "TV Parana Turismo (720p) [Not 24/7]",
+   "titleFooter": "Travel",
+   "image": "https://i.imgur.com/I6pKoBd.png",
+   "playerLabel": "TV Parana Turismo (720p) [Not 24/7]",
+   "action": "video:http://200.189.113.201/hls/tve.m3u8"
+  },
+  {
+   "title": "TV Passo Fundo (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QFE6TiV.png",
+   "playerLabel": "TV Passo Fundo (720p)",
+   "action": "video:https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TV Petropolis (720p)",
+   "titleFooter": "General",
+   "image": "https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png",
+   "playerLabel": "TV Petropolis (720p)",
+   "action": "video:https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
+  },
+  {
+   "title": "TV Profissao",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/c33suOT.png",
+   "playerLabel": "TV Profissao",
+   "action": "video:https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8"
+  },
+  {
+   "title": "TV Ra Tim Bum (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/JIQwz0w.png",
+   "playerLabel": "TV Ra Tim Bum (720p)",
+   "action": "video:http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8"
+  },
+  {
+   "title": "TV Sao Raimundo (268p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/f34CQIG.png",
+   "playerLabel": "TV Sao Raimundo (268p)",
+   "action": "video:https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
+  },
+  {
+   "title": "TV Senado (Brazil) (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/duy6waL.png",
+   "playerLabel": "TV Senado (Brazil) (720p)",
+   "action": "video:http://45.162.64.114/TV_SENADO/index.m3u8"
+  },
+  {
+   "title": "TV Series (480p)",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/Ff5mj0o.png",
+   "playerLabel": "TV Series (480p)",
+   "action": "video:https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+  },
+  {
+   "title": "TV Sim Cachoeiro (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/t5oUK3C.png",
+   "playerLabel": "TV Sim Cachoeiro (720p)",
+   "action": "video:https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+  },
+  {
+   "title": "TV Sim Sao Mateus (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/t5oUK3C.png",
+   "playerLabel": "TV Sim Sao Mateus (720p)",
+   "action": "video:https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+  },
+  {
+   "title": "TV Sol Comunidade (480p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/5cGnb4r.png",
+   "playerLabel": "TV Sol Comunidade (480p) [Not 24/7]",
+   "action": "video:http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8"
+  },
+  {
+   "title": "TV Sul Bahia (320p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/qM6nMWm.png",
+   "playerLabel": "TV Sul Bahia (320p)",
+   "action": "video:https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TV Sul de Minas (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hPh8cxK.png",
+   "playerLabel": "TV Sul de Minas (720p)",
+   "action": "video:https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8"
+  },
+  {
+   "title": "TV Terceiro Anjo (360p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/PExKWNv.png",
+   "playerLabel": "TV Terceiro Anjo (360p)",
+   "action": "video:https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
+  },
+  {
+   "title": "TV Thathi (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/w9yKTxE.png",
+   "playerLabel": "TV Thathi (720p) [Not 24/7]",
+   "action": "video:https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8"
+  },
+  {
+   "title": "TV UFG (720p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/Yp3dbJo.png",
+   "playerLabel": "TV UFG (720p) [Not 24/7]",
+   "action": "video:http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8"
+  },
+  {
+   "title": "TV UFOP (1080p)",
+   "titleFooter": "Culture;Education;Public",
+   "image": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+   "playerLabel": "TV UFOP (1080p)",
+   "action": "video:https://app.tvufop.com.br/hls/tvufop.m3u8"
+  },
+  {
+   "title": "TV Universal (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/TIsk5zN.png",
+   "playerLabel": "TV Universal (480p)",
+   "action": "video:https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TV Vicosa (480p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/TZF55f9.png",
+   "playerLabel": "TV Vicosa (480p)",
+   "action": "video:http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TV Vila Real (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Z1uWe7g.png",
+   "playerLabel": "TV Vila Real (720p)",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
+  },
+  {
+   "title": "TV Zoom (720p)",
+   "titleFooter": "Entertainment;News",
+   "image": "https://i.imgur.com/jCGrjf5.png",
+   "playerLabel": "TV Zoom (720p)",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8"
+  },
+  {
+   "title": "TV+Pet",
+   "titleFooter": "Entertainment",
+   "image": "https://www.tvmaispet.com.br/images/tvpet-logo.png",
+   "playerLabel": "TV+Pet",
+   "action": "video:https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
+  },
+  {
+   "title": "TVC-Rio",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WDiikWv.png",
+   "playerLabel": "TVC-Rio",
+   "action": "video:https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
+  },
+  {
+   "title": "TVCOM Maceio (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/IE7IZzi.png",
+   "playerLabel": "TVCOM Maceio (480p)",
+   "action": "video:https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
+  },
+  {
+   "title": "TVE Bahia (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",
+   "playerLabel": "TVE Bahia (1080p)",
+   "action": "video:http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
+  },
+  {
+   "title": "TVE RS (1080p)",
+   "titleFooter": "Culture;Education",
+   "image": "https://i.imgur.com/MQ6lJpS.png",
+   "playerLabel": "TVE RS (1080p)",
+   "action": "video:https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+  },
+  {
+   "title": "TVideoNews (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/vstHOYx.png",
+   "playerLabel": "TVideoNews (720p) [Not 24/7]",
+   "action": "video:https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
+  },
+  {
+   "title": "TVitape (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XeqcwKe.png",
+   "playerLabel": "TVitape (720p)",
+   "action": "video:https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
+  },
+  {
+   "title": "TVLatinaSat (720p)",
+   "titleFooter": "General",
+   "image": "https://latinasat.com.br/logo.png",
+   "playerLabel": "TVLatinaSat (720p)",
+   "action": "video:https://www.latinasat.com.br/hls/live/stream/index.m3u8"
+  },
+  {
+   "title": "TVMatic Comedy (720p)",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/l5PBcKN.png",
+   "playerLabel": "TVMatic Comedy (720p)",
+   "action": "video:http://cdn.tvmatic.net/comedy.m3u8"
+  },
+  {
+   "title": "TVMatic Crafts (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/l5PBcKN.png",
+   "playerLabel": "TVMatic Crafts (720p)",
+   "action": "video:http://cdn.tvmatic.net/crafts.m3u8"
+  },
+  {
+   "title": "TVMatic Facebook (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/l5PBcKN.png",
+   "playerLabel": "TVMatic Facebook (720p)",
+   "action": "video:http://cdn.tvmatic.net/facebook.m3u8"
+  },
+  {
+   "title": "TVMatic Fight (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/l5PBcKN.png",
+   "playerLabel": "TVMatic Fight (720p)",
+   "action": "video:http://cdn.tvmatic.net/fight.m3u8"
+  },
+  {
+   "title": "TVMatic Funny (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/l5PBcKN.png",
+   "playerLabel": "TVMatic Funny (720p)",
+   "action": "video:http://cdn.tvmatic.net/funny.m3u8"
+  },
+  {
+   "title": "TVMatic TikTok (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/l5PBcKN.png",
+   "playerLabel": "TVMatic TikTok (720p)",
+   "action": "video:http://cdn.tvmatic.net/tiktok.m3u8"
+  },
+  {
+   "title": "TVNBN (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zoHBxn1.png",
+   "playerLabel": "TVNBN (720p)",
+   "action": "video:https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
+  },
+  {
+   "title": "UMA TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/m0RVb79.png",
+   "playerLabel": "UMA TV",
+   "action": "video:https://umatv.nuvemplay.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Unisul TV (720p)",
+   "titleFooter": "Culture;Education",
+   "image": "https://i.imgur.com/N0TvAFz.png",
+   "playerLabel": "Unisul TV (720p)",
+   "action": "video:https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+  },
+  {
+   "title": "UniTV Porto Alegre (480p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/GmA5uuk.png",
+   "playerLabel": "UniTV Porto Alegre (480p)",
+   "action": "video:http://unitvaovivo.ufrgs.br:8080/live.ogg"
+  },
+  {
+   "title": "VEJA+ TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/n0pxHo4.png",
+   "playerLabel": "VEJA+ TV (1080p)",
+   "action": "video:https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8"
+  },
+  {
+   "title": "VRT Channel (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/crszh3d.png",
+   "playerLabel": "VRT Channel (720p)",
+   "action": "video:https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8"
+  },
+  {
+   "title": "WooHoo (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/me622pa.png",
+   "playerLabel": "WooHoo (720p)",
+   "action": "video:http://45.162.64.114/WOOHOO/index.m3u8"
+  }
+ ]
+}

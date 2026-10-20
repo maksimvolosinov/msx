@@ -1,0 +1,21 @@
+{
+ "type": "list",
+ "headline": "Sierra Leone (1)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Mercy TV (Sierra Leone)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/YPAM74x.jpeg",
+   "playerLabel": "Mercy TV (Sierra Leone)",
+   "action": "video:https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8"
+  }
+ ]
+}

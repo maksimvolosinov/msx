@@ -1,0 +1,181 @@
+{
+ "type": "list",
+ "headline": "Afghanistan (24)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "4 Afghanistan",
+   "titleFooter": "Undefined",
+   "playerLabel": "4 Afghanistan",
+   "action": "video:https://4afghls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "ABN Afghanistan (540p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/LI30mAt.png",
+   "playerLabel": "ABN Afghanistan (540p)",
+   "action": "video:https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8"
+  },
+  {
+   "title": "Afghan Nobel Movies (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.ibb.co/zfdbVSm/logo-1.png",
+   "playerLabel": "Afghan Nobel Movies (720p)",
+   "action": "video:https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
+  },
+  {
+   "title": "Afghan Nobel TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
+   "playerLabel": "Afghan Nobel TV (720p)",
+   "action": "video:https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8"
+  },
+  {
+   "title": "Afghanistan International (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/r8MmFRX.png",
+   "playerLabel": "Afghanistan International (720p)",
+   "action": "video:https://hls.afintl.com/hls/stream.m3u8"
+  },
+  {
+   "title": "AMC (Afghanistan) (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/yj8RNnG.png",
+   "playerLabel": "AMC (Afghanistan) (1080p)",
+   "action": "video:https://amchls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Amu TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/KXdvPum.png",
+   "playerLabel": "Amu TV",
+   "action": "video:https://jmc-live.ercdn.net/amutv/amutv.m3u8"
+  },
+  {
+   "title": "Bahar TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nErN-N8qBYQy7YZnf-eAS2A97TFf1Ljs7yv2nxsc6T3A=s160-c-k-c0x00ffffff-no-rj",
+   "playerLabel": "Bahar TV (720p) [Not 24/7]",
+   "action": "video:https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
+  },
+  {
+   "title": "Dunya Naw TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/nQkLgyn/dunya-naw-tv.png",
+   "playerLabel": "Dunya Naw TV (576p)",
+   "action": "video:https://dunyanhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Eslah TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/To7VnsA.png",
+   "playerLabel": "Eslah TV (720p)",
+   "action": "video:https://eslahtvhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Hewad TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/cK2eWUZ.png",
+   "playerLabel": "Hewad TV (720p) [Not 24/7]",
+   "action": "video:http://51.210.199.58/hls/stream.m3u8"
+  },
+  {
+   "title": "Iman TV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Vo6cEYi.png",
+   "playerLabel": "Iman TV (480p)",
+   "action": "video:https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8"
+  },
+  {
+   "title": "Kayhan TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/2MDjU7x.png",
+   "playerLabel": "Kayhan TV (720p)",
+   "action": "video:https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
+  },
+  {
+   "title": "Lemar TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png",
+   "playerLabel": "Lemar TV (720p)",
+   "action": "video:https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8"
+  },
+  {
+   "title": "Maah TV (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/FkyueH6.png",
+   "playerLabel": "Maah TV (720p)",
+   "action": "video:https://hls.maahtv.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Payam-e-Afghan TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/t9wYYY9.png",
+   "playerLabel": "Payam-e-Afghan TV (480p) [Not 24/7]",
+   "action": "video:https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8"
+  },
+  {
+   "title": "RTA (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pJU2KPh.png",
+   "playerLabel": "RTA (1080p)",
+   "action": "video:https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8"
+  },
+  {
+   "title": "Shams TV (Afghanistan)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/Lsy31iZ.jpeg",
+   "playerLabel": "Shams TV (Afghanistan)",
+   "action": "video:https://fflive-darya-educationtv.b-cdn.net/master.m3u8"
+  },
+  {
+   "title": "Shamshad TV [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shamshad_tv_logo.jpg",
+   "playerLabel": "Shamshad TV [Not 24/7]",
+   "action": "video:https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
+  },
+  {
+   "title": "Sharq Radio TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/960px-Sharq_TV_Logo_2020.jpg",
+   "playerLabel": "Sharq Radio TV (1080p)",
+   "action": "video:https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Sohail TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
+   "playerLabel": "Sohail TV (1080p)",
+   "action": "video:https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
+  },
+  {
+   "title": "Tamadon TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/edGyj5H.png",
+   "playerLabel": "Tamadon TV (720p)",
+   "action": "video:https://hls.tamadon.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Tolo TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/TOLO_TV_logo_2016.png",
+   "playerLabel": "Tolo TV",
+   "action": "video:https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "TOLOnews (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/oxaHaTq.png",
+   "playerLabel": "TOLOnews (720p)",
+   "action": "video:https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "type": "list",
+ "headline": "Rwanda (8)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "BTN TV (Rwanda)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WmaP8zP.png",
+   "playerLabel": "BTN TV (Rwanda)",
+   "action": "video:https://tv.btnrwanda.com:3973/live/btnv2live.m3u8"
+  },
+  {
+   "title": "Isango TV (480p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/EfsHaMQ.png",
+   "playerLabel": "Isango TV (480p) [Not 24/7]",
+   "action": "video:http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8"
+  },
+  {
+   "title": "Isibo TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/bXhEeTC.png",
+   "playerLabel": "Isibo TV",
+   "action": "video:https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8"
+  },
+  {
+   "title": "KC2 (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/PsYPzNc.png",
+   "playerLabel": "KC2 (720p) [Not 24/7]",
+   "action": "video:http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8"
+  },
+  {
+   "title": "Rwanda TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4nbGvxW.png",
+   "playerLabel": "Rwanda TV (480p) [Not 24/7]",
+   "action": "video:http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8"
+  },
+  {
+   "title": "TV1 (Rwanda)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nQNOHJx.png",
+   "playerLabel": "TV1 (Rwanda)",
+   "action": "video:https://live.tv1.rw/index.m3u8"
+  },
+  {
+   "title": "TV10 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DeaWC1N.png",
+   "playerLabel": "TV10 (720p)",
+   "action": "video:https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8"
+  },
+  {
+   "title": "Urejesho TV Africa (360p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/u7xDXEt.jpg",
+   "playerLabel": "Urejesho TV Africa (360p) [Not 24/7]",
+   "action": "video:https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8"
+  }
+ ]
+}

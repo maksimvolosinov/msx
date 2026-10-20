@@ -1,0 +1,70 @@
+{
+ "type": "list",
+ "headline": "Algeria (8)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "AL24 News",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/vyVEXYL.png",
+   "playerLabel": "AL24 News",
+   "action": "video:https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8"
+  },
+  {
+   "title": "Amou Yazid TV (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/L8UPGPC.png",
+   "playerLabel": "Amou Yazid TV (576p)",
+   "action": "video:http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8"
+  },
+  {
+   "title": "CNA (Algeria) (360p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Ki3ySUE.png",
+   "playerLabel": "CNA (Algeria) (360p) [Not 24/7]",
+   "action": "video:https://live.creacast.com/cna/stream/playlist.m3u8"
+  },
+  {
+   "title": "El-Heddaf TV (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/cDkIDIA.png",
+   "playerLabel": "El-Heddaf TV (1080p)",
+   "action": "video:https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
+  },
+  {
+   "title": "Elwatania TV (1080i)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NKR8WFq.png",
+   "playerLabel": "Elwatania TV (1080i)",
+   "action": "video:https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8"
+  },
+  {
+   "title": "StoryChannel TV (720p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/ZBV6xph.png",
+   "playerLabel": "StoryChannel TV (720p)",
+   "action": "video:https://136044159.r.cdnsun.net/storychannel.m3u8"
+  },
+  {
+   "title": "TV2 (Algeria) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/VEb631f.png",
+   "playerLabel": "TV2 (Algeria) (1080p)",
+   "action": "video:http://185.9.2.18/chid_347/index.m3u8"
+  },
+  {
+   "title": "TV4 (Algeria) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/BZvdjBN.png",
+   "playerLabel": "TV4 (Algeria) (720p)",
+   "action": "video:http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0"
+  }
+ ]
+}

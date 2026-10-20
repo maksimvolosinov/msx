@@ -1,0 +1,21 @@
+{
+ "type": "list",
+ "headline": "Chad (1)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Tele Tchad (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/udSzfHD.png",
+   "playerLabel": "Tele Tchad (1080p)",
+   "action": "video:https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "type": "list",
+ "headline": "Japan (5)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "GSTV (720p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/ECnVG5I.png",
+   "playerLabel": "GSTV (720p)",
+   "action": "video:https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)"
+  },
+  {
+   "title": "NHK General TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/fAZ2BEZ.png",
+   "playerLabel": "NHK General TV (720p)",
+   "action": "video:https://nhk4.mov3.co/hls/nhk.m3u8"
+  },
+  {
+   "title": "QVC (Japan) (1080p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/6TWUVrh.png",
+   "playerLabel": "QVC (Japan) (1080p)",
+   "action": "video:https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8"
+  },
+  {
+   "title": "Shop Channel (1080p) [Not 24/7]",
+   "titleFooter": "Shop",
+   "image": "https://www.shopch.jp/com/images/common/logo_2021.png",
+   "playerLabel": "Shop Channel (1080p) [Not 24/7]",
+   "action": "video:https://stream3.shopch.jp/HLS/master.m3u8"
+  },
+  {
+   "title": "Weathernews (720p)",
+   "titleFooter": "Weather",
+   "image": "https://i.imgur.com/A8uRSTS.png",
+   "playerLabel": "Weathernews (720p)",
+   "action": "video:https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8"
+  }
+ ]
+}

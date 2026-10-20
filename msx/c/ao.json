@@ -1,0 +1,35 @@
+{
+ "type": "list",
+ "headline": "Angola (3)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "KK TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/jWOB0oU.png",
+   "playerLabel": "KK TV (1080p)",
+   "action": "video:https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
+  },
+  {
+   "title": "Muzangala TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/fBeaJoS.png",
+   "playerLabel": "Muzangala TV (1080p)",
+   "action": "video:https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8"
+  },
+  {
+   "title": "TV Zimbo (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/SFD8CBh.png",
+   "playerLabel": "TV Zimbo (1080p)",
+   "action": "video:https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8"
+  }
+ ]
+}

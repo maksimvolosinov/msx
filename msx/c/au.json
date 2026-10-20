@@ -1,0 +1,511 @@
+{
+ "type": "list",
+ "headline": "Australia (71)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "10 Bold (1080p)",
+   "titleFooter": "Lifestyle;Relax",
+   "image": "https://i.imgur.com/2xglh33.png",
+   "playerLabel": "10 Bold (1080p)",
+   "action": "video:https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
+  },
+  {
+   "title": "2GB (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.ibb.co/jwM8DFG/2GB-1.png",
+   "playerLabel": "2GB (1080p)",
+   "action": "video:https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
+  },
+  {
+   "title": "3AW (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Z4MdB0S.png",
+   "playerLabel": "3AW (1080p)",
+   "action": "video:https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8"
+  },
+  {
+   "title": "6PR (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Q9iCxg1.png",
+   "playerLabel": "6PR (1080p)",
+   "action": "video:https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8"
+  },
+  {
+   "title": "9Gem (720p) [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/cwLzqaw.png",
+   "playerLabel": "9Gem (720p) [Geo-blocked]",
+   "action": "video:https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8"
+  },
+  {
+   "title": "9Go! (720p) [Geo-blocked]",
+   "titleFooter": "Entertainment;Kids",
+   "image": "https://i.imgur.com/RLijQI8.png",
+   "playerLabel": "9Go! (720p) [Geo-blocked]",
+   "action": "video:https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8"
+  },
+  {
+   "title": "9Life (720p) [Geo-blocked]",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/HlJOrGI.png",
+   "playerLabel": "9Life (720p) [Geo-blocked]",
+   "action": "video:https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8"
+  },
+  {
+   "title": "ABC Entertains (720p)",
+   "titleFooter": "Education;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",
+   "playerLabel": "ABC Entertains (720p)",
+   "action": "video:https://c.mjh.nz/abc-me.m3u8"
+  },
+  {
+   "title": "ABC Kids",
+   "titleFooter": "Kids",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+   "playerLabel": "ABC Kids",
+   "action": "video:https://c.mjh.nz/abc-kids.m3u8"
+  },
+  {
+   "title": "ABC News (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/BrW7gk8.png",
+   "playerLabel": "ABC News (720p)",
+   "action": "video:https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
+  },
+  {
+   "title": "ABC TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DPVQSjM.png",
+   "playerLabel": "ABC TV (720p)",
+   "action": "video:https://c.mjh.nz/abc-nsw.m3u8"
+  },
+  {
+   "title": "ABC TV ACT (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DPVQSjM.png",
+   "playerLabel": "ABC TV ACT (720p)",
+   "action": "video:https://c.mjh.nz/abc-act.m3u8"
+  },
+  {
+   "title": "ABC TV NT (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DPVQSjM.png",
+   "playerLabel": "ABC TV NT (720p)",
+   "action": "video:https://c.mjh.nz/abc-nt.m3u8"
+  },
+  {
+   "title": "ABC TV Plus (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png",
+   "playerLabel": "ABC TV Plus (720p)",
+   "action": "video:https://c.mjh.nz/abc-tv-plus.m3u8"
+  },
+  {
+   "title": "ABC TV QLD (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DPVQSjM.png",
+   "playerLabel": "ABC TV QLD (720p)",
+   "action": "video:https://c.mjh.nz/abc-qld.m3u8"
+  },
+  {
+   "title": "ABC TV SA (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DPVQSjM.png",
+   "playerLabel": "ABC TV SA (720p)",
+   "action": "video:https://c.mjh.nz/abc-sa.m3u8"
+  },
+  {
+   "title": "ABC TV TAS (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DPVQSjM.png",
+   "playerLabel": "ABC TV TAS (720p)",
+   "action": "video:https://c.mjh.nz/abc-tas.m3u8"
+  },
+  {
+   "title": "ABC TV VIC (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DPVQSjM.png",
+   "playerLabel": "ABC TV VIC (720p)",
+   "action": "video:https://c.mjh.nz/abc-vic.m3u8"
+  },
+  {
+   "title": "ABC TV WA (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DPVQSjM.png",
+   "playerLabel": "ABC TV WA (720p)",
+   "action": "video:https://c.mjh.nz/abc-wa.m3u8"
+  },
+  {
+   "title": "Adventure Earth (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
+   "playerLabel": "Adventure Earth (1080p)",
+   "action": "video:https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8"
+  },
+  {
+   "title": "Angel TV Australia (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/qKLEGU7.png",
+   "playerLabel": "Angel TV Australia (720p)",
+   "action": "video:https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8"
+  },
+  {
+   "title": "Ausbiz TV (720p) [Not 24/7]",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/8vGGdB0.png",
+   "playerLabel": "Ausbiz TV (720p) [Not 24/7]",
+   "action": "video:https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"
+  },
+  {
+   "title": "Autentic History (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
+   "playerLabel": "Autentic History (1080p)",
+   "action": "video:https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8"
+  },
+  {
+   "title": "Autentic Travel (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
+   "playerLabel": "Autentic Travel (1080p)",
+   "action": "video:https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8"
+  },
+  {
+   "title": "Bloomberg TV Australia (270p)",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/OuogLHx.png",
+   "playerLabel": "Bloomberg TV Australia (270p)",
+   "action": "video:https://bloomberg.com/media-manifest/streams/aus.m3u8"
+  },
+  {
+   "title": "C31 Melbourne (240p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Ge1EutY.png",
+   "playerLabel": "C31 Melbourne (240p)",
+   "action": "video:https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"
+  },
+  {
+   "title": "Channel 44 (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/P2wUGh9.png",
+   "playerLabel": "Channel 44 (480p)",
+   "action": "video:https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"
+  },
+  {
+   "title": "Channel 9 (Australia) (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+   "playerLabel": "Channel 9 (Australia) (720p) [Geo-blocked]",
+   "action": "video:https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8"
+  },
+  {
+   "title": "Channel 9 (Australia) Adelaide (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+   "playerLabel": "Channel 9 (Australia) Adelaide (720p) [Geo-blocked]",
+   "action": "video:https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8"
+  },
+  {
+   "title": "Channel 9 (Australia) Brisbane (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+   "playerLabel": "Channel 9 (Australia) Brisbane (720p) [Geo-blocked]",
+   "action": "video:https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8"
+  },
+  {
+   "title": "Channel 9 (Australia) Perth (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+   "playerLabel": "Channel 9 (Australia) Perth (720p) [Geo-blocked]",
+   "action": "video:https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8"
+  },
+  {
+   "title": "Cricket Gold (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+   "playerLabel": "Cricket Gold (1080p)",
+   "action": "video:https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+  },
+  {
+   "title": "CTB Perth (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/VB8gtCy.jpeg",
+   "playerLabel": "CTB Perth (720p)",
+   "action": "video:https://live.ctbperth.net.au/hls/0/stream.m3u8"
+  },
+  {
+   "title": "CTB Perth Movies Channel (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/VB8gtCy.jpeg",
+   "playerLabel": "CTB Perth Movies Channel (720p)",
+   "action": "video:https://movies.ctbperth.net.au/hls/stream.m3u8"
+  },
+  {
+   "title": "Euronews French (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/8t9mdg9.png",
+   "playerLabel": "Euronews French (720p)",
+   "action": "video:https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8"
+  },
+  {
+   "title": "Expo Channel (360p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/2KzCShW.png",
+   "playerLabel": "Expo Channel (360p)",
+   "action": "video:https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8"
+  },
+  {
+   "title": "Folk Klub TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Seq7Od7.png",
+   "playerLabel": "Folk Klub TV (720p)",
+   "action": "video:http://tv1.intv.mk:1935/live2/folkklub/index.m3u8"
+  },
+  {
+   "title": "Fox Sports News (1080p)",
+   "titleFooter": "News;Sports",
+   "image": "https://i.imgur.com/FhMQrJk.png",
+   "playerLabel": "Fox Sports News (1080p)",
+   "action": "video:https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8"
+  },
+  {
+   "title": "Hope Channel Australia (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/8Zs7rDm.png",
+   "playerLabel": "Hope Channel Australia (1080p)",
+   "action": "video:https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8"
+  },
+  {
+   "title": "Horse & Country TV (1080p)",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/1x6zYZr.png",
+   "playerLabel": "Horse & Country TV (1080p)",
+   "action": "video:https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8"
+  },
+  {
+   "title": "INTV Australia (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/1nJl0Pv.png",
+   "playerLabel": "INTV Australia (720p)",
+   "action": "video:http://tv1.intv.mk:1935/live/intv/index.m3u8"
+  },
+  {
+   "title": "JonmoBhumi TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2snahLk.png",
+   "playerLabel": "JonmoBhumi TV (720p)",
+   "action": "video:https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8"
+  },
+  {
+   "title": "Juice TV (1080p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/WaaaW0w.png",
+   "playerLabel": "Juice TV (1080p) [Not 24/7]",
+   "action": "video:https://juicex.nz/hls/mystream.m3u8"
+  },
+  {
+   "title": "Kordia TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/BQ0qWzX.png",
+   "playerLabel": "Kordia TV (1080p)",
+   "action": "video:https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8"
+  },
+  {
+   "title": "MIS Televizija (720p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/qvrNVFg.png",
+   "playerLabel": "MIS Televizija (720p) [Not 24/7]",
+   "action": "video:https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8"
+  },
+  {
+   "title": "Mission Asia (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/B5mKwF6.png",
+   "playerLabel": "Mission Asia (1080p)",
+   "action": "video:https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8"
+  },
+  {
+   "title": "MovieSphere AU (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/h1ejU90.png",
+   "playerLabel": "MovieSphere AU (1080p)",
+   "action": "video:https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8"
+  },
+  {
+   "title": "Mr Bean Animated (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+   "playerLabel": "Mr Bean Animated (1080p)",
+   "action": "video:https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+   "title": "NatureTime AU (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/72JmyjM.png",
+   "playerLabel": "NatureTime AU (1080p)",
+   "action": "video:https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8"
+  },
+  {
+   "title": "News24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/KagpoPN.png",
+   "playerLabel": "News24 (1080p)",
+   "action": "video:https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8"
+  },
+  {
+   "title": "News24 World",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/mzc1nJS.png",
+   "playerLabel": "News24 World",
+   "action": "video:https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8"
+  },
+  {
+   "title": "PBC Tapesh TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/50JzsmH.png",
+   "playerLabel": "PBC Tapesh TV (720p)",
+   "action": "video:https://iptv.tapesh.tv/tapesh/playlist.m3u8"
+  },
+  {
+   "title": "Racing.com (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/Q55HX1O.png",
+   "playerLabel": "Racing.com (720p)",
+   "action": "video:https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
+  },
+  {
+   "title": "Shalom World Australia (1080p) [Geo-blocked]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/wnNd3b8.png",
+   "playerLabel": "Shalom World Australia (1080p) [Geo-blocked]",
+   "action": "video:https://broadcaster-1.cclouds.in/srt-3/channel3_abr/playlist.m3u8"
+  },
+  {
+   "title": "Shalom World Prayer (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/uUrTto3.png",
+   "playerLabel": "Shalom World Prayer (1080p)",
+   "action": "video:https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8"
+  },
+  {
+   "title": "Sky News Extra 1 (540p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ZsPb8nL.png",
+   "playerLabel": "Sky News Extra 1 (540p)",
+   "action": "video:https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"
+  },
+  {
+   "title": "Sky News Extra 2 (540p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ZsPb8nL.png",
+   "playerLabel": "Sky News Extra 2 (540p) [Not 24/7]",
+   "action": "video:https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8"
+  },
+  {
+   "title": "Sky News Extra 3 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ZsPb8nL.png",
+   "playerLabel": "Sky News Extra 3 (1080p)",
+   "action": "video:https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8"
+  },
+  {
+   "title": "Sky News Weather Channel",
+   "titleFooter": "Weather",
+   "image": "https://i.imgur.com/FKg6AQr.png",
+   "playerLabel": "Sky News Weather Channel",
+   "action": "video:https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8"
+  },
+  {
+   "title": "Sky Racing 1 (720p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/Hf0EiaW.png",
+   "playerLabel": "Sky Racing 1 (720p)",
+   "action": "video:https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8"
+  },
+  {
+   "title": "Sky Racing 2 (720p) [Geo-blocked]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/TxQvFnQ.png",
+   "playerLabel": "Sky Racing 2 (720p) [Geo-blocked]",
+   "action": "video:https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8"
+  },
+  {
+   "title": "Star Channel International (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/6NUpxhr.png",
+   "playerLabel": "Star Channel International (720p)",
+   "action": "video:https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
+  },
+  {
+   "title": "Swamiji TV Australian (1080p) [Not 24/7]",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/nrLcuzs.png",
+   "playerLabel": "Swamiji TV Australian (1080p) [Not 24/7]",
+   "action": "video:https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8"
+  },
+  {
+   "title": "TBN Inspire (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/GSM0Pkr.png",
+   "playerLabel": "TBN Inspire (1080p)",
+   "action": "video:https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8"
+  },
+  {
+   "title": "The Chat Show Channel (1080p)",
+   "titleFooter": "Comedy;Series",
+   "image": "https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj",
+   "playerLabel": "The Chat Show Channel (1080p)",
+   "action": "video:https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8"
+  },
+  {
+   "title": "The Pet Collective Australia (720p)",
+   "titleFooter": "Family",
+   "image": "https://i.imgur.com/yH7n2dF.png",
+   "playerLabel": "The Pet Collective Australia (720p)",
+   "action": "video:https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+   "title": "ticker News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/z7M0QxV.png",
+   "playerLabel": "ticker News (1080p)",
+   "action": "video:https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8"
+  },
+  {
+   "title": "ToonGoggles (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/JMnxswq.png",
+   "playerLabel": "ToonGoggles (720p)",
+   "action": "video:https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8"
+  },
+  {
+   "title": "TVSN (1080p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/lmoAFm3.png",
+   "playerLabel": "TVSN (1080p)",
+   "action": "video:https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
+  },
+  {
+   "title": "TVSN Beauty (1080p)",
+   "titleFooter": "Shop",
+   "image": "https://i.imgur.com/lmoAFm3.png",
+   "playerLabel": "TVSN Beauty (1080p)",
+   "action": "video:https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8"
+  },
+  {
+   "title": "WeatherSpy (Australia) (720p)",
+   "titleFooter": "Weather",
+   "image": "https://i.imgur.com/GTxN2nH.png",
+   "playerLabel": "WeatherSpy (Australia) (720p)",
+   "action": "video:https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8"
+  }
+ ]
+}

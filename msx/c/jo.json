@@ -1,0 +1,146 @@
+{
+ "type": "list",
+ "headline": "Jordan (19)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Alerth Alnabawi Channel (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/iYibJxK.png",
+   "playerLabel": "Alerth Alnabawi Channel (576p)",
+   "action": "video:http://82.212.74.2:8000/live/7307.m3u8"
+  },
+  {
+   "title": "Alhaqeqa Aldawlia (1080p) [Not 24/7]",
+   "titleFooter": "News",
+   "playerLabel": "Alhaqeqa Aldawlia (1080p) [Not 24/7]",
+   "action": "video:https://ghaasiflu.online/alhqeqa/index.m3u8"
+  },
+  {
+   "title": "Altaghier TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/YTyCBvB.png",
+   "playerLabel": "Altaghier TV (1080p)",
+   "action": "video:https://jmc-live.ercdn.net/altaghier/altaghier.m3u8"
+  },
+  {
+   "title": "Amman TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5l7kw0b.png",
+   "playerLabel": "Amman TV (720p)",
+   "action": "video:https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8"
+  },
+  {
+   "title": "Jordan Archive (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/8UrCl4k.png",
+   "playerLabel": "Jordan Archive (1080p)",
+   "action": "video:https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8"
+  },
+  {
+   "title": "Jordan Comedy (1080p)",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/DuwwoO2.png",
+   "playerLabel": "Jordan Comedy (1080p)",
+   "action": "video:https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8"
+  },
+  {
+   "title": "Jordan Drama (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/gvIAEsJ.png",
+   "playerLabel": "Jordan Drama (1080p)",
+   "action": "video:https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8"
+  },
+  {
+   "title": "Jordan Kitchen (1080p)",
+   "titleFooter": "Cooking",
+   "image": "https://i.imgur.com/B45qcQX.png",
+   "playerLabel": "Jordan Kitchen (1080p)",
+   "action": "video:https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8"
+  },
+  {
+   "title": "Jordan Songs (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/1DE7Gmw.png",
+   "playerLabel": "Jordan Songs (1080p)",
+   "action": "video:https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8"
+  },
+  {
+   "title": "Jordan Sport (1080p) [Geo-blocked]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/2EmrZPQ.png",
+   "playerLabel": "Jordan Sport (1080p) [Geo-blocked]",
+   "action": "video:https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8"
+  },
+  {
+   "title": "Jordan Tourism (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/gpeIoU9.png",
+   "playerLabel": "Jordan Tourism (1080p)",
+   "action": "video:https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8"
+  },
+  {
+   "title": "Jordan TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0XozB5N.png",
+   "playerLabel": "Jordan TV (1080p)",
+   "action": "video:https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
+  },
+  {
+   "title": "Kaifa TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zGGeSQg.png",
+   "playerLabel": "Kaifa TV (576p)",
+   "action": "video:http://82.212.74.2:8000/live/7311.m3u8"
+  },
+  {
+   "title": "Melody FM (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/J8omcNz.png",
+   "playerLabel": "Melody FM (720p) [Not 24/7]",
+   "action": "video:https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
+  },
+  {
+   "title": "Radio Fann Jordan Studio (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://cdn-profiles.tunein.com/s142626/images/logod.jpg",
+   "playerLabel": "Radio Fann Jordan Studio (1080p) [Not 24/7]",
+   "action": "video:http://45.63.116.205/hls2/stream1.m3u8"
+  },
+  {
+   "title": "Radio Yaqeen Jordan City View (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/wHOQU0R.png",
+   "playerLabel": "Radio Yaqeen Jordan City View (1080p) [Not 24/7]",
+   "action": "video:http://45.63.116.205/hls4/stream1.m3u8"
+  },
+  {
+   "title": "Rotana Radio Jordan Studio (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xGDjlp5.png",
+   "playerLabel": "Rotana Radio Jordan Studio (1080p) [Not 24/7]",
+   "action": "video:http://45.63.116.205/hls/stream1.m3u8"
+  },
+  {
+   "title": "Rotana Tarab Jordan City View (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/NjgOBts.png",
+   "playerLabel": "Rotana Tarab Jordan City View (720p) [Not 24/7]",
+   "action": "video:http://45.63.116.205/hls3/stream1.m3u8"
+  },
+  {
+   "title": "Roya TV (Jordan) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WX80rty.png",
+   "playerLabel": "Roya TV (Jordan) (1080p)",
+   "action": "video:https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8"
+  }
+ ]
+}

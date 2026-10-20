@@ -1,0 +1,43 @@
+{
+ "headline": "IPTV by Country",
+ "menu": [
+  {
+   "icon": "public",
+   "label": "All countries",
+   "data": "https://maksimvolosinov.github.io/msx/msx/countries.json"
+  },
+  {
+   "type": "separator"
+  },
+  {
+   "icon": "flag",
+   "label": "Lithuania",
+   "data": "https://maksimvolosinov.github.io/msx/msx/c/lt.json"
+  },
+  {
+   "icon": "flag",
+   "label": "Latvia",
+   "data": "https://maksimvolosinov.github.io/msx/msx/c/lv.json"
+  },
+  {
+   "icon": "flag",
+   "label": "Estonia",
+   "data": "https://maksimvolosinov.github.io/msx/msx/c/ee.json"
+  },
+  {
+   "icon": "flag",
+   "label": "Poland",
+   "data": "https://maksimvolosinov.github.io/msx/msx/c/pl.json"
+  },
+  {
+   "icon": "flag",
+   "label": "United States",
+   "data": "https://maksimvolosinov.github.io/msx/msx/c/us.json"
+  },
+  {
+   "icon": "flag",
+   "label": "Germany",
+   "data": "https://maksimvolosinov.github.io/msx/msx/c/de.json"
+  }
+ ]
+}

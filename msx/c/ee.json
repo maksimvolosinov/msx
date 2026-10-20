@@ -1,0 +1,130 @@
+{
+ "type": "list",
+ "headline": "Estonia (17)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Best of Dance TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",
+   "playerLabel": "Best of Dance TV (1080p)",
+   "action": "video:https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8"
+  },
+  {
+   "title": "DanceTV Algorhythm (1080p)",
+   "titleFooter": "Music",
+   "playerLabel": "DanceTV Algorhythm (1080p)",
+   "action": "video:https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8"
+  },
+  {
+   "title": "DanceTV Deep House District (1080p)",
+   "titleFooter": "Music",
+   "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png",
+   "playerLabel": "DanceTV Deep House District (1080p)",
+   "action": "video:https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8"
+  },
+  {
+   "title": "DanceTV EDM Mainstage (1080p)",
+   "titleFooter": "Music",
+   "playerLabel": "DanceTV EDM Mainstage (1080p)",
+   "action": "video:https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
+  },
+  {
+   "title": "DanceTV House Floor (1080p)",
+   "titleFooter": "Music",
+   "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png",
+   "playerLabel": "DanceTV House Floor (1080p)",
+   "action": "video:https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8"
+  },
+  {
+   "title": "DanceTV Minimal Tech (1080p)",
+   "titleFooter": "Music",
+   "playerLabel": "DanceTV Minimal Tech (1080p)",
+   "action": "video:https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8"
+  },
+  {
+   "title": "DanceTV Techno Warehouse (1080p)",
+   "titleFooter": "Music",
+   "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png",
+   "playerLabel": "DanceTV Techno Warehouse (1080p)",
+   "action": "video:https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8"
+  },
+  {
+   "title": "ETV (Estonia) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5URjPgG.png",
+   "playerLabel": "ETV (Estonia) (720p)",
+   "action": "video:https://sb.err.ee/live/etv.m3u8"
+  },
+  {
+   "title": "ETV 2 (720p)",
+   "titleFooter": "Culture;Kids",
+   "image": "https://i.imgur.com/fUjGHDa.png",
+   "playerLabel": "ETV 2 (720p)",
+   "action": "video:https://sb.err.ee/live/etv2.m3u8"
+  },
+  {
+   "title": "ETV+ (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
+   "playerLabel": "ETV+ (720p)",
+   "action": "video:https://sb.err.ee/live/etvpluss.m3u8"
+  },
+  {
+   "title": "Kino 24 (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/QAdDARF.png",
+   "playerLabel": "Kino 24 (720p)",
+   "action": "video:http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+  },
+  {
+   "title": "Life TV (Estonia) (432p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/JhrTB82.png",
+   "playerLabel": "Life TV (Estonia) (432p) [Not 24/7]",
+   "action": "video:http://lifetv.bitflip.ee/live/stream1_1/index.m3u8"
+  },
+  {
+   "title": "OTV (Estonia)",
+   "titleFooter": "Entertainment",
+   "image": "https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg",
+   "playerLabel": "OTV (Estonia)",
+   "action": "video:http://88.212.15.17/live/otv/playlist.m3u8"
+  },
+  {
+   "title": "Riigikogu (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/dJRGDt2.png",
+   "playerLabel": "Riigikogu (720p)",
+   "action": "video:https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005"
+  },
+  {
+   "title": "Taevas TV7 (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/usXedIj.png",
+   "playerLabel": "Taevas TV7 (720p)",
+   "action": "video:https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8"
+  },
+  {
+   "title": "TBN Baltia (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/rKBaK56.png",
+   "playerLabel": "TBN Baltia (1080p)",
+   "action": "video:http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8"
+  },
+  {
+   "title": "Viasat Kino Action (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/HwsNIDK.png",
+   "playerLabel": "Viasat Kino Action (576p)",
+   "action": "video:http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8"
+  }
+ ]
+}

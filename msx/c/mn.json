@@ -1,0 +1,42 @@
+{
+ "type": "list",
+ "headline": "Mongolia (4)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "DreamTV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://www.mongolsat.mn/assets/img/channel/701.png",
+   "playerLabel": "DreamTV (1080p)",
+   "action": "video:https://xykt-fix.github.io/play/a02j/index.m3u8"
+  },
+  {
+   "title": "MNB Sport (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/z854PC3.png",
+   "playerLabel": "MNB Sport (1080p)",
+   "action": "video:https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
+  },
+  {
+   "title": "Seven Channel (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9Ld5ATz.png",
+   "playerLabel": "Seven Channel (720p) [Not 24/7]",
+   "action": "video:https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8"
+  },
+  {
+   "title": "TV5Monde France Belgium Switzerland Monaco",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WmRbudc.png",
+   "playerLabel": "TV5Monde France Belgium Switzerland Monaco",
+   "action": "video:http://5.78.65.164/TV5Monde/index.m3u8"
+  }
+ ]
+}

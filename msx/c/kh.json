@@ -1,0 +1,195 @@
+{
+ "type": "list",
+ "headline": "Cambodia (26)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Apsara TV11 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9wJe71I.png",
+   "playerLabel": "Apsara TV11 (720p)",
+   "action": "video:https://live.ams.com.kh/app/stream/playlist.m3u8"
+  },
+  {
+   "title": "ARDB TV (1080p) [Not 24/7]",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/yOncWla.png",
+   "playerLabel": "ARDB TV (1080p) [Not 24/7]",
+   "action": "video:https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+  },
+  {
+   "title": "Bayon TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Gry2KEN.jpg",
+   "playerLabel": "Bayon TV",
+   "action": "video:https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8"
+  },
+  {
+   "title": "BTV News (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/sUHiRj3.png",
+   "playerLabel": "BTV News (720p)",
+   "action": "video:https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8"
+  },
+  {
+   "title": "CTN (Cambodia) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/r523kOq.png",
+   "playerLabel": "CTN (Cambodia) [Not 24/7]",
+   "action": "video:https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8"
+  },
+  {
+   "title": "CTV 9 (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/jgVJt2G.png",
+   "playerLabel": "CTV 9 (1080p)",
+   "action": "video:http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8"
+  },
+  {
+   "title": "CTV8 HD",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yrdr4Po.png",
+   "playerLabel": "CTV8 HD",
+   "action": "video:https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8"
+  },
+  {
+   "title": "D Music (1280p) [Not 24/7]",
+   "titleFooter": "Music",
+   "playerLabel": "D Music (1280p) [Not 24/7]",
+   "action": "video:http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8"
+  },
+  {
+   "title": "EAC News TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/EuYhS9Z.png",
+   "playerLabel": "EAC News TV",
+   "action": "video:https://live.eac-news.com/LiveApp/streams/eacnews.m3u8"
+  },
+  {
+   "title": "EBC General Education (720p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+   "playerLabel": "EBC General Education (720p) [Not 24/7]",
+   "action": "video:https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
+  },
+  {
+   "title": "Fresh News",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/bV6sawt.png",
+   "playerLabel": "Fresh News",
+   "action": "video:http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8"
+  },
+  {
+   "title": "Hang Meas HDTV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/P8oOR8I.png",
+   "playerLabel": "Hang Meas HDTV (720p)",
+   "action": "video:http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8"
+  },
+  {
+   "title": "iTV HD",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/qIPvw8N.jpg",
+   "playerLabel": "iTV HD",
+   "action": "video:https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8"
+  },
+  {
+   "title": "Komsan TV [Not 24/7]",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/SNTf2r3.png",
+   "playerLabel": "Komsan TV [Not 24/7]",
+   "action": "video:http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8"
+  },
+  {
+   "title": "My TV (Cambodia) (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/lhxRefQ.png",
+   "playerLabel": "My TV (Cambodia) (576p)",
+   "action": "video:https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8"
+  },
+  {
+   "title": "NTV (Cambodia)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/SoBhuIb.png",
+   "playerLabel": "NTV (Cambodia)",
+   "action": "video:http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8"
+  },
+  {
+   "title": "One TV E-School Cambodia (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/wLzVdeT.png",
+   "playerLabel": "One TV E-School Cambodia (1080p)",
+   "action": "video:http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8"
+  },
+  {
+   "title": "Rasmey Hang Meas HDTV",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/EcqEMMg.png",
+   "playerLabel": "Rasmey Hang Meas HDTV",
+   "action": "video:https://live.happywatch99.com/rhm/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8"
+  },
+  {
+   "title": "RTM ASEAN",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/skAiUxg.png",
+   "playerLabel": "RTM ASEAN",
+   "action": "video:https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+  },
+  {
+   "title": "Sangkem TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/728fAcC.png",
+   "playerLabel": "Sangkem TV",
+   "action": "video:https://live.sangkemtv.com/memfs/sangkem.m3u8"
+  },
+  {
+   "title": "SEA TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/oZPorvg.png",
+   "playerLabel": "SEA TV (1080p)",
+   "action": "video:https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
+  },
+  {
+   "title": "Town TV",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/9fUGvVG.png",
+   "playerLabel": "Town TV",
+   "action": "video:https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8"
+  },
+  {
+   "title": "TV5 Cambodia",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/iMZLyoX.png",
+   "playerLabel": "TV5 Cambodia",
+   "action": "video:https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8"
+  },
+  {
+   "title": "TVK (Cambodia) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5hPxjcl.png",
+   "playerLabel": "TVK (Cambodia) (720p)",
+   "action": "video:https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8"
+  },
+  {
+   "title": "TVK 2 (720p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/L36ptO2.png",
+   "playerLabel": "TVK 2 (720p)",
+   "action": "video:https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
+  },
+  {
+   "title": "Wiki TV (720p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/rnV0Ui1.png",
+   "playerLabel": "Wiki TV (720p)",
+   "action": "video:https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+  }
+ ]
+}

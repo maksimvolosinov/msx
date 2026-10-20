@@ -1,0 +1,49 @@
+{
+ "type": "list",
+ "headline": "Monaco (5)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "MCM Pop (580p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/j31lBL7.png",
+   "playerLabel": "MCM Pop (580p)",
+   "action": "video:http://188.115.15.121:8000/play/a014"
+  },
+  {
+   "title": "Monaco Info (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/dIrKYH7.png",
+   "playerLabel": "Monaco Info (1080p)",
+   "action": "video:https://webtv.monacoinfo.com/live/prod/index.m3u8"
+  },
+  {
+   "title": "RTL9 (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/nFqjVNW.png",
+   "playerLabel": "RTL9 (720p)",
+   "action": "video:http://145.239.5.177/308/index.m3u8"
+  },
+  {
+   "title": "TMC HD (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
+   "playerLabel": "TMC HD (1080p) [Geo-blocked]",
+   "action": "video:http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8"
+  },
+  {
+   "title": "TV Monaco (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png",
+   "playerLabel": "TV Monaco (1080p)",
+   "action": "video:https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8"
+  }
+ ]
+}

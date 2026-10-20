@@ -1,0 +1,672 @@
+{
+ "type": "list",
+ "headline": "Hungary (94)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "16tv Budapest (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/04fCzHl.png",
+   "playerLabel": "16tv Budapest (360p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "7.TV (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CnUhAlK.png",
+   "playerLabel": "7.TV (360p)",
+   "action": "video:https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8"
+  },
+  {
+   "title": "Alfold TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/W6jg8iM.png",
+   "playerLabel": "Alfold TV (1080p)",
+   "action": "video:https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Animal Planet (Hungary)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/3/30/Animal_Planet_2018_II.svg/revision/latest?cb=20191206182106",
+   "playerLabel": "Animal Planet (Hungary)",
+   "action": "video:http://88.212.15.17/live/animal_hun/index.m3u8"
+  },
+  {
+   "title": "Apostol TV (576p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/C43Cc9N.png",
+   "playerLabel": "Apostol TV (576p)",
+   "action": "video:https://live.apostoltv.hu/live/playlist.m3u8"
+  },
+  {
+   "title": "Arena4",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/uAaQDr6.png",
+   "playerLabel": "Arena4",
+   "action": "video:http://88.212.15.17/live/arena4/index.m3u8"
+  },
+  {
+   "title": "ATV (Hungary) (160p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/85sIvrX.png",
+   "playerLabel": "ATV (Hungary) (160p)",
+   "action": "video:https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8"
+  },
+  {
+   "title": "ATV Spirit (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/JINE5xS.png",
+   "playerLabel": "ATV Spirit (360p)",
+   "action": "video:https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8"
+  },
+  {
+   "title": "AXN Black (United States) Hungary (576p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/Peo1QiZ.png",
+   "playerLabel": "AXN Black (United States) Hungary (576p)",
+   "action": "video:http://141.94.193.53:80/axn_black/index.m3u8"
+  },
+  {
+   "title": "Bajai TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/cyReGWh.png",
+   "playerLabel": "Bajai TV (720p)",
+   "action": "video:https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Balaton TV (432p)",
+   "titleFooter": "Undefined",
+   "image": "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png",
+   "playerLabel": "Balaton TV (432p)",
+   "action": "video:https://stream.iptvservice.eu/hls/balatontv.m3u8"
+  },
+  {
+   "title": "Berente TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3H3Ct9f.png",
+   "playerLabel": "Berente TV (1080p)",
+   "action": "video:https://stream.streaming4u.hu/BerenteTV/index.m3u8"
+  },
+  {
+   "title": "BTV (Hungary) (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0PKqn3V.png",
+   "playerLabel": "BTV (Hungary) (360p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Budapest Europa Televizio (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CqqWtzo.png",
+   "playerLabel": "Budapest Europa Televizio (576p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "City TV (Hungary)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/u0AKhzj.png",
+   "playerLabel": "City TV (Hungary)",
+   "action": "video:https://citytv.hu/playlist.m3u8"
+  },
+  {
+   "title": "Csurgo TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/vVOEYuj.png",
+   "playerLabel": "Csurgo TV (720p)",
+   "action": "video:https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Daru TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0P7QHde.png",
+   "playerLabel": "Daru TV (720p)",
+   "action": "video:https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8"
+  },
+  {
+   "title": "Discovery Channel (Hungary)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+   "playerLabel": "Discovery Channel (Hungary)",
+   "action": "video:http://88.212.15.17/live/discovery_hungary/index.m3u8"
+  },
+  {
+   "title": "Disney Channel (Czech Republic)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+   "playerLabel": "Disney Channel (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_disney/playlist.m3u8"
+  },
+  {
+   "title": "DSTV (Hungary) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xKJoN8L.png",
+   "playerLabel": "DSTV (Hungary) (720p)",
+   "action": "video:http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8"
+  },
+  {
+   "title": "DTV (Hungary) (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/YSpqmSO.png",
+   "playerLabel": "DTV (Hungary) (720p) [Not 24/7]",
+   "action": "video:http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8"
+  },
+  {
+   "title": "Egyker TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yhMhvPq.png",
+   "playerLabel": "Egyker TV (1080p)",
+   "action": "video:https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8"
+  },
+  {
+   "title": "ESTV (420p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/OCZ8CfK.png",
+   "playerLabel": "ESTV (420p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Euronews Hungarian (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/8t9mdg9.png",
+   "playerLabel": "Euronews Hungarian (720p)",
+   "action": "video:https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8"
+  },
+  {
+   "title": "Eurosport 1 Hungary",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/olQJgm7.png",
+   "playerLabel": "Eurosport 1 Hungary",
+   "action": "video:http://88.212.15.17/live/esp1_hun/index.m3u8"
+  },
+  {
+   "title": "Eurosport 2 Hungary",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/f56dHgR.png",
+   "playerLabel": "Eurosport 2 Hungary",
+   "action": "video:http://88.212.15.17/live/esp2_hun/index.m3u8"
+  },
+  {
+   "title": "EWTN/Bonum TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/LdsRz2E.png",
+   "playerLabel": "EWTN/Bonum TV",
+   "action": "video:https://dash2.antik.sk/live/ewtn_bonum/index.m3u8"
+  },
+  {
+   "title": "Fehervar TV (360p)",
+   "titleFooter": "General",
+   "image": "https://www.fehervartv.hu/css/img/icon-1-2.png",
+   "playerLabel": "Fehervar TV (360p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "FILMBOX+ One Magyar",
+   "titleFooter": "Movies",
+   "image": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+   "playerLabel": "FILMBOX+ One Magyar",
+   "action": "video:http://88.212.15.17/live/filmbox_hungary/index.m3u8"
+  },
+  {
+   "title": "FIX TV (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/PLhh0Ps.png",
+   "playerLabel": "FIX TV (720p) [Not 24/7]",
+   "action": "video:https://fixhd.tv:8082/fix/1080i/playlist.m3u8"
+  },
+  {
+   "title": "Food Network (Hungary)",
+   "titleFooter": "Cooking",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+   "playerLabel": "Food Network (Hungary)",
+   "action": "video:http://88.212.15.17/live/fn_hungary/index.m3u8"
+  },
+  {
+   "title": "Galaxy4",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/fTG99xh.png",
+   "playerLabel": "Galaxy4",
+   "action": "video:https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8"
+  },
+  {
+   "title": "Globo TV (Hungary) (720p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PJ4c4jq.png",
+   "playerLabel": "Globo TV (Hungary) (720p) [Geo-blocked]",
+   "action": "video:https://stream.streaming4u.hu/GloboTV/index.m3u8"
+  },
+  {
+   "title": "Golya TV (480p) [Geo-blocked]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/TeK6Pzb.png",
+   "playerLabel": "Golya TV (480p) [Geo-blocked]",
+   "action": "video:https://stream.streaming4u.hu/GolyaTV/index.m3u8"
+  },
+  {
+   "title": "Gran TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/qJN7Qh2/gran-kicsi.png",
+   "playerLabel": "Gran TV (720p)",
+   "action": "video:https://stream.medialive.hu/gran/grantvlive/playlist.m3u8"
+  },
+  {
+   "title": "Gyongyosi TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/RHgaPCk.png",
+   "playerLabel": "Gyongyosi TV (576p)",
+   "action": "video:https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8"
+  },
+  {
+   "title": "H!t Music Channel (Hungary) (480p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/sqC2hqV.png",
+   "playerLabel": "H!t Music Channel (Hungary) (480p)",
+   "action": "video:http://hitmusic.hu/hitmusic.m3u8"
+  },
+  {
+   "title": "Halom TV (576i)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/x8shi7l.png",
+   "playerLabel": "Halom TV (576i)",
+   "action": "video:rtmp://212.92.13.108/live/livestream1"
+  },
+  {
+   "title": "Hangulat TV (720p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA",
+   "playerLabel": "Hangulat TV (720p)",
+   "action": "video:https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8"
+  },
+  {
+   "title": "Hegyvidek TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/t5bw1J1.png",
+   "playerLabel": "Hegyvidek TV",
+   "action": "video:https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8"
+  },
+  {
+   "title": "Hevizi TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zuWQKDm.png",
+   "playerLabel": "Hevizi TV (1080p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
+  },
+  {
+   "title": "HGTV (Hungary)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/KMcR9z9.png",
+   "playerLabel": "HGTV (Hungary)",
+   "action": "video:http://88.212.15.17/live/hgtv_hun/index.m3u8"
+  },
+  {
+   "title": "Investigation Discovery (Hungary)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+   "playerLabel": "Investigation Discovery (Hungary)",
+   "action": "video:http://88.212.15.17/live/id_hun/index.m3u8"
+  },
+  {
+   "title": "Jaszsagi Tersegi TV (440p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/bsDN0lH.png",
+   "playerLabel": "Jaszsagi Tersegi TV (440p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Kanizsa TV (400p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/l02znlE.png",
+   "playerLabel": "Kanizsa TV (400p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Kapos TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ZMrj2C5.png",
+   "playerLabel": "Kapos TV (1080p)",
+   "action": "video:https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Karcag TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QcrVj3Q.png",
+   "playerLabel": "Karcag TV (720p)",
+   "action": "video:https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Kecskemeti TV (416p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yxwrX2N.png",
+   "playerLabel": "Kecskemeti TV (416p) [Not 24/7]",
+   "action": "video:http://rtmp1.40e.hu:8000/live/ktv.m3u8"
+  },
+  {
+   "title": "Kiskoros TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Y74Mve1.png",
+   "playerLabel": "Kiskoros TV (720p)",
+   "action": "video:https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8"
+  },
+  {
+   "title": "Komaromi Televizio (400p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DifVZkz.png",
+   "playerLabel": "Komaromi Televizio (400p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Komlos TV (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/dnITSUz.png",
+   "playerLabel": "Komlos TV (1080p) [Not 24/7]",
+   "action": "video:https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Liceum TV (576p)",
+   "titleFooter": "Culture;Education",
+   "image": "https://i.imgur.com/Hf122ZD.png",
+   "playerLabel": "Liceum TV (576p)",
+   "action": "video:http://193.225.32.62:8890/live.m3u8"
+  },
+  {
+   "title": "Loverseny kozvetites (420p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/IGajR6G.png",
+   "playerLabel": "Loverseny kozvetites (420p)",
+   "action": "video:http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8"
+  },
+  {
+   "title": "M2 (Hungary) (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/B0nYT0l.png",
+   "playerLabel": "M2 (Hungary) (1080p)",
+   "action": "video:http://88.212.15.17/live/m2_hun/index.m3u8"
+  },
+  {
+   "title": "M5 (1080p)",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/y21wFd0.png",
+   "playerLabel": "M5 (1080p)",
+   "action": "video:http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8"
+  },
+  {
+   "title": "Makoi Varosi Televizio (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PF3BP4X.png",
+   "playerLabel": "Makoi Varosi Televizio (576p)",
+   "action": "video:http://makomedia.mikrohalo.hu/hls/makotv.m3u8"
+  },
+  {
+   "title": "Match4 (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/hzexBLX.png",
+   "playerLabel": "Match4 (1080p)",
+   "action": "video:http://141.94.193.53:80/Match4_HD/index.m3u8"
+  },
+  {
+   "title": "MAX4 (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png",
+   "playerLabel": "MAX4 (1080p)",
+   "action": "video:http://141.94.193.53:80/MAX4_HD/index.m3u8"
+  },
+  {
+   "title": "Mezokovesdi Televizio (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2zCOXmH.png",
+   "playerLabel": "Mezokovesdi Televizio (360p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Mora-Net TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yT0RmKi.png",
+   "playerLabel": "Mora-Net TV (576p)",
+   "action": "video:https://stream.moranettv.hu/live/index.m3u8"
+  },
+  {
+   "title": "Oroszlanyi Varosi Televizio (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/P0fxUH5.png",
+   "playerLabel": "Oroszlanyi Varosi Televizio (720p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Orszaggyules: OGY plenaris (720p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/hbblRpZ.png",
+   "playerLabel": "Orszaggyules: OGY plenaris (720p) [Not 24/7]",
+   "action": "video:http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+  },
+  {
+   "title": "Orszaggyules: OGY TAB (720p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/hbblRpZ.png",
+   "playerLabel": "Orszaggyules: OGY TAB (720p) [Not 24/7]",
+   "action": "video:http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8"
+  },
+  {
+   "title": "Oxygen Music (1080p)",
+   "titleFooter": "Music",
+   "image": "https://oxygenmusic.hu/static/media/logo.png",
+   "playerLabel": "Oxygen Music (1080p)",
+   "action": "video:https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8"
+  },
+  {
+   "title": "Ozdi Varosi TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/t0Aq3UD.png",
+   "playerLabel": "Ozdi Varosi TV (720p) [Not 24/7]",
+   "action": "video:http://stream.nmih.hu:7980/live.m3u8"
+  },
+  {
+   "title": "PilisTV (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/5L01wRi.png",
+   "playerLabel": "PilisTV (1080p) [Geo-blocked]",
+   "action": "video:https://stream.streaming4u.hu/PilisTV/index.m3u8"
+  },
+  {
+   "title": "PVTV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/eKXPBFb.png",
+   "playerLabel": "PVTV (720p)",
+   "action": "video:http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null"
+  },
+  {
+   "title": "Rakosmente TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/n39a2DT.png",
+   "playerLabel": "Rakosmente TV (720p)",
+   "action": "video:http://rakosmentetv.hu:8080/hls/rmtv.m3u8"
+  },
+  {
+   "title": "Regio TV (406p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WlF6tlZ.png",
+   "playerLabel": "Regio TV (406p)",
+   "action": "video:http://tv.geniusnet.sk:8081/regiotv/pl.m3u8"
+  },
+  {
+   "title": "RegioPlusz TV (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/VXPpukf.png",
+   "playerLabel": "RegioPlusz TV (1080p) [Geo-blocked]",
+   "action": "video:https://stream.streaming4u.hu/RegioPluszTV/index.m3u8"
+  },
+  {
+   "title": "RTL Gold (Hungary)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/PwbLDUQ.png",
+   "playerLabel": "RTL Gold (Hungary)",
+   "action": "video:https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8"
+  },
+  {
+   "title": "SIXO TV (360p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/GTPs9Xy/9068.png",
+   "playerLabel": "SIXO TV (360p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Soltvadkerti Televizio (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ihdk45P.png",
+   "playerLabel": "Soltvadkerti Televizio (720p)",
+   "action": "video:http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8"
+  },
+  {
+   "title": "Szecseny TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ilRmZtF.png",
+   "playerLabel": "Szecseny TV (720p)",
+   "action": "video:http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8"
+  },
+  {
+   "title": "Szolnok TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Eiab9MP.png",
+   "playerLabel": "Szolnok TV (1080p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Tatai TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/skXYntc.png",
+   "playerLabel": "Tatai TV (1080p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TelePaks (396p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/T8ueztB.png",
+   "playerLabel": "TelePaks (396p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
+  },
+  {
+   "title": "The Fishing & Hunting Channel",
+   "titleFooter": "Outdoor",
+   "image": "https://i.imgur.com/KcTTnUA.png",
+   "playerLabel": "The Fishing & Hunting Channel",
+   "action": "video:http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8"
+  },
+  {
+   "title": "Tisza TV (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Q2bShnh.png",
+   "playerLabel": "Tisza TV (576p) [Not 24/7]",
+   "action": "video:https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8"
+  },
+  {
+   "title": "TLC (Hungary)",
+   "titleFooter": "Lifestyle",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+   "playerLabel": "TLC (Hungary)",
+   "action": "video:http://88.212.15.17/live/tlc_hungary/index.m3u8"
+  },
+  {
+   "title": "Travel Channel (Hungary)",
+   "titleFooter": "Undefined",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/a/a3/Travel_Channel_2D_2014.svg/revision/latest?cb=20180112215118",
+   "playerLabel": "Travel Channel (Hungary)",
+   "action": "video:http://88.212.15.17/live/travel_hun/index.m3u8"
+  },
+  {
+   "title": "Trimedio TV (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/P4hxWVZ.png",
+   "playerLabel": "Trimedio TV (1080p) [Geo-blocked]",
+   "action": "video:https://stream.streaming4u.hu/TriMedioTV/index.m3u8"
+  },
+  {
+   "title": "TV Budakalasz (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/97xpqt0.png",
+   "playerLabel": "TV Budakalasz (1080p) [Not 24/7]",
+   "action": "video:https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "TV Eger (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/GUVW073.png",
+   "playerLabel": "TV Eger (1080p)",
+   "action": "video:http://stream.tveger.hu:8010/live.m3u8"
+  },
+  {
+   "title": "TV Keszthely (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2LE8xSW.png",
+   "playerLabel": "TV Keszthely (360p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "TV Szentendre (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kzzYLdj.png",
+   "playerLabel": "TV Szentendre (1080p) [Geo-blocked]",
+   "action": "video:https://stream.streaming4u.hu/TVSzentendre/index.m3u8"
+  },
+  {
+   "title": "Vasarhelyi Televizio (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WOEqdmx.png",
+   "playerLabel": "Vasarhelyi Televizio (576p)",
+   "action": "video:https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8"
+  },
+  {
+   "title": "Volgyhid TV (540p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9krKKgU.png",
+   "playerLabel": "Volgyhid TV (540p)",
+   "action": "video:https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8"
+  },
+  {
+   "title": "VTV Fuzesabony (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/IoHyW7w.png",
+   "playerLabel": "VTV Fuzesabony (720p) [Not 24/7]",
+   "action": "video:https://stream.nmih.hu:7962/live.m3u8"
+  },
+  {
+   "title": "VTV Mor (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/x8jstsh.png",
+   "playerLabel": "VTV Mor (360p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Williams TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/vysX07C.png",
+   "playerLabel": "Williams TV (480p)",
+   "action": "video:http://79.120.178.90:1935/williams/williamstv/playlist.m3u8"
+  },
+  {
+   "title": "XV TV (480p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/hH2KF6W/4792.png",
+   "playerLabel": "XV TV (480p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Zalaegerszegi TV (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/MLVPf0i.png",
+   "playerLabel": "Zalaegerszegi TV (360p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Zuglo TV (360p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/wPqCtwR.png",
+   "playerLabel": "Zuglo TV (360p)",
+   "action": "video:https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
+  }
+ ]
+}

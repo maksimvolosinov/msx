@@ -1,0 +1,126 @@
+{
+ "type": "list",
+ "headline": "Luxembourg (16)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "apart TV (1080p)",
+   "titleFooter": "Business;Culture;Lifestyle",
+   "image": "https://i.imgur.com/IBcMIcZ.png",
+   "playerLabel": "apart TV (1080p)",
+   "action": "video:https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
+  },
+  {
+   "title": "Disney Channel (Germany) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+   "playerLabel": "Disney Channel (Germany) (576p)",
+   "action": "video:https://s6.hopslan.com/disneyX/index.m3u8"
+  },
+  {
+   "title": "Dudelange TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2dLYZsc.png",
+   "playerLabel": "Dudelange TV (720p)",
+   "action": "video:https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8"
+  },
+  {
+   "title": "eldo.TV (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/vCMQLlt.png",
+   "playerLabel": "eldo.TV (1080p)",
+   "action": "video:https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8"
+  },
+  {
+   "title": "LCI HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/DED8EXs.png",
+   "playerLabel": "LCI HD (1080p)",
+   "action": "video:http://145.239.5.177/368/index.m3u8"
+  },
+  {
+   "title": "Luxe TV (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/24ehonx.png",
+   "playerLabel": "Luxe TV (1080p)",
+   "action": "video:http://103.154.3.101:5001/live/1736.m3u8"
+  },
+  {
+   "title": "Luxembourg Global Radio TV (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://globalradio.lu/wp-content/uploads/2025/03/Mask-Group-1.jpg#10",
+   "playerLabel": "Luxembourg Global Radio TV (1080p)",
+   "action": "video:https://stream.globalradio.lu/lgr/index.m3u8"
+  },
+  {
+   "title": "MierschTV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Vdc1GYP.jpg",
+   "playerLabel": "MierschTV",
+   "action": "video:https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8"
+  },
+  {
+   "title": "Nickelodeon (Germany)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/E84jnP8.png",
+   "playerLabel": "Nickelodeon (Germany)",
+   "action": "video:https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php"
+  },
+  {
+   "title": "RTL Gold (Luxembourg) (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/LzHQoUv.png",
+   "playerLabel": "RTL Gold (Luxembourg) (1080p)",
+   "action": "video:https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8"
+  },
+  {
+   "title": "RTL Tele Letzebuerg (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/fkW5Gbl.png",
+   "playerLabel": "RTL Tele Letzebuerg (1080p)",
+   "action": "video:https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8"
+  },
+  {
+   "title": "RTL Web Radio TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/qyc8LsE.png",
+   "playerLabel": "RTL Web Radio TV (1080p)",
+   "action": "video:https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+  },
+  {
+   "title": "RTL Zwee (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7SmCtyy.png",
+   "playerLabel": "RTL Zwee (1080p)",
+   "action": "video:https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8"
+  },
+  {
+   "title": "RTL-TVI (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/2CimAAN.png",
+   "playerLabel": "RTL-TVI (1080p) [Not 24/7]",
+   "action": "video:https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8"
+  },
+  {
+   "title": "RTL9 (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/nFqjVNW.png",
+   "playerLabel": "RTL9 (720p)",
+   "action": "video:http://145.239.5.177/308/index.m3u8"
+  },
+  {
+   "title": "Today Radio (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/O1c6wpt.png",
+   "playerLabel": "Today Radio (720p)",
+   "action": "video:https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8"
+  }
+ ]
+}

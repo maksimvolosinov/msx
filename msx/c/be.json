@@ -1,0 +1,336 @@
+{
+ "type": "list",
+ "headline": "Belgium (46)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "ACTV (Belgium) (504p)",
+   "titleFooter": "General",
+   "image": "https://files.catbox.moe/8v2y8m.png",
+   "playerLabel": "ACTV (Belgium) (504p)",
+   "action": "video:https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8"
+  },
+  {
+   "title": "ATV (Belgium) (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png",
+   "playerLabel": "ATV (Belgium) (1080p)",
+   "action": "video:https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8"
+  },
+  {
+   "title": "BAM-TV",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/9UmR6cs.png",
+   "playerLabel": "BAM-TV",
+   "action": "video:https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8"
+  },
+  {
+   "title": "Bel RTL (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/0DUprIW.png",
+   "playerLabel": "Bel RTL (1080p)",
+   "action": "video:https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
+  },
+  {
+   "title": "Bouke (504p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/STLavel.png",
+   "playerLabel": "Bouke (504p)",
+   "action": "video:https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8"
+  },
+  {
+   "title": "Bruzz (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/OYlYidF.png",
+   "playerLabel": "Bruzz (720p)",
+   "action": "video:https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8"
+  },
+  {
+   "title": "BX1 (504p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/0OkSa6c.png",
+   "playerLabel": "BX1 (504p)",
+   "action": "video:https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8"
+  },
+  {
+   "title": "Canal Z (1080p)",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/qtiGLzZ.png",
+   "playerLabel": "Canal Z (1080p)",
+   "action": "video:https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8"
+  },
+  {
+   "title": "Canal Zoom [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/JUNP8Rx.png",
+   "playerLabel": "Canal Zoom [Geo-blocked]",
+   "action": "video:https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8"
+  },
+  {
+   "title": "FIFA+ French (720p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+   "playerLabel": "FIFA+ French (720p)",
+   "action": "video:https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
+  },
+  {
+   "title": "Fun Vision",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/AhkKr7Y.png",
+   "playerLabel": "Fun Vision",
+   "action": "video:https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8"
+  },
+  {
+   "title": "History (Netherlands) (360p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+   "playerLabel": "History (Netherlands) (360p)",
+   "action": "video:https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8"
+  },
+  {
+   "title": "HLN Live (720p)",
+   "titleFooter": "News",
+   "image": "https://i.ibb.co/zbCrZG9/hq-hln.png",
+   "playerLabel": "HLN Live (720p)",
+   "action": "video:https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8"
+  },
+  {
+   "title": "JapanimTV (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+   "playerLabel": "JapanimTV (1080p)",
+   "action": "video:https://foxkidstv.be:3369/stream/play.m3u8"
+  },
+  {
+   "title": "Joe FM (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png",
+   "playerLabel": "Joe FM (720p) [Not 24/7]",
+   "action": "video:https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8"
+  },
+  {
+   "title": "Kanaal Z (1080p)",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/YzgYJxM.png",
+   "playerLabel": "Kanaal Z (1080p)",
+   "action": "video:https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
+  },
+  {
+   "title": "Klara (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
+   "playerLabel": "Klara (720p)",
+   "action": "video:https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8"
+  },
+  {
+   "title": "KTO (504p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/EY6TsdV.png",
+   "playerLabel": "KTO (504p)",
+   "action": "video:http://145.239.5.177/354/index.m3u8"
+  },
+  {
+   "title": "La Trois (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jMs4h9F.png",
+   "playerLabel": "La Trois (1080p)",
+   "action": "video:http://145.239.5.177/330/index.m3u8"
+  },
+  {
+   "title": "La Une (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/jMwZp7z.png",
+   "playerLabel": "La Une (720p)",
+   "action": "video:http://145.239.5.177/329/index.m3u8"
+  },
+  {
+   "title": "LCI HD (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/DED8EXs.png",
+   "playerLabel": "LCI HD (1080p)",
+   "action": "video:http://145.239.5.177/368/index.m3u8"
+  },
+  {
+   "title": "Matele (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rw72POr.png",
+   "playerLabel": "Matele (1080p) [Not 24/7]",
+   "action": "video:https://live.matele.be/hls/live.m3u8"
+  },
+  {
+   "title": "MCM Pop (580p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/j31lBL7.png",
+   "playerLabel": "MCM Pop (580p)",
+   "action": "video:http://188.115.15.121:8000/play/a014"
+  },
+  {
+   "title": "MNM (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/L4cD18H.png",
+   "playerLabel": "MNM (720p)",
+   "action": "video:https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8"
+  },
+  {
+   "title": "Notele (576p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/fGS55nR.png",
+   "playerLabel": "Notele (576p) [Not 24/7]",
+   "action": "video:https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8"
+  },
+  {
+   "title": "Play Crime (1080p) [Geo-blocked]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/hPh8tRq.png",
+   "playerLabel": "Play Crime (1080p) [Geo-blocked]",
+   "action": "video:https://playmedia-playcrime-goplay-dash.amagi.tv/master.mpd"
+  },
+  {
+   "title": "Q-Music (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/VX5e9Xt.png",
+   "playerLabel": "Q-Music (1080p)",
+   "action": "video:https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8"
+  },
+  {
+   "title": "QU4TRE Liege Media (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GHFuvmZ.png",
+   "playerLabel": "QU4TRE Liege Media (1080p)",
+   "action": "video:https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8"
+  },
+  {
+   "title": "Radio 1 (Belgium) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
+   "playerLabel": "Radio 1 (Belgium) (720p)",
+   "action": "video:https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8"
+  },
+  {
+   "title": "Radio 2 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
+   "playerLabel": "Radio 2 (720p)",
+   "action": "video:https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8"
+  },
+  {
+   "title": "Radio Contact (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/32mmGvB.png",
+   "playerLabel": "Radio Contact (1080p)",
+   "action": "video:https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8"
+  },
+  {
+   "title": "RT France (1080p) [Geo-blocked]",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
+   "playerLabel": "RT France (1080p) [Geo-blocked]",
+   "action": "video:https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8"
+  },
+  {
+   "title": "RTL-TVI (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/2CimAAN.png",
+   "playerLabel": "RTL-TVI (1080p) [Not 24/7]",
+   "action": "video:https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8"
+  },
+  {
+   "title": "Sterk TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/bIheNAI.png",
+   "playerLabel": "Sterk TV (1080p)",
+   "action": "video:https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8"
+  },
+  {
+   "title": "StuBru (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png",
+   "playerLabel": "StuBru (1080p)",
+   "action": "video:https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8"
+  },
+  {
+   "title": "Tele MB (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/XAggjM4.png",
+   "playerLabel": "Tele MB (1080p)",
+   "action": "video:https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8"
+  },
+  {
+   "title": "Telesambre (504p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/TuIAkA3.png",
+   "playerLabel": "Telesambre (504p)",
+   "action": "video:https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8"
+  },
+  {
+   "title": "Tipik (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/LKLjnrp.png",
+   "playerLabel": "Tipik (720p)",
+   "action": "video:http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
+  },
+  {
+   "title": "TV Lux (Belgium) (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/ljbdWkC.png",
+   "playerLabel": "TV Lux (Belgium) (1080p)",
+   "action": "video:https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8"
+  },
+  {
+   "title": "TV5Monde France Belgium Switzerland Monaco",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WmRbudc.png",
+   "playerLabel": "TV5Monde France Belgium Switzerland Monaco",
+   "action": "video:http://5.78.65.164/TV5Monde/index.m3u8"
+  },
+  {
+   "title": "TVcom (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3KuRD19.png",
+   "playerLabel": "TVcom (1080p)",
+   "action": "video:https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8"
+  },
+  {
+   "title": "Vedia (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7LnH6yu.png",
+   "playerLabel": "Vedia (1080p)",
+   "action": "video:https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8"
+  },
+  {
+   "title": "VTM 3 (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/vY6892N.png",
+   "playerLabel": "VTM 3 (360p)",
+   "action": "video:https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8"
+  },
+  {
+   "title": "VTM 4 (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/vabFMLq.png",
+   "playerLabel": "VTM 4 (360p)",
+   "action": "video:https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8"
+  },
+  {
+   "title": "WTV",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/wvKe8mi.png",
+   "playerLabel": "WTV",
+   "action": "video:https://wtvlive.b-cdn.net/playlist.m3u8"
+  },
+  {
+   "title": "Zee One French (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
+   "playerLabel": "Zee One French (720p)",
+   "action": "video:https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8"
+  }
+ ]
+}

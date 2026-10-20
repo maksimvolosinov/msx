@@ -1,0 +1,56 @@
+{
+ "type": "list",
+ "headline": "Martinique (6)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "FUSION TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/WMrYEgH.png",
+   "playerLabel": "FUSION TV (1080p)",
+   "action": "video:https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8"
+  },
+  {
+   "title": "Identite Tele Caraibes (548p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Atsf6Cd.png",
+   "playerLabel": "Identite Tele Caraibes (548p)",
+   "action": "video:https://vdo2.pro-fhi.net:3769/stream/play.m3u8"
+  },
+  {
+   "title": "Tele Zoukla",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/lWYKgPC.png",
+   "playerLabel": "Tele Zoukla",
+   "action": "video:https://vdo.pro-fhi.net:3228/stream/play.m3u8"
+  },
+  {
+   "title": "TV Famille (720p)",
+   "titleFooter": "Family;Religious",
+   "image": "https://i.imgur.com/Kbfihk5.png",
+   "playerLabel": "TV Famille (720p)",
+   "action": "video:https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+  },
+  {
+   "title": "ViaATV (1080p) [Geo-blocked]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Ua6rOXo.png",
+   "playerLabel": "ViaATV (1080p) [Geo-blocked]",
+   "action": "video:https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8"
+  },
+  {
+   "title": "Zitata TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/KJmefse.png",
+   "playerLabel": "Zitata TV",
+   "action": "video:https://live.zitata.tv/direct-hls/playlist.m3u8"
+  }
+ ]
+}

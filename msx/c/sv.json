@@ -1,0 +1,273 @@
+{
+ "type": "list",
+ "headline": "El Salvador (37)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Agape TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/DsGmrnc.png",
+   "playerLabel": "Agape TV (720p)",
+   "action": "video:https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8"
+  },
+  {
+   "title": "Arbol de Vida TV (240p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/4sGDc4X.jpg",
+   "playerLabel": "Arbol de Vida TV (240p) [Not 24/7]",
+   "action": "video:https://yupistream.top:19360/livearbol/livearbol.m3u8"
+  },
+  {
+   "title": "Awapa Sports TV (1080p) [Not 24/7]",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/MNw5cJH.jpg",
+   "playerLabel": "Awapa Sports TV (1080p) [Not 24/7]",
+   "action": "video:https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8"
+  },
+  {
+   "title": "Canal 10 (El Salvador) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/y2ppMnY.png",
+   "playerLabel": "Canal 10 (El Salvador) (720p)",
+   "action": "video:https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
+  },
+  {
+   "title": "Canal 11 TuTV (349p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/itqQEux.png",
+   "playerLabel": "Canal 11 TuTV (349p)",
+   "action": "video:https://stream.giostreaming.app/canal11/canal11.m3u8"
+  },
+  {
+   "title": "Canal 12 (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WMv3yEf.png",
+   "playerLabel": "Canal 12 (576p)",
+   "action": "video:http://186.33.26.18:8000/play/a0nw/index.m3u8"
+  },
+  {
+   "title": "Canal 15 El Zamorano [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/op13ujg.png",
+   "playerLabel": "Canal 15 El Zamorano [Not 24/7]",
+   "action": "video:https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8"
+  },
+  {
+   "title": "Canal 2 (El Salvador) (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png",
+   "playerLabel": "Canal 2 (El Salvador) (720p)",
+   "action": "video:http://186.33.26.18:8000/play/a0qp/index.m3u8"
+  },
+  {
+   "title": "Canal 3 Impresionante (480p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/mdfiWG9.png",
+   "playerLabel": "Canal 3 Impresionante (480p)",
+   "action": "video:https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8"
+  },
+  {
+   "title": "Canal 4 (El Salvador) (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png",
+   "playerLabel": "Canal 4 (El Salvador) (1080p)",
+   "action": "video:http://45.5.118.188:8000/play/a00j/index.m3u8"
+  },
+  {
+   "title": "Canal 6 (El Salvador) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/M4muPLK.png",
+   "playerLabel": "Canal 6 (El Salvador) (720p)",
+   "action": "video:http://45.167.2.101:8000/play/a0qs/index.m3u8"
+  },
+  {
+   "title": "Canal 65 (1080p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/P15QovY.png",
+   "playerLabel": "Canal 65 (1080p) [Not 24/7]",
+   "action": "video:https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8"
+  },
+  {
+   "title": "Canal 9 La Union (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rdeUErb.png",
+   "playerLabel": "Canal 9 La Union (1080p)",
+   "action": "video:http://45.167.2.101:8000/play/a0r5/index.m3u8"
+  },
+  {
+   "title": "Canal TRV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/g5QKQ2E.png",
+   "playerLabel": "Canal TRV (576p)",
+   "action": "video:https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8"
+  },
+  {
+   "title": "El 15 TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/LsrCVy3.jpg",
+   "playerLabel": "El 15 TV (720p) [Not 24/7]",
+   "action": "video:https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8"
+  },
+  {
+   "title": "El Camino TV (480p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/ZSktjGB.png",
+   "playerLabel": "El Camino TV (480p)",
+   "action": "video:https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+  },
+  {
+   "title": "GSG TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Naj8yUN.png",
+   "playerLabel": "GSG TV (720p)",
+   "action": "video:https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8"
+  },
+  {
+   "title": "JFV TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/SrmI6nU.jpeg",
+   "playerLabel": "JFV TV (720p)",
+   "action": "video:https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8"
+  },
+  {
+   "title": "Josue TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/LNWGe1D.jpg",
+   "playerLabel": "Josue TV (1080p)",
+   "action": "video:https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
+  },
+  {
+   "title": "Legislative Assembly of El Salvador (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/OBuiCyb.png",
+   "playerLabel": "Legislative Assembly of El Salvador (1080p) [Not 24/7]",
+   "action": "video:https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
+  },
+  {
+   "title": "Megavision Canal 19 (720p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png",
+   "playerLabel": "Megavision Canal 19 (720p)",
+   "action": "video:https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8"
+  },
+  {
+   "title": "Megavision Canal 21 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/HbdYU9k.png",
+   "playerLabel": "Megavision Canal 21 (720p)",
+   "action": "video:https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8"
+  },
+  {
+   "title": "Mizpa TV (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/4FPaLYo.jpeg",
+   "playerLabel": "Mizpa TV (1080p)",
+   "action": "video:http://45.167.2.101:8000/play/a0r7/index.m3u8"
+  },
+  {
+   "title": "Morazan TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Yh1lFZH.jpeg",
+   "playerLabel": "Morazan TV (720p)",
+   "action": "video:http://45.167.2.138:8000/play/a0o4/index.m3u8"
+  },
+  {
+   "title": "RTV Canal 57 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/tnOGWqL.png",
+   "playerLabel": "RTV Canal 57 (720p)",
+   "action": "video:https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8"
+  },
+  {
+   "title": "SolTV (El Salvador) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jaBxxpt.png",
+   "playerLabel": "SolTV (El Salvador) (720p)",
+   "action": "video:https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8"
+  },
+  {
+   "title": "SV+ (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/bCcnLVL.png",
+   "playerLabel": "SV+ (720p)",
+   "action": "video:http://45.167.2.101:8000/play/a0qx/index.m3u8"
+  },
+  {
+   "title": "TCS+ (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iYFWG06.png",
+   "playerLabel": "TCS+ (480p) [Not 24/7]",
+   "action": "video:https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8"
+  },
+  {
+   "title": "Tigo Sports (El Salvador) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+   "playerLabel": "Tigo Sports (El Salvador) (1080p)",
+   "action": "video:http://45.167.2.101:8000/play/a0pp/index.m3u8"
+  },
+  {
+   "title": "Tribuna TV (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/C5vHpd0.png",
+   "playerLabel": "Tribuna TV (720p) [Not 24/7]",
+   "action": "video:https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8"
+  },
+  {
+   "title": "TV CRET (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/ChonoKb.png",
+   "playerLabel": "TV CRET (1080p)",
+   "action": "video:https://radiocret.net:8082/hls/tvcret.m3u8"
+  },
+  {
+   "title": "TV Getsemani (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/C9SJCcE.jpg",
+   "playerLabel": "TV Getsemani (720p)",
+   "action": "video:https://serversv.com:8080/hls/tvgetsemani.m3u8"
+  },
+  {
+   "title": "TV Leon de Juda (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/ZUCppwi.png",
+   "playerLabel": "TV Leon de Juda (720p)",
+   "action": "video:https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
+  },
+  {
+   "title": "TVCa (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/uPWWtCA.png",
+   "playerLabel": "TVCa (720p)",
+   "action": "video:https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
+  },
+  {
+   "title": "TVM El Salvador [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/fyCC8R6.png",
+   "playerLabel": "TVM El Salvador [Not 24/7]",
+   "action": "video:http://201.247.102.189/tmp_hls/stream/index.m3u8"
+  },
+  {
+   "title": "TVO Canal 23 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nsXXEUZ.png",
+   "playerLabel": "TVO Canal 23 (720p)",
+   "action": "video:https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8"
+  },
+  {
+   "title": "WOW TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/dHxaWyp.png",
+   "playerLabel": "WOW TV (1080p)",
+   "action": "video:https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8"
+  }
+ ]
+}

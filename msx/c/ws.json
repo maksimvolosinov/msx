@@ -1,0 +1,21 @@
+{
+ "type": "list",
+ "headline": "Samoa (1)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "TV3 (Samoa) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/VT2Tqmr.png",
+   "playerLabel": "TV3 (Samoa) (720p) [Not 24/7]",
+   "action": "video:https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8"
+  }
+ ]
+}

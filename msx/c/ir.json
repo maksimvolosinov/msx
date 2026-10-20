@@ -1,0 +1,1255 @@
+{
+ "type": "list",
+ "headline": "Iran (182)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "247 Box TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/t5AUthL.png",
+   "playerLabel": "247 Box TV",
+   "action": "video:https://hls.247box.live/hls/stream.m3u8"
+  },
+  {
+   "title": "4 Music",
+   "titleFooter": "Music",
+   "playerLabel": "4 Music",
+   "action": "video:https://musichls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "4Kurd",
+   "titleFooter": "Music",
+   "image": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+   "playerLabel": "4Kurd",
+   "action": "video:https://4kuhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "4U TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/PexhKwp.png",
+   "playerLabel": "4U TV (720p)",
+   "action": "video:https://hls.4utv.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Abadan TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png",
+   "playerLabel": "Abadan TV",
+   "action": "video:https://ncdn.telewebion.ir/abadan/live/playlist.m3u8"
+  },
+  {
+   "title": "Aflak TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/LkLCHpf.png",
+   "playerLabel": "Aflak TV",
+   "action": "video:https://ncdn.telewebion.ir/aflak/live/playlist.m3u8"
+  },
+  {
+   "title": "AFN TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/LctanF8.png",
+   "playerLabel": "AFN TV",
+   "action": "video:https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
+  },
+  {
+   "title": "Afra Film",
+   "titleFooter": "Movies",
+   "playerLabel": "Afra Film",
+   "action": "video:https://afrafhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Afra Series",
+   "titleFooter": "Series",
+   "playerLabel": "Afra Series",
+   "action": "video:https://afrashls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Aftab TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png",
+   "playerLabel": "Aftab TV",
+   "action": "video:https://ncdn.telewebion.ir/aftab/live/playlist.m3u8"
+  },
+  {
+   "title": "Al Wilayah (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/OI1HQv5.png",
+   "playerLabel": "Al Wilayah (720p)",
+   "action": "video:https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8"
+  },
+  {
+   "title": "Alborz TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png",
+   "playerLabel": "Alborz TV",
+   "action": "video:https://ncdn.telewebion.ir/alborz/live/playlist.m3u8"
+  },
+  {
+   "title": "Amouzesh TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png",
+   "playerLabel": "Amouzesh TV",
+   "action": "video:https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8"
+  },
+  {
+   "title": "Ara TV",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/dwSHt2SG/Ara.png",
+   "playerLabel": "Ara TV",
+   "action": "video:https://ncdn.telewebion.ir/ara/live/playlist.m3u8"
+  },
+  {
+   "title": "Arax TV",
+   "titleFooter": "Undefined",
+   "playerLabel": "Arax TV",
+   "action": "video:https://araxhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Arko TV",
+   "titleFooter": "Undefined",
+   "playerLabel": "Arko TV",
+   "action": "video:https://arkhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Arvan TV",
+   "titleFooter": "Undefined",
+   "playerLabel": "Arvan TV",
+   "action": "video:https://arvhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Asil TV (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/gROQqFD.png",
+   "playerLabel": "Asil TV (576p)",
+   "action": "video:https://live.asil.tv/asiltv/index.m3u8"
+  },
+  {
+   "title": "Atrak TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/960px-Bojnourd_ATRAK_TV.svg.png",
+   "playerLabel": "Atrak TV",
+   "action": "video:https://ncdn.telewebion.ir/atrak/live/playlist.m3u8"
+  },
+  {
+   "title": "Atrina TV",
+   "titleFooter": "Undefined",
+   "playerLabel": "Atrina TV",
+   "action": "video:https://atrihls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "AVA Series",
+   "titleFooter": "Series",
+   "image": "https://i.imgur.com/8AfAfZE.png",
+   "playerLabel": "AVA Series",
+   "action": "video:https://avaserieshls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Avang TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/3I1n7fO.png",
+   "playerLabel": "Avang TV (1080p)",
+   "action": "video:https://hls.avang.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Baran TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png",
+   "playerLabel": "Baran TV",
+   "action": "video:https://ncdn.telewebion.ir/baran/live/playlist.m3u8"
+  },
+  {
+   "title": "Boushehr TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png",
+   "playerLabel": "Boushehr TV",
+   "action": "video:https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8"
+  },
+  {
+   "title": "Bravo Farsi TV (360p)",
+   "titleFooter": "Movies",
+   "image": "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
+   "playerLabel": "Bravo Farsi TV (360p)",
+   "action": "video:https://bravoohls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Cafe Film",
+   "titleFooter": "Movies",
+   "playerLabel": "Cafe Film",
+   "action": "video:https://cafefhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Cafe Trade TV",
+   "titleFooter": "Business",
+   "image": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",
+   "playerLabel": "Cafe Trade TV",
+   "action": "video:https://cafetradehls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Classic TV",
+   "titleFooter": "Classic",
+   "playerLabel": "Classic TV",
+   "action": "video:https://clshls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Datis TV",
+   "titleFooter": "Undefined",
+   "playerLabel": "Datis TV",
+   "action": "video:https://ronhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Dena TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png",
+   "playerLabel": "Dena TV",
+   "action": "video:https://ncdn.telewebion.ir/dena/live/playlist.m3u8"
+  },
+  {
+   "title": "Ekran Movies",
+   "titleFooter": "Movies",
+   "image": "https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png",
+   "playerLabel": "Ekran Movies",
+   "action": "video:https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "Energy",
+   "titleFooter": "Undefined",
+   "image": "https://static.telewebion.com/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default",
+   "playerLabel": "Energy",
+   "action": "video:https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8"
+  },
+  {
+   "title": "EPlanet TV",
+   "titleFooter": "Documentary",
+   "playerLabel": "EPlanet TV",
+   "action": "video:https://eplhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Erfan Halgheh TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+   "playerLabel": "Erfan Halgheh TV (720p)",
+   "action": "video:https://hls.erfanhalgheh.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Eshragh Network",
+   "titleFooter": "General",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU",
+   "playerLabel": "Eshragh Network",
+   "action": "video:https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8"
+  },
+  {
+   "title": "Fars TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png",
+   "playerLabel": "Fars TV",
+   "action": "video:https://ncdn.telewebion.ir/fars/live/playlist.m3u8"
+  },
+  {
+   "title": "FX 1",
+   "titleFooter": "Entertainment",
+   "playerLabel": "FX 1",
+   "action": "video:https://fxtvhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "FX 2",
+   "titleFooter": "Entertainment",
+   "playerLabel": "FX 2",
+   "action": "video:https://toonixhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "GEM 24B",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/8LgdPst.png",
+   "playerLabel": "GEM 24B",
+   "action": "video:https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Bollywood",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/2XASeBk.png",
+   "playerLabel": "GEM Bollywood",
+   "action": "video:https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Classic",
+   "titleFooter": "Classic",
+   "image": "https://i.imgur.com/25BhuOf.png",
+   "playerLabel": "GEM Classic",
+   "action": "video:https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Comedy",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/FuscfJW.png",
+   "playerLabel": "GEM Comedy",
+   "action": "video:https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Drama",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/k2pGyRH.png",
+   "playerLabel": "GEM Drama",
+   "action": "video:https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Drama +",
+   "titleFooter": "Movies",
+   "image": "https://gemgroup.tv/assets/images/channels/icon_7.png",
+   "playerLabel": "GEM Drama +",
+   "action": "video:https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Entertainment",
+   "titleFooter": "Entertainment",
+   "image": "https://www.gemgroup.tv/assets/images/channels/icon_8.png",
+   "playerLabel": "GEM Entertainment",
+   "action": "video:https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Film",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/nrFz3LU.png",
+   "playerLabel": "GEM Film",
+   "action": "video:https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Fit",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/7FQxaII.png",
+   "playerLabel": "GEM Fit",
+   "action": "video:https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Food",
+   "titleFooter": "Cooking",
+   "image": "https://i.imgur.com/SMtSinK.png",
+   "playerLabel": "GEM Food",
+   "action": "video:https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Junior",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/jK8yzj2.png",
+   "playerLabel": "GEM Junior",
+   "action": "video:https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Kids",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/ArkjaFk.png",
+   "playerLabel": "GEM Kids",
+   "action": "video:https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Life",
+   "titleFooter": "Lifestyle",
+   "image": "https://i.imgur.com/gI8qePa.png",
+   "playerLabel": "GEM Life",
+   "action": "video:https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Mifa",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/qlI7o7V.png",
+   "playerLabel": "GEM Mifa",
+   "action": "video:https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Mifa +",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/8FIAqR5.png",
+   "playerLabel": "GEM Mifa +",
+   "action": "video:https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Nature",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/ENvOMDQ.png",
+   "playerLabel": "GEM Nature",
+   "action": "video:https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Onyx",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/gXRIAw4.png",
+   "playerLabel": "GEM Onyx",
+   "action": "video:https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Pixel",
+   "titleFooter": "Movies",
+   "image": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
+   "playerLabel": "GEM Pixel",
+   "action": "video:https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
+  },
+  {
+   "title": "GEM River",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/yJ6f1B6.png",
+   "playerLabel": "GEM River",
+   "action": "video:https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM River +",
+   "titleFooter": "Entertainment",
+   "image": "https://gemgroup.tv/assets/images/channels/icon_29.png",
+   "playerLabel": "GEM River +",
+   "action": "video:https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Rubix",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/cDjOj58.png",
+   "playerLabel": "GEM Rubix",
+   "action": "video:https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Rubix +",
+   "titleFooter": "Movies",
+   "image": "https://gemgroup.tv/assets/images/channels/icon_31.png",
+   "playerLabel": "GEM Rubix +",
+   "action": "video:https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Series +",
+   "titleFooter": "Series",
+   "image": "https://gemgroup.tv/assets/images/channels/icon_33.png",
+   "playerLabel": "GEM Series +",
+   "action": "video:https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM Sport",
+   "titleFooter": "Sports",
+   "image": "https://www.gemgroup.tv/assets/images/channels/icon_34.png",
+   "playerLabel": "GEM Sport",
+   "action": "video:https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8"
+  },
+  {
+   "title": "GEM TV",
+   "titleFooter": "Movies",
+   "image": "https://gemgroup.tv/assets/images/channels/icon_16.png",
+   "playerLabel": "GEM TV",
+   "action": "video:https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "GEM TV +",
+   "titleFooter": "Movies",
+   "image": "https://gemgroup.tv/assets/images/channels/icon_17.png",
+   "playerLabel": "GEM TV +",
+   "action": "video:https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "Gold Star",
+   "titleFooter": "Movies",
+   "playerLabel": "Gold Star",
+   "action": "video:https://moviethls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Golkhane Tv",
+   "titleFooter": "Undefined",
+   "image": "https://static.telewebion.com/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default",
+   "playerLabel": "Golkhane Tv",
+   "action": "video:https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8"
+  },
+  {
+   "title": "Grand Cinema",
+   "titleFooter": "Movies",
+   "playerLabel": "Grand Cinema",
+   "action": "video:https://gcinemahls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Habib TV",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/spZRy7mg/habib.png",
+   "playerLabel": "Habib TV",
+   "action": "video:https://ncdn.telewebion.ir/habib/live/playlist.m3u8"
+  },
+  {
+   "title": "Hamedan TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/960px-IRIB_Hamadan_tv.svg.png",
+   "playerLabel": "Hamedan TV",
+   "action": "video:https://ncdn.telewebion.ir/sina/live/playlist.m3u8"
+  },
+  {
+   "title": "Hamoon TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png",
+   "playerLabel": "Hamoon TV",
+   "action": "video:https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8"
+  },
+  {
+   "title": "High Vision TV (1080p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/zhCgoru.png",
+   "playerLabel": "High Vision TV (1080p) [Not 24/7]",
+   "action": "video:https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8"
+  },
+  {
+   "title": "HodHod Farsi TV (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/l8XMKTT.png",
+   "playerLabel": "HodHod Farsi TV (1080p)",
+   "action": "video:https://northtelecom.b-cdn.net/hodhodtv.m3u8"
+  },
+  {
+   "title": "ICC plus (1080p)",
+   "titleFooter": "Movies",
+   "playerLabel": "ICC plus (1080p)",
+   "action": "video:https://icchls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "ICnet 2",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Ke5xn4E.png",
+   "playerLabel": "ICnet 2",
+   "action": "video:https://icnet2hls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "icnet 3",
+   "titleFooter": "Religious",
+   "playerLabel": "icnet 3",
+   "action": "video:https://ic3hls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "iFilm 2",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png",
+   "playerLabel": "iFilm 2",
+   "action": "video:https://live.presstv.co.uk/hls/ifilm2.m3u8"
+  },
+  {
+   "title": "iFilm Arabic",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+   "playerLabel": "iFilm Arabic",
+   "action": "video:https://live.presstv.co.uk/hls/ifilmar.m3u8"
+  },
+  {
+   "title": "iFilm English",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+   "playerLabel": "iFilm English",
+   "action": "video:https://live.presstv.co.uk/hls/ifilmen.m3u8"
+  },
+  {
+   "title": "iFilm Persian",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+   "playerLabel": "iFilm Persian",
+   "action": "video:https://live.presstv.co.uk/hls/ifilmfa.m3u8"
+  },
+  {
+   "title": "Ilam TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png",
+   "playerLabel": "Ilam TV",
+   "action": "video:https://ncdn.telewebion.ir/ilam/live/playlist.m3u8"
+  },
+  {
+   "title": "Iran International (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/55RpaF3.png",
+   "playerLabel": "Iran International (1080p)",
+   "action": "video:https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8"
+  },
+  {
+   "title": "Iran Jewish TV",
+   "titleFooter": "Religious",
+   "image": "https://i.ibb.co/JWXs7csN/en.png",
+   "playerLabel": "Iran Jewish TV",
+   "action": "video:http://iran620.com:1935/live/IranJewishTv/playlist.m3u8"
+  },
+  {
+   "title": "Iran Nama",
+   "titleFooter": "Undefined",
+   "playerLabel": "Iran Nama",
+   "action": "video:https://iran613hls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Iran National Revolution TV",
+   "titleFooter": "Undefined",
+   "playerLabel": "Iran National Revolution TV",
+   "action": "video:https://hls.irannrtv.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Iran Press",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/960px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg",
+   "playerLabel": "Iran Press",
+   "action": "video:https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+  },
+  {
+   "title": "IraneFarda TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ixgcgZY.png",
+   "playerLabel": "IraneFarda TV",
+   "action": "video:https://iranefardalive.com/stream/live.m3u8"
+  },
+  {
+   "title": "IRIB 1",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png",
+   "playerLabel": "IRIB 1",
+   "action": "video:https://ncdn.telewebion.ir/tv1/live/playlist.m3u8"
+  },
+  {
+   "title": "IRIB 2",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png",
+   "playerLabel": "IRIB 2",
+   "action": "video:https://ncdn.telewebion.ir/tv2/live/playlist.m3u8"
+  },
+  {
+   "title": "IRIB 3",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png",
+   "playerLabel": "IRIB 3",
+   "action": "video:https://ncdn.telewebion.ir/tv3/live/playlist.m3u8"
+  },
+  {
+   "title": "IRIB 4",
+   "titleFooter": "Culture",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png",
+   "playerLabel": "IRIB 4",
+   "action": "video:https://ncdn.telewebion.ir/tv4/live/playlist.m3u8"
+  },
+  {
+   "title": "IRIB Mostanad",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png",
+   "playerLabel": "IRIB Mostanad",
+   "action": "video:https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8"
+  },
+  {
+   "title": "IRIB Omid",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png",
+   "playerLabel": "IRIB Omid",
+   "action": "video:https://ncdn.telewebion.ir/omid/live/playlist.m3u8"
+  },
+  {
+   "title": "IRIB UHD (2160p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png",
+   "playerLabel": "IRIB UHD (2160p)",
+   "action": "video:https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
+  },
+  {
+   "title": "IRINN (576p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/8tzsC9h.png",
+   "playerLabel": "IRINN (576p)",
+   "action": "video:http://185.9.2.18/chid_926/index.m3u8"
+  },
+  {
+   "title": "IRINN 2",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/8tzsC9h.png",
+   "playerLabel": "IRINN 2",
+   "action": "video:https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8"
+  },
+  {
+   "title": "Isfahan TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png",
+   "playerLabel": "Isfahan TV",
+   "action": "video:https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8"
+  },
+  {
+   "title": "Jahanbin TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/960px-Shahrekord_Jahanbin.svg.png",
+   "playerLabel": "Jahanbin TV",
+   "action": "video:https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8"
+  },
+  {
+   "title": "Kalemeh TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/RsKKULI.png",
+   "playerLabel": "Kalemeh TV",
+   "action": "video:https://kalemeh.tv/live/hls/gate.php?p=/live/ngrp:kalemeh_all/playlist.m3u8"
+  },
+  {
+   "title": "Kanal Jadid",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/7oGGgfD.png",
+   "playerLabel": "Kanal Jadid",
+   "action": "video:https://kjhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Kerman TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png",
+   "playerLabel": "Kerman TV",
+   "action": "video:https://ncdn.telewebion.ir/kerman/live/playlist.m3u8"
+  },
+  {
+   "title": "Khalij-e Fars TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png",
+   "playerLabel": "Khalij-e Fars TV",
+   "action": "video:https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8"
+  },
+  {
+   "title": "Khavaran TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png",
+   "playerLabel": "Khavaran TV",
+   "action": "video:https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8"
+  },
+  {
+   "title": "Khorasan Razavi TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png",
+   "playerLabel": "Khorasan Razavi TV",
+   "action": "video:https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8"
+  },
+  {
+   "title": "Khozestan TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/960px-Ahwaz_TV.svg.png",
+   "playerLabel": "Khozestan TV",
+   "action": "video:https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8"
+  },
+  {
+   "title": "Kish TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png",
+   "playerLabel": "Kish TV",
+   "action": "video:https://ncdn.telewebion.ir/kish/live/playlist.m3u8"
+  },
+  {
+   "title": "Kordestan TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png",
+   "playerLabel": "Kordestan TV",
+   "action": "video:https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8"
+  },
+  {
+   "title": "LabbaykTV",
+   "titleFooter": "Undefined",
+   "image": "https://static.telewebion.com/channelsLogo/ZDVlODRiYjI3NWUyOTFmOGJmYjIwOTQyMDAyMzRkMmUzYjVmOGUyMTBhNTE0MGI5ZDAyOTMzZDdmZDQyNDM5OA/default",
+   "playerLabel": "LabbaykTV",
+   "action": "video:https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8"
+  },
+  {
+   "title": "Maah TV (720p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/FkyueH6.png",
+   "playerLabel": "Maah TV (720p)",
+   "action": "video:https://hls.maahtv.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Mahabad TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png",
+   "playerLabel": "Mahabad TV",
+   "action": "video:https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8"
+  },
+  {
+   "title": "Manoto",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/8wE1Lbp.png",
+   "playerLabel": "Manoto",
+   "action": "video:https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "Meta Film TV",
+   "titleFooter": "Movies",
+   "playerLabel": "Meta Film TV",
+   "action": "video:https://metafilmhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Mihan TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/XEMsM7w.png",
+   "playerLabel": "Mihan TV",
+   "action": "video:https://iptv.mihantv.com/mihantv/playlist.m3u8"
+  },
+  {
+   "title": "Mohabat TV (Iran) (540p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Ig0SPev.png",
+   "playerLabel": "Mohabat TV (Iran) (540p)",
+   "action": "video:http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+  },
+  {
+   "title": "Namayesh TV",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/960px-Namayesh_TV_logo.svg.png",
+   "playerLabel": "Namayesh TV",
+   "action": "video:https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8"
+  },
+  {
+   "title": "Nasim",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png",
+   "playerLabel": "Nasim",
+   "action": "video:https://ncdn.telewebion.ir/nasim/live/playlist.m3u8"
+  },
+  {
+   "title": "National Iranian Congress TV",
+   "titleFooter": "News",
+   "image": "https://iraniancongress.com/tv/logo.png",
+   "playerLabel": "National Iranian Congress TV",
+   "action": "video:https://tv.iraniancongress.com/stream/tv.m3u8"
+  },
+  {
+   "title": "NewFlix",
+   "titleFooter": "Movies",
+   "playerLabel": "NewFlix",
+   "action": "video:https://newfhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Noor TV (Iran)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/960px-Qum_Noor_TV.svg.png",
+   "playerLabel": "Noor TV (Iran)",
+   "action": "video:https://ncdn.telewebion.ir/noor/live/playlist.m3u8"
+  },
+  {
+   "title": "Ofogh TV",
+   "titleFooter": "Culture",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png",
+   "playerLabel": "Ofogh TV",
+   "action": "video:https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8"
+  },
+  {
+   "title": "Omid e Iran TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/CeMf68L.png",
+   "playerLabel": "Omid e Iran TV",
+   "action": "video:https://oitnhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "OXIR TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/MGMhUDx.png",
+   "playerLabel": "OXIR TV",
+   "action": "video:https://hls.oxir.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Palestinetv",
+   "titleFooter": "General",
+   "image": "https://i.ibb.co/svrZNZTX/Palestine.png",
+   "playerLabel": "Palestinetv",
+   "action": "video:https://ncdn.telewebion.ir/palestine/live/playlist.m3u8"
+  },
+  {
+   "title": "Pars TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/RQ5DzEE.png",
+   "playerLabel": "Pars TV",
+   "action": "video:https://parshls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Payam Javan TV (720p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/GYfsHh9.png",
+   "playerLabel": "Payam Javan TV (720p) [Not 24/7]",
+   "action": "video:https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+  },
+  {
+   "title": "Payvand TV (Iran) (720p) [Not 24/7]",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/o2Ww77N.png",
+   "playerLabel": "Payvand TV (Iran) (720p) [Not 24/7]",
+   "action": "video:https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
+  },
+  {
+   "title": "PBC Tapesh TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/50JzsmH.png",
+   "playerLabel": "PBC Tapesh TV (720p)",
+   "action": "video:https://iptv.tapesh.tv/tapesh/playlist.m3u8"
+  },
+  {
+   "title": "Persiana Cinema",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/hgIro9r.png",
+   "playerLabel": "Persiana Cinema",
+   "action": "video:https://cinehls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Comedy",
+   "titleFooter": "Comedy",
+   "image": "https://i.imgur.com/DBZ3Pi5.png",
+   "playerLabel": "Persiana Comedy",
+   "action": "video:https://comedyhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Docs",
+   "titleFooter": "Documentary",
+   "playerLabel": "Persiana Docs",
+   "action": "video:https://scihls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Family",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/lMZsuWi.png",
+   "playerLabel": "Persiana Family",
+   "action": "video:https://familyhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Fight",
+   "titleFooter": "Sports",
+   "playerLabel": "Persiana Fight",
+   "action": "video:https://fighthls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Folk",
+   "titleFooter": "Music",
+   "playerLabel": "Persiana Folk",
+   "action": "video:https://sonhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Iranian",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/vqrrpBi.png",
+   "playerLabel": "Persiana Iranian",
+   "action": "video:https://irhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Junior",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/zeKHZYG.png",
+   "playerLabel": "Persiana Junior",
+   "action": "video:https://junhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Korea",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/si2ZnIA.png",
+   "playerLabel": "Persiana Korea",
+   "action": "video:https://korhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Latino",
+   "titleFooter": "Movies",
+   "playerLabel": "Persiana Latino",
+   "action": "video:https://latinohls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Medical",
+   "titleFooter": "Education",
+   "playerLabel": "Persiana Medical",
+   "action": "video:https://phd2hls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Nostalgia",
+   "titleFooter": "Classic;Music",
+   "image": "https://i.imgur.com/SWO9CKA.png",
+   "playerLabel": "Persiana Nostalgia",
+   "action": "video:https://noshls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Plus",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/0xttibX.png",
+   "playerLabel": "Persiana Plus",
+   "action": "video:https://euhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Reality",
+   "titleFooter": "Entertainment",
+   "playerLabel": "Persiana Reality",
+   "action": "video:https://twohls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Series",
+   "titleFooter": "Series",
+   "playerLabel": "Persiana Series",
+   "action": "video:https://onehls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Teen",
+   "titleFooter": "Kids",
+   "playerLabel": "Persiana Teen",
+   "action": "video:https://kphls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Travel",
+   "titleFooter": "Documentary",
+   "playerLabel": "Persiana Travel",
+   "action": "video:https://ptravelhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Turkiye",
+   "titleFooter": "Entertainment",
+   "playerLabel": "Persiana Turkiye",
+   "action": "video:https://turkhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Persiana Vibe",
+   "titleFooter": "Music",
+   "playerLabel": "Persiana Vibe",
+   "action": "video:https://raphls.persiana.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Pooya TV",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+   "playerLabel": "Pooya TV",
+   "action": "video:https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8"
+  },
+  {
+   "title": "Pooya TV Plus",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+   "playerLabel": "Pooya TV Plus",
+   "action": "video:https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8"
+  },
+  {
+   "title": "Press TV French (1080p)",
+   "titleFooter": "News",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png",
+   "playerLabel": "Press TV French (1080p)",
+   "action": "video:https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8"
+  },
+  {
+   "title": "Qazvin TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/960px-QazvinTV.svg.png",
+   "playerLabel": "Qazvin TV",
+   "action": "video:https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8"
+  },
+  {
+   "title": "Quran TV (Iran)",
+   "titleFooter": "Religious",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",
+   "playerLabel": "Quran TV (Iran)",
+   "action": "video:https://ncdn.telewebion.ir/quran/live/playlist.m3u8"
+  },
+  {
+   "title": "RasoulallahTv (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/Jh5ADee.png",
+   "playerLabel": "RasoulallahTv (1080p)",
+   "action": "video:https://avr.host247.net/live/rasoulallahtv/playlist.m3u8"
+  },
+  {
+   "title": "Razavi TV",
+   "titleFooter": "Undefined",
+   "image": "https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default",
+   "playerLabel": "Razavi TV",
+   "action": "video:https://ncdn.telewebion.ir/razavi/live/playlist.m3u8"
+  },
+  {
+   "title": "RJTV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/a1zuW2C.png",
+   "playerLabel": "RJTV (1080p)",
+   "action": "video:https://rjtvhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Roya TV (Iran)",
+   "titleFooter": "Undefined",
+   "image": "https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default",
+   "playerLabel": "Roya TV (Iran)",
+   "action": "video:https://ncdn.telewebion.ir/iribu/live/playlist.m3u8"
+  },
+  {
+   "title": "Sabalan TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png",
+   "playerLabel": "Sabalan TV",
+   "action": "video:https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8"
+  },
+  {
+   "title": "Sabz TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/960px-Logo_Golestan.png",
+   "playerLabel": "Sabz TV",
+   "action": "video:https://ncdn.telewebion.ir/sabz/live/playlist.m3u8"
+  },
+  {
+   "title": "Sahand TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/960px-Tabriz_Sahand.svg.png",
+   "playerLabel": "Sahand TV",
+   "action": "video:https://ncdn.telewebion.ir/sahand/live/playlist.m3u8"
+  },
+  {
+   "title": "Salamat TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png",
+   "playerLabel": "Salamat TV",
+   "action": "video:https://ncdn.telewebion.ir/salamat/live/playlist.m3u8"
+  },
+  {
+   "title": "Sarbedaran TV",
+   "titleFooter": "Undefined",
+   "image": "https://static.telewebion.com/channelsLogo/ad6e035d-4215-4d88-a25e-da6ff8e0526f/default",
+   "playerLabel": "Sarbedaran TV",
+   "action": "video:https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8"
+  },
+  {
+   "title": "Semnan TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png",
+   "playerLabel": "Semnan TV",
+   "action": "video:https://ncdn.telewebion.ir/semnan/live/playlist.m3u8"
+  },
+  {
+   "title": "Sepehr TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/960px-Sepehrtv.png",
+   "playerLabel": "Sepehr TV",
+   "action": "video:https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8"
+  },
+  {
+   "title": "Simaye Azadi (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yXcczMq.png",
+   "playerLabel": "Simaye Azadi (1080p)",
+   "action": "video:https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8"
+  },
+  {
+   "title": "SL 1",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/n9cuM2W.jpg",
+   "playerLabel": "SL 1",
+   "action": "video:https://slonehls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "SL 2",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/BVuUx5R.jpg",
+   "playerLabel": "SL 2",
+   "action": "video:https://sltwohls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "SNN TV [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/V8DYqMJ.png",
+   "playerLabel": "SNN TV [Not 24/7]",
+   "action": "video:https://live2.snn.ir/hls/snn2_hd720/index.m3u8"
+  },
+  {
+   "title": "T2 Movies",
+   "titleFooter": "Movies",
+   "playerLabel": "T2 Movies",
+   "action": "video:https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202"
+  },
+  {
+   "title": "T2 TV",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/Wu8MBb7.png",
+   "playerLabel": "T2 TV",
+   "action": "video:https://t2hls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Tabarestan TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png",
+   "playerLabel": "Tabarestan TV",
+   "action": "video:https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8"
+  },
+  {
+   "title": "Tamasha",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png",
+   "playerLabel": "Tamasha",
+   "action": "video:https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8"
+  },
+  {
+   "title": "TBN Nejat TV",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/e4WffQA.png",
+   "playerLabel": "TBN Nejat TV",
+   "action": "video:https://hls.nejat.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Tehran TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png",
+   "playerLabel": "Tehran TV",
+   "action": "video:https://ncdn.telewebion.ir/tehran/live/playlist.m3u8"
+  },
+  {
+   "title": "Tekyemadahi",
+   "titleFooter": "Undefined",
+   "image": "https://static.telewebion.com/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default",
+   "playerLabel": "Tekyemadahi",
+   "action": "video:https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8"
+  },
+  {
+   "title": "TM TV (United States) (720p)",
+   "titleFooter": "General",
+   "image": "https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png",
+   "playerLabel": "TM TV (United States) (720p)",
+   "action": "video:https://hls.tmtv.live/hls/stream.m3u8"
+  },
+  {
+   "title": "TV ITN",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/U4sKHWy.png",
+   "playerLabel": "TV ITN",
+   "action": "video:https://itnhls.wns.live/hls/stream.m3u8"
+  },
+  {
+   "title": "TVA Nava",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/JRxrsrw.png",
+   "playerLabel": "TVA Nava",
+   "action": "video:https://ncdn.telewebion.ir/nava/live/playlist.m3u8"
+  },
+  {
+   "title": "Varzesh TV",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png",
+   "playerLabel": "Varzesh TV",
+   "action": "video:https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8"
+  },
+  {
+   "title": "Velayat TV",
+   "titleFooter": "Undefined",
+   "image": "https://static.telewebion.com/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default",
+   "playerLabel": "Velayat TV",
+   "action": "video:https://ncdn.telewebion.ir/velayat/live/playlist.m3u8"
+  },
+  {
+   "title": "West Azerbaijan TV",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png",
+   "playerLabel": "West Azerbaijan TV",
+   "action": "video:https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8"
+  },
+  {
+   "title": "WiseHumanTv (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/BT7EtfB.png",
+   "playerLabel": "WiseHumanTv (1080p)",
+   "action": "video:https://avr.host247.net/live/WiseHumanTv/playlist.m3u8"
+  },
+  {
+   "title": "Yazd TV",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png",
+   "playerLabel": "Yazd TV",
+   "action": "video:https://ncdn.telewebion.ir/taban/live/playlist.m3u8"
+  },
+  {
+   "title": "YourTime TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/X38vWJ1.png",
+   "playerLabel": "YourTime TV",
+   "action": "video:https://hls.yourtime.live/hls/stream.m3u8"
+  },
+  {
+   "title": "Zagros TV (Iran)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png",
+   "playerLabel": "Zagros TV (Iran)",
+   "action": "video:https://ncdn.telewebion.ir/zagros/live/playlist.m3u8"
+  }
+ ]
+}

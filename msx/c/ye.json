@@ -1,0 +1,42 @@
+{
+ "type": "list",
+ "headline": "Yemen (4)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Al Masirah (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/V055t5e.png",
+   "playerLabel": "Al Masirah (720p) [Not 24/7]",
+   "action": "video:https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8"
+  },
+  {
+   "title": "Al Masirah Mubacher (642p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/0xHb3XM.jpg",
+   "playerLabel": "Al Masirah Mubacher (642p) [Not 24/7]",
+   "action": "video:https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
+  },
+  {
+   "title": "Al-Sahat TV (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/UVndAta.png",
+   "playerLabel": "Al-Sahat TV (720p)",
+   "action": "video:https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8"
+  },
+  {
+   "title": "Yemen Today TV (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/8TzcJu5.png",
+   "playerLabel": "Yemen Today TV (480p)",
+   "action": "video:https://video.yementdy.tv/hls/yementoday.m3u8"
+  }
+ ]
+}

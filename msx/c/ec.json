@@ -1,0 +1,770 @@
+{
+ "type": "list",
+ "headline": "Ecuador (108)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "A&E Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+   "playerLabel": "A&E Latin America (1080p)",
+   "action": "video:http://138.121.15.230:9002/A&E/index.m3u8"
+  },
+  {
+   "title": "America Estereo Guayaquil (360p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gUqKymM.png",
+   "playerLabel": "America Estereo Guayaquil (360p)",
+   "action": "video:https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8"
+  },
+  {
+   "title": "America Estereo Ibarra (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gUqKymM.png",
+   "playerLabel": "America Estereo Ibarra (720p)",
+   "action": "video:https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8"
+  },
+  {
+   "title": "America Estereo Quito (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gUqKymM.png",
+   "playerLabel": "America Estereo Quito (1080p)",
+   "action": "video:https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8"
+  },
+  {
+   "title": "America Estereo Tulcan (614p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gUqKymM.png",
+   "playerLabel": "America Estereo Tulcan (614p)",
+   "action": "video:https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
+  },
+  {
+   "title": "Antena Uno Radiovideo (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/PCN6iZJ.png",
+   "playerLabel": "Antena Uno Radiovideo (360p)",
+   "action": "video:https://tvdatta.com:3578/live/antenaunolive.m3u8"
+  },
+  {
+   "title": "Asomavision (614p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/VqwyCV1.png",
+   "playerLabel": "Asomavision (614p)",
+   "action": "video:https://asomatv.cloud-ip.cc/livestream/stream.m3u8"
+  },
+  {
+   "title": "Austral TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zgGuCYL.png",
+   "playerLabel": "Austral TV (1080p)",
+   "action": "video:https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8"
+  },
+  {
+   "title": "AXN Latin America Andes (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+   "playerLabel": "AXN Latin America Andes (1080p)",
+   "action": "video:http://181.78.8.199:8000/play/a0cu/index.m3u8"
+  },
+  {
+   "title": "Bacan Te Veo (360p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/m1LK6rY.png",
+   "playerLabel": "Bacan Te Veo (360p)",
+   "action": "video:https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8"
+  },
+  {
+   "title": "Capricho TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/eUoj9bG.png",
+   "playerLabel": "Capricho TV (720p) [Not 24/7]",
+   "action": "video:https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
+  },
+  {
+   "title": "Cartoon Network Latin America South Pacific (576p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+   "playerLabel": "Cartoon Network Latin America South Pacific (576p)",
+   "action": "video:http://45.167.1.138:8000/play/a00w"
+  },
+  {
+   "title": "Cinecanal (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+   "playerLabel": "Cinecanal (1080p)",
+   "action": "video:http://15.204.246.24:8080/CinecanalHD/index.m3u8"
+  },
+  {
+   "title": "Ciracu TV (720p) [Not 24/7]",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/mkf2TJ6.png",
+   "playerLabel": "Ciracu TV (720p) [Not 24/7]",
+   "action": "video:https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
+  },
+  {
+   "title": "Comedy Central Latin America (1080p)",
+   "titleFooter": "Comedy",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+   "playerLabel": "Comedy Central Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
+  },
+  {
+   "title": "Curiquingue TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/oukGx28.png",
+   "playerLabel": "Curiquingue TV (720p)",
+   "action": "video:https://video2.lhdserver.es/pjtv/live.m3u8"
+  },
+  {
+   "title": "Discovery Channel Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+   "playerLabel": "Discovery Channel Latin America (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a032/index.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/DisneyHD/index.m3u8"
+  },
+  {
+   "title": "Disney Channel Latin America Panregional HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+   "playerLabel": "Disney Channel Latin America Panregional HD (1080p)",
+   "action": "video:http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America South (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America South (1080p)",
+   "action": "video:http://45.185.163.75:8000/play/a016/index.m3u8"
+  },
+  {
+   "title": "Disney Jr. Latin America South HD (1080p)",
+   "titleFooter": "Animation;Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+   "playerLabel": "Disney Jr. Latin America South HD (1080p)",
+   "action": "video:http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8"
+  },
+  {
+   "title": "DSports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+   "playerLabel": "DSports (1080p)",
+   "action": "video:http://38.187.7.252:8000/play/a03d/index.m3u8"
+  },
+  {
+   "title": "Duende Tv (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6125FPV.jpg",
+   "playerLabel": "Duende Tv (720p) [Not 24/7]",
+   "action": "video:https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8"
+  },
+  {
+   "title": "Duran TV (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/8k8DsBL.png",
+   "playerLabel": "Duran TV (480p) [Not 24/7]",
+   "action": "video:https://cloudvideo.servers10.com:8081/8074/index.m3u8"
+  },
+  {
+   "title": "Ecotel TV (720p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/pVlZUSV.png",
+   "playerLabel": "Ecotel TV (720p)",
+   "action": "video:https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+  },
+  {
+   "title": "Ecuador TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/hj6EYwe.png",
+   "playerLabel": "Ecuador TV (1080p)",
+   "action": "video:http://45.224.97.181:9999/EcuadorTV/index.m3u8"
+  },
+  {
+   "title": "EcuaMundo Radio TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/EMe5oWn.jpg",
+   "playerLabel": "EcuaMundo Radio TV (720p) [Not 24/7]",
+   "action": "video:https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8"
+  },
+  {
+   "title": "Ecuavisa (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Hl5wowk.png",
+   "playerLabel": "Ecuavisa (1080p)",
+   "action": "video:http://45.171.108.253:8888/ECUAVISA/index.m3u8"
+  },
+  {
+   "title": "Ecuavisa Guayaquil (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Hl5wowk.png",
+   "playerLabel": "Ecuavisa Guayaquil (1080p) [Not 24/7]",
+   "action": "video:https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8"
+  },
+  {
+   "title": "Educa TV (720p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/nDRVsIc.png",
+   "playerLabel": "Educa TV (720p) [Not 24/7]",
+   "action": "video:https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
+  },
+  {
+   "title": "El Sol Network TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/TIH3zlP.png",
+   "playerLabel": "El Sol Network TV (1080p)",
+   "action": "video:https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8"
+  },
+  {
+   "title": "ESPN 3 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+   "playerLabel": "ESPN 3 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8"
+  },
+  {
+   "title": "ESPN 4 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+   "playerLabel": "ESPN 4 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
+  },
+  {
+   "title": "ESPN 5 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 5 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
+  },
+  {
+   "title": "ESPN 6 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 6 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
+  },
+  {
+   "title": "ESPN 7 Latin America (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN 7 Latin America (1080p)",
+   "action": "video:https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8"
+  },
+  {
+   "title": "ESPN Latin America Colombia (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+   "playerLabel": "ESPN Latin America Colombia (1080p)",
+   "action": "video:http://190.61.47.54:8000/play/a004/index.m3u8"
+  },
+  {
+   "title": "FM Mundo (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/1nNnYQO.png",
+   "playerLabel": "FM Mundo (1080p)",
+   "action": "video:https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
+  },
+  {
+   "title": "FX Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+   "playerLabel": "FX Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/FXHD/index.m3u8"
+  },
+  {
+   "title": "Gamavision (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
+   "playerLabel": "Gamavision (1080p)",
+   "action": "video:http://45.224.97.181:9999/Gamavision/index.m3u8"
+  },
+  {
+   "title": "Gaviota TV [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/1vlZA6O.png",
+   "playerLabel": "Gaviota TV [Not 24/7]",
+   "action": "video:https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8"
+  },
+  {
+   "title": "GM7 Digital [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg",
+   "playerLabel": "GM7 Digital [Not 24/7]",
+   "action": "video:https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8"
+  },
+  {
+   "title": "Hechos Ecuador (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/koMQZNX.png",
+   "playerLabel": "Hechos Ecuador (1080p) [Not 24/7]",
+   "action": "video:https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8"
+  },
+  {
+   "title": "History Latin America (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+   "playerLabel": "History Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/HistoryHD/index.m3u8"
+  },
+  {
+   "title": "IeanJesus Ecuador (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/TyckDSV.png",
+   "playerLabel": "IeanJesus Ecuador (720p)",
+   "action": "video:https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8"
+  },
+  {
+   "title": "Imperio TV Canal 6 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/NrsNljx.png",
+   "playerLabel": "Imperio TV Canal 6 (720p)",
+   "action": "video:https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8"
+  },
+  {
+   "title": "Infinita TV (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/1nHxdkR.png",
+   "playerLabel": "Infinita TV (1080p)",
+   "action": "video:https://s2.tvdatta.com:3753/hybrid/play.m3u8"
+  },
+  {
+   "title": "Inti TV (1080p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/2WirGqb.png",
+   "playerLabel": "Inti TV (1080p) [Not 24/7]",
+   "action": "video:https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8"
+  },
+  {
+   "title": "KCHTV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CwQmZm7.jpeg",
+   "playerLabel": "KCHTV (1080p)",
+   "action": "video:http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8"
+  },
+  {
+   "title": "La Nueva Radio TV 97.7 (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/19FN4Lp.png",
+   "playerLabel": "La Nueva Radio TV 97.7 (1080p)",
+   "action": "video:https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8"
+  },
+  {
+   "title": "La Perla Radio TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/8wDMgmB.jpg",
+   "playerLabel": "La Perla Radio TV (720p) [Not 24/7]",
+   "action": "video:https://eu1.servers10.com:8081/8068/index.m3u8"
+  },
+  {
+   "title": "LatacungaTV (360p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/YjgYYH3.png",
+   "playerLabel": "LatacungaTV (360p)",
+   "action": "video:https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8"
+  },
+  {
+   "title": "Loreto TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/3qGSAT3.png",
+   "playerLabel": "Loreto TV (720p)",
+   "action": "video:https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
+  },
+  {
+   "title": "Majestad Television (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/d1GWRnm.png",
+   "playerLabel": "Majestad Television (720p)",
+   "action": "video:https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
+  },
+  {
+   "title": "Manavision (480p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/mZkW342.png",
+   "playerLabel": "Manavision (480p)",
+   "action": "video:https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8"
+  },
+  {
+   "title": "Marca TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ez1NxwJ.jpg",
+   "playerLabel": "Marca TV (1080p)",
+   "action": "video:http://200.7.219.221:8088/live/livetv/index.m3u8"
+  },
+  {
+   "title": "Mario Pinto TV (720p) [Not 24/7]",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/9rU6yWo.jpg",
+   "playerLabel": "Mario Pinto TV (720p) [Not 24/7]",
+   "action": "video:https://eu1.servers10.com:8081/8028/index.m3u8"
+  },
+  {
+   "title": "Maxivision Canal 8 (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/rlFAtnO.jpeg",
+   "playerLabel": "Maxivision Canal 8 (1080p)",
+   "action": "video:http://181.119.97.124:8080/play/a00w/index.m3u8"
+  },
+  {
+   "title": "Mel Radio TV (360p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/uu8Clh2.png",
+   "playerLabel": "Mel Radio TV (360p)",
+   "action": "video:https://eu1.servers10.com:8081/8334/index.m3u8"
+  },
+  {
+   "title": "Metropoli Medios TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/yID5T2S.jpg",
+   "playerLabel": "Metropoli Medios TV (720p)",
+   "action": "video:https://eu1.servers10.com:8081/8214/index.m3u8"
+  },
+  {
+   "title": "MTV Latin America (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+   "playerLabel": "MTV Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/MTVHD/index.m3u8"
+  },
+  {
+   "title": "Multicanal Catamayo (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/IHKBGmu.png",
+   "playerLabel": "Multicanal Catamayo (720p) [Not 24/7]",
+   "action": "video:https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+  },
+  {
+   "title": "Nick Jr. Latin America (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/KT4tdQs.png",
+   "playerLabel": "Nick Jr. Latin America (1080p)",
+   "action": "video:https://streaming.onnethn.com/NICK_JR/playlist.m3u8"
+  },
+  {
+   "title": "Nickelodeon Latin America (1080p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/E84jnP8.png",
+   "playerLabel": "Nickelodeon Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/NickHD/index.m3u8"
+  },
+  {
+   "title": "Nuka TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/4r2Ycju.png",
+   "playerLabel": "Nuka TV (720p) [Not 24/7]",
+   "action": "video:https://cloudvideo.servers10.com:8081/8118/index.m3u8"
+  },
+  {
+   "title": "Ondas Quevedenas TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/K9pW0LA.jpeg",
+   "playerLabel": "Ondas Quevedenas TV (720p) [Not 24/7]",
+   "action": "video:https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8"
+  },
+  {
+   "title": "Oromar TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://oromartv.com/images/OTV400.png",
+   "playerLabel": "Oromar TV (1080p)",
+   "action": "video:http://45.224.97.181:9999/Oromar/index.m3u8"
+  },
+  {
+   "title": "Oromar TV+ (720p)",
+   "titleFooter": "General",
+   "image": "https://oromartv.com/images/OTV400.png",
+   "playerLabel": "Oromar TV+ (720p)",
+   "action": "video:https://stream.oromar.tv/hls/camriva/index.m3u8"
+  },
+  {
+   "title": "Pantalla Clasica EC (512p) [Not 24/7]",
+   "titleFooter": "Movies;Series",
+   "image": "https://i.imgur.com/mhbERF9.jpg",
+   "playerLabel": "Pantalla Clasica EC (512p) [Not 24/7]",
+   "action": "video:https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8"
+  },
+  {
+   "title": "Planeta Channel [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XyBKaXI.png",
+   "playerLabel": "Planeta Channel [Not 24/7]",
+   "action": "video:https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8"
+  },
+  {
+   "title": "Plus TV (Ecuador) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/TZqOINg.png",
+   "playerLabel": "Plus TV (Ecuador) (720p) [Not 24/7]",
+   "action": "video:https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+  },
+  {
+   "title": "Puruwa TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CYldC2R.png",
+   "playerLabel": "Puruwa TV (1080p)",
+   "action": "video:https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
+  },
+  {
+   "title": "Radio Bonita 106.7 (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/IvZtqyz.png",
+   "playerLabel": "Radio Bonita 106.7 (720p)",
+   "action": "video:https://cloudvideo.servers10.com:8081/8154/index.m3u8"
+  },
+  {
+   "title": "Radio Cuenca Estereo (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/qZzSOeU.png",
+   "playerLabel": "Radio Cuenca Estereo (720p)",
+   "action": "video:https://eu1.servers10.com:8081/8074/index.m3u8"
+  },
+  {
+   "title": "Radio Fantastica 98.9 FM (1080p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/mpcIbrH.jpg",
+   "playerLabel": "Radio Fantastica 98.9 FM (1080p)",
+   "action": "video:http://190.107.232.9:8082/livestream/stream.m3u8"
+  },
+  {
+   "title": "Radio Impacto 2 (288p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/YvK1hm7.png",
+   "playerLabel": "Radio Impacto 2 (288p) [Not 24/7]",
+   "action": "video:https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8"
+  },
+  {
+   "title": "Radio Monumental TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/a97MaV2.png",
+   "playerLabel": "Radio Monumental TV (720p) [Not 24/7]",
+   "action": "video:https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8"
+  },
+  {
+   "title": "Red TVE Ventanas (432p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/Pzf2ZAW.png",
+   "playerLabel": "Red TVE Ventanas (432p)",
+   "action": "video:https://s2.tvdatta.com:3825/live/redtvelive.m3u8"
+  },
+  {
+   "title": "RTRTV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/dvP2yqB.png",
+   "playerLabel": "RTRTV (1080p)",
+   "action": "video:https://tv3ecuador.site/hls/stream/index.m3u8"
+  },
+  {
+   "title": "RTS (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PML8cJA.png",
+   "playerLabel": "RTS (1080p)",
+   "action": "video:http://45.171.108.253:8888/RTS/index.m3u8"
+  },
+  {
+   "title": "RTU (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/1OWvMP4.png",
+   "playerLabel": "RTU (1080p)",
+   "action": "video:http://45.224.97.181:9999/RTU/index.m3u8"
+  },
+  {
+   "title": "RTV (Ecuador) (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/DzxGHRZ.png",
+   "playerLabel": "RTV (Ecuador) (720p) [Not 24/7]",
+   "action": "video:https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
+  },
+  {
+   "title": "Sono Onda TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/HWHeqWY.png",
+   "playerLabel": "Sono Onda TV (720p)",
+   "action": "video:https://live.obslivestream.com/sonoondatv/index.m3u8"
+  },
+  {
+   "title": "Space (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
+   "playerLabel": "Space (1080p)",
+   "action": "video:http://45.171.64.30:6060/play/a04n/index.m3u8"
+  },
+  {
+   "title": "Star Channel Latin America (1080p)",
+   "titleFooter": "Movies;Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+   "playerLabel": "Star Channel Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/STARCHANNELHD/index.m3u8"
+  },
+  {
+   "title": "Studio + TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://carjocosa.space/studio/logo.png",
+   "playerLabel": "Studio + TV (1080p)",
+   "action": "video:https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8"
+  },
+  {
+   "title": "Studio Universal Latin America (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
+   "playerLabel": "Studio Universal Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/StudioUniversalHD/index.m3u8"
+  },
+  {
+   "title": "TC Television (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/okK02EN.png",
+   "playerLabel": "TC Television (1080p)",
+   "action": "video:http://45.224.97.181:9999/TC/index.m3u8"
+  },
+  {
+   "title": "Teleamazonas (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+   "playerLabel": "Teleamazonas (1080p)",
+   "action": "video:http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8"
+  },
+  {
+   "title": "Telecosta (Ecuador)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/1DqLy8H.png",
+   "playerLabel": "Telecosta (Ecuador)",
+   "action": "video:https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8"
+  },
+  {
+   "title": "Telemar (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0vX9oJF.png",
+   "playerLabel": "Telemar (720p)",
+   "action": "video:https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8"
+  },
+  {
+   "title": "Telerama (240p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/whIRrjo.png",
+   "playerLabel": "Telerama (240p) [Not 24/7]",
+   "action": "video:https://play.once.net.ec/telerama/live.tv/538.m3u8"
+  },
+  {
+   "title": "TLC Latin America (1080p)",
+   "titleFooter": "Lifestyle",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+   "playerLabel": "TLC Latin America (1080p)",
+   "action": "video:http://38.134.250.110:8000/play/a00n/index.m3u8"
+  },
+  {
+   "title": "TNT Series Latin America (1080p)",
+   "titleFooter": "Series",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+   "playerLabel": "TNT Series Latin America (1080p)",
+   "action": "video:http://168.196.127.137:6001/play/a095/index.m3u8"
+  },
+  {
+   "title": "TV Cisne (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/xIuFSnx.png",
+   "playerLabel": "TV Cisne (1080p)",
+   "action": "video:https://video2.lhdserver.es/tvcisne/live.m3u8"
+  },
+  {
+   "title": "TV Color Canal 36 (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/QJW6khK.jpg",
+   "playerLabel": "TV Color Canal 36 (720p)",
+   "action": "video:https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8"
+  },
+  {
+   "title": "TV Legislativa (1080p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/3Y6Lp5l.png",
+   "playerLabel": "TV Legislativa (1080p) [Not 24/7]",
+   "action": "video:https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8"
+  },
+  {
+   "title": "TV Universal Ecuador (720p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/TIsk5zN.png",
+   "playerLabel": "TV Universal Ecuador (720p)",
+   "action": "video:https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
+  },
+  {
+   "title": "TVC (Ecuador) (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/zhdIwlm.png",
+   "playerLabel": "TVC (Ecuador) (1080p)",
+   "action": "video:http://45.224.97.181:9999/TVC/index.m3u8"
+  },
+  {
+   "title": "TvOro (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9d02qUU.jpeg",
+   "playerLabel": "TvOro (1080p)",
+   "action": "video:http://45.187.0.19:9090/tvusa/index.m3u8"
+  },
+  {
+   "title": "UEBI TV Online (720p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/Tf0BF2q.jpg",
+   "playerLabel": "UEBI TV Online (720p) [Not 24/7]",
+   "action": "video:https://ventaxtv.com:3575/live/uebilive.m3u8"
+  },
+  {
+   "title": "UNIANDES TV (720p) [Not 24/7]",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/1rluyB7.png",
+   "playerLabel": "UNIANDES TV (720p) [Not 24/7]",
+   "action": "video:https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+  },
+  {
+   "title": "Universal TV Latin America (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
+   "playerLabel": "Universal TV Latin America (1080p)",
+   "action": "video:http://15.204.246.24:8080/UniversalHD/index.m3u8"
+  },
+  {
+   "title": "Unsion TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/HQGBqGU.png",
+   "playerLabel": "Unsion TV (1080p)",
+   "action": "video:http://provedores.unsion.tv:8081/srt/1/playlist.m3u8"
+  },
+  {
+   "title": "VitoTVO (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/QoJ2gD0.png",
+   "playerLabel": "VitoTVO (1080p)",
+   "action": "video:http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8"
+  },
+  {
+   "title": "Vos y TV (720p) [Not 24/7]",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/294FDCB.png",
+   "playerLabel": "Vos y TV (720p) [Not 24/7]",
+   "action": "video:https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
+  },
+  {
+   "title": "Wuan+",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/pJNx1za.png",
+   "playerLabel": "Wuan+",
+   "action": "video:https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8"
+  },
+  {
+   "title": "Zaracay TV (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/6q0Gp9R.png",
+   "playerLabel": "Zaracay TV (1080p) [Not 24/7]",
+   "action": "video:https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8"
+  }
+ ]
+}

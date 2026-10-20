@@ -1,0 +1,42 @@
+{
+ "type": "list",
+ "headline": "Bahamas (4)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Guardian Talk Radio (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/o3cWUwL.png",
+   "playerLabel": "Guardian Talk Radio (1080p)",
+   "action": "video:https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8"
+  },
+  {
+   "title": "Island Luck TV",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/P0gDN5n.png",
+   "playerLabel": "Island Luck TV",
+   "action": "video:https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8"
+  },
+  {
+   "title": "The Parliamentary Channel (720p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/ZQagV0x.png",
+   "playerLabel": "The Parliamentary Channel (720p) [Not 24/7]",
+   "action": "video:https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
+  },
+  {
+   "title": "ZNS-TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/h6nC8fe.png",
+   "playerLabel": "ZNS-TV (1080p)",
+   "action": "video:https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8"
+  }
+ ]
+}

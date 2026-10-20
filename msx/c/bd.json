@@ -1,0 +1,329 @@
+{
+ "type": "list",
+ "headline": "Bangladesh (45)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Aamar Bangla (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png",
+   "playerLabel": "Aamar Bangla (720p)",
+   "action": "video:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
+  },
+  {
+   "title": "Ananda TV (480p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/jkbo7Qe.png",
+   "playerLabel": "Ananda TV (480p)",
+   "action": "video:http://103.99.249.139/anandatv/index.m3u8"
+  },
+  {
+   "title": "ATN Bangla (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/K1HmMRz.png",
+   "playerLabel": "ATN Bangla (720p)",
+   "action": "video:http://tvsen5.aynascope.net/atnbangla/index.m3u8"
+  },
+  {
+   "title": "ATN Music (360p)",
+   "titleFooter": "Music",
+   "image": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681",
+   "playerLabel": "ATN Music (360p)",
+   "action": "video:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
+  },
+  {
+   "title": "Azan TV",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/JlqS6I4.jpeg",
+   "playerLabel": "Azan TV",
+   "action": "video:https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+  },
+  {
+   "title": "Bangla Vision (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/nCWgp38.png",
+   "playerLabel": "Bangla Vision (720p)",
+   "action": "video:https://tvsen5.aynaott.com/banglavision/index.m3u8"
+  },
+  {
+   "title": "Boishakhi TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/gxL05Y4.png",
+   "playerLabel": "Boishakhi TV",
+   "action": "video:https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
+  },
+  {
+   "title": "Channel S (Bangladesh)",
+   "titleFooter": "Culture",
+   "image": "https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png",
+   "playerLabel": "Channel S (Bangladesh)",
+   "action": "video:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8"
+  },
+  {
+   "title": "Channel S (United Kingdom) (576p)",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/hJxFLvF.png",
+   "playerLabel": "Channel S (United Kingdom) (576p)",
+   "action": "video:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
+  },
+  {
+   "title": "DBC News (480p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Qbt6q4z.png",
+   "playerLabel": "DBC News (480p)",
+   "action": "video:http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
+  },
+  {
+   "title": "Deshi TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/PzqzgMm.png",
+   "playerLabel": "Deshi TV (720p)",
+   "action": "video:https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+  },
+  {
+   "title": "Disney International HD (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
+   "playerLabel": "Disney International HD (576p)",
+   "action": "video:http://103.151.60.162:2122/play/a018/index.m3u8?hls"
+  },
+  {
+   "title": "Duronto TV (720p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/gXsddRK.png",
+   "playerLabel": "Duronto TV (720p)",
+   "action": "video:https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
+  },
+  {
+   "title": "Ekhon TV (1080p)",
+   "titleFooter": "Business",
+   "image": "https://i.imgur.com/tRrDh6z.png",
+   "playerLabel": "Ekhon TV (1080p)",
+   "action": "video:https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
+  },
+  {
+   "title": "Ekushey TV (480p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/lRpkGHj.png",
+   "playerLabel": "Ekushey TV (480p)",
+   "action": "video:https://ekusheyserver.com/etvlivesn.m3u8"
+  },
+  {
+   "title": "Gazi TV (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/2Lzhiq6.png",
+   "playerLabel": "Gazi TV (1080p)",
+   "action": "video:http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8"
+  },
+  {
+   "title": "Green TV (1080p)",
+   "titleFooter": "Family",
+   "image": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg",
+   "playerLabel": "Green TV (1080p)",
+   "action": "video:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
+  },
+  {
+   "title": "Jalsha Movies HD (1080p)",
+   "titleFooter": "Movies",
+   "image": "https://i.imgur.com/25eWjX2.png",
+   "playerLabel": "Jalsha Movies HD (1080p)",
+   "action": "video:http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8"
+  },
+  {
+   "title": "Maasranga TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/uVZJMed.png",
+   "playerLabel": "Maasranga TV (720p)",
+   "action": "video:http://tvsen5.aynascope.net/maasrangatv/index.m3u8"
+  },
+  {
+   "title": "Madani Channel Bangla (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/vIJTVia.png",
+   "playerLabel": "Madani Channel Bangla (1080p)",
+   "action": "video:https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
+  },
+  {
+   "title": "Matribhumi TV (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg",
+   "playerLabel": "Matribhumi TV (720p)",
+   "action": "video:http://live.playmax.live/matribhumi/index.m3u8"
+  },
+  {
+   "title": "Movie Bangla",
+   "titleFooter": "Movies",
+   "image": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",
+   "playerLabel": "Movie Bangla",
+   "action": "video:http://alvetv.com/moviebanglatv/8080/index.m3u8"
+  },
+  {
+   "title": "My TV (Bangladesh)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/475qK5T.png",
+   "playerLabel": "My TV (Bangladesh)",
+   "action": "video:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
+  },
+  {
+   "title": "NAN TV",
+   "titleFooter": "News",
+   "image": "https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png",
+   "playerLabel": "NAN TV",
+   "action": "video:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8"
+  },
+  {
+   "title": "National Geographic (India) (576p) [Geo-blocked]",
+   "titleFooter": "Documentary",
+   "image": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
+   "playerLabel": "National Geographic (India) (576p) [Geo-blocked]",
+   "action": "video:http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+  },
+  {
+   "title": "National Geographic (India) HD (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+   "playerLabel": "National Geographic (India) HD (1080p)",
+   "action": "video:http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
+  },
+  {
+   "title": "National Geographic Wild (India) HD (1080p)",
+   "titleFooter": "Documentary",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+   "playerLabel": "National Geographic Wild (India) HD (1080p)",
+   "action": "video:http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
+  },
+  {
+   "title": "News 21 Bangla TV",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/ijuJfmd.png",
+   "playerLabel": "News 21 Bangla TV",
+   "action": "video:http://103.190.133.68:1935/news21live/live/playlist.m3u8"
+  },
+  {
+   "title": "Nexus TV (576p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/XcJZKg4.png",
+   "playerLabel": "Nexus TV (576p)",
+   "action": "video:https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
+  },
+  {
+   "title": "Nick Jr. (India) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
+   "playerLabel": "Nick Jr. (India) (576p)",
+   "action": "video:http://103.185.24.134:3001/NICK-JR/index.m3u8"
+  },
+  {
+   "title": "Nickelodeon (India) (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+   "playerLabel": "Nickelodeon (India) (576p)",
+   "action": "video:http://103.185.24.134:3001/NICK/index.m3u8"
+  },
+  {
+   "title": "NTV (Bangladesh) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/l75bDTx.png",
+   "playerLabel": "NTV (Bangladesh) (720p)",
+   "action": "video:https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+  },
+  {
+   "title": "Peace TV Bangla (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/1ztVXUi.png",
+   "playerLabel": "Peace TV Bangla (1080p)",
+   "action": "video:https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+  },
+  {
+   "title": "Probashi TV News (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/7oTsfQ4.png",
+   "playerLabel": "Probashi TV News (1080p)",
+   "action": "video:http://158.69.24.53:8080/probashi_tv/index.m3u8"
+  },
+  {
+   "title": "Rajdhani TV SD (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/MBm2gPz.jpeg",
+   "playerLabel": "Rajdhani TV SD (1080p)",
+   "action": "video:https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+  },
+  {
+   "title": "RTV (Bangladesh) (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/yu8ugqt.png",
+   "playerLabel": "RTV (Bangladesh) (720p)",
+   "action": "video:http://tvsen5.aynascope.net/RtvHD/index.m3u8"
+  },
+  {
+   "title": "Rupashi Bangla TV (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png",
+   "playerLabel": "Rupashi Bangla TV (720p)",
+   "action": "video:https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8"
+  },
+  {
+   "title": "Sonic (576p)",
+   "titleFooter": "Kids",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
+   "playerLabel": "Sonic (576p)",
+   "action": "video:http://103.185.24.134:3001/SONIC/index.m3u8"
+  },
+  {
+   "title": "Star Jalsha (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/IlufzR5.png",
+   "playerLabel": "Star Jalsha (576p)",
+   "action": "video:http://103.151.60.162:2122/play/a00w/index.m3u8?hls"
+  },
+  {
+   "title": "Star Jalsha HD (720p)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/IlufzR5.png",
+   "playerLabel": "Star Jalsha HD (720p)",
+   "action": "video:https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8"
+  },
+  {
+   "title": "T Sports (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/2JzlorD.png",
+   "playerLabel": "T Sports (1080p)",
+   "action": "video:https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+  },
+  {
+   "title": "Vokta TV (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/szAGBCU.png",
+   "playerLabel": "Vokta TV (720p)",
+   "action": "video:https://vokta.raytahost.com/live/voktatv/index.m3u8"
+  },
+  {
+   "title": "Zee Bangla (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png",
+   "playerLabel": "Zee Bangla (576p)",
+   "action": "video:http://103.151.60.162:2122/play/a011/index.m3u8?hls"
+  },
+  {
+   "title": "Zee Bangla HD (1080p)",
+   "titleFooter": "Entertainment",
+   "image": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
+   "playerLabel": "Zee Bangla HD (1080p)",
+   "action": "video:http://103.151.60.162:2122/play/a02p/index.m3u8?hls"
+  },
+  {
+   "title": "Zee Bangla Sonar (576p)",
+   "titleFooter": "Entertainment",
+   "image": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
+   "playerLabel": "Zee Bangla Sonar (576p)",
+   "action": "video:https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8"
+  }
+ ]
+}

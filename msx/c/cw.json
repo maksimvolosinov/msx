@@ -1,0 +1,49 @@
+{
+ "type": "list",
+ "headline": "Curacao (5)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Bonce TV (480p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/7cVkllH.png",
+   "playerLabel": "Bonce TV (480p) [Not 24/7]",
+   "action": "video:https://seswa.bonce.tv/hls/bonceswa.m3u8"
+  },
+  {
+   "title": "Energia TV (720p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GVKjI5c.jpeg",
+   "playerLabel": "Energia TV (720p) [Not 24/7]",
+   "action": "video:https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8"
+  },
+  {
+   "title": "Nos Pais (720p) [Not 24/7]",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/ZUob2uZ.png",
+   "playerLabel": "Nos Pais (720p) [Not 24/7]",
+   "action": "video:https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8"
+  },
+  {
+   "title": "TV Direct 13 (480p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/T2IbQqv.png",
+   "playerLabel": "TV Direct 13 (480p) [Not 24/7]",
+   "action": "video:https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+   "title": "VAM TV (720p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/CD1PffA.png",
+   "playerLabel": "VAM TV (720p)",
+   "action": "video:https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8"
+  }
+ ]
+}

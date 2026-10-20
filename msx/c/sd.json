@@ -1,0 +1,35 @@
+{
+ "type": "list",
+ "headline": "Sudan (3)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Al Alamiya 2",
+   "titleFooter": "Education",
+   "image": "https://i.imgur.com/5FrE3Nv.png",
+   "playerLabel": "Al Alamiya 2",
+   "action": "video:http://82.212.74.98:8000/live/7815.m3u8"
+  },
+  {
+   "title": "Dabanga TV (1080p)",
+   "titleFooter": "Education;News",
+   "image": "https://i.imgur.com/BH1N6TA.png",
+   "playerLabel": "Dabanga TV (1080p)",
+   "action": "video:https://hls.dabangasudan.org/hls/stream.m3u8"
+  },
+  {
+   "title": "Sudan TV (360p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/XUPAYAA.png",
+   "playerLabel": "Sudan TV (360p)",
+   "action": "video:https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8"
+  }
+ ]
+}

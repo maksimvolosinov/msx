@@ -1,0 +1,440 @@
+{
+ "type": "list",
+ "headline": "Slovakia (61)",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "icon": "msx-white-soft:live-tv",
+  "iconSize": "medium",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": ":24 (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/tTCuczU.png",
+   "playerLabel": ":24 (1080p)",
+   "action": "video:http://88.212.15.17/live/test_trojka_25p/playlist.m3u8"
+  },
+  {
+   "title": "Antik Info TV (1080p)",
+   "titleFooter": "News",
+   "image": "https://i.imgur.com/Q0qL60o.png",
+   "playerLabel": "Antik Info TV (1080p)",
+   "action": "video:https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8"
+  },
+  {
+   "title": "Barrandov Krimi (1080p)",
+   "titleFooter": "General",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png",
+   "playerLabel": "Barrandov Krimi (1080p)",
+   "action": "video:https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8"
+  },
+  {
+   "title": "Canal+ Action Europe Czechia",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
+   "playerLabel": "Canal+ Action Europe Czechia",
+   "action": "video:http://46.149.191.219:9106/play/a01g"
+  },
+  {
+   "title": "Canal+ Action Europe Slovakia (720p)",
+   "titleFooter": "Movies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
+   "playerLabel": "Canal+ Action Europe Slovakia (720p)",
+   "action": "video:http://151.80.18.177:86/Canal+_Family_HD/index.m3u8"
+  },
+  {
+   "title": "Canal+ Sport 2 SK",
+   "titleFooter": "Sports",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739",
+   "playerLabel": "Canal+ Sport 2 SK",
+   "action": "video:http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0"
+  },
+  {
+   "title": "Canal+ Sport 3 SK",
+   "titleFooter": "Sports",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/4/4c/CANAL%2B_SPORT_3.svg/revision/latest?cb=20241028202810",
+   "playerLabel": "Canal+ Sport 3 SK",
+   "action": "video:http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0"
+  },
+  {
+   "title": "Canal+ Sport 4 SK",
+   "titleFooter": "Sports",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/8/82/CANAL%2B_SPORT_4.svg/revision/latest?cb=20241028202820",
+   "playerLabel": "Canal+ Sport 4 SK",
+   "action": "video:http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0"
+  },
+  {
+   "title": "Canal+ Sport 5 SK",
+   "titleFooter": "Sports",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/3/39/CANAL%2B_SPORT_5.svg/revision/latest?cb=20241028202829",
+   "playerLabel": "Canal+ Sport 5 SK",
+   "action": "video:http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0"
+  },
+  {
+   "title": "Canal+ Sport 6 SK",
+   "titleFooter": "Sports",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Canal%2B_Sport_6.svg/revision/latest?cb=20251106141229",
+   "playerLabel": "Canal+ Sport 6 SK",
+   "action": "video:http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0"
+  },
+  {
+   "title": "Canal+ Sport 7 SK",
+   "titleFooter": "Sports",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/0/03/Canal%2B_Sport_7.svg/revision/latest?cb=20251106141245",
+   "playerLabel": "Canal+ Sport 7 SK",
+   "action": "video:http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0"
+  },
+  {
+   "title": "Canal+ Sport 8 SK",
+   "titleFooter": "Sports",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/6/64/Canal%2B_Sport_8.svg/revision/latest?cb=20251106141257",
+   "playerLabel": "Canal+ Sport 8 SK",
+   "action": "video:http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0"
+  },
+  {
+   "title": "Canal+ Sport SK",
+   "titleFooter": "Sports",
+   "image": "https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest?cb=20230901182304",
+   "playerLabel": "Canal+ Sport SK",
+   "action": "video:http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0"
+  },
+  {
+   "title": "Disney Channel (Czech Republic)",
+   "titleFooter": "Kids",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+   "playerLabel": "Disney Channel (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_disney/playlist.m3u8"
+  },
+  {
+   "title": "ducktv PLUS",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/RFhxfOx.png",
+   "playerLabel": "ducktv PLUS",
+   "action": "video:https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8"
+  },
+  {
+   "title": "HAHA TV",
+   "titleFooter": "Comedy",
+   "playerLabel": "HAHA TV",
+   "action": "video:https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8"
+  },
+  {
+   "title": "Jednotka",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/aqVki9i.png",
+   "playerLabel": "Jednotka",
+   "action": "video:http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8"
+  },
+  {
+   "title": "LifeTv (1080p)",
+   "titleFooter": "Religious",
+   "image": "https://i.imgur.com/jO8kAY2.png",
+   "playerLabel": "LifeTv (1080p)",
+   "action": "video:https://lifetv.mpks.sk/s.m3u8"
+  },
+  {
+   "title": "Minimax CEE (576p)",
+   "titleFooter": "Kids",
+   "image": "https://i.imgur.com/WWOlm1x.png",
+   "playerLabel": "Minimax CEE (576p)",
+   "action": "video:http://88.212.15.17/live/test_minimax/playlist.m3u8"
+  },
+  {
+   "title": "MTR (1080p)",
+   "titleFooter": "General",
+   "image": "https://www.mtr.sk/img/logo-mtr-0.png",
+   "playerLabel": "MTR (1080p)",
+   "action": "video:https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8"
+  },
+  {
+   "title": "NZTV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/jGZlnzT.png",
+   "playerLabel": "NZTV",
+   "action": "video:https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8"
+  },
+  {
+   "title": "Ocko (540p)",
+   "titleFooter": "Music",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
+   "playerLabel": "Ocko (540p)",
+   "action": "video:https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
+  },
+  {
+   "title": "Prima Cool SK (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png",
+   "playerLabel": "Prima Cool SK (1080p)",
+   "action": "video:http://88.212.15.17/live/prima_cool_avc_25p/playlist.m3u8"
+  },
+  {
+   "title": "Regio TV (406p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/WlF6tlZ.png",
+   "playerLabel": "Regio TV (406p)",
+   "action": "video:http://tv.geniusnet.sk:8081/regiotv/pl.m3u8"
+  },
+  {
+   "title": "Retro Music TV (360p)",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/pyOjdZs.png",
+   "playerLabel": "Retro Music TV (360p)",
+   "action": "video:https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+  },
+  {
+   "title": "Senzi (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/1qJMmBu.png",
+   "playerLabel": "Senzi (720p)",
+   "action": "video:http://lb.streaming.sk/senzi/stream/playlist.m3u8"
+  },
+  {
+   "title": "Slager Muzika",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/hKdXwrW.png",
+   "playerLabel": "Slager Muzika",
+   "action": "video:https://stream-23.mazana.tv/slagrmuzika.m3u8s"
+  },
+  {
+   "title": "Slager Original",
+   "titleFooter": "Music",
+   "image": "https://i.imgur.com/0YjeWcq.png",
+   "playerLabel": "Slager Original",
+   "action": "video:https://stream-13.mazana.tv/slagroriginal.m3u8s"
+  },
+  {
+   "title": "Spektrum (Czech Republic)",
+   "titleFooter": "Documentary",
+   "image": "https://i.imgur.com/F5Uosum.png",
+   "playerLabel": "Spektrum (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_spektrum/playlist.m3u8"
+  },
+  {
+   "title": "Spektrum Home (Czech Republic)",
+   "titleFooter": "Entertainment",
+   "image": "https://i.imgur.com/VaVi65F.png",
+   "playerLabel": "Spektrum Home (Czech Republic)",
+   "action": "video:http://88.212.15.17/live/test_home_hevc/playlist.m3u8"
+  },
+  {
+   "title": "Sport (Slovakia) (1080p)",
+   "titleFooter": "Sports",
+   "image": "https://i.imgur.com/oAtcxNZ.png",
+   "playerLabel": "Sport (Slovakia) (1080p)",
+   "action": "video:http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8"
+  },
+  {
+   "title": "Televizia Mocenok (720p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/psb8GxZ.png",
+   "playerLabel": "Televizia Mocenok (720p)",
+   "action": "video:https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8"
+  },
+  {
+   "title": "Turbo TV (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/HI7bCHq.png",
+   "playerLabel": "Turbo TV (1080p)",
+   "action": "video:https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8"
+  },
+  {
+   "title": "TV Brezova (540p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/59LpYoF.png",
+   "playerLabel": "TV Brezova (540p)",
+   "action": "video:http://95.105.193.219:88/hls/tvb.m3u8"
+  },
+  {
+   "title": "TV Central (540p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/LqGT8o9.png",
+   "playerLabel": "TV Central (540p)",
+   "action": "video:https://arenasportslovakia.ddns.net/hls/cetv2.m3u8"
+  },
+  {
+   "title": "TV DK (486p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/qTOnPXe.png",
+   "playerLabel": "TV DK (486p) [Not 24/7]",
+   "action": "video:http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8"
+  },
+  {
+   "title": "TV Liptov (1080p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/CkvB3af.png",
+   "playerLabel": "TV Liptov (1080p)",
+   "action": "video:http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8"
+  },
+  {
+   "title": "TV LocAll (406p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/xN1CJol.png",
+   "playerLabel": "TV LocAll (406p)",
+   "action": "video:http://tv.geniusnet.sk:8081/localltv/pl.m3u8"
+  },
+  {
+   "title": "TV Lux (Slovakia) (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/mAMyTkq.png",
+   "playerLabel": "TV Lux (Slovakia) (720p) [Not 24/7]",
+   "action": "video:https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8"
+  },
+  {
+   "title": "TV Mistral",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/IOJ6rcb.jpeg",
+   "playerLabel": "TV Mistral",
+   "action": "video:https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8"
+  },
+  {
+   "title": "TV Myjava (540p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/9f9VmvF.png",
+   "playerLabel": "TV Myjava (540p)",
+   "action": "video:http://95.105.193.219:88/hls/tvm.m3u8"
+  },
+  {
+   "title": "TV Nitricka",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/iwWyG1A.png",
+   "playerLabel": "TV Nitricka",
+   "action": "video:https://dash4.antik.sk/live/test_nitricka/playlist.m3u8"
+  },
+  {
+   "title": "TV NRSR (720p) [Not 24/7]",
+   "titleFooter": "Legislative",
+   "image": "https://i.imgur.com/hsJsu3I.png",
+   "playerLabel": "TV NRSR (720p) [Not 24/7]",
+   "action": "video:https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8"
+  },
+  {
+   "title": "TV Panorama",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/0YtCG4Y.png",
+   "playerLabel": "TV Panorama",
+   "action": "video:https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8"
+  },
+  {
+   "title": "TV Poprad (1080p) [Not 24/7]",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/x6ZvOp6.png",
+   "playerLabel": "TV Poprad (1080p) [Not 24/7]",
+   "action": "video:http://213.81.153.221:8080/poprad"
+  },
+  {
+   "title": "TV Povazie (1080p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/JRD9YIY.png",
+   "playerLabel": "TV Povazie (1080p)",
+   "action": "video:https://dash3.antik.sk/live/test_povazie/playlist.m3u8"
+  },
+  {
+   "title": "TV Raj (720p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/CGckMyx.png",
+   "playerLabel": "TV Raj (720p) [Not 24/7]",
+   "action": "video:https://ottst05.flexitv.sk/2827-tv-pc.m3u8"
+  },
+  {
+   "title": "TV Romana (720p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/r7avFBX.png",
+   "playerLabel": "TV Romana (720p)",
+   "action": "video:http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8"
+  },
+  {
+   "title": "TV Ruzinov (1080p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/bUGuntH.png",
+   "playerLabel": "TV Ruzinov (1080p) [Not 24/7]",
+   "action": "video:http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8"
+  },
+  {
+   "title": "TV Sen (540p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/ckm2oLD.png",
+   "playerLabel": "TV Sen (540p)",
+   "action": "video:http://95.105.193.219:88/hls/tvsen.m3u8"
+  },
+  {
+   "title": "TV Severka (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/oQSee9S.png",
+   "playerLabel": "TV Severka (576p) [Not 24/7]",
+   "action": "video:http://88.212.7.11/live/test_severka_web_player/playlist.m3u8"
+  },
+  {
+   "title": "TV Skalica (540p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/GB8fMoJ.png",
+   "playerLabel": "TV Skalica (540p)",
+   "action": "video:http://95.105.193.219:88/hls/tvs.m3u8"
+  },
+  {
+   "title": "TV Stara Tura (540p)",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/kerkvRX.png",
+   "playerLabel": "TV Stara Tura (540p)",
+   "action": "video:http://95.105.193.219:88/hls/tvst.m3u8"
+  },
+  {
+   "title": "TV Vega (576p) [Not 24/7]",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Qw3NeLA.png",
+   "playerLabel": "TV Vega (576p) [Not 24/7]",
+   "action": "video:http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8"
+  },
+  {
+   "title": "TV Vita",
+   "titleFooter": "Culture",
+   "image": "https://i.imgur.com/Cx1GLbo.png",
+   "playerLabel": "TV Vita",
+   "action": "video:https://dash3.antik.sk/live/test_vita/playlist.m3u8"
+  },
+  {
+   "title": "TV8 (Slovakia) (576p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Z7URrp1.png",
+   "playerLabel": "TV8 (Slovakia) (576p)",
+   "action": "video:http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8"
+  },
+  {
+   "title": "TV9 (Slovakia)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/Sco4x8t.png",
+   "playerLabel": "TV9 (Slovakia)",
+   "action": "video:https://dash4.antik.sk/live/test_tv9/playlist.m3u8"
+  },
+  {
+   "title": "TVT (Slovakia) (486p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/QG0iZlG.png",
+   "playerLabel": "TVT (Slovakia) (486p)",
+   "action": "video:https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8"
+  },
+  {
+   "title": "VIA TV",
+   "titleFooter": "Undefined",
+   "image": "https://web02.antik.sk/assets/img/channels/247e7974b5eeaeda06744f312d2bbc51.svg",
+   "playerLabel": "VIA TV",
+   "action": "video:http://88.212.15.17/live/via_tv/index.m3u8"
+  },
+  {
+   "title": "VIO TV (480p)",
+   "titleFooter": "Undefined",
+   "image": "https://i.imgur.com/7EL3VZ5.png",
+   "playerLabel": "VIO TV (480p)",
+   "action": "video:http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8"
+  },
+  {
+   "title": "Zapadoslovenska TV",
+   "titleFooter": "General",
+   "image": "https://i.imgur.com/D72Y1IB.png",
+   "playerLabel": "Zapadoslovenska TV",
+   "action": "video:https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8"
+  }
+ ]
+}
